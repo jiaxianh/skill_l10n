@@ -1,0 +1,5 @@
+{
+  "api_token": "YOUR_CROWDIN_API_TOKEN_HERE",
+  "base_url": "https://poizonglobal.crowdin.com/api/v2",
+  "batch_size": 500
+}
