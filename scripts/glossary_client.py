@@ -158,6 +158,68 @@ class GlossaryClient:
 
         return paired_terms
 
+    def get_glossary_terms_multilang(self, glossary_id: int, source_lang: str = "zh-CN",
+                                      target_langs: List[str] = None) -> List[Dict[str, Any]]:
+        """
+        Fetch all terms from a glossary with multiple target languages
+
+        Args:
+            glossary_id: Glossary ID
+            source_lang: Source language ID (default: zh-CN)
+            target_langs: List of target language IDs (default: ["en-US", "ja"])
+
+        Returns:
+            List of term objects: {source, en, ja, description, conceptId}
+        """
+        if target_langs is None:
+            target_langs = ["en-US", "ja"]
+
+        all_terms = []
+        offset = 0
+
+        while True:
+            response = self._make_request('GET', f'/glossaries/{glossary_id}/terms', params={
+                'limit': self.batch_size,
+                'offset': offset
+            })
+
+            data = response.get('data', [])
+            if not data:
+                break
+
+            all_terms.extend(data)
+
+            if len(data) < self.batch_size:
+                break
+
+            offset += self.batch_size
+
+        # Group terms by conceptId
+        concepts: Dict[int, Dict[str, Any]] = {}
+        for term_item in all_terms:
+            term_data = term_item.get('data', {})
+            concept_id = term_data.get('conceptId')
+            lang_id = term_data.get('languageId')
+
+            if concept_id not in concepts:
+                concepts[concept_id] = {'conceptId': concept_id}
+
+            if lang_id == source_lang:
+                concepts[concept_id]['source'] = term_data.get('text', '')
+                concepts[concept_id]['description'] = term_data.get('description', '')
+            elif lang_id in target_langs:
+                # Normalize language key (en-US -> en, ja -> ja)
+                lang_key = lang_id.split('-')[0] if '-' in lang_id else lang_id
+                concepts[concept_id][lang_key] = term_data.get('text', '')
+
+        # Return terms that have source and at least one target
+        valid_terms = [
+            c for c in concepts.values()
+            if c.get('source') and (c.get('en') or c.get('ja'))
+        ]
+
+        return valid_terms
+
     def search_term(self, source_text: str, glossary_id: int) -> Optional[Dict[str, Any]]:
         """Search for a specific term in a glossary"""
         terms = self.get_glossary_terms(glossary_id)
@@ -205,14 +267,23 @@ class GlossaryClient:
 
         print(f"Cached {len(terms)} terms to {output_path}")
 
-    def cache_multiple_glossaries(self, glossary_ids: List[int], output_path: str) -> None:
-        """Cache multiple glossaries to one markdown file"""
+    def cache_multiple_glossaries(self, glossary_ids: List[int], output_path: str, multilang: bool = True) -> None:
+        """Cache multiple glossaries to one markdown file
+
+        Args:
+            glossary_ids: List of glossary IDs to fetch
+            output_path: Output markdown file path
+            multilang: If True, fetch both English and Japanese translations
+        """
         all_terms = []
         glossary_names = []
 
         for gid in glossary_ids:
             try:
-                terms = self.get_glossary_terms(gid)
+                if multilang:
+                    terms = self.get_glossary_terms_multilang(gid)
+                else:
+                    terms = self.get_glossary_terms(gid)
                 if terms:
                     glossary_info = self._make_request('GET', f'/glossaries/{gid}')
                     name = glossary_info.get('data', {}).get('name', f'Glossary {gid}')
@@ -222,28 +293,53 @@ class GlossaryClient:
             except Exception as e:
                 print(f"  Warning: Could not fetch glossary {gid}: {e}")
 
-        # Deduplicate by source text (keep first occurrence)
-        seen = set()
-        unique_terms = []
+        # Deduplicate by source text, merging translations
+        seen: Dict[str, Dict[str, Any]] = {}
         for term in all_terms:
             source = term.get('source', '')
-            if source and source not in seen:
-                seen.add(source)
-                unique_terms.append(term)
+            if not source:
+                continue
+            if source not in seen:
+                seen[source] = term.copy()
+            else:
+                # Merge translations from different glossaries
+                existing = seen[source]
+                if multilang:
+                    if term.get('en') and not existing.get('en'):
+                        existing['en'] = term.get('en')
+                    if term.get('ja') and not existing.get('ja'):
+                        existing['ja'] = term.get('ja')
+                else:
+                    if term.get('target') and not existing.get('target'):
+                        existing['target'] = term.get('target')
+
+        unique_terms = list(seen.values())
 
         with open(output_path, 'w', encoding='utf-8') as f:
             f.write("## POIZON Glossary (Cached)\n\n")
             f.write(f"Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n")
             f.write(f"Sources: {', '.join(glossary_names)}\n\n")
             f.write(f"Total unique terms: {len(unique_terms)}\n\n")
-            f.write("| Chinese | English | Description |\n")
-            f.write("|---------|---------|-------------|\n")
 
-            for term in sorted(unique_terms, key=lambda x: x.get('source', '')):
-                chinese = term.get('source', '').replace('|', '\\|').replace('\n', ' ')
-                english = term.get('target', '').replace('|', '\\|').replace('\n', ' ')
-                description = (term.get('description') or '').replace('|', '\\|').replace('\n', ' ')
-                f.write(f"| {chinese} | {english} | {description} |\n")
+            if multilang:
+                f.write("| Chinese | English | Japanese | Description |\n")
+                f.write("|---------|---------|----------|-------------|\n")
+
+                for term in sorted(unique_terms, key=lambda x: x.get('source', '')):
+                    chinese = term.get('source', '').replace('|', '\\|').replace('\n', ' ')
+                    english = (term.get('en') or '').replace('|', '\\|').replace('\n', ' ')
+                    japanese = (term.get('ja') or '').replace('|', '\\|').replace('\n', ' ')
+                    description = (term.get('description') or '').replace('|', '\\|').replace('\n', ' ')
+                    f.write(f"| {chinese} | {english} | {japanese} | {description} |\n")
+            else:
+                f.write("| Chinese | English | Description |\n")
+                f.write("|---------|---------|-------------|\n")
+
+                for term in sorted(unique_terms, key=lambda x: x.get('source', '')):
+                    chinese = term.get('source', '').replace('|', '\\|').replace('\n', ' ')
+                    english = term.get('target', '').replace('|', '\\|').replace('\n', ' ')
+                    description = (term.get('description') or '').replace('|', '\\|').replace('\n', ' ')
+                    f.write(f"| {chinese} | {english} | {description} |\n")
 
         print(f"\nCached {len(unique_terms)} unique terms to {output_path}")
 
@@ -259,7 +355,9 @@ def main():
         print("  python glossary_client.py search <glossary_id> <text> - Search for term")
         print("  python glossary_client.py csv <glossary_id> [output.csv] - Export to CSV")
         print("  python glossary_client.py cache <glossary_id> [output.md] - Cache to markdown")
-        print("  python glossary_client.py cache-multi <id1,id2,...> [output.md] - Cache multiple glossaries")
+        print("  python glossary_client.py cache-multi <id1,id2,...> [output.md] - Cache multiple glossaries (EN+JA)")
+        print()
+        print("The cache-multi command fetches both English and Japanese translations by default.")
         print()
         print("Environment variables:")
         print("  CROWDIN_API_TOKEN  - Crowdin API token")
