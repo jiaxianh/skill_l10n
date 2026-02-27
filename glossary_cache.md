@@ -1,6 +1,6 @@
 ## POIZON Glossary (Cached)
 
-Last updated: 2026-02-26 04:23
+Last updated: 2026-02-27 04:20
 
 Sources: POIZON - User Facing (Legacy)'s Glossary (4183 terms), POIZON - Internal Facing's Glossary (295 terms), POIZON 商品词库 (31 terms)
 
