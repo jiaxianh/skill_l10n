@@ -1,10 +1,10 @@
 ## POIZON Glossary (Cached)
 
-Last updated: 2026-04-10 04:53
+Last updated: 2026-04-11 04:27
 
-Sources: POIZON - User Facing (Legacy)'s Glossary (4198 terms), POIZON - Internal Facing's Glossary (295 terms), POIZON 商品词库 (31 terms)
+Sources: POIZON - User Facing (Legacy)'s Glossary (4259 terms), POIZON - Internal Facing's Glossary (295 terms), POIZON 商品词库 (31 terms)
 
-Total unique terms: 4215
+Total unique terms: 4277
 
 | Chinese | English | Japanese | Description |
 |---------|---------|----------|-------------|
@@ -22,7 +22,10 @@ Total unique terms: 4215
 |  US企业 | US - Business Seller | 米国出品者ー企業 |  |
 |  US保税 | US - Bonded area | 米国出品者ー保税 |  |
 |  US整体 | US Overall | 米国出品者 |  |
+|  品牌KA代理  | Brand KA partner |  |  |
+|  平行进口商  | Parallel importer |  |  |
 |  拍照质检 | Scan for Pre-QC | 写真撮影による品質検査 |  |
+|  授权经销商  |  Authorized distributor |  |  |
 |  港澳台SaaS | HMT - API business seller | 香港・マカオ・台湾出品者ーSaaS |  |
 |  港澳台个人 | HMT - Individual Seller | 香港・マカオ・台湾出品者ー個人 |  |
 |  港澳台企业for行业 | Category Team in HMT | 香港・マカオ・台湾出品者ー商品カテゴリー管理 |  |
@@ -31,11 +34,13 @@ Total unique terms: 4215
 |  港澳台大区 | HMT Regions | 香港・マカオ・台湾出品者ーエリア管理 |  |
 |  港澳台整体 | HMT Overall | 香港・マカオ・台湾出品者 |  |
 |  港澳台现货 | HMT - Ship-to-Verify | 香港・マカオ・台湾出品者ー通常販売 |  |
-| "氧化、生锈 （金属件生锈，硅橡胶件发黄变硬粘连等情况）" | "Oxidation, rusting (rust on metal parts; yellowing, hardening, or sticking in silicone rubber parts)" | 「酸化、錆び  （金属部品の錆、シリコンゴム部品の黄ばみ、硬化、付着など）」 |  |
+|  贸易/批发商  | Trader/Wholesaler |  |  |
+|  集合店  | Multi-brand store |  |  |
+| "氧化、生锈 （金属件生锈，硅橡胶件发黄变硬粘连等情况）" | "Oxidation, rusting (rust on metal parts; yellowing, hardening, or sticking in silicone rubber parts)" |  |  |
 | "色斑/色点,凹凸点或杂点" | "Color spots/color dots, raised or indented marks/specks" | 「色斑/色点/凸凹または不純物」 |  |
-| "花纸，喷漆、彩绘，喷砂，丝印等瑕疵 （表面处理，表面图案类）" | "Defects of decal, spray-painting, color painting, sandblasting, silkscreen printing, etc. (surface pattern and finish)" | 「デカール用紙、塗装、カラーペイント、サンドブラスト、シルクスクリーンなどに不良箇所あり (表面処理、表面模様類）」 |  |
+| "花纸，喷漆、彩绘，喷砂，丝印等瑕疵 （表面处理，表面图案类）" | "Defects of decal, spray-painting, color painting, sandblasting, silkscreen printing, etc. (surface pattern and finish)" |  |  |
 | 0元保证金，10秒入驻 | Start selling in 10 seconds | 保証金0円！10秒で出店 |  |
-| 0元抽奖 | Win It Free | 無料プレゼント抽選 |  |
+| 0元抽奖 | Win It Free |  |  |
 | 0成本极速入驻  | Zero Deposit | 無料ですぐ出店 |  |
 | 120天以上库龄商品数量占比 | Product Proportion_Storage Age over 120 Days | 120日以上の在庫商品数量の割合 |  |
 | 1到3岁的儿童 | (TD)-Toddler | キッズ（1～3歳） |  |
@@ -55,12 +60,12 @@ Total unique terms: 4215
 | AB品断货件数占比 | Out-of-Stock Proportion_A & B Class | 欠品（SKU）数の割合（正規品・B級品） |  |
 | AB品断货率 | Out-of-Stock Rate_A & B Class | 欠品率（正規品・B級品） |  |
 | AI拜访分析 | AI Analysis | AI訪問分析 |  |
-| ASIA码 | ASIA | アジアサイズ |  |
+| ASIA码 | ASIA |  |  |
 | Adidas | adidas | adidas |  |
 | A级 | A Grade | グレードA |  |
 | BD维护 | BD resources | BD 自主管理 |  |
 | BRT | BRT | BRT |  |
-| BR码 | BR | BRサイズ |  |
+| BR码 | BR |  |  |
 | B端折扣返利补贴比例 | Seller Side Subsidy Amount Proportion (Discount & Rebate) | 出品者手数料割引還元特典の割合 |  |
 | B端补贴单量 | Seller Side Subsidised Orders | 出品者特典付きオーダー数 |  |
 | B端补贴单量占比 | Seller Side Subsidized Order Proportion | 手数料割引有りのオーダー件数の割合 |  |
@@ -71,7 +76,7 @@ Total unique terms: 4215
 | CHRONOPOST | Chronopost | クロノポスト |  |
 | CJ | CJ Logistics | CJ Logistics |  |
 | CN | CN | 中国 |  |
-| CN码 | CN | CNサイズ |  |
+| CN码 | CN |  |  |
 | COLISSIMO | Colissimo | Colissimo |  |
 | CPO  | CPO | CPO(顧客獲得単価) |  |
 | CTTEXP | CTT Express | CTT Express |  |
@@ -83,20 +88,22 @@ Total unique terms: 4215
 | C端补贴金额占比 | Buyer Side Subsidy Amount Proportion | 購入者割引額の割合 |  |
 | C级 | C Grade | グレードC |  |
 | DAU | DAU | DAU |  |
+| DHL | DHL |  |  |
 | DOC_30 | DOC_30 | DOC_30 |  |
 | DPD | DPD | DPD |  |
 | DPD法国 | DPD FR | DPD France |  |
 | Drop-off | Drop-off | ドロップオフ |  |
-| D码 | D | Dサイズ |  |
+| D码 | D |  |  |
 | D级 | D Grade | グレードD |  |
 | EPOST | ePost Global | ePost Global |  |
-| EUR码 | EU | EURサイズ |  |
+| EUR码 | EU |  |  |
 | EU仓 | EU Warehouse | 欧州倉庫 |  |
 | EU大区 | EU Region | 欧州エリア |  |
 | EU码 | EU | EUサイズ |  |
 | E级 | E Grade | グレードE |  |
-| Fila | FILA | Fila |  |
-| Fila Fusion | FILA Fusion | Fila Fusion |  |
+| Fedex | Fedex |  |  |
+| Fila | FILA |  |  |
+| Fila Fusion | FILA Fusion |  |  |
 | GC发货 | Ship (China-Chic) |  |  |
 | GLS | GLS | GLS |  |
 | GLSIT | GLS IT | GLS Italy |  |
@@ -153,18 +160,21 @@ Total unique terms: 4215
 | SEO | SEO | SEO |  |
 | SEVENHOURS | 7 Hours Express | 7 Hours Express |  |
 | SF | SF | SF |  |
-| SK-II | SK-II | SK-II |  |
+| SK-II | SK-II |  |  |
 | SKU动销率 | Sell-Through Rate_SKU | 販売実績のあるSKUの割合 |  |
 | SKU标签 | SKU Label | SKUタグ |  |
+| SKU近30日成交情况 | 30-Day SKU Sales Performance |  |  |
+| SKU销售占比 | SKU sales (%) |  |  |
 | SN码 | SN |  |  |
 | SN码被覆盖 | Covered SN code | シリアルナンバーがカバーされている |  |
 | SPU动销率 | Sell-Through Rate_SPU | 販売実績のあるSPUの割合 |  |
-| SPU推新 | SPU_Introduced | SPUプロモーション |  |
+| SPU推新 | SPU_Introduced |  |  |
+| SPU近30日成交情况 | 30-Day SPU Sales Performance |  |  |
 | SWIFT Code | SWIFT Code | SWIFTコード |  |
 | SaaS | SaaS | SaaS |  |
 | Seur | SEUR | SEUR |  |
 | T+1回款·专属客服/物流 | Speedy transfer, dedicated support & shipping | 迅速な決済！ 専属サポート付き |  |
-| TF | Tom Ford | Tom Ford |  |
+| TF | Tom Ford |  |  |
 | TNT | TNT Express | TNTエクスプレス |  |
 | TNT意大利 | TNT IT | TNT Italy |  |
 | TW | TW | 台湾 |  |
@@ -186,7 +196,7 @@ Total unique terms: 4215
 | US现货 | US - Ship-to-Verify | 米国出品者ー通常販売 |  |
 | US码 | US | USサイズ |  |
 | WMS退供 | WMS - Returns |  |  |
-| YSL | YSL | YSL |  |
+| YSL | YSL |  |  |
 | logo | logo | ロゴ |  |
 | logo&小标倒置 | Inverted logo & tag | ロゴ&サブラベルが逆さまになっている |  |
 | logo倒置 | Inverted logo | ロゴが逆さまになっています |  |
@@ -227,10 +237,11 @@ Total unique terms: 4215
 | 上架有库存SPU | Published SPU Qty_In-Stock  | 在庫のある掲載SPU数 |  |
 | 上架绑容器 | Container putaway |  |  |
 | 上沿 | Top edge | カップ上辺 |  |
-| 上装 | Tops | トップス |  |
+| 上装 | Tops |  |  |
 | 上部表耳侧面 | Upper lug side | 上部ラグ正面側 |  |
 | 上部表耳正面 | Upper lug (front) | 上部ラグ正面 |  |
 | 上门取件 | Courier Pickup  | 集荷サービス |  |
+| 上门揽收 | Courier Pickup |  |  |
 | 上门质检 | Onsite QC | 品質検査出張サービス |  |
 | 下一步 | Next | 次へ |  |
 | 下围 | Underbust | カップ下辺 |  |
@@ -250,9 +261,9 @@ Total unique terms: 4215
 | 不含税 | Tax-exclusive | 税抜き |  |
 | 不回弹 | Non-resilient | リバウンドなし |  |
 | 不属于售后承保范围 | Not covered by after-sales warranty | アフターサービスの保証対象範囲外 |  |
-| 不拆封质检 | QC without unpacking | 未開封QC |  |
-| 不拔泵头 | Do not remove pump | ポンプ未取り外し |  |
-| 不拧封条 | Do not twist seal | 密封シール未回転 |  |
+| 不拆封质检 | QC without unpacking |  |  |
+| 不拔泵头 | Do not remove pump |  |  |
+| 不拧封条 | Do not twist seal |  |  |
 | 不支持退货 | Not eligible for return | 返品不可 |  |
 | 不符合全新及未使用的标准范围值 | Does not meet the standard range for brand new and unused condition | 新品及び未使用品の基準範囲との不一致 |  |
 | 不符合出证规则 | Product does not meet certification requirements | 認証ルールに準拠していません |  |
@@ -271,18 +282,22 @@ Total unique terms: 4215
 | 两步申报 | Consolidated declaration | 2段階申告 |  |
 | 个人 | Individual Seller | 個人 |  |
 | 个人卖家 | Individual Seller | 個人出品者 |  |
-| 个人商家GMV占比 | GMV Proportion_Individual Seller | 個人出品者GMV割合 |  |
-| 个人商家订单占比 | Order Volume Proportion_Individual Seller | 個人出品者オーダーの割合 |  |
-| 个人护理 | Personal Care | パーソナルケア |  |
+| 个人商家GMV占比 | GMV Proportion_Individual Seller |  |  |
+| 个人商家订单占比 | Order Volume Proportion_Individual Seller |  |  |
+| 个人护理 | Personal Care |  |  |
 | 个人数据 | Personal Data | 個人データ |  |
 | 个人有效商家数 | Individual Seller Qty Sold | 有効セラー数（個人） |  |
 | 个卖 | Individual Seller | 個人出品者 |  |
-| 个护健康电器 | Personal Care & Health Appliances | パーソナルケア家電 |  |
+| 个护健康电器 | Personal Care & Health Appliances |  |  |
 | 中华邮政 | Chunghwa Post | 中華郵政 |  |
+| 中国可动销 | Likely to sell in CN |  |  |
 | 中国台湾 | Taiwan, China | 中国台湾 |  |
 | 中国大陆籍 | CN Mainland | 中国籍 |  |
+| 中国最低价 | CN lowest |  |  |
+| 中国最低价预计收入 | Est. payout (CN lowest) |  |  |
 | 中国澳门 | Macao SAR, China | 中国マカオ |  |
 | 中国邮政 | EMS | EMS |  |
+| 中国露出价 |  CN buy box |  |  |
 | 中国香港 | Hong Kong SAR, China | 中国香港 |  |
 | 中外运敦豪快递 | DHL | DHL |  |
 | 中底 | Midsole | ミッドソール |  |
@@ -318,7 +333,7 @@ Total unique terms: 4215
 | 义务 | Obligation | 義務 |  |
 | 乐天快递 | Lotte Logistics | ロッテグローバルロジス |  |
 | 书籍 | Books | 本・雑誌 |  |
-| 书籍/影音 | Books / Audio & Video | 書籍/音声と映像（オーディオビジュアル） |  |
+| 书籍/影音 | Books / Audio & Video | 書籍・ 映像・音楽メディア |  |
 | 买家 | Buyer | 購入者 |  |
 | 买家冷静期后卖家发货前未履约单量 | Unfulfilled orders by Buyers after the cooling-off period but before shipment | クーリング・オフ期間後（出品者商品発送前）に購入者によりキャンセルとなったオーダー数 |  |
 | 买家冷静期未履约单量 | Unfulfilled orders by Buyers during the cooling-off period | クーリング・オフ期間内に購入者によりキャンセルとなったオーダー数 |  |
@@ -336,7 +351,7 @@ Total unique terms: 4215
 | 买手店商品数量 | Active SPU Qty_Boutique | セレクトショップの商品数 |  |
 | 买手店有效商家数 | Boutique Qty Sold | 有効セラー数（SaaS） |  |
 | 买手店订单占比 | Order Volume Proportion_Boutique | セレクトショップのオーダーの割合 |  |
-| 乳品水饮 | Dairy & Beverages | 乳飲料 |  |
+| 乳品水饮 | Dairy & Beverages |  |  |
 | 争议 | Dispute | 争議 |  |
 | 二手完美 | Pre-Owned Excellent | 新古品 |  |
 | 二次元 | ACGN | サブカル |  |
@@ -349,11 +364,11 @@ Total unique terms: 4215
 | 二销 | Return-to-Stock sale |  |  |
 | 二销收入 | Return-to-Stock Sale GMV | 再販売の売上 |  |
 | 云仓 | Certified 3PL Warehouse | パートナーマネジメント倉庫 |  |
-| 云仓配 | Partner Delivery Service  | パートナーマネジメント倉庫によるデリバリーサービス |  |
+| 云仓配 | Partner Delivery Service  | 提携倉庫配送 |  |
 | 云鉴别 | Online Authentication | オンライン鑑定 |  |
 | 云鉴直发 | Direct Shipping (online authentication) | オンライン鑑定商品直送 |  |
 | 五金 | Hardware | 金具 |  |
-| 五金/工具 | Hardware & Tools | 金属パーツ・工具 |  |
+| 五金/工具 | Hardware & Tools |  |  |
 | 五金凹坑 | Hardware dents | 金属部品の凹み |  |
 | 五金划痕 | Hardware scratches | 金属部品のひっかき傷 |  |
 | 五金开裂 | Hardware cracks | 金具のひび割れ |  |
@@ -368,20 +383,23 @@ Total unique terms: 4215
 | 五金脱落 | Detached hardware | 金具抜け落ち |  |
 | 五金配件缺失 | Missing hardware accessories | 金具アクセサリーの不備 |  |
 | 五金配件鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the hardware accessory are worn or missing; unable to confirm whether the manufacturing is original | 金具アクセサリーの鑑定ポイントに磨り減り・不備があるため、オリジナルの仕上がりであるかどうかを確認することは不可能です。 |  |
-| 五金铆钉 | Hardware rivets |  |  |
+| 五金铆钉 | Hardware rivets | 金属リベット |  |
 | 五金（金属材质） | Hardware(Metal) | 金具（金属素材） |  |
 | 亚洲尺码 | Asia Size | アジアサイズ |  |
 | 亚洲市场 | Asian Market | アジア市場 |  |
-| 亚版 | Asia | アジア仕様 |  |
+| 亚版 | Asia |  |  |
 | 亚马逊物流 | Amazon Shipping | Amazon Flex |  |
 | 交付选择 | Delivery Option | 納品方法選択 |  |
 | 交接单 | Outbound manifest | 引き渡しシート |  |
+| 交接文件 | Manifest |  |  |
 | 交接码 | Drop-off code | 引き渡しコード |  |
 | 交易 | Transaction | 取引 |  |
 | 交易处理手续费 | Processing Fee | 振込手数料 |  |
 | 交易失败 | Failed | 取引エラー |  |
 | 交易成功 | Completed | 取引完了 |  |
+| 交易方式 | Payment terms |  |  |
 | 交易类型 | Payment Terms | 取引タイプ |  |
+| 交货地 | Delivery location |  |  |
 | 产品 | Product | プロダクト |  |
 | 产品建议 | Feedback | フィードバック |  |
 | 产地 | Product Origin | 原産地 |  |
@@ -391,7 +409,8 @@ Total unique terms: 4215
 | 人均访问时长 | Per capita visit duration | 一人当たりの滞在時間 |  |
 | 人民币 | CNY | CNY |  |
 | 人脸识别 | Face Verification | 顔認識 |  |
-| 今日抽奖 | Live Today | 本日抽選 |  |
+| 仅看有货 | In-stock only |  |  |
+| 今日抽奖 | Live Today |  |  |
 | 今日经营任务 | Today's Money Moves | 本日の運営推奨 |  |
 | 仓储费 | Storage fee | 倉庫保管料 |  |
 | 仓储费补贴 | Storage fee subsidy | 倉庫保管料補助金 |  |
@@ -418,7 +437,7 @@ Total unique terms: 4215
 | 代备案（不含拍照） | POIZON declaration service (excl. photography) | 代理登録（撮影なし） |  |
 | 代收代付税费 | Tax collected & remitted on your behalf | 代行税金 |  |
 | 代理行 | Correspondent bank | 代理銀行 |  |
-| 以旧换新 | Trade-in | 下取り |  |
+| 以旧换新 | Trade-in |  |  |
 | 仪器表面 | Instrument surface | 機械の表面 |  |
 | 价优 | Price competitive | 価格優位 |  |
 | 价值 | Valuation | 価値 |  |
@@ -452,7 +471,7 @@ Total unique terms: 4215
 | 优良 | Very Good | 優 |  |
 | 优质 | Excellent | 優 |  |
 | 伙伴营销 | Affiliate Marketing | アフィリエイトマーケティング |  |
-| 会员礼品贴纸 | Member sticker | 会員ギフトステッカー |  |
+| 会员礼品贴纸 | Member sticker |  |  |
 | 伞带按扣不良 | Defective snap on umbrella strap | スナップボタンに不良箇所あり |  |
 | 伞框打扭 | Twisted umbrella frame | 傘のフレームに不良箇所あり |  |
 | 伞骨帽不匹配 | Mismatched umbrella rib caps | 露先の不一致 |  |
@@ -492,7 +511,11 @@ Total unique terms: 4215
 | 佩戴/使用痕迹 | Traces of use | 着用・使用痕跡 |  |
 | 佳物香港 | Salute Old Fashion (Hong Kong) Limited | Salute Old Fashion (Hong Kong) Limited |  |
 | 使用体验 | User Experience | 使用感 |  |
-| 使用感受 | Usage feel | 使用感 |  |
+| 使用前瑕疵问题 | Arrived damaged/defective |  |  |
+| 使用后眼睛不适 | Eye discomfort after use |  |  |
+| 使用后质量问题 | Quality issue after use |  |  |
+| 使用后过敏 | Allergic reaction after use |  |  |
+| 使用感受 | Usage feel |  |  |
 | 使用痕迹 | Traces of use | 使用された痕跡 |  |
 | 使用痕迹，非全新 | Traces of use | 新品ではなく、使用感あり |  |
 | 供应商 | Supplier | サプライヤー |  |
@@ -535,8 +558,8 @@ Total unique terms: 4215
 | 保存并退出 | Save & Exit | 保存して終了する |  |
 | 保护膜 | Protective film | 保護フィルム |  |
 | 保暖 | Thermal | 保温 |  |
-| 保暖性 | Warmth rating | 保温性 |  |
-| 保暖性能 | Warmth | 保温性 |  |
+| 保暖性 | Warmth rating |  |  |
+| 保暖性能 | Warmth |  |  |
 | 保税 | Bonded | 保税 |  |
 | 保税云鉴直发 | Bonded Direct Shipping (online authentication) | オンライン鑑定商品直送（保税） |  |
 | 保税仓 | Bonded Warehouse | 保税倉庫 |  |
@@ -595,7 +618,7 @@ Total unique terms: 4215
 | 做工不合格 | Poor manufacturing quality | 製造上不合格 |  |
 | 做工瑕疵 | Manufacturing defects | 製造上の不良箇所 |  |
 | 做工问题 | Manufacturing issues | 製造上の問題 |  |
-| 做旧 | Distressed | ダメージ加工 |  |
+| 做旧 | Distressed |  |  |
 | 停用 | Suspended | 販売停止 |  |
 | 健身器材 | Fitness Equipment | フィットネス器具 |  |
 | 健身瑜伽 | Fitness & Yoga | フィットネス＆ヨガ |  |
@@ -604,10 +627,10 @@ Total unique terms: 4215
 | 充值 | Top up | チャージ |  |
 | 充电器 | Chargers | 充電器 |  |
 | 充电器/数据线 | Charger/USB Cable | 充電器/充電ケーブル |  |
-| 充电测试 | Charging test | 充電テスト |  |
-| 充绒量 | Fill weight | 詰め物の量 |  |
+| 充电测试 | Charging test |  |  |
+| 充绒量 | Fill weight |  |  |
 | 先不用了 | Later | スキップ |  |
-| 光变 | Photochromic | フォトクロミック |  |
+| 光变 | Photochromic |  |  |
 | 光学眼镜支撑镜片 | Support lenses for optical glasses | 光学ガラスのサポートレンズ |  |
 | 光线过暗 | Poor lighting | 暗すぎる写真 |  |
 | 克数 | Weight (g) | 重量（g） |  |
@@ -617,13 +640,13 @@ Total unique terms: 4215
 | 免开箱只查验外观 | No-open: visual check only |  |  |
 | 免息 | Interest-free | 無利息 |  |
 | 免税商品 | Duty-free items | 免税商品 |  |
-| 免税字样 | Duty-free | 免税表記 |  |
+| 免税字样 | Duty-free |  |  |
 | 免税店直发 | Direct Shipping (Duty-Free Store) | 免税店からの直送 |  |
 | 免费物流 | Free Shipping | 無料配送 |  |
 | 免鉴直发 | Direct Shipping | 特例鑑定商品直送 |  |
 | 兑现费 | Cash Out Fee | 引き出し手数料 |  |
 | 入仓 | Received by POIZON | 入庫 |  |
-| 入仓GMV占比 | GMV Proportion (Consignment+Bonded) | 入庫GMV割合 |  |
+| 入仓GMV占比 | GMV Proportion (Consignment+Bonded) |  |  |
 | 入仓SPU数 | SPU Qty (Consigned) | 入庫SPU数 |  |
 | 入仓sku数 |  SKU Qty Consigned | 入庫SKU数（9/22） |  |
 | 入仓spu数 |  SPU Qty Consigned | 入庫SPU数 |  |
@@ -645,17 +668,19 @@ Total unique terms: 4215
 | 入境口岸 | Port of Entry | 入国港 |  |
 | 入库 | Inbound | 入庫 |  |
 | 入库单 | Inbound Order | 入庫リスト |  |
+| 入库数量差异 | Inbound Quantity Discrepancy |  |  |
 | 入货 | Receiving |  |  |
 | 入驻 | Registration | 出店 |  |
 | 入驻到首次出价平均时长_h | Avg Reg to List_hour | 出店～初出品までの平均所要時間 |  |
 | 入驻卖家数 | Seller Qty_Registered | 登録済みのセラー数 |  |
 | 入驻卖家数-动销卖家数转化率 | CVR of registered sellers to registered sellers with sales | 出店完了の出品者数‐販売実績を有する出品者数のコンバージョン率 |  |
 | 入驻成功 | Registration completed | 出店完了 |  |
-| 全屋定制 | Whole-House Customization | 住まいのカスタマイズ |  |
-| 全拔鞋垫 | Full insole pull | インソール全抜き |  |
+| 全屋定制 | Whole-House Customization |  |  |
+| 全拔鞋垫 | Full insole pull |  |  |
 | 全新商品 | Brand New | 新品 |  |
 | 全新瑕疵品 | New with Defects | 新品のB級品 |  |
-| 全款 | Full payment | 一括払い |  |
+| 全款 | Full payment |  |  |
+| 全球均价 | Global avg. price |  |  |
 | 全球最低价 | Global lowest | 最低出品価格（グローバル） |  |
 | 全球销量 | Global Sales | グローバル販売数 |  |
 | 全览 | Zoom to fit | 全画面表示 |  |
@@ -672,7 +697,7 @@ Total unique terms: 4215
 | 公司经营地址 | Business address | 本店所在地住所 |  |
 | 公告 | Announcements | お知らせ |  |
 | 公布 | Announcement | 結果発表 |  |
-| 兰蔻 | Lancome | LANCÔME |  |
+| 兰蔻 | Lancome |  |  |
 | 共有gmv | GMV_Common SKU | 他チャネルにも出品のあるSKUのGMV |  |
 | 共有gmv占比 | GMV Proportion_Common SKU | 他チャネルにも出品のあるSKUのGMV割合 |  |
 | 共有sku | Common SKU | 他チャネルにも出品のあるSKU |  |
@@ -712,7 +737,7 @@ Total unique terms: 4215
 | 关闭鉴别商品近30日gmv | Last 30-Day GMV_No Longer Authenticable SPU | 鑑定中止商品の直近30日間GMV（流通総額） |  |
 | 其他 | Other | その他 |  |
 | 其他功能配件 | Other functional accessories | その他機能付属品 |  |
-| 其他场次 | Other Draws | その他の抽選 |  |
+| 其他场次 | Other Draws |  |  |
 | 其他增值服务费 | Other value-added service fee | その他オプションサービス料 |  |
 | 其他异常积压商品库存数 | Backlog Inventory_Caused by Other Exceptions | 他の異常によるバックログ在庫数 |  |
 | 其他理货上架所需服务收费 | Other inbound inspection fee | その他の検品・棚入れ関連サービス料 |  |
@@ -738,7 +763,7 @@ Total unique terms: 4215
 | 内容物有异物 | Foreign object in contents | 内容物に異物が混入 |  |
 | 内嵌不贴合 | Improperly fitted inlay | 内部部品が嵌合できません |  |
 | 内盖 | Inner Cap | 内蓋 |  |
-| 内着 | Undergarments | ★アンダーウェア |  |
+| 内着 | Undergarments |  |  |
 | 内管凹陷 | Dented inner tube | インナーチューブの凹み |  |
 | 内管划痕 | Inner tube scratches | インナーチューブに擦過痕あり |  |
 | 内管掉漆 | Inner tube paint peeling | インナーチューブの塗りがはげ落ちる |  |
@@ -756,7 +781,7 @@ Total unique terms: 4215
 | 内部意见存在争议 | Internal different opinions | 内部の意見が統一できません |  |
 | 内里 | Lining | 裏地 |  |
 | 内里-奢鞋 | Lining - luxury shoes | 裏地-高級シューズ |  |
-| 内长 | Insole length | インソール長 |  |
+| 内长 | Insole length |  |  |
 | 写实 | Realism | リアリズム |  |
 | 冬 | Winter | 冬 |  |
 | 冷静期 | Cooling-off Period | クーリング・オフ期間 |  |
@@ -809,9 +834,10 @@ Total unique terms: 4215
 | 出绒、钻绒 | Down leakage | ダウン製品羽毛抜け |  |
 | 出货价 | Selling Price | 販売価格 |  |
 | 出货信息 | Product Mix | 出庫情報 |  |
-| 分享后可抽 | Share to Enter | シェアして参加 |  |
+| 分享后可抽 | Share to Enter |  |  |
 | 分单号 | HBL No. | HBL No. |  |
 | 分拣费 | Additional Handling Fee | 仕分け料金 |  |
+| 分销站 | POIZON RESELL |  |  |
 | 划痕 | Scratches | 擦過痕 |  |
 | 创建工单 | Create ticket |  |  |
 | 创建时间 | Creation Time / Created On | 作成日時 |  |
@@ -850,13 +876,14 @@ Total unique terms: 4215
 | 剪标/涂标 | Label cut/painted | タグなし/ラベルへの塗り付け |  |
 | 副券断连 | Detached stub | チケット半券が切れています |  |
 | 办公设备 | Office Equipment | オフィス用品 |  |
-| 功效 | Efficacy | 効能 |  |
+| 功效 | Efficacy |  |  |
 | 功能不通过 | Malfunction | 機能故障 |  |
 | 功能失灵 | Malfunction | 機能故障 |  |
 | 功能性 | Functionality | 機能性 |  |
-| 功能性测试 | Functionality test | 機能テスト |  |
+| 功能性测试 | Functionality test |  |  |
 | 功能性问题 | Functional issues | 機能的な問題 |  |
-| 功能设计 | Function design | 機能デザイン |  |
+| 功能指南 | User Guide |  |  |
+| 功能设计 | Function design |  |  |
 | 功能配件 | Functional Accessories | 機能付属品 |  |
 | 功能问题 | Functional issues | 機能的な問題 |  |
 | 加价 | Markup | 上乗せ |  |
@@ -864,19 +891,19 @@ Total unique terms: 4215
 | 加价购商品 | Add-on Item | プレミアム購入製品 |  |
 | 加急单 | Expedited Order | 緊急オーダー |  |
 | 加急物流 | Expedited Shipping | 速達配送 |  |
-| 加拍 | Additional shot | 追加撮影 |  |
+| 加拍 | Additional shot |  |  |
 | 加拿大 | CAN | カナダ |  |
 | 加拿大仓 | CAN Warehouse | カナダ倉庫 |  |
 | 加拿大邮政 | Canada Post | カナダ郵便公社 |  |
 | 加班费 | Overtime pay | 残業代 |  |
-| 加绒款 | Fleece-lined | 裏毛仕様 |  |
+| 加绒款 | Fleece-lined |  |  |
 | 加装礼盒 | Gift box assembly | ギフトボックス追加包装 |  |
 | 加赠品及礼品卡 | Gift and gift card | 景品およびギフトカード追加 |  |
 | 动销SKU数 | SKU Qty Sold | 稼働SKU数 |  |
 | 动销sku数 | SKU Qty Sold | 販売実績を有するSKU数 |  |
 | 动销spu数 | SPU Qty Sold | 販売実績を有するSPU数 |  |
 | 动销spu数-履约spu数转化率 | CVR of SPUs with sales to SPUs with fulfilled orders | 販売実績を有するSPU数‐履行SPU数のコンバージョン率 |  |
-| 动销个人商家数 | Individual Seller Qty Sold | 販売実績を有する個人出品者数 |  |
+| 动销个人商家数 | Individual Seller Qty Sold |  |  |
 | 动销买手店数量 | Boutique Qty Sold | 販売実績を有するセレクトショップ数 |  |
 | 动销价 | Likely to sell | 売れやすい価格 |  |
 | 动销企业商家数 | Business Seller Qty Sold | 販売実績を有する企業出品者数 |  |
@@ -943,7 +970,7 @@ Total unique terms: 4215
 | 包装问题 | Packaging issues | 包装問題 |  |
 | 包裹 | Package | パッケージ |  |
 | 包裹内放赠品服务费 | Gift insertion service fee | 景品同梱サービス料 |  |
-| 包裹性 | Lockdown | フィット感 |  |
+| 包裹性 | Lockdown |  |  |
 | 包裹维度 | Package Dimension | パッケージ寸法 |  |
 | 包身 | Bag body | バッグ本体 |  |
 | 包身侧面 | Bag body side | バッグの側面全体 |  |
@@ -959,19 +986,19 @@ Total unique terms: 4215
 | 包边 | Bag edge | バッグエッジ |  |
 | 包邮 | Free Shipping | 送料無料 |  |
 | 包面补色 | Bag surface recoloring | バッグ表面の補色 |  |
-| 匡威 | Converse | CONVERSE |  |
+| 匡威 | Converse |  |  |
 | 匹配 | Matching | マッチング |  |
-| 医疗与健康服务 | Medical & Health Services | 医療＆健康サビース |  |
+| 医疗与健康服务 | Medical & Health Services |  |  |
 | 医疗器械 | Medical Devices | 医療器具 |  |
 | 匿名 | Anonymous | 匿名 |  |
 | 十字筋沟 | Cross-Shaped Channel | クロスバーの溝 |  |
-| 半拔鞋垫 | Half insole pull | インソール半抜き |  |
+| 半拔鞋垫 | Half insole pull |  |  |
 | 半月结 | Semi-monthly | 半月締め |  |
 | 协议 | Agreement | 規約 |  |
 | 单价 | Unit price | 単価 |  |
-| 单均商家邮费优惠 | Avg Shipping Fee Discount Per Order (Subsidised by Seller) | オーダー1件あたりの平均送料優待額（出品者による優待） |  |
-| 单均平台邮费优惠 | Avg Shipping Fee Discount Per Order (Subsidised by POIZON) | POIZONによる平均送料優待額 |  |
-| 单均邮费优惠 | Avg Shipping Fee Discount Per Order | 平均送料優待額 |  |
+| 单均商家邮费优惠 | Avg Shipping Fee Discount Per Order (Subsidised by Seller) |  |  |
+| 单均平台邮费优惠 | Avg Shipping Fee Discount Per Order (Subsidised by POIZON) |  |  |
+| 单均邮费优惠 | Avg Shipping Fee Discount Per Order |  |  |
 | 卖家 | Seller | 出品者 |  |
 | 卖家ID | Seller ID | 出品者ID |  |
 | 卖家id | Seller ID | 出品者ID |  |
@@ -1026,7 +1053,7 @@ Total unique terms: 4215
 | 危险品申报服务费 | Hazardous materials declaration fee | 危険物申告サービス料 |  |
 | 危险标识 | Hazmat Warning | 危険物ラベル |  |
 | 即将到期 | Near expiration | 期限間近 |  |
-| 即将售空 | Selling out | まもなく完売 |  |
+| 即将售空 | Selling out |  |  |
 | 即将开抢 | Starting Soon | オープン予定 |  |
 | 即将断货 | Low stock | 欠品見込 |  |
 | 即将超时订单 | Orders about to expire | まもなく期限を迎えるオーダー |  |
@@ -1053,19 +1080,20 @@ Total unique terms: 4215
 | 原膜 | Original protective film | フィルム（純正品） |  |
 | 原膜缺少 | Missing original film | オリジナルフィルムが不足 |  |
 | 原膜翘起 | Warped original film | オリジナルフィルムが傾動 |  |
-| 厨房烹饪/餐饮具 | Kitchen Cookware & Tableware | キッチン用品・食器 |  |
+| 厨房烹饪/餐饮具 | Kitchen Cookware & Tableware |  |  |
 | 厨房电器 | Kitchen Appliances | キッチン家電 |  |
 | 去使用 | Use | 使用 |  |
 | 去出售 | List Now | 出品する |  |
+| 去税 | Tax-exclusive |  |  |
 | 去税市场价 | Retail price (tax-exclusive) | 希望小売価格（税抜） |  |
 | 去税托管价 | Expected price (tax-exclusive) | おまかせ出品価格（税抜） |  |
-| 参数信息 | Item Details | 商品詳細 |  |
+| 参数信息 | Item Details |  |  |
 | 参考价 | Sugg. Price | 参考価格 |  |
 | 双层贴标 | Double-layer label | ラベル二重貼り付け |  |
 | 发售价 | Retail price | 小売価格 |  |
 | 发售日期 | Release date | POIZON掲載日 |  |
 | 发售时间超过5年 | Released over 5 years ago | 5年以上のリリース |  |
-| 发带 | Hairbands | ヘアバンド |  |
+| 发带 | Hairbands |  |  |
 | 发票信息 | Invoice Info | 領収書情報 |  |
 | 发货 | Shipment | 発送 |  |
 | 发货信息 | Shipping Info | 発送情報 |  |
@@ -1105,10 +1133,12 @@ Total unique terms: 4215
 | 可入威海仓 | Weihai Fast-Movers | 威海倉庫入庫可 |  |
 | 可出价 | Eligible to list | 出品可能の価格 |  |
 | 可动销 | Likely to sell | 売れやすい価格 |  |
+| 可响应单数 | Eligible Bids |  |  |
 | 可售 | Available for Sale | 販売可能 |  |
 | 可售库存 | Available for Sale | 販売可能在庫 |  |
 | 可拆单卖 | Split Sales | リスト一部商品販売 |  |
-| 可搭配性 | Versatility | 汎用性 |  |
+| 可接受最低价 | Acceptable Price |  |  |
+| 可搭配性 | Versatility |  |  |
 | 可见 | Visible | 表示 |  |
 | 可视内容物 | Visible contents | 見える内容物 |  |
 | 可露出 | Visible | 表示 |  |
@@ -1157,21 +1187,22 @@ Total unique terms: 4215
 | 吐霜 | Blooming | ブルーミング |  |
 | 否 | No | いいえ |  |
 | 含禁售材质 | Containing prohibited materials | 販売禁止の材質が含まれています |  |
+| 含税 | Tax-inclusive |  |  |
 | 含税市场价 | Retail price (tax-inclusive) | 希望小売価格（税込） |  |
 | 含税托管价 | Expected price (tax-inclusive) | おまかせ出品価格（税込） |  |
 | 吸尘器 | Vacuum Cleaners | 掃除機 |  |
-| 吸汗性能 | Sweat‑wicking | 吸汗速乾性 |  |
+| 吸汗性能 | Sweat‑wicking |  |  |
 | 吸管 | Suction Tube | ストロー |  |
 | 吸管破损 | Damaged straw | ストロー破損 |  |
-| 员工鞋 | Staff exclusive | スタッフ専用品 |  |
+| 员工鞋 | Staff exclusive |  |  |
 | 周新增买手店数量 | New Boutique Qty Per Week | 新規セレクトショップ数（当週） |  |
 | 周结 | Weekly | 週締め |  |
 | 周转箱 | Tote |  |  |
-| 咖啡冲调/茶 | Coffee & Tea | コーヒー・お茶 |  |
+| 咖啡冲调/茶 | Coffee & Tea |  |  |
 | 咨询会话量 | Contact Qty | 問い合わせ件数 |  |
 | 品控 | Internal Quality Standard | 品質管理 |  |
 | 品牌 | Brand | ブランド |  |
-| 品牌专利 | Brand Innovations | ブランド特許 |  |
+| 品牌专利 | Brand Innovations |  |  |
 | 品牌分层 | Brand Grade | ブランド等級 |  |
 | 品牌官网 | Brand Official Website | ブランド公式サイト |  |
 | 品牌故事 | Brand Story | ブラントストーリー |  |
@@ -1181,7 +1212,8 @@ Total unique terms: 4215
 | 品牌组 | Brand Collectives | ブランドグループ |  |
 | 品类 | Category | カテゴリ |  |
 | 品质净满意度 | Net Satisfaction_Product Quality | 品質正味満足者比率 |  |
-| 唇釉 | Liquid lipstick | リキッドリップ |  |
+| 响应还价预计总收入 | Est. Total Payout (Eligible Bids) |  |  |
+| 唇釉 | Liquid lipstick |  |  |
 | 售后 | After-Sales Service | アフターサービス |  |
 | 售后体验投诉率 | After-Sales Complaint Rate | アフターサービスに関するクレーム率 |  |
 | 售后体验诉率 | Complaint Rate_After-sales | アフターサービスに関するクレーム率 |  |
@@ -1221,6 +1253,7 @@ Total unique terms: 4215
 | 商品图片 | Item Image | 商品画像 |  |
 | 商品基础属性不适合存储 | Basic attributes unsuitable for storage | 商品の基本属性が保管に適さない |  |
 | 商品外侧 | Outer side | 商品の外側 |  |
+| 商品外包装破损/缺失/污渍 | Packaging damaged/missing/stained |  |  |
 | 商品外包装褶皱 | Outer packaging wrinkles | 商品外箱にシワあり |  |
 | 商品外放物料 | Material Placement | 資材の分離同梱 |  |
 | 商品外放物料費 | Loose kitting fee | 資材の分離同梱料 |  |
@@ -1249,6 +1282,7 @@ Total unique terms: 4215
 | 商品真，赠品为假 | The product is authentic, but the gift is off | 商品は本物ですが、景品は偽物です |  |
 | 商品真，赠品假 | Product is authentic, but the gift is off | 商品は本物ですが、景品は偽物です |  |
 | 商品破损 | Damaged product | 商品に破損あります |  |
+| 商品破损/漏液 | Item damaged/leaking |  |  |
 | 商品税 | Sales Tax | 売上税 |  |
 | 商品缺少材质标，影响鉴别 | Missing material label | 商品に材質ラベルがないため、鑑定に影響します。 |  |
 | 商品背面/链条 | Product back/chain | 商品の背面/チェーン |  |
@@ -1276,11 +1310,11 @@ Total unique terms: 4215
 | 商家自提 | Seller Pickup | 出品者セルフピックアップ |  |
 | 商家识别码 | Seller Code | 出品者識別コード |  |
 | 商家运营关联 | Account Manager | アカウントマネージャー |  |
-| 商家邮费优惠金额 | Shipping Fee Discount Amount (Subsidised by Seller) | 出品者による送料優待額 |  |
+| 商家邮费优惠金额 | Shipping Fee Discount Amount (Subsidised by Seller) | 出品者送料優待額 |  |
 | 商机优先触达 | First-Mover Advantages | 先行者利益 |  |
 | 商机推荐 | Profit Opportunity | 売れ筋 |  |
 | 商标 | Trademark | 商標 |  |
-| 商用电器 | Commercial Appliances | 業務用電器 |  |
+| 商用电器 | Commercial Appliances |  |  |
 | 商详到达率 | Product Details Access Rate | 商品詳細ページのアクセス率 |  |
 | 商详访问uv/pv | Product Details Access  UV/PV | 商品詳細アクセスのUV・PV |  |
 | 喷头 | Nozzle | ノズル |  |
@@ -1316,7 +1350,7 @@ Total unique terms: 4215
 | 国际保税在线商家数 | Seller Qty_Active Listings (Bonded_POIZON Global) | 保税出品中の出品者数(POIZON Global） |  |
 | 国际保税在线库存数 | Inventory Qty Listed (Bonded_POIZON Global) | 保税出品中の在庫数(POIZON Global) |  |
 | 国际品牌 | Global Brands | グローバルブランド |  |
-| 国际在售品牌GMV贡献度 | POIZON Global GMV Proportion (Listed Brand) Against Dewu | Grobal販売ブランドGMV貢献度 |  |
+| 国际在售品牌GMV贡献度 | POIZON Global GMV Proportion (Listed Brand) Against Dewu |  |  |
 | 国际在线商家数 | Seller Qty_Active Listings (POIZON Global) | 出品中の出品者数(POIZON Global) |  |
 | 国际寄售在线商家数 | Seller Qty_Active Listings (Consignment_POIZON Global) | 事前入庫販売中の出品者数(POIZON Global) |  |
 | 国际寄售在线库存数 | Inventory Qty Listed (Consignment_POIZON Global) | 事前入庫販売中の在庫数(POIZON Global) |  |
@@ -1330,7 +1364,7 @@ Total unique terms: 4215
 | 国际渠道浮层点击日均uv | Daily Avg UV_Global Channel Floating Layer Clicks | ポップアップクリック一日当たりのUV(グローバル) |  |
 | 国际潮流 | Global Trends | グローバルトレンド |  |
 | 国际潮流线 | Global Trends | グローバルトレンド |  |
-| 国际版 | International | インターナショナル仕様 |  |
+| 国际版 | International |  |  |
 | 国际现货在线商家数 | Seller Qty_Active Listings (Ship-to-Verify_POIZON Global) | 通常販売中の出品者数(POIZON Global) |  |
 | 国际现货在线库存数 | Inventory Qty Listed (Ship-to-Verify_POIZON Global) | 通常販売中の在庫数(POIZON Global) |  |
 | 国际知名 | Globally Renowned | グローバルブランド |  |
@@ -1340,6 +1374,7 @@ Total unique terms: 4215
 | 国际访问UV | POIZON UV | POIZON GlobalのUV・POIZON Globalのユニーク訪問者数 |  |
 | 国际运动 | Global Sports | グローバルスポーツ |  |
 | 国际运动品牌 | Global Sports Brands | グローバルスポーツブランド |  |
+| 国际销量占比 | POIZON sales (%) |  |  |
 | 国际预售在线商家数 | Seller Qty_Active Listings (Pre-Sale_POIZON Global) | 予約販売中の出品者数(POIZON Global) |  |
 | 国际预售在线库存数 | Inventory Qty Listed (Pre-Sale_POIZON Global) | 予約販売中の在庫数(POIZON Global) |  |
 | 国风水墨 | Traditional Chinese Ink Style | 中国水墨画 |  |
@@ -1362,7 +1397,7 @@ Total unique terms: 4215
 | 在仓数量(含预估仓内待上架） | Product Qty (Consigned) (including to-be-published) | 倉庫保管在庫点数（予定倉庫内掲載待ち含み） |  |
 | 在仓良品数 | Authenticated Product Qty_In-stock | 倉庫保管良品数 |  |
 | 在售 | Listed | 出品中 |  |
-| 在售品牌sku渗透率 | POIZON Global SKU (Listed Brand) Proportion Against Dewu | Grobal販売ブランドSKU数のDEWUにおける割合 |  |
+| 在售品牌sku渗透率 | POIZON Global SKU (Listed Brand) Proportion Against Dewu | Global販売ブランドSKU数のPOIZONにおける割合 |  |
 | 在线SKU数 | Active SKU Qty | 出品中のSKU数 |  |
 | 在线SPU数 | Active SPU Qty | 掲載済SPU数 |  |
 | 在线sku数 | Active SKU Qty | 出品中SKU数・掲載済SKU数 |  |
@@ -1379,6 +1414,7 @@ Total unique terms: 4215
 | 在途未发货 | Product Qty_Unshipped | オーダー確定、発送待ち |  |
 | 地区最低价 | Local lowest | 最低出品価格（ローカル） |  |
 | 地址簿 | Address Book | アドレス帳 |  |
+| 均码 | One Size |  |  |
 | 坏污箱费  | Damaged container repair & cleaning fee | 破損したコンテナの修理および清掃料 |  |
 | 垫付费 | Advance payment fee | 仮払金・立替金 |  |
 | 垫肩 | Shoulder pads | 肩パッド |  |
@@ -1386,7 +1422,7 @@ Total unique terms: 4215
 | 基准调试中指针间歇失灵/失灵 | Intermittent hands malfunction during calibration | 針基準位置合わせ時の断続的な故障/針ずれ |  |
 | 基本信息 | Basic Info | 基本情報 |  |
 | 基础交易费 | Base Transaction Fee  | 基本取引手数料 |  |
-| 基础建材 | Building Materials | 建築材料 |  |
+| 基础建材 | Building Materials |  |  |
 | 基础运输费 | Base shipping fee | 基本送料 |  |
 | 塑封 | Film-sealing | ビニールコーティング |  |
 | 塑封膜 | Plastic film | シュリンクフィルム |  |
@@ -1394,7 +1430,7 @@ Total unique terms: 4215
 | 塑封膜破损 | Damaged plastic film | プラスチックフィルムの破損 |  |
 | 塑封袋破损 | Damaged plastic sealed bag | ラミネートフィルムの破損 |  |
 | 塑封费 | Film-sealing fee | ラミネート加工料 |  |
-| 塑形效果 | Shape & sculpt | 補正効果 |  |
+| 塑形效果 | Shape & sculpt |  |  |
 | 塑料/玻璃 | Plastic/Glass | プラスチック/ガラス |  |
 | 塑料部件老化发黄 | Aged and yellowed plastic parts | プラスチック部品の老朽化、黄ばみ |  |
 | 填充物 | Fillers | 詰め物 |  |
@@ -1415,8 +1451,8 @@ Total unique terms: 4215
 | 复卖-仅美国仓使用 | Resale - for US warehouse only | 二次流通-米国倉庫のみ適用 |  |
 | 复印/打印侧标（换标） | Photocopied/printed side label (re-labeled) | サイドラベルがコピー/印刷されたものである（ラベルがすり替えられた） |  |
 | 复检 | Re-check |  |  |
-| 复苏个人商家数 | Individual Seller Qty_Revived | 売上が回復した個人出品者数 |  |
-| 复苏卖家数 | Seller Qty_Revived | 売上が回復した出品者数 |  |
+| 复苏个人商家数 | Individual Seller Qty_Revived | 復帰した個人出品者数 |  |
+| 复苏卖家数 | Seller Qty_Revived | 復帰した出品者数 |  |
 | 复购用户数 | Buyer Qty_Repurchase (POIZON Global) | リピート購入ユーザー数(POIZON Global) |  |
 | 夏 | Summer | 夏 |  |
 | 外仓费  | Offsite warehouse handling fee | 外部倉庫料 |  |
@@ -1445,14 +1481,14 @@ Total unique terms: 4215
 | 外包装粘有贴纸 | Sticker on outer packaging | 外装箱にステッカーあり |  |
 | 外包装缺失 | Missing outer packaging | 外装不備 |  |
 | 外包装褶皱 | Outer packaging wrinkles | 外箱にシワあり |  |
-| 外箱 | Outer packaging box | 外装箱 |  |
-| 外籍动销个人商家数 | Individual Seller Qty Sold (Non CN Mainland) | 販売実績のある個人出品者数（中国以外） |  |
-| 外籍在线卖家数 | Seller Qty_Active Listings (Non CN Mainland) | オンラインで在庫を持つ出品者数（中国以外） |  |
-| 外籍复苏个人商家数 | Individual Seller Qty_Revived (Non CN Mainland) | 売上が回復した個人出品者数（中国以外） |  |
-| 外籍新增有效个人商家数 | New Individual Seller Qty Sold (Non CN Mainland) | 販売実績のある新規個人出品者数（中国以外） |  |
-| 外籍有效个人商家数 | Individual Seller Qty Sold (Non CN Mainland) | 販売実績のある個人出品者数（中国以外） |  |
-| 外籍活跃个人商家数 | Individual Seller Qty Listed (History) (Non CN Mainland) | 出品中の個人出品者数（中国以外） |  |
-| 外籍首次出价个人商家数 | Individual Seller Qty_First-time Listing (Non CN Mainland) | 初出品の個人出品者数（中国以外） |  |
+| 外箱 | Outer packaging box |  |  |
+| 外籍动销个人商家数 | Individual Seller Qty Sold (Non CN Mainland) |  |  |
+| 外籍在线卖家数 | Seller Qty_Active Listings (Non CN Mainland) |  |  |
+| 外籍复苏个人商家数 | Individual Seller Qty_Revived (Non CN Mainland) | 復帰した個人出品者数（中国以外） |  |
+| 外籍新增有效个人商家数 | New Individual Seller Qty Sold (Non CN Mainland) |  |  |
+| 外籍有效个人商家数 | Individual Seller Qty Sold (Non CN Mainland) |  |  |
+| 外籍活跃个人商家数 | Individual Seller Qty Listed (History) (Non CN Mainland) |  |  |
+| 外籍首次出价个人商家数 | Individual Seller Qty_First-time Listing (Non CN Mainland) |  |  |
 | 外纸盒—奢 | Outer paper box - luxury | 外装箱‐ラグジュアリー |  |
 | 外网到手价 | Listing Price_Marketplace | 競合EC価格（税・手数料・送料等すべて込み） |  |
 | 外网热销SKU数 | Best-selling SKU Qty_Marketplace | 競合EC売れ筋SKU数 |  |
@@ -1492,7 +1528,7 @@ Total unique terms: 4215
 | 大盘笔单价 | Overall AOV | POIZON全体の1オーダーあたりの客単価 |  |
 | 大盘访问UV | Dewu Overall UV | POIZON全体のUV・POIZON全体のユニーク訪問者数 |  |
 | 大衣 | Coats | コート |  |
-| 天降惊喜 | Surprise Drop | サプライズドロップ |  |
+| 天降惊喜 | Surprise Drop |  |  |
 | 失效 | Expired | 失効 |  |
 | 失效日期 | EXP date |  |  |
 | 失败 | Failed | エラー |  |
@@ -1527,8 +1563,8 @@ Total unique terms: 4215
 | 季度销售额要求 | Quarterly Sales Required | 四半期売上目標 |  |
 | 季度销售额要求($) | Quarterly Sales ($) Required | 四半期売上目標（$） |  |
 | 学前班/幼儿园 | (PS)-Preschool | キッズ（3〜5歳） |  |
-| 安全设计 | Safety feature | 安全機能 |  |
-| 安心购 | Buy with Confidence | 安心購入 |  |
+| 安全设计 | Safety feature |  |  |
+| 安心购 | Buy with Confidence |  |  |
 | 安心退覆盖率 | Hassle-Free Return Coverage Rate | 無条件返品サポート率 |  |
 | 完成上架数（此字段默认是正品上架） | Product Qty_Published | 掲載完了商品数 |  |
 | 完成入货 | Finish receiving |  |  |
@@ -1537,12 +1573,13 @@ Total unique terms: 4215
 | 官网同购 | Online Arbitrage | 裁定取引 |  |
 | 官翻机 | Certified refurbished | 公式再生品 |  |
 | 定制 | Custom-Made | オーダーメイド |  |
-| 定制刻字 | Custom engraving | オーダーメイド刻印 |  |
+| 定制刻字 | Custom engraving |  |  |
 | 定制品牌 | Custom-made Brands | オーダーメイドブランド |  |
 | 定时修改出价 | Scheduled price update | 時間指定出品価格変更 |  |
 | 定时出价 | Scheduled pricing  | 時間指定出品 |  |
-| 定金+尾款 | Deposit + Balance | 予約金＋残代金 |  |
-| 实付单均邮费 | Avg Shipping Fee Paid Per Order | オーダー1件あたりの平均送料（送料優待適用後） |  |
+| 定金 | Deposit |  |  |
+| 定金+尾款 | Deposit + Balance |  |  |
+| 实付单均邮费 | Avg Shipping Fee Paid Per Order |  |  |
 | 实付邮费 | Paid Shipping Fee | 送料実額（特典等による割引額を差し引いた実額） |  |
 | 实付邮费占比 | Proportion of Shipping Fee Paid | 送料実額の割合 |  |
 | 实付邮费金额 | Shipping Fee Paid Amount | 送料実額総額 |  |
@@ -1575,7 +1612,7 @@ Total unique terms: 4215
 | 客服人工处理成本 | Customer Service Labor Cost_Return Orders | 返品対応によるカスタマーサービスコスト |  |
 | 客服净满意度 | Net satisfaction with customer service | カスタマーサービス正味満足者比率 |  |
 | 客退回区 | New Item - Customer Returns | 無瑕疵返品商品の再入庫 |  |
-| 室内及健身运动 | Indoor & Fitness Sports | 室内運動＆フィットネス |  |
+| 室内及健身运动 | Indoor & Fitness Sports | 室内スポーツ＆フィットネス |  |
 | 家具 | Furniture | 家具 |  |
 | 家居 | Home | インテリア |  |
 | 家居服 | Homewear | ルームウェア |  |
@@ -1584,11 +1621,11 @@ Total unique terms: 4215
 | 家用电器 | Home Appliances | 家電 |  |
 | 家纺布艺 | Home Textiles | ホームテキスタイル |  |
 | 家纺线 | Home Textiles | ホームテキスタイル |  |
-| 家装主材 | Home Improvement Materials | 住宅建材 |  |
+| 家装主材 | Home Improvement Materials |  |  |
 | 容器 | Container |  |  |
 | 容器号 | Container ID |  |  |
 | 容量 | Capacity | 容量 |  |
-| 宽版 | Wide | ワイドフィット |  |
+| 宽版 | Wide |  |  |
 | 寄售 | Consignment | 事前入庫 |  |
 | 寄售入仓瑕疵修复 | Defect Fix (Consignment) | B級品修理（事前入庫販売） |  |
 | 寄售入仓申请 | Consignment request | 事前入庫申込 |  |
@@ -1630,16 +1667,16 @@ Total unique terms: 4215
 | 少料 | Missing materials | 材料不足 |  |
 | 少线/走线脱落 | Loose stitching/missing stitches | 縫い外れ/ほつれ |  |
 | 少货 | Short shipped | 商品数量不足 |  |
-| 尖货 | Hype Drops | レアアイテム |  |
+| 尖货 | Hype Drops |  |  |
 | 尖边利点、锋利边缘 | Sharp edges and points | シャープエッジ |  |
 | 尺寸不一 | Inconsistent size | サイズ不一致 |  |
 | 尺寸不一致 | Inconsistent size | サイズ不一致 |  |
 | 尺寸不符 | Incorrect size | サイズが不一致 |  |
 | 尺寸偏差 | Incorrect size | サイズ違い |  |
-| 尺寸大小 | True-to-size | サイズ |  |
+| 尺寸大小 | True-to-size |  |  |
 | 尺寸维护 | Size info required |  |  |
 | 尺寸规格不符 | Mismatched size/spec | サイズ・仕様不一致 |  |
-| 尺寸长短 | Length/shortness | 長さ |  |
+| 尺寸长短 | Length/shortness |  |  |
 | 尺码 | Size | サイズ |  |
 | 尺码/型号/规格/配件/颜色等与订单不符 | Size/model/spec/accessories/color not as ordered | サイズ/型番/仕様/付属品/色がオーダーと不一致 |  |
 | 尺码/型号与订单不符 | Mismatched size/model | サイズ/型番とオーダーの不一致 |  |
@@ -1653,10 +1690,11 @@ Total unique terms: 4215
 | 尺码型号不符 | Incorrect size | サイズ・型番不一致 |  |
 | 尺码对照表 | Size chart |  |  |
 | 尺码推荐表覆盖率 | Size Chart Coverage | サイズ目安表表示SPU率 |  |
-| 尺码核对 | Size verification | サイズ確認 |  |
+| 尺码核对 | Size verification |  |  |
 | 尺码类型 | Size Type | サイズタイプ |  |
 | 尺码表 | Size Chart | サイズ表 |  |
 | 尺码货号与订单不符 | Mismatched size article number/style ID | サイズが商品品番とオーダーと不一致 |  |
+| 尾款 | Balance |  |  |
 | 尾缀-奢配 | Charm end - luxury accessories | ペンダントトップ-ラグジュアリーアクセサリー |  |
 | 尾部 | Long tail | ロングテール |  |
 | 屏幕 | Screen | スクリーン |  |
@@ -1666,6 +1704,7 @@ Total unique terms: 4215
 | 履约 | Fulfillment | 履行 |  |
 | 履约GMV | GMV_Fulfilled | 履行GMV |  |
 | 履约GMV_国际 | Fulfilled GMV_POIZON Global | 履行GMV_POIZON Global |  |
+| 履约保障费 | Fulfillment Network Fee | 取引サポート手数料 |  |
 | 履约分析 | Fulfillment Analytics | 取引分析 |  |
 | 履约动销spu数 | SPU Qty Fulfilled | 履行SPU数 |  |
 | 履约动销卖家数 | Seller Qty_with Fulfilled Sales | 履行出品者数 |  |
@@ -1702,7 +1741,7 @@ Total unique terms: 4215
 | 差错订单调整 | Order discrepancy adjustments | 決済調整（誤オーダー） |  |
 | 已下单 | Order placed | 受注完了 |  |
 | 已下架 | Delisted | 出品終了 |  |
-| 已中奖 | Won | 当選 |  |
+| 已中奖 | Won |  |  |
 | 已出价 | Listed | 出品済 |  |
 | 已出库 | Shipped | 出庫済 |  |
 | 已匹配SPU数 | Matched SPU Qty | マッチング済SPU数 |  |
@@ -1727,7 +1766,7 @@ Total unique terms: 4215
 | 市场贸易商 | Trader | 貿易会社 |  |
 | 帮助中心 | Help Center | ヘルプセンター |  |
 | 常见问题 | FAQ | よくあるご質問 |  |
-| 常规款 | Regular edition | レギュラー仕様 |  |
+| 常规款 | Regular edition |  |  |
 | 帽子内部 | Hat interior | 帽子内部 |  |
 | 帽子表面 | Hat surface | 帽子表面 |  |
 | 帽扣其它配件 | Hat buckle & other accessories | 天ボタンなどほかの付属品 |  |
@@ -1737,7 +1776,7 @@ Total unique terms: 4215
 | 帽衫 | Hoodies | パーカー |  |
 | 干线出发 | Departed from facility | 拠点出発 |  |
 | 干线抵达 | Arrived at destination import hub | 輸入拠点到着 |  |
-| 平价 | Price Parity | 価格平準化 |  |
+| 平价 | Price Parity | 手頃価格 |  |
 | 平价gmv占比 | GMV Proportion_Price Parity SKU | 他チャネルにも出品のある平価SKUのGMV割合 |  |
 | 平价sku的gmv贡献度 | GMV Proportion_Price Parity SKU | 平価SKUのGMV貢献度 |  |
 | 平价sku的国际gmv | POIZON GMV_Price Parity SKU | 平価SKUのGlobal GMV |  |
@@ -1764,7 +1803,7 @@ Total unique terms: 4215
 | 平台经营模型 | Platform Business Model | プラットフォームビジネスモデル |  |
 | 平台缺供给 | High Demand |  |  |
 | 平台联系人 | POIZON Contact | POIZON連絡先 |  |
-| 平台邮费优惠金额 | Shipping Fee Discount Amount (Subsidised by POIZON) | POIZONによる送料優待額 |  |
+| 平台邮费优惠金额 | Shipping Fee Discount Amount (Subsidised by POIZON) | POIZON送料優待額 |  |
 | 平均inbound时效 | Avg Inbound Timeliness | 平均入庫所要時間(支払完了~入庫) |  |
 | 平均outbound时效 | Avg Outbound Timeliness | 平均出庫所要時間(出庫~受領) |  |
 | 平均仓内时效 | Avg Warehousing Timeliness | 平均倉庫保管時間(支払完了・入庫~出庫) |  |
@@ -1790,8 +1829,8 @@ Total unique terms: 4215
 | 库容利用率 | Warehouse Utilization Rate | 倉庫容積利用率 |  |
 | 库容利用率(含预估仓内待上架） | Warehouse Utilization Rate (including to-be-published products) | 倉庫容積利用率（予定倉庫内掲載待ち含み） |  |
 | 库龄 | Inventory Age | 倉庫保管期間 |  |
-| 应付单均税费 | Avg Taxes Payable Per Order | オーダー1件あたりの平均税額 |  |
-| 应付单均邮费金额 | Avg Shipping Fee Payable Per Order | オーダー1件あたりの平均送料 |  |
+| 应付单均税费 | Avg Taxes Payable Per Order |  |  |
+| 应付单均邮费金额 | Avg Shipping Fee Payable Per Order |  |  |
 | 应付税费 | Payable Tax and Fee | 税（消費者が商品購入時に支払う税額） |  |
 | 应付税费占比 | Taxes Payable Proportion | 税（消費者が商品購入時に支払う税額）割合 |  |
 | 应付邮费 | Payable Shipping Fee | 送料（消費者が商品購入時に支払う送料） |  |
@@ -1826,8 +1865,8 @@ Total unique terms: 4215
 | 开关太松 | Loose switch | スイッチの緩み |  |
 | 开发者 | Developer | デベロッパー |  |
 | 开启 | Enable | オン |  |
-| 开启提醒 | Set Reminder | 通知をオンにする |  |
-| 开启提醒成功 | Reminder On | 通知設定完了 |  |
+| 开启提醒 | Set Reminder |  |  |
+| 开启提醒成功 | Reminder On |  |  |
 | 开启痕迹 | Traces of opening | 開けた跡あり |  |
 | 开封试穿痕迹 | Traces of opening and try-on | 開封試着跡あり |  |
 | 开店 | Store launch | 出店 |  |
@@ -1858,7 +1897,7 @@ Total unique terms: 4215
 | 引流标识（竞品） | Markings directing to competitors | 引き寄せの表示（競合品） |  |
 | 弹力 | Stretch | 伸縮性 |  |
 | 弹窗 | Pop-up window | ポップアップウィンドウ |  |
-| 归因分析 | GMV Attribution Analysis | GMV貢献分析 |  |
+| 归因分析 | GMV Attribution Analysis |  |  |
 | 当下最热 | Most Wanted | 大人気 |  |
 | 当前在线SKU数 | Active SKU Qty | 現在掲載済のSKU数 |  |
 | 当前在线sku数 | Active SKU Qty | 現在掲載済のSKU数 |  |
@@ -1866,7 +1905,7 @@ Total unique terms: 4215
 | 当月 | Current month | 当月 |  |
 | 当月经营报告 | Current Month Overview | 経営データ |  |
 | 影印件 | Photocopy | コピー件 |  |
-| 影音电器 | Audio & Video Appliances | 映像・音響機器 |  |
+| 影音电器 | Audio & Video Appliances |  |  |
 | 待买家收货 | Awaiting delivery | 購入者受取待ち |  |
 | 待买家签收 | Awaiting delivery | 購入者受取待ち |  |
 | 待冷静期结束 | Cooling-off Period | クーリング・オフ期間中 |  |
@@ -1888,10 +1927,11 @@ Total unique terms: 4215
 | 得物国际 | Dewu Global | Dewu Global |  |
 | 得物官网拉新 | Dewu portal redirection | DewuからPOIZONへ移行する見込み顧客 |  |
 | 得物香港 | POIZON HOLDING PTE. LTD. | POIZON HOLDING PTE. LTD. |  |
+| 微信支付 | WeChat Pay |  |  |
 | 微瑕放宽 | Slight defects allowed |  |  |
-| 心仪大奖免费得 | Big Prize Drop | プレゼント無料受け取り |  |
+| 心仪大奖免费得 | Big Prize Drop |  |  |
 | 必填 | Required | 入力必須項目 |  |
-| 忌口 | Restrictions | アレルギー |  |
+| 忌口 | Restrictions |  |  |
 | 快递 | Courier | 配送 |  |
 | 快递员服务净满意度 | Net Satisfaction_Courier Service | 宅配便配達員サービス正味満足者比率 |  |
 | 快速发货奖励 | Quick Ship Bonus | スピード発送ボーナス |  |
@@ -1912,7 +1952,7 @@ Total unique terms: 4215
 | 成交增速最快 | Fastest Growth | 最高成約増加率 |  |
 | 成交转化率 | Transaction Conversion Rate | 成約コンバージョン率 |  |
 | 成交金额最高 | Leading Sales | 最高成約価格 |  |
-| 成人用品 | Sexual Wellness | アダルトグッズ |  |
+| 成人用品 | Sexual Wellness |  |  |
 | 成功 | Successful | 完了 |  |
 | 成功发货奖励 | Successful Ship Bonus | 発送完了ボーナス |  |
 | 成功退货GMV占比 | Proportion of Gross Merchandise Value of Successful Returns | 返品完了オーダーGMV（流通総額）割合 |  |
@@ -1946,7 +1986,7 @@ Total unique terms: 4215
 | 户外运动 | Outdoor Sports | アウトドアスポーツ |  |
 | 所有权 | Ownership | 所有権 |  |
 | 手套 | Gloves | 手袋 |  |
-| 手感 | Hand feel | 肌触り |  |
+| 手感 | Hand feel |  |  |
 | 手提 | Handle | 持ち手 |  |
 | 手提处金属 | Handle hardware | 持ち手部分の金属 |  |
 | 手提带 | Handle | 持ち手 |  |
@@ -1955,9 +1995,9 @@ Total unique terms: 4215
 | 手机号 | Phone number | 携帯番号 |  |
 | 手机号码 | Phone number | 電話番号 |  |
 | 手机通讯 | Cell Phones | スマートフォン・携帯電話 |  |
-| 手机链 | Phone Charms | ストラップ |  |
+| 手机链 | Phone Charms | スマホストラップ |  |
 | 手柄缺损或脱落 | Handle damage or detachment | ハンドルの欠損または抜け落ち |  |
-| 手环 | Smart Bands | スマートバンド  |  |
+| 手环 | Smart Bands |  |  |
 | 手表 | Watches | ウォッチ |  |
 | 手表其他 | Watches & Others | ウォッチ＆その他 |  |
 | 手表年份过久 | Watch too old | ウォッチが古すぎます |  |
@@ -1967,7 +2007,7 @@ Total unique terms: 4215
 | 手镯侧面-奢配 | Bracelet side - luxury accessories | ブレスレット側面-ラグジュアリーアクセサリー |  |
 | 手镯内圈-奢配 | Bracelet inner band - luxury accessories | ブレスレット内輪-ラグジュアリーアクセサリー |  |
 | 手镯外圈-奢配 | Bracelet outer band - luxury accessories | ブレスレット外輪-ラグジュアリーアクセサリー |  |
-| 扎染 | Tie-Dye | タイダイ |  |
+| 扎染 | Tie-Dye |  |  |
 | 打包 | Pack | 梱包 |  |
 | 打包规范 | Packing Specifications | 梱包仕様 |  |
 | 打印机 | Printer | プリンター |  |
@@ -2002,10 +2042,11 @@ Total unique terms: 4215
 | 批量 | Batch | 一括 |  |
 | 批量发货 | Batch shipment | まとめて発送 |  |
 | 批量发货单均运费 | Prorated Shipping Fee | 「まとめて発送」オーダー1件あたりの平均送料 |  |
+| 批量生成交接文件 | Generate Manifest(s) |  |  |
 | 找商机 | Explore Deals | 売れ筋商品を探す |  |
 | 承运商 | Shipping Carrier | 配送業者 |  |
 | 技术服务费 | Seller Fee | 出品手数料 |  |
-| 抓地能力 | Traction | グリップ力 |  |
+| 抓地能力 | Traction |  |  |
 | 投诉率 | Complaint Rate | クレーム率 |  |
 | 投诉率（新投诉） | Complaint Rate_New Complaints | クレーム率（新規クレーム） |  |
 | 折扣率GAP | Discount % VAR | 割引率GAP |  |
@@ -2027,13 +2068,13 @@ Total unique terms: 4215
 | 报关费 | Customs clearance fee | 通関手数料 |  |
 | 报销 | Reimbursement | 還元 |  |
 | 抽丝 | Snags | ほころび |  |
-| 抽奖记录 | History | 参加履歴 |  |
-| 抽奖说明 | How to Play | 参加案内 |  |
+| 抽奖记录 | History |  |  |
+| 抽奖说明 | How to Play |  |  |
 | 抽绳-奢服 | Drawstring - luxury apparel | ドローストリング-ラグジュアリーアパレル |  |
 | 抽绳/束绳瑕疵 | Drawstring/cord defects | ドローストリングに不良箇所あり |  |
 | 抽象 | Abstract Styles | 抽象表現主義 |  |
 | 拆套费 | De-kitting fee | セット商品の解梱料 |  |
-| 拆封查验 | QC with unpacking | 開封QC |  |
+| 拆封查验 | QC with unpacking |  |  |
 | 拆封痕迹 | Traces of unsealing | 開封痕跡 |  |
 | 拆托费 | Depalletizing fee | デパレタイズ作業料 |  |
 | 拆预包/拆套 | Unpack/Dekitting | 事前包装商品やセット商品の解梱 |  |
@@ -2044,7 +2085,7 @@ Total unique terms: 4215
 | 拉链头 | Zipper pull | ファスナーヘッド |  |
 | 拉链存疑 | Zipper authenticity uncertain | ファスナーに疑問点があります |  |
 | 拉链掉漆 | Zipper paint peeling | ファスナー塗装落ち |  |
-| 拉链绳 | Zipper pull | ジッパープル |  |
+| 拉链绳 | Zipper pull |  |  |
 | 拉链问题 | Zipper issues | ファスナー問題 |  |
 | 拉链非原装 | Non-original zipper | 非オリジナルのファスナー |  |
 | 拍卖 | Auction | オークション |  |
@@ -2055,7 +2096,7 @@ Total unique terms: 4215
 | 拍照质检 | Photo for verification |  |  |
 | 拍照鉴别 | Online authentication photo | 写真鑑定 |  |
 | 拍留档质检 | Photo (lab verification) |  |  |
-| 拍糊 | Blurry shot | ピンぼけ |  |
+| 拍糊 | Blurry shot |  |  |
 | 拍鉴别质检 | Photo (online verification) |  |  |
 | 拍错 | Wrong shot | 誤撮影 |  |
 | 拒收 | Reject |  |  |
@@ -2072,8 +2113,8 @@ Total unique terms: 4215
 | 拥抱好用户  | Elevate Your Audience | お客さまを大切にして |  |
 | 拥有 | Possession | 保有 |  |
 | 拦截件 | On-hold item |  |  |
-| 持久度 | Longevity | 持続力 |  |
-| 挂件 | Charms | チャーム |  |
+| 持久度 | Longevity |  |  |
+| 挂件 | Charms |  |  |
 | 挂板-奢配 | Display board - luxury accessories | パンチングボード-ラグジュアリーアクセサリー |  |
 | 挂板缺失 | Missing display board | 表示板不備 |  |
 | 挂绳&链条瑕疵 | Hangtag & chain defects | ストラップ&チェーンに不良箇所あり |  |
@@ -2086,7 +2127,7 @@ Total unique terms: 4215
 | 指针部位鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points on the hands are worn or missing; unable to confirm whether the manufacturing is original | 指針の鑑定ポイントに磨り減り・不備があるため、オリジナルの仕上がりであるかどうかを確認することは不可能です。 |  |
 | 按压头 | Spray Nozzle | ポンプヘッド |  |
 | 按库位上架 | Location putaway |  |  |
-| 按扣功能 | Snap button check | スナップボタン動作確認 |  |
+| 按扣功能 | Snap button check |  |  |
 | 按钮 | Button | ボタン |  |
 | 按钮变形，按扣开合难 | Button deformation, difficult to open and close | ボタンの変形、ボタンの開閉が困難 |  |
 | 按钮错位，按钮不合 | Button misalignment/mismatch | ボタンのズレ、ボタンがかみ合わない |  |
@@ -2137,10 +2178,11 @@ Total unique terms: 4215
 | 操作成功 | Operation successful | 操作完了 |  |
 | 操作成本 | Reserved Operational cost | 返品・返金による作業コスト |  |
 | 操作服务费 | Operation Service Fee | 作業手数料 |  |
-| 擦色 | Polished | 色落ち |  |
+| 擦色 | Polished |  |  |
 | 支付 | Payment | 支払 |  |
 | 支付GMV | GMV (paid) | 決済GMV |  |
 | 支付宝 | Alipay | Alipay |  |
+| 支付总金额 | Amount due |  |  |
 | 支付方式 | Payment Method | 支払方法 |  |
 | 支付时间 | Payment Time | 支払日時 |  |
 | 支付订单 | Paid order | 支払済オーダー |  |
@@ -2181,13 +2223,13 @@ Total unique terms: 4215
 | 效期问题 | Expiry date issues | 使用期間の問題 |  |
 | 散装运输 | Bulk Shipping | まとめて発送 |  |
 | 散货拼箱 | LCL   | LCL |  |
-| 数字阅读 | Digital Reading | 電子書籍 |  |
+| 数字阅读 | Digital Reading |  |  |
 | 数据 | Data | データ |  |
 | 数据中心 | Data center | データセンター |  |
 | 数据库采买 | Purchased leads | 購入されたリード |  |
 | 数据线 | Cables | 充電ケーブル |  |
 | 数据迁移 | Data migration | データ移行 |  |
-| 数码家电 | Electronics & Appliances | デジタル家電 |  |
+| 数码家电 | Electronics & Appliances |  |  |
 | 数量 | Qty | 数量 |  |
 | 整体 | Overall appearance | 全体 |  |
 | 整体外观 | Overall appearance | 外観全体 |  |
@@ -2199,7 +2241,7 @@ Total unique terms: 4215
 | 文字 | Text | 文字 |  |
 | 文教用品 | Stationery | 文房具 |  |
 | 文玩玉翠业务线 | Antiques & Jade | アンティーク＆ストーン |  |
-| 文玩珠宝 | Antiques & Jewelry | アンティーク（書画骨董＆ジュエリー） |  |
+| 文玩珠宝 | Antiques & Jewelry | 文玩・宝飾品 |  |
 | 断线 | Broken stitches | 糸切れ |  |
 | 断线/线头 | Broken stitches/thread residue | 糸切れ・糸のほつれ |  |
 | 断线/跳线 | Broken/skipped stitches | 糸切れ/目飛び |  |
@@ -2223,7 +2265,7 @@ Total unique terms: 4215
 | 新品上架spu动销率 | Sell-Through Rate_New Published SPU Qty | 新規掲載で販売実績を有するSPU率 |  |
 | 新品上架spu数 | New Published SPU Qty | 新規掲載SPU数 |  |
 | 新品动销spu数 | Number of New SKUs with Sales on Platform | 販売実績を有する新規商品SPU数 |  |
-| 新品尖货 | Hot Releases | 新発売レアアイテム |  |
+| 新品尖货 | Hot Releases |  |  |
 | 新品已上架待出价 | Items ready to list | 新規商品出品待ち（掲載済） |  |
 | 新品牌孵化 | New Brand Incubation | ブランドインキュベーション |  |
 | 新品牌组 | New Brands | 新規ブランド |  |
@@ -2238,13 +2280,13 @@ Total unique terms: 4215
 | 新增出价SPU数 | New SPU Qty Listed (History) | 新規出品SPU数 |  |
 | 新增可支持鉴别spu数 | Newly Authenticable SPU Qty  | 鑑定可となった新規追加SPU数 |  |
 | 新增可鉴别SPU数 | Newly Authenticable SPU Qty  | 新たに鑑定可能となったSPU数 |  |
-| 新增有效个人商家数 | New Individual Seller Qty Sold | 販売実績のある新規個人出品者数 |  |
+| 新增有效个人商家数 | New Individual Seller Qty Sold |  |  |
 | 新增有效企业商家数 | New Business Seller Qty Sold | GMV基準を達成した企業出品者数 |  |
 | 新客 | New |  |  |
 | 新币 | SGD | SGD |  |
 | 新晋国潮 | Emerging China-Chic | 最新中国風トレンド |  |
 | 新版 | Latest season | 最新バージョン |  |
-| 新百伦 | New Balance | New Balance |  |
+| 新百伦 | New Balance |  |  |
 | 新竹物流 | HCT Logistics | HCT Logistics |  |
 | 新类目 | New Categories | 新規カテゴリー |  |
 | 新类目-净新增品牌 | New Category - New Brand Qty_Active Listings | ブランド純増数（新規カテゴリー） |  |
@@ -2272,7 +2314,7 @@ Total unique terms: 4215
 | 无封层 | No sealer | シールがない |  |
 | 无底标 | Missing bottom label | 底面ラベルがない |  |
 | 无忧体验 | Hassle-Free Experience | ストレスフリーなユーザー体験 |  |
-| 无损质拍 | Nondestructive QC | 非破壊QC（撮影） |  |
+| 无损质拍 | Nondestructive QC |  |  |
 | 无效 | Invalid | 無効 |  |
 | 无效SKU数 | Non-competitive SKU Qty | 価格競争力がないSKU数 |  |
 | 无效sku日均渠道曝光pv | Avg Daily Channel Exposure PV_Non-competitive SKU | 価格競争力がないSKUの1日あたりの平均チャネルPV（ページ閲覧数） |  |
@@ -2326,14 +2368,14 @@ Total unique terms: 4215
 | 日用百货 | Daily Necessities | 日用雑貨 |  |
 | 日百线 | Groceries | 日用品 |  |
 | 日韩线 | JP & KR | 日本＆韓国 |  |
-| 旧版 | Previous season | 旧バージョン |  |
+| 旧版 | Previous season |  |  |
 | 时尚 | Fashion | ファッション |  |
 | 时尚品牌 | Fashion Brands | ファッションブランド |  |
 | 时尚潮流 | Fashion Trends | ファッショントレンド |  |
 | 时尚线 | Fashion | ファッション |  |
 | 时间 | Time | 時間 |  |
-| 明日10点开奖 | Tomorrow 10:00 AM | 明日午前10時発表 |  |
-| 明日预告 | Coming Up | 明日予告 |  |
+| 明日10点开奖 | Tomorrow 10:00 AM |  |  |
+| 明日预告 | Coming Up |  |  |
 | 明星艺人 | Celebrities & Entertainers | セレブ＆タレント |  |
 | 明星设计师 | Celebrity Designers | スターデザイナー |  |
 | 明显面（正/侧/LOGO/背 ） | Main side (front/side/LOGO/back) | 可視面（前面/側面/ロゴ/背面） |  |
@@ -2344,16 +2386,16 @@ Total unique terms: 4215
 | 春 | Spring | 春 |  |
 | 春节 | Chinese New Year | 春節 |  |
 | 是 | Yes | はい |  |
-| 是否压脚背 | Instep pressure | 足の甲の圧迫感 |  |
-| 是否带胸垫 | Built-in bra padding | 胸パッドの有無 |  |
-| 是否易晕染 | Blendability | 染み込みやすさ |  |
-| 是否晕妆 | Smudge-proof | 化粧崩れするか否か |  |
-| 是否沾杯 | Transfer-proof | カップに付着するか否か |  |
+| 是否压脚背 | Instep pressure |  |  |
+| 是否带胸垫 | Built-in bra padding |  |  |
+| 是否易晕染 | Blendability |  |  |
+| 是否晕妆 | Smudge-proof |  |  |
+| 是否沾杯 | Transfer-proof |  |  |
 | 是否直发 | Direct Shipping | 直送かどうか |  |
-| 显示器 | Monitors | モニター |  |
+| 显示器 | Monitors |  |  |
 | 显色度 | Color payoff | 発色 |  |
 | 晚到必赔 | Late Delivery Compensation | 配達遅延補償 |  |
-| 普款 | General Releases | 一般発売 |  |
+| 普款 | General Releases |  |  |
 | 普通退货 |  Regular Returns | 通常返品 |  |
 | 智能定价闪电售出 | Sell Faster with Smart Pricing | スマートな価格設定で一瞬で売れる |  |
 | 智能数码 | Smart Digital Devices | スマートデバイス |  |
@@ -2362,12 +2404,12 @@ Total unique terms: 4215
 | 暂无数据 | No data | データなし |  |
 | 曝光 | Overexposed | 露出オーバー |  |
 | 曝光uv/pv价值 | UV/PV Value_Exposure | 露出UV・PVの価値 |  |
-| 曝光过度 | Overexposed | 明るすぎる写真 |  |
+| 曝光过度 | Overexposed |  |  |
 | 更多 | More | もっと見る |  |
-| 更多参数 | Additional Details | 追加情報 |  |
+| 更多参数 | Additional Details |  |  |
 | 更少 | Less | たたむ |  |
 | 更新日期 | Updated | 更新日 |  |
-| 替换装 | Refill | リフィル |  |
+| 替换装 | Refill |  |  |
 | 最低价 | Lowest price | 最低価格 |  |
 | 最低在线价格 | Lowest Listing Price_POIZON Global | 最低価格（掲載済） |  |
 | 最低收费 | Minimum Fee | 最低料金 |  |
@@ -2375,6 +2417,8 @@ Total unique terms: 4215
 | 最晚出库时间 | Ship-by time |  |  |
 | 最终受益人 | UBO | 企業の実質的支配者情報 |  |
 | 最高收费 | Maximum Fee | 最大料金  |  |
+| 最高还价 | Highest Bid |  |  |
+| 最高还价预计单件收入 | Est. Payout/Unit (Highest Bid) |  |  |
 | 月台 | Dock |  |  |
 | 月环比 | QoQ | 前月比 |  |
 | 月结 | Monthly | 月締め |  |
@@ -2410,7 +2454,7 @@ Total unique terms: 4215
 | 期末-单商家平均在线国际差异化SKU数 | End-of-Period - Avg Unique Listed SKU Qty per seller | 期末時点の1出品者あたりの平均掲載済SKU（POIZON Global限定）数 |  |
 | 期货 | Incoming-stock goods | 先物 |  |
 | 木包装销毁费  | Wood packaging disposal fee | 木製梱包材廃棄処理料 |  |
-| 未中奖 | Missed | 落選 |  |
+| 未中奖 | Missed |  |  |
 | 未开到 | Mark as not received |  |  |
 | 未开始 | Upcoming | 準備中 |  |
 | 未拆封 | Sealed | 未開封 |  |
@@ -2427,14 +2471,14 @@ Total unique terms: 4215
 | 本地卖家销量 | Sales by Local Sellers | ローカル出品者販売数 |  |
 | 本地拖车费 | Local haulage fee | ローカルトレーラー料 |  |
 | 本地汇款 | Domestic transfer | ローカル送金 |  |
-| 本对本 | Local-to-local | ローカル・トゥ・ローカル |  |
-| 本本 | Local-to-local | ローカル・トゥ・ローカル |  |
+| 本对本 | Local-to-local |  |  |
+| 本本 | Local-to-local |  |  |
 | 机芯 | Movement | ムーブメント |  |
 | 机芯内 | Movement interior | ムーブメント内 |  |
 | 机芯内-奢 | Movement interior - luxury | ムーブメント内‐ラグジュアリー |  |
 | 机芯日差、偏振、摆幅等过低或过高 | Excessive or insufficient daily rate, beat error, or amplitude | ムーブメント日差、偏光、振幅が小さすぎるか、または大きすぎます |  |
 | 机芯有污渍、划痕、磕碰等 | Stains, scratches, and dents on movement | ムーブメントに汚れや、擦過痕、打痕などあり |  |
-| 机芯类型 | Movement type | 動きやすさ |  |
+| 机芯类型 | Movement type |  |  |
 | 机芯维修 | Movement repaired | ムーブメントに修理の痕跡があります |  |
 | 杂质含量高 | Excessive impurities | 不純物がたくさん含まれています |  |
 | 杂质棉絮 | Impurities & lint | 不純物、詰め綿 |  |
@@ -2444,7 +2488,7 @@ Total unique terms: 4215
 | 材质不符 | Material does not match order details | 素材不一致 |  |
 | 材质过度处理 | Excessively processed materials | 材質が過度処理されています |  |
 | 条形码 | Barcode/UPC | バーコード |  |
-| 条形码涂鸦 | Barcode/UPC defaced | バーコード／UPC塗りつぶし |  |
+| 条形码涂鸦 | Barcode/UPC defaced |  |  |
 | 条款 | Terms | 規約 |  |
 | 条款和条件 | Terms & Conditions | 利用規約 |  |
 | 松动 | Loose | 緩み |  |
@@ -2472,15 +2516,15 @@ Total unique terms: 4215
 | 标签瑕疵 | Label defects | ラベルに不良箇所あり |  |
 | 标签破损 | Label damaged | タグ破損 |  |
 | 校园 | Campus | キャンパス |  |
-| 校园潮牌 | Campus Trendy Brands | ★キャンパススタイル人気ブランド |  |
+| 校园潮牌 | Campus Trendy Brands |  |  |
 | 样式不符 | Mismatched style | デザイン不一致 |  |
 | 核心尺码断货率 | Proportion of OOS SPUs in Core Size | 主要サイズ欠品SPU割合 |  |
-| 核心特点 | Core Features | 主な機能 |  |
+| 核心特点 | Core Features |  |  |
 | 核销 | Write-off | 消込 |  |
 | 格式 | Format | フォーマット |  |
 | 检测露出情况 | Buy Box Status | 掲載チェック |  |
-| 植染 | Natural dye | ナチュラルダイ |  |
-| 楦宽 | Last width | ラスト（足型） |  |
+| 植染 | Natural dye |  |  |
+| 楦宽 | Last width |  |  |
 | 概要申报费用 | Preliminary declaration fee | 概要申告料 |  |
 | 概览 | Overview | 概要 |  |
 | 榜单 | Ranking | ランキング |  |
@@ -2490,7 +2534,7 @@ Total unique terms: 4215
 | 次品 | Defective item | B級品 |  |
 | 次品取回-操作服务费 | Returns processing fee (defective products) | 作業手数料‐B級品の回収 |  |
 | 次日揽收 | Next-day pickup (except Sundays and Holidays) | 翌日集荷 |  |
-| 次日达 | Next Day | 翌日着予定 |  |
+| 次日达 | Next Day |  |  |
 | 欧元 | EUR | EUR |  |
 | 欧洲 | EU | 欧州/ヨーロッパ |  |
 | 欧洲-买手店 | Europe - Boutique | 欧州ーセレクトショップ |  |
@@ -2499,7 +2543,7 @@ Total unique terms: 4215
 | 欧洲-品牌 | Europe - Brand | 欧州ーブランド |  |
 | 欧洲商品代码 | EAN-13 | EAN-13 |  |
 | 欧洲小仓库 | European Small Warehouses | ヨーロッパの小型倉庫 |  |
-| 欧版 | Europe | 日本仕様 |  |
+| 欧版 | Europe |  |  |
 | 欧美潮 | Euro-American Trends | 欧米トレンド |  |
 | 欧美线 | EU & US | 欧米 |  |
 | 欧美街头 | Euro-American Streetwear | 欧米ストリートファッション |  |
@@ -2512,7 +2556,7 @@ Total unique terms: 4215
 | 正品怀疑占比 | Suspicion for Authenticity Proportion | 正規品鑑定に疑いがあると回答した割合 |  |
 | 正品怀疑投诉率 | Authenticity Doubt Complaint Rate | 非正規品の疑いがある商品に関するクレーム率 |  |
 | 正品怀疑舆情万笔 | Public Opinions Per 10,000 Orders_Suspicion for Authenticity | 正規品鑑定に疑いがある商品の世論割合（10,000件あたり） |  |
-| 正装 | Full size | フルサイズ |  |
+| 正装 | Full size |  |  |
 | 正面 | Front | 正面 |  |
 | 正面logo | Front Logo | フロントロゴ |  |
 | 正面划痕 | Front scratches | 正面にひっかき傷あり |  |
@@ -2534,10 +2578,10 @@ Total unique terms: 4215
 | 毛孔粗大 | Large pores | 大きな毛穴 |  |
 | 毛衣 | Sweaters | セーター |  |
 | 毛重 | Gross weight | 総重量 |  |
-| 毫升数 | Volume (ml) | 容量（ml） |  |
+| 毫升数 | Volume (ml) |  |  |
 | 气味 | Scent | 香り |  |
 | 气垫 | Cushion foundation | クッションファンデーション |  |
-| 气垫梳 | Air Cushion Combs | クッションブラシ |  |
+| 气垫梳 | Air Cushion Combs |  |  |
 | 气泡 | Bubbles | 発泡 |  |
 | 氧化 | Oxidation | 酸化 |  |
 | 氧化/发黄 | Oxidation/yellowing | 酸化/黄ばみ |  |
@@ -2573,7 +2617,7 @@ Total unique terms: 4215
 | 污渍，染色 | Stains/dyes | 汚れ、染み |  |
 | 污渍，水渍，油渍等 | Stains, water stains, oil stains, etc. | 汚れ、水シミ、油シミなど |  |
 | 汽车 | Automotive | 自動車 |  |
-| 汽车/汽车用品/零部件 | Cars, Car Accessories & Parts | 車・車用品・車用アクセサリー |  |
+| 汽车/汽车用品/零部件 | Cars, Car Accessories & Parts | 車・車用品・部品 |  |
 | 汽车生活 | Automotives & Motorcycles | 車用品 |  |
 | 沙龙 | Salons | サロン |  |
 | 没有货品·挖掘机会 | No stock? Find opportunities  | 商品在庫なし、売れ筋商品を探す |  |
@@ -2584,8 +2628,9 @@ Total unique terms: 4215
 | 油边开裂 | Paint edge cracks | エッジペイントのひび割れ |  |
 | 油边开裂斑驳 | Paint edge cracks and mottling | エッジペイントの剥がれや斑点 |  |
 | 法定代表人姓名 | Legal representative name | 法人代表者氏名 |  |
-| 泛白 | Whitening | 白化 |  |
+| 泛白 | Whitening |  |  |
 | 泛黄 | Yellowing | 黄ばみ |  |
+| 注册奖励 | Sign-up bonus |  |  |
 | 注册文件有效期 | Validity Period of Business Registration Certificate | 法人登記書類有効期限 |  |
 | 注销账户 | Delete account | アカウント削除 |  |
 | 泵头 | Pump Head | ポンプヘッド |  |
@@ -2593,14 +2638,14 @@ Total unique terms: 4215
 | 泵头划痕 | Pump head scratches | ポンプヘッドに擦過痕あり |  |
 | 泵头掉漆 | Pump head paint peeling | ポンプヘッドの塗りがはげ落ちる |  |
 | 泵头脱落 | Detached pump head | ポンプヘッドの脱落 |  |
-| 泼墨 | Ink Splatter | インクスプラッター |  |
+| 泼墨 | Ink Splatter |  |  |
 | 洗唛 | Care label | 洗濯ネーム |  |
 | 活动 | Promotion | キャンペーン |  |
 | 活动已结束 | Ended | 終了 |  |
 | 活动未开始 | Upcoming | 準備中 |  |
 | 活动规则 | Promotion Guidelines | キャンペーンルール |  |
 | 活动进行中 | Ongoing | 開催中 |  |
-| 活跃个人商家数 | Individual Seller Qty Listed (History) | 出品中の個人出品者数 |  |
+| 活跃个人商家数 | Individual Seller Qty Listed (History) |  |  |
 | 活跃企业商家数 | Business Seller Qty Listed (History) | 出品中の企業出品者数 |  |
 | 派送日期 | Delivery Date | 配達日 |  |
 | 流行时尚 | Trending Fashion | トレンドファッション |  |
@@ -2637,7 +2682,7 @@ Total unique terms: 4215
 | 海运附加费  | Sea freight surcharges | 海上輸送追加料 |  |
 | 海量商机 | Massive Opportunities | 無限のビジネスチャンス |  |
 | 涂改 | Altered ticket | 改ざん |  |
-| 涂码 | Label obscured | ラベル塗りつぶし |  |
+| 涂码 | Label obscured |  |  |
 | 涂鸦 | Scribbles | 落書き |  |
 | 涂鸦，划伤 | Scribbles, scratches | 落書き、ひっかき傷 |  |
 | 消息 | Messages | メッセージ |  |
@@ -2649,28 +2694,28 @@ Total unique terms: 4215
 | 清关 | Customs Clearance | 通関 |  |
 | 清关报关费 | Customs clearance fee | 通関手数料 |  |
 | 清关费退回 | Customs clearance fee refund |  |  |
-| 清洁力度 | Clean power | 洗浄力 |  |
+| 清洁力度 | Clean power |  |  |
 | 清洁度 | Clean power | 清潔度 |  |
-| 清爽版 | Light | ライトタイプ |  |
+| 清爽版 | Light |  |  |
 | 清算网络会员号 | Clearing system identification code | クリアリングコード |  |
 | 清货收入 | Clearing Revenue | クリアランスの売上 |  |
 | 清除 | Clear | クリア |  |
 | 渠道利润计算 | Profit Analysis by Channel | チャネル利益計算 |  |
-| 温变 | Thermochromic | サーモクロミック |  |
+| 温变 | Thermochromic |  |  |
 | 港到仓提货 | Port-to-warehouse service | 入境地・倉庫間ピックアップ |  |
 | 港澳台大区 | HMT Region | 香港・マカオ・台湾エリア |  |
 | 游戏卡牌 | Trading Cards | トレーディングカード |  |
 | 游戏设备 | Gaming Hardware | ゲーム機 |  |
 | 溢胶 | Excess glue | 接着剤漏れ |  |
 | 溢胶/胶印 | Excess glue/glue imprints | 接着剤漏れ/シール跡 |  |
-| 滋润度 | Hydration | 保湿感 |  |
-| 滋润版 | Moisturizing | モイスチャータイプ |  |
-| 滋补营养品 | Supplements | 健康食品・サプリメント |  |
+| 滋润度 | Hydration |  |  |
+| 滋润版 | Moisturizing |  |  |
+| 滋补营养品 | Supplements |  |  |
 | 滞留 | Lab hold |  |  |
 | 滞箱费  | Demurrage charge | 滞船料 |  |
 | 滞销品 | Slow-moving item | 滞留品 |  |
 | 滞销库存 | Slow-moving inventory | 滞留在庫 |  |
-| 漏拍 | Missing shot | 撮り忘れ |  |
+| 漏拍 | Missing shot |  |  |
 | 漏气 | Air leakage | 空気漏れ |  |
 | 漏液 | Liquid leakage | 液漏れ |  |
 | 漏装短装 | Missing or insufficient parts | 同梱漏れ、付属品点数不一致 |  |
@@ -2696,19 +2741,21 @@ Total unique terms: 4215
 | 澳大利亚邮政 | Australia Post | オーストラリア郵便公社 |  |
 | 澳门 | CN-MO | マカオ |  |
 | 激活 | Activate | アクティベート |  |
-| 灯带检查 | Light strip check | ライトストリップ確認 |  |
-| 灯饰照明 | Lighting Fixtures | 照明器具 |  |
+| 灯带检查 | Light strip check |  |  |
+| 灯饰照明 | Lighting Fixtures |  |  |
 | 灰尘/毛絮 | Dust/fluff | ほこり/毛羽 |  |
 | 点击 | Tap | タップ |  |
-| 点击可抽 | Tap to Enter | クリックして参加 |  |
+| 点击关闭 | Turn off flashlight |  |  |
+| 点击可抽 | Tap to Enter |  |  |
+| 点击打开 | Turn on flashlight |  |  |
 | 烫金涂改 | Altered foil stamping | 箔押しの汚れ |  |
 | 烫金瑕疵 | Hot stamping defects | 箔押しに不良箇所があります |  |
 | 热销 | Best-selling | 人気商品 |  |
 | 热销款 | Best-selling | ベストセラー・売れ筋 |  |
 | 热门 | Hot Releases | 人気 |  |
 | 热门搜索 | Popular Searches | 人気キーワード |  |
-| 热门新品精选 | New and Noteworthy | 売れ筋新商品おすすめ |  |
-| 热门求购商品 | High-demand trending items | 売れ筋商品 |  |
+| 热门新品精选 | New and Noteworthy |  |  |
+| 热门求购商品 | High-demand trending items |  |  |
 | 照片搜索 | Visual Search | 画像検索 |  |
 | 熏蒸费  | Fumigation processing fee | 燻蒸処理手数料 |  |
 | 爬虫 | Crawler | クローラー |  |
@@ -2749,7 +2796,7 @@ Total unique terms: 4215
 | 独有spu的gmv | GMV_Unique SPU | Globalチャネルのみ出品のSPUのGMV（流通総額） |  |
 | 独有spu的gmv占比 | Proportion of GMV of Unique SPUs | Globalチャネルのみ出品のSPUのGMV（流通総額）割合 |  |
 | 独有动销spu | Unique SPU with sales | Globalチャネルのみ出品で販売実績を有するSPU |  |
-| 猫眼 | Air unit | エアユニット |  |
+| 猫眼 | Air unit |  |  |
 | 玩具乐器 | Toys & Musical Instruments | おもちゃ・楽器 |  |
 | 环节超时状态 | Stage SLA alert |  |  |
 | 现在可以购买 | Available Now | 即購入可 |  |
@@ -2807,6 +2854,7 @@ Total unique terms: 4215
 | 生产日期过久 | Production date too old | 製造年月日が古すぎ |  |
 | 生产日期过长 | Production date too old | 製造年月日が古すぎます |  |
 | 生意新高点 | Scale New Peaks | ビジネスを新たな高みへ |  |
+| 生成交接文件 | Generate manifest |  |  |
 | 生活服务 | Life Services | 生活サービス |  |
 | 生活电器 | Home Appliances | 生活家電 |  |
 | 生耳不符合原厂工艺 | Spring bar does not meet original manufacturing standards | 生耳がオリジナルの仕上がりと一致していません |  |
@@ -2828,14 +2876,14 @@ Total unique terms: 4215
 | 申诉 | Appeal | 申立 |  |
 | 申请新品 | Request new item | 新規商品登録申込 |  |
 | 申请退货退款订单量 | Actual Return Order Volume_Initiated by Buyer | 返品・返金申請オーダー量 |  |
-| 电子/电工 | Electronics & Electrical Engineering | 電子機器・電気機器 |  |
+| 电子/电工 | Electronics & Electrical Engineering |  |  |
 | 电子产品 | Electronics | 電子機器 |  |
 | 电子称 | Scale |  |  |
 | 电子邮件 | Email | メールアドレス |  |
 | 电子邮箱 | Email | メールアドレス |  |
 | 电池非原装 | Non-original battery | 非オリジナルのバッテリー |  |
 | 电脑 | Computers | コンピューター |  |
-| 电脑设备 | Computer Accessories & Parts | パソコン・周辺機器 |  |
+| 电脑设备 | Computer Accessories & Parts | パソコン周辺機器 |  |
 | 电话拜访 | Phone call | 電話訪問 |  |
 | 电量不足 | Low battery | バッテリー残量低下 |  |
 | 电镀件材质 | Electroplated material | メッキ素材 |  |
@@ -2889,7 +2937,7 @@ Total unique terms: 4215
 | 相对低价sku的gmv贡献度 | GMV Proportion_Common Relatively Competitive SKU | 他チャネルにも出品のある相対的に低価格SKUのGMV貢献度 |  |
 | 相机 | Cameras | カメラ |  |
 | 真假保证 | Authenticity Guarantee | 本物保証 |  |
-| 眼部按摩仪 | Eye Massagers | アイマッサージャー |  |
+| 眼部按摩仪 | Eye Massagers |  |  |
 | 眼镜布 | Glasses cloth | メガネ拭き布 |  |
 | 眼镜布缺失 | Missing glasses cloth | メガネ拭きの不備 |  |
 | 眼镜框 | Eyeglass frame | メガネフレーム |  |
@@ -2899,11 +2947,11 @@ Total unique terms: 4215
 | 眼镜盒鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the glasses case are worn or missing; unable to confirm whether the manufacturing is original | メガネケースの鑑定ポイントに磨り減り・不備があるため、オリジナルの仕上がりであるかどうかを確認することは不可能です。 |  |
 | 眼镜缺失 | Missing eyeglasses | メガネの不備 |  |
 | 眼镜腿 | Temple arms | テンプル |  |
-| 眼霜 | Eye cream | アイクリーム |  |
+| 眼霜 | Eye cream |  |  |
 | 知名品牌 | Renowned Brands | 有名ブランド |  |
 | 知道了 | Got It | OK |  |
 | 短信 | SMS | SMS |  |
-| 短款 | Short | ショート丈 |  |
+| 短款 | Short |  |  |
 | 短驳 | Cross-dock transfer |  |  |
 | 石英表电池没电或电量较低 | Quartz watch battery low or depleted | クオーツ時計のバッテリー切れまたはバッテリー残量低下 |  |
 | 码头插电费  | Refrigerated container power fee | 埠頭電気使用料 |  |
@@ -2919,7 +2967,7 @@ Total unique terms: 4215
 | 确认收货 | Confirm Receipt | 受領しました |  |
 | 确认款非盲盒 | Confirmed version, not mystery box | 確認版であり、ブラインドボックスではありません |  |
 | 确认订单时效 | Order Confirmation Time | オーダー確定期限 |  |
-| 碳板 | Carbon plate | カーボンプレート |  |
+| 碳板 | Carbon plate |  |  |
 | 磁吸扣 | Magnetic clasp | マグネットホック |  |
 | 磕印 | Dent marks | 打痕あり |  |
 | 磕痕 | Dents | 打痕あり |  |
@@ -2948,14 +2996,14 @@ Total unique terms: 4215
 | 社交软件交流 | IM tools | SNSでのやり取り |  |
 | 社区 | Community | コミュニティ |  |
 | 社群 | Community | コミュニティ |  |
-| 祖玛珑 | Jo Malone | Jo Malone |  |
+| 祖玛珑 | Jo Malone |  |  |
 | 禁售商品 | Prohibited product | 販売禁止の商品です |  |
 | 禁用 | Deactivate | 無効 |  |
 | 福山通运 | Fukuyama Transporting | 福山通運 |  |
 | 秋 | Fall | 秋 |  |
 | 种类 | Categories | カテゴリー |  |
 | 种草 | Seeding content | シーディング |  |
-| 科技特点 | Tech Highlights | 技術特徴 |  |
+| 科技特点 | Tech Highlights |  |  |
 | 秒针针尾 | Second hand tail | 秒針の先端 |  |
 | 积压量 | Backlog  | バックログ |  |
 | 移除 | Remove | 削除 |  |
@@ -2969,15 +3017,16 @@ Total unique terms: 4215
 | 空运 | Air freight | 空輸 |  |
 | 穿孔 | Perforation | 穴あきあり |  |
 | 穿着/使用痕迹 | Traces of use | 着用・使用痕跡 |  |
-| 穿着场景 | Wear scene | 着用シーン |  |
+| 穿着场景 | Wear scene |  |  |
 | 穿着痕迹 | Traces of use | 着用跡 |  |
 | 穿透式沟通 | Penetrated Communication | 浸透型コミュニケーション |  |
-| 窄版 | Slim | スリムフィット |  |
+| 窄版 | Slim |  |  |
 | 立即前往 | Go | 今すぐ確認 |  |
+| 立即变现 | Sell Now |  |  |
 | 立即抢 | Grab Now | 今すぐゲット |  |
 | 站内信 | In-App Messages | アプリ内メッセージ |  |
 | 竞品 | Competitors | 競合品 |  |
-| 竞品二维码 | Competitor QR code | 競合QRコード |  |
+| 竞品二维码 | Competitor QR code |  |  |
 | 竞品标识（引流） | Marks directing to competitors | 競合品マーク（引き寄せ） |  |
 | 竞对到手价 | Market Price | 競合他社の購入価格 |  |
 | 竞对同价 | Priced Above Market | 競合同額 |  |
@@ -2996,14 +3045,14 @@ Total unique terms: 4215
 | 笼车 | Roll Cage |  |  |
 | 等候费 | Vehicle holding fee | 待機時間料 |  |
 | 等待仓库收货 | On its way to POIZON | 倉庫商品受領待ち |  |
-| 等待开奖 | Pending Draw | 結果待ち |  |
+| 等待开奖 | Pending Draw |  |  |
 | 筛选 | Filter | 絞り込み |  |
 | 筛选条件 | Filter criteria | 絞り込み条件 |  |
 | 签到 | Check-in | チェックイン |  |
 | 签收 | Received | 受領 |  |
 | 签约主体 | Company | 契約（相手方）主体 |  |
 | 签约主体  | Company | 契約（相手方）主体 |  |
-| 签约企业商家数 | Business Seller Qty Registered | 契約企業出品者数 |  |
+| 签约企业商家数 | Business Seller Qty Registered |  |  |
 | 简约 | Minimalism | ミニマリズム |  |
 | 管口螺旋 | Tube Top Spiral | チューブキャップスクリュー |  |
 | 管报 | Reports | 管理レポート |  |
@@ -3017,13 +3066,13 @@ Total unique terms: 4215
 | 箱唛 | Shipping mark | 箱ラベル |  |
 | 类目 | Categories | カテゴリー |  |
 | 类目信息 | Category Info | カテゴリー情報 |  |
-| 粉丝绒 | Pink velvet | ピンクベルベット |  |
-| 粉底液 | Liquid foundation | リキッドファンデーション |  |
+| 粉丝绒 | Pink velvet |  |  |
+| 粉底液 | Liquid foundation |  |  |
 | 粉扑 | Powder Puff | パウダーパフ |  |
 | 粉饼 | Pressed Powder | プレストパウダー |  |
 | 粮油调味/速食/干货/烘焙 | Grains, Oils, Seasonings, Instant Food, Dry Goods & Bakery | 雑穀・食用油・調味料/インスタント食品/乾物/製菓・製パン |  |
-| 精华 | Serum | 美容液（エッセンス） |  |
-| 糖果/巧克力 | Candies & Chocolates | キャンディ・チョコレート |  |
+| 精华 | Serum |  |  |
+| 糖果/巧克力 | Candies & Chocolates |  |  |
 | 系列 | Model | シリーズ |  |
 | 系带不良 | Poor lacing | 紐結び不良 |  |
 | 系统异常 | System error | システムエラー |  |
@@ -3033,11 +3082,11 @@ Total unique terms: 4215
 | 累计入仓GMV占比 | Consigned Cumulative GMV Proportion_POIZON Global | 累計入庫GMVの割合 |  |
 | 累计入仓单量占比 | Cumulative Order Volume Proportion (Consigned) | 入庫オーダー数の割合（累計） |  |
 | 累计单量 | Cumulative Order Volume | 累計オーダー件数 |  |
-| 红丝绒 | Red velvet | レッドベルベット |  |
+| 红丝绒 | Red velvet |  |  |
 | 红人设计师三坑 | Japanese School Uniforms, Lolita Dresses & Hanfu | ロリータ・JK・漢服ファッション |  |
 | 红冲发票 | Credit note | 赤伝票 |  |
 | 红线价 | Min. Sales Price | 最低販売価格 |  |
-| 纪梵希 | Givenchy | GIVENCHY |  |
+| 纪梵希 | Givenchy |  |  |
 | 纳税义务人 | Taxpayer | 納税義務者 |  |
 | 纳税人 | Taxpayer | 納税者 |  |
 | 纳税人识别号 | Taxpayer Identification Number | 納税者番号 |  |
@@ -3046,7 +3095,7 @@ Total unique terms: 4215
 | 纺织材质 | Textile material | 繊維素材 |  |
 | 纽扣 | Button | ボタン |  |
 | 纽扣-奢服 | Buttons - luxury apparel | ボタン-ラグジュアリーアパレル |  |
-| 纽扣衬衫 | Button Downs | ボタンシャツ |  |
+| 纽扣衬衫 | Button Downs | ボタンダウンシャツ |  |
 | 纽扣鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the button are worn or missing; unable to confirm whether the manufacturing is original | ボタンの鑑定ポイントに磨り減り・不備があるため、オリジナルの仕上がりであるかどうかを確認することは不可能です。 |  |
 | 线上充值 | Online top‑up | オンラインチャージ |  |
 | 线上鉴别 | Online Authentication | オンライン鑑定 |  |
@@ -3056,7 +3105,7 @@ Total unique terms: 4215
 | 组套 | Bundle | セット |  |
 | 组套费 | Kitting fee | セット商品の梱包料 |  |
 | 织物，无色差、勾丝断线、开线跳线、破洞、走线不良、起球、打结、接口不良 | Fabric: no color difference, snagged or broken threads, loose or skipped stitches, holes, poor stitching, pilling, knots, poor seam connection | 織物、色差や糸切れ、ほつれ、破れ、縫い付け作業上の不良箇所、毛玉、固まり、結び目不良などがない |  |
-| 经典款 | Classics | クラシックスタイル |  |
+| 经典款 | Classics | 定番アイテム |  |
 | 经典系列 | Iconic Archival | 定番シリーズ |  |
 | 经营产出 | Business Output | 経営成果 |  |
 | 经营分析 | Operations Overview | 運営分析 |  |
@@ -3075,7 +3124,7 @@ Total unique terms: 4215
 | 统一社会信用代码 | Unified Social Credit Code | 統一社会信用コード |  |
 | 绣花印花 | Embroidery and printing | 刺繍プリント |  |
 | 续件 | Each additional | 2件目以降 |  |
-| 缓震能力 | Cushioning | 衝撃吸収 |  |
+| 缓震能力 | Cushioning |  |  |
 | 编辑 | Edit | 編集 |  |
 | 缝线瑕疵 | Stitching defects | 縫い付け作業上の不良箇所あり |  |
 | 缩小 | Zoom out | 縮小 |  |
@@ -3220,7 +3269,8 @@ Total unique terms: 4215
 | 老鞋 | Shoes too old | 製造ロットが古いシューズ |  |
 | 耐心 | Patient/Patience | 辛抱強い・忍耐 |  |
 | 耐用性 | Durability | 耐久性 |  |
-| 耐磨性 | Abrasion resistance | 耐摩耗性 |  |
+| 耐磨性 | Abrasion resistance |  |  |
+| 耗材 | Consumables |  |  |
 | 耳堵-奢配 | Earplugs - luxury accessories | 耳栓-ラグジュアリーアクセサリー |  |
 | 耳堵鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the earplug are worn or missing; unable to confirm whether the manufacturing is original | 耳栓の鑑定ポイントに磨り減り・不備があるため、オリジナルの仕上がりであるかどうかを確認することは不可能です。 |  |
 | 耳塞不配套 | Mismatched earplugs | 耳栓が一致しません |  |
@@ -3234,11 +3284,11 @@ Total unique terms: 4215
 | 联系方式 | Contact | ご連絡先 |  |
 | 联系货主 | I'm interested | 販売者に連絡 |  |
 | 联邦快递 | FedEx | FedEx |  |
-| 肤感 | Skin feel | 肌触り |  |
+| 肤感 | Skin feel |  |  |
 | 肩带 | Shoulder Strap | ショルダーベルト |  |
 | 肩带侧面油边 | Shoulder strap paint edge (side) | ショルダーベルト側面のエッジペイント |  |
 | 肩带搭扣 | Shoulder strap buckle | ショルダーベルトのバックル |  |
-| 肩带款式 | Strap style | ストラップスタイル |  |
+| 肩带款式 | Strap style |  |  |
 | 肩带瑕疵 | Shoulder strap defects | 肩ひも瑕疵品 |  |
 | 肩带皮环 | Shoulder strap leather loops | ショルダーベルトのレザーリング |  |
 | 肩带金属 | Shoulder strap hardware | ショルダーベルトの金属 |  |
@@ -3283,7 +3333,7 @@ Total unique terms: 4215
 | 自提点取货 | Pickup | 直接受取 |  |
 | 自有物流违规 | Seller-Designated Logistics Issues | 出品者手配の配送業者の規則違反 |  |
 | 自有编码 | Seller SKU ID | 既存コード |  |
-| 自营仓 | POIZON Warehouse | POIZON倉庫 |  |
+| 自营仓 | POIZON Warehouse |  |  |
 | 自营配 | POIZON Delivery Service | POIZONによるデリバリーサービス |  |
 | 自行车 | Bicycles | 自転車 |  |
 | 自送到仓 | Self-delivery to warehouse | 倉庫へのセルフデリバリー |  |
@@ -3309,14 +3359,14 @@ Total unique terms: 4215
 | 芯片 | Chip | チップ |  |
 | 芯片缺失 | Missing chip | チップの不備 |  |
 | 芯片问题 | Chip issues | チップの問題 |  |
-| 花卉绿植 | Flowers & Plants | 植物 |  |
+| 花卉绿植 | Flowers & Plants |  |  |
 | 英文 | English | 英語 |  |
 | 英镑 | GBP | GBP |  |
 | 营业执照 | Business license | 営業許可証 |  |
 | 营销规则 | Promotion Policy | マーケティングポリシー |  |
 | 蒸发 | Evaporation | 蒸発 |  |
 | 蓝海 | Blue Ocean | ブルーオーシャン |  |
-| 蓝牙测试 | Bluetooth test | Bluetoothテスト |  |
+| 蓝牙测试 | Bluetooth test |  |  |
 | 虚假发货 | Fraudulent shipment | 空発送 |  |
 | 虚假发货投诉率 | Fraudulent Shipment Complaint Rate | 空発送クレーム率 |  |
 | 虚假发货率 | Fraudulent Shipment Rate | 空発送率 |  |
@@ -3417,7 +3467,7 @@ Total unique terms: 4215
 | 袖子-奢服 | Sleeve - luxury apparel | 袖‐ラグジュアリーアパレル |  |
 | 袜口 | Sock Cuff | 靴下の口ゴム部 |  |
 | 袜底 | Sock sole | 靴下のフット部 |  |
-| 袜长 | Sock length | ソックス丈 |  |
+| 袜长 | Sock length |  |  |
 | 裂痕 | Crack | ひび割れ |  |
 | 装反 | Assembly in reverse | 逆向き装着 |  |
 | 装箱列表 | Packing list |  |  |
@@ -3426,18 +3476,17 @@ Total unique terms: 4215
 | 裙腰 | Skirt waistband | スカートのウエスト |  |
 | 裙身 | Skirt body | スカートの身頃 |  |
 | 裙边 | Skirt hem | スカートの縁 |  |
-| 裙长 | Length (Skirt) | 丈（スカート） |  |
+| 裙长 | Length (Skirt) |  |  |
 | 裤脚 | Leg opening | 裾幅 |  |
 | 裤腰 | Waistband | ズボンのウエスト |  |
 | 裤腿 | Pant legs | 脇丈 |  |
 | 裤身 | Trouser Legs | ズボンの身頃 |  |
 | 裤长 | Length (Pant) | 丈（パンツ） |  |
-| 裤长  | Inseam  | 着丈 |  |
 | 褪色 | Fading | 色褪せ |  |
 | 褶皱 | Wrinkles | シワ |  |
 | 褶皱&变形 | Wrinkles & deformation | シワ&変形 |  |
 | 褶皱变形 | Wrinkles & Deformation | シワ・変形 |  |
-| 西装外套 | Blazers | スーツジャケット |  |
+| 西装外套 | Blazers |  |  |
 | 见单采 | Direct Shipping (purchase-to-fulfill) | 受注後仕入商品 |  |
 | 规则 | Policy | ルール |  |
 | 规格 | Spec | 仕様 |  |
@@ -3446,7 +3495,7 @@ Total unique terms: 4215
 | 规格不符（未激活） | Mismatched spec (not activated) | 仕様不一致（アクティベート待ち） |  |
 | 规格不符（预激活） | Mismatched spec (pre-activated) | 仕様不一致（プリアクティベート） |  |
 | 规格型号不符 | Mismatched spec or model | 仕様・型番不一致 |  |
-| 规格核对 | Spec verification | 仕様確認 |  |
+| 规格核对 | Spec verification |  |  |
 | 视频申请 | Request video footage |  |  |
 | 解绑 | Disconnect | 解除 |  |
 | 计费类型 | Billing Category | 請求カテゴリ |  |
@@ -3455,8 +3504,10 @@ Total unique terms: 4215
 | 订单 | Order | オーダー |  |
 | 订单发货数 | Order Volume_Shipped | オーダー発送数 |  |
 | 订单取消 | Order Cancellation | オーダーキャンセル |  |
+| 订单取消转寄售 | Resale via Consignment (Buyer Cancellation) |  |  |
 | 订单号 | Order number | オーダー番号 |  |
 | 订单增速 | Order Vol. Growth | オーダー増加率 |  |
+| 订单总金额 | Order total |  |  |
 | 订单管理 | Order Management | オーダー管理 |  |
 | 订金 | Deposit | 保証金 |  |
 | 记录 | History | 履歴 |  |
@@ -3468,10 +3519,10 @@ Total unique terms: 4215
 | 证书 | Certificate | 証明書 |  |
 | 证书不符 | Certificate does not match | 証明書が一致しません |  |
 | 评分卡牌 | Graded Cards | 評価済カード |  |
-| 试用装 | Trial | トライアル品 |  |
+| 试用装 | Trial |  |  |
 | 试穿/试戴痕迹 | Traces of try-on/wear | 着用／使用した形跡 |  |
 | 试穿痕迹 | Traces of try-on | 試着跡あり |  |
-| 试衣间 | Fitting room | 試着室 |  |
+| 试衣间 | Fitting room |  |  |
 | 询问图 | Buy-asked photo |  |  |
 | 询问运营 | Contact us | POIZONへのお問い合わせ |  |
 | 该商品免开箱 | No-open inspection |  |  |
@@ -3497,6 +3548,7 @@ Total unique terms: 4215
 | 账扣 | Deduct from future payouts | 引き落とし |  |
 | 账期 | Payout period | 決済周期 |  |
 | 货不对板 | Incorrect Item | 商品不一致 |  |
+| 货不对板转寄售 | Resale via Consignment (Wrong Item Error) |  |  |
 | 货不对版 | Incorrect Item | 商品不一致 |  |
 | 货不对版转寄售 | Resale via Consignment (Incorrect Item) | 商品不一致による事前入庫販売切替 |  |
 | 货代换单费 | B/L exchange service (to D/O) by freight forwarder | 通関代理D/O発行手数料 |  |
@@ -3508,7 +3560,7 @@ Total unique terms: 4215
 | 货号不符 | Mismatched article number/style ID | 商品番号不一致 |  |
 | 货号与型号不符 | Mismatched article number/style ID | 商品番号は型番と一致しない |  |
 | 货号与订单不符 | Mismatched article number/style ID | 商品番号とオーダーの不一致 |  |
-| 货号核对 | Style ID verification | 商品番号確認 |  |
+| 货号核对 | Style ID verification |  |  |
 | 货品机会盘点 | Inventory Evaluation | 市場分析 |  |
 | 货币 | Currency | 通貨 |  |
 | 质地 | Texture | 生地 |  |
@@ -3518,6 +3570,7 @@ Total unique terms: 4215
 | 质检提效 | Express QC Service | 迅速な検査 |  |
 | 质检提效服务费 | Express QC fee | 迅速検査料 |  |
 | 质检提效轻暇物流费 | Express QC - defective item return shipping fee | 迅速な検査によるB級品配送料 |  |
+| 质疑真假（使用后） | Authenticity concerns after use |  |  |
 | 质量保证 | Quality Assurance | 品質保証（QA） |  |
 | 质量瑕疵问题 | Quality issues | 商品に不良箇所があります |  |
 | 质量问题投诉率 | Quality Issue Complaint Rate | 品質問題に関するクレーム率 |  |
@@ -3538,7 +3591,7 @@ Total unique terms: 4215
 | 贴纸遮挡 | Obscured sticker | ステッカーがブロックされています |  |
 | 贴纸遮挡重要信息 | Important info obscured by sticker | シールによる重要情報の遮蔽 |  |
 | 贴纸非原配 | Non-original sticker | 非オリジナルのシール |  |
-| 贴身度 | Next-to-skin fit | 肌に密着したフィット感 |  |
+| 贴身度 | Next-to-skin fit |  |  |
 | 贵品 | High-value |  |  |
 | 贸易 | Business Seller | 企業出品者 |  |
 | 贸易主体 | Trade Entity | POIZON現地越境EC企業 |  |
@@ -3562,6 +3615,9 @@ Total unique terms: 4215
 | 起毛起球 | Pilling and fluffing | ピリング/毛玉 |  |
 | 起泡 | Blistering | 発泡 |  |
 | 起球 | Pilling | ピリング |  |
+| 起订数量 | MOQ |  |  |
+| 起订最低SPU数量 | Min. SPU count |  |  |
+| 起订金额 | MOA |  |  |
 | 超出效期要求 | Exceeds expiration requirements | 有効期限超過 |  |
 | 超头部卖家 | Hyper-tier Seller | 超トップセラー |  |
 | 超底部卖家 | Long tail-tier Seller | 超小規模セラー |  |
@@ -3586,7 +3642,7 @@ Total unique terms: 4215
 | 身份证 | Resident ID | 身分証明書 |  |
 | 身份证件发件地 | ID issuing country/region | 身分証明書の発行国・地域 |  |
 | 身份证号 | Resident ID number | 身分証明書番号 |  |
-| 身份证明文件 | Identity-Veifing Documents | 本人確認書類 |  |
+| 身份证明文件 | Identity-Verifying Documents | 本人確認書類 |  |
 | 车 | Auto Parts & Accessories | 車 |  |
 | 车缝瑕疵 | Stitching defects | 縫製不良 |  |
 | 车船衔接费  | Vessel-to-yard transfer fee | 車両および船舶の連携処理料 |  |
@@ -3648,6 +3704,7 @@ Total unique terms: 4215
 | 返利 | Rebate | リベート |  |
 | 返架 | Restock |  |  |
 | 返架单 | Restock ticket |  |  |
+| 还价单量 | Active Bids |  |  |
 | 进口 | Import | 輸入 |  |
 | 进口关税 | Import Duties | 輸入関税 |  |
 | 进口清关中 | Import customs-In progress | 輸入通関中 |  |
@@ -3663,7 +3720,7 @@ Total unique terms: 4215
 | 连接处 | Junction | 接続部 |  |
 | 连续15天未动销 | No sales for 15 days | 15日以上未販売 |  |
 | 连续30天未动销 | No sales for 30 days | 30日以上未販売 |  |
-| 迪奥 | Dior | DIOR |  |
+| 迪奥 | Dior |  |  |
 | 追踪单号 | Tracking Number | 追跡番号 |  |
 | 退出 | Exit |  |  |
 | 退款 | Refund | 返金 |  |
@@ -3671,7 +3728,7 @@ Total unique terms: 4215
 | 退货 | Return | 返品 |  |
 | 退货中心 | Returns Center | 返品センター |  |
 | 退货净满意度 | Net Satisfaction_Return Service | 返品正味満足者比率 |  |
-| 退货包运费 | Free return shipping | 返品送料無料 |  |
+| 退货包运费 | Free return shipping |  |  |
 | 退货单 | RMA |  |  |
 | 退货地址 | Return address | 返送先住所 |  |
 | 退货失败订单量占比 | Proportion of Return Failed Orders | 返品エラーオーダー数の割合 |  |
@@ -3688,13 +3745,13 @@ Total unique terms: 4215
 | 退货赔付GMV占比 | Reverse GMV Proportion | 返品返金商品（SKU）のGMVの割合 |  |
 | 退货运费 | Return Shipping Fee | 返品送料 |  |
 | 退货退款平均时长 | Average Return and Refund Time | 返品・返金平均所要時間 |  |
-| 送货上门 | Home delivery | 配送サービス |  |
+| 送货上门 | Home delivery |  |  |
 | 送货时效 | Delivery time | 商品配達期限 |  |
 | 适用人群 | Target user | 販売対象 |  |
-| 适用年龄 | Age suitability | 適用年齢層 |  |
-| 适用肤质 | Skin-friendly | 適用肌タイプ |  |
+| 适用年龄 | Age suitability |  |  |
+| 适用肤质 | Skin-friendly |  |  |
 | 适配包型 | Compatible bag style | 適用バッグタイプ |  |
-| 适配表类型 | Compatible watch type | 適用時計タイプ |  |
+| 适配表类型 | Compatible watch type |  |  |
 | 逆向 | Reverse | 逆方向（返品など） |  |
 | 逆向工程 | Reverse-Engineering | リバースエンジニアリング |  |
 | 逆向成本  | Reserved Warehousing Cost | 返品・返金による倉庫保管コスト |  |
@@ -3703,17 +3760,17 @@ Total unique terms: 4215
 | 选填 | Optional | 任意 |  |
 | 选定 | Selected | 選択 |  |
 | 选择 | Select | 選択 |  |
-| 透气性 | Breathability | 通気性 |  |
-| 透气性能 | Breathability | 通気性 |  |
+| 透气性 | Breathability |  |  |
+| 透气性能 | Breathability |  |  |
 | 通关固有编号 | Personal customs clearance code (PCCC) | 通関固有番号 |  |
 | 通用商品代码 | UPC | UPC |  |
 | 通用设置 | General Settings | 一般設定 |  |
 | 通知 | Notification | お知らせ |  |
 | 通过 | Pass | 通過 |  |
-| 速干性能 | Quick‑dry | 速乾性 |  |
+| 速干性能 | Quick‑dry |  |  |
 | 速邮达 | SYD Express | SYD Express |  |
 | 遮挡 | Information obscured | カバーされる |  |
-| 遮盖力 | Coverage | カバー力 |  |
+| 遮盖力 | Coverage |  |  |
 | 避免阳光直晒 | Keep Out of Direct Sunlight | 直射日光を避ける |  |
 | 邀约人 | Referrer | 紹介者 |  |
 | 邮件交流 | Email | メールでのやり取り |  |
@@ -3757,13 +3814,13 @@ Total unique terms: 4215
 | 采购价 | Declared Value | 仕入価格 |  |
 | 采购成本 | Purchase Cost | 仕入コスト |  |
 | 重奢 | High-End Luxury | ラグジュアリー |  |
-| 重奢/轻奢 | High-End / Affordable Luxury | ラグジュアリー/アフォーダブルラグジュアリー |  |
+| 重奢/轻奢 | High-End / Affordable Luxury | ラグジュアリー・ライトラグジュアリー |  |
 | 重奢线 | High-End Luxruy | ラグジュアリー |  |
 | 重度瑕疵 | Severely defective | 重度不良 |  |
 | 重拍 | Retake | 再撮影 |  |
 | 重新创建 | Re-initiate | 再作成 |  |
 | 重新开到 | Mark as received |  |  |
-| 重点参数 | Key Details | 主な情報 |  |
+| 重点参数 | Key Details |  |  |
 | 重瑕不可售 | Severely defective | 重度不良品（販売不可） |  |
 | 重瑕可售 | Moderately defective  | 重度不良品（販売可） |  |
 | 重要待办 | To-Do | ToDo |  |
@@ -3779,6 +3836,7 @@ Total unique terms: 4215
 | 鉴别不通过 | Authentication not pass | 鑑定不通過 |  |
 | 鉴别不通过取回数 | Retrieval Qty_Authentication Not Pass | 鑑定不通過の回収数 |  |
 | 鉴别为假 | Product is off | 偽物と鑑定されました |  |
+| 鉴别券 | Authentication credits |  |  |
 | 鉴别图 | Online authentication photo |  |  |
 | 鉴别异常积压商品库存数 | Backlog Inventory_Caused by Authentication Exceptions | 鑑定異常によるバックログ在庫数 |  |
 | 鉴别点缺失，不支持鉴别  | Authentication points are missing; unable to authenticate | 鑑定ポイントに不備があるため、鑑定できません |  |
@@ -3796,7 +3854,7 @@ Total unique terms: 4215
 | 钢印及其他标识瑕疵 | Steel stamp and other marking defects | 刻印及びその他マークに不良箇所があります |  |
 | 钢印损毁 | Steel stamp damaged | 靴箱の破損 |  |
 | 钥匙 | Key | 鍵 |  |
-| 钥匙扣 | Keychains | キーホルダー |  |
+| 钥匙扣 | Keychains |  |  |
 | 钱包 | Wallet | ウォレット |  |
 | 钻圈后装 | Post-mounted diamond-studded bezel | ダイヤモンドラップが後から付けられたものです |  |
 | 铆钉 | Rivet | リベット |  |
@@ -3836,7 +3894,7 @@ Total unique terms: 4215
 | 镶嵌物污渍 | Inlays stained | インレイの汚れ |  |
 | 镶嵌物鉴别点磨损缺失 | Inlay authentication points are worn or missing | インレイの鑑定ポイントに磨り減り・不備があります |  |
 | 长尾 | Long Tail | ロングテール |  |
-| 长款 | Long | ロング丈 |  |
+| 长款 | Long |  |  |
 | 长短不一 | Inconsistent lengths | 長さ不揃い |  |
 | 长裤 | Pants | ロングパンツ |  |
 | 门襟-奢服 | Placket - luxury apparel | 前立て-ラグジュアリーアパレル |  |
@@ -3846,7 +3904,7 @@ Total unique terms: 4215
 | 间接损害 | Consequential Damage | 間接損害 |  |
 | 间接支付订单uv/pv | Indirect Payment Orders UV/PV | 間接支払オーダーのUV・PV |  |
 | 闹钟不响 | Alarm fails to ring | 時計アラームが鳴りません |  |
-| 闹钟测试 | Alarm test | アラームテスト |  |
+| 闹钟测试 | Alarm test |  |  |
 | 阅读 | Read | 確認 |  |
 | 防伪 | Security seal |  |  |
 | 防伪复检 | Security seal & Re-check |  |  |
@@ -3866,14 +3924,14 @@ Total unique terms: 4215
 | 防尘袋污渍 | Dust bag stains | 防塵袋の汚れ |  |
 | 防尘袋破损 | Damaged dust bag | 防塵袋の破損 |  |
 | 防尘袋缺失 | Missing dust bag | 防塵袋不備 |  |
-| 防护效果 | Protection | 保護効果 |  |
-| 防护级别 | Protection level | 保護レベル |  |
+| 防护效果 | Protection |  |  |
+| 防护级别 | Protection level |  |  |
 | 防晒性能 | SPF | 紫外線カット |  |
 | 防止撞击 | Handle With Care | 衝撃注意 |  |
 | 防止腐蚀皮肤 | Corrosive. Avoid Skin Contact. | 警告！皮膚刺激 |  |
-| 防水性能 | Water resistance | 防水性 |  |
+| 防水性能 | Water resistance |  |  |
 | 防盗芯片 | Anti-theft chip | 防犯チップ |  |
-| 防风性能 | Wind resistance | 防風性 |  |
+| 防风性能 | Wind resistance |  |  |
 | 附件不匹配 | Mismatched accessories | 付属品不揃い |  |
 | 附件功能性问题 | Accessory functionality issues | 付属品機能問題 |  |
 | 附件功能问题 | Accessory functionality issues | 付属品機能上問題 |  |
@@ -3888,16 +3946,16 @@ Total unique terms: 4215
 | 隐私政策 | Privacy Policy | プライバシーポリシー |  |
 | 隐私权协议 | Privacy Policy | プライバシーポリシー |  |
 | 隧道费 | Tunnel toll fee | トンネル通行料 |  |
-| 雅诗兰黛 | Estée Lauder | Estée Lauder |  |
+| 雅诗兰黛 | Estée Lauder |  |  |
 | 集中到货积压 | Backlog Inventory_Caused by Centralized Arrival | 集中到着によるバックログ |  |
 | 集包 | Consolidation | 集約荷物 |  |
 | 集包发货面单 | Master carton label | まとめて発送用の送り状 |  |
 | 集包面单 | Master carton label | まとめ用の送り状 |  |
 | 集团知名 | Renowned Groups | 有名グループブランド |  |
-| 集团知名女装 | Women's Fashion Collectives | 有名なレディースウェアコレクション |  |
+| 集团知名女装 | Women's Fashion Collectives | 有名なのレディースブランド |  |
 | 集装箱 | Shipping container |  |  |
 | 雨衣 | Raincoat | レインコート |  |
-| 雪茄 | Cigars | 葉巻・シガー |  |
+| 雪茄 | Cigars |  |  |
 | 雪镜 | Snow Goggle | スキー・スノボ用ゴーグル |  |
 | 零件/商品磨损 | Parts/Product wear and tear | 部品/商品の磨耗があります |  |
 | 零件松动&做工瑕疵 | Loose parts & manufacturing defects | 部品の緩み&製造上の不良箇所あり |  |
@@ -3907,8 +3965,8 @@ Total unique terms: 4215
 | 零售 | Retail | 小売 |  |
 | 零售价 | Retail price | 小売価格 |  |
 | 零售商 | Retailer | 小売商 |  |
-| 零食/坚果/特产 | Snacks, Nuts & Specialties | おやつ・ナッツ・特産品 |  |
-| 雾化 | Fogging | くもり |  |
+| 零食/坚果/特产 | Snacks, Nuts & Specialties |  |  |
+| 雾化 | Fogging |  |  |
 | 需完整拍摄 | Need full picture | 全体撮影が必要 |  |
 | 需平铺商品 | Need flat lay | 平置き撮影が必要 |  |
 | 需拆封包装 | Need packaging opened | 包装開封撮影が必要 |  |
@@ -3924,7 +3982,7 @@ Total unique terms: 4215
 | 非全新 | Not brand new | 非新品 |  |
 | 非全新商品 | Not brand-new product | 新品でありません |  |
 | 非卖品 | Not for sale | 非売品 |  |
-| 非卖品字样 | Not for Sale | 非売品表記 |  |
+| 非卖品字样 | Not for Sale |  |  |
 | 非印刷logo | Non-printed logo | 非印刷ロゴ |  |
 | 非原装/不匹配 | Non-original/mismatched | 非純正/不一致 |  |
 | 非原装五金 | Non-original hardware | 非オリジナルの金具 |  |
@@ -4004,7 +4062,7 @@ Total unique terms: 4215
 | 非品牌原装链珠 | Non-original chain bead of the brand | 非ブランドオリジナルのチェーンビーズ |  |
 | 非品牌原装龙虾扣 | Non-original lobster clasp | 非ブランドオリジナルのロブスタークラスプ |  |
 | 非地区操作仓业务范围的货品 | Outside the regional warehouse’s operational scope | 地域倉庫の業務範囲外の商品 |  |
-| 非大促选品 | Non-Promoted Product | プロモーション対象外商品 |  |
+| 非大促选品 | Non-Promoted Product |  大型セール対象外商品 |  |
 | 非天然木作 | Non-natural wood | 木工品が天然でありません |  |
 | 非天然材质 | Synthetic materials | 材質が天然でありません |  |
 | 非天然玉石 | Non-natural jade | 宝石が天然でありません |  |
@@ -4035,8 +4093,8 @@ Total unique terms: 4215
 | 面单 | Shipping label | 送り状 |  |
 | 面料瑕疵 | Fabric defects | 生地に不良箇所あり |  |
 | 面膜 | Sheet mask | シートマスク |  |
-| 面霜 | Moisturizer | モイスチャライザー |  |
-| 靴筒高度 | Shaft height | ブーツ筒の高さ |  |
+| 面霜 | Moisturizer |  |  |
+| 靴筒高度 | Shaft height |  |  |
 | 鞋 | Shoes | シューズ |  |
 | 鞋/内外侧 | Shoe inner/outer side | 靴の内側と外側 |  |
 | 鞋与鞋盒不配套 | Box and shoes do not match | 靴と靴箱が一致しません |  |
@@ -4060,7 +4118,7 @@ Total unique terms: 4215
 | 鞋带孔 | Shoelace holes | ハトメ |  |
 | 鞋带孔-奢鞋 | Shoelace holes - luxury shoes | ハトメ-ラグジュアリーシューズ |  |
 | 鞋带孔数量不一 | Inconsistent number of shoelace holes | 靴紐の穴の数が違う |  |
-| 鞋带扣 | Shoelace lock | シューレースロック |  |
+| 鞋带扣 | Shoelace lock |  |  |
 | 鞋底 | Outsole | 靴底 |  |
 | 鞋底-奢鞋 | Outsole - luxury shoes | アウトソール-ラグジュアリーシューズ |  |
 | 鞋底喷漆 | Painted outsole | 靴底塗装 |  |
@@ -4071,7 +4129,7 @@ Total unique terms: 4215
 | 鞋标破损 | Size label damaged | 靴ラベル破損 |  |
 | 鞋标磨损/涂改 | Worn/altered shoe label | シューズラベルの磨損/落書き |  |
 | 鞋标（尺码标）-奢鞋 | Shoe label (size label) - luxury shoes | 靴のラベル（サイズラベル）-高級シューズ |  |
-| 鞋楦宽度 | Shoe width | つま先幅 |  |
+| 鞋楦宽度 | Shoe width |  |  |
 | 鞋盒 | Shoe Box | 靴箱 |  |
 | 鞋盒-奢鞋 | Shoe box - luxury shoes | 靴箱-ラグジュアリーシューズ |  |
 | 鞋盒中度划痕 | Shoe box with moderate scratches | シューズボックスに擦過痕あり（中度） |  |
@@ -4080,7 +4138,7 @@ Total unique terms: 4215
 | 鞋盒侧标遮盖/涂改/缺失 | Shoe box side label covered/altered/missing | シューズボックスサイドラベルの遮蔽/改ざん/不備 |  |
 | 鞋盒压痕 | Shoe box indentations | 靴箱に圧痕あり |  |
 | 鞋盒合格证 | Shoe box conformity certificate | 靴箱合格証明書 |  |
-| 鞋盒套 | Shoe box sleeve | シューズボックス |  |
+| 鞋盒套 | Shoe box sleeve |  |  |
 | 鞋盒标签瑕疵 | Shoe box label defective | 靴箱タグに不良箇所があります |  |
 | 鞋盒标签缺失 | Missing shoe box label | 靴箱タグの不備 |  |
 | 鞋盒涂鸦/污渍 | Shoebox marks/stain | 靴箱上の落書き/汚れ |  |
@@ -4093,9 +4151,9 @@ Total unique terms: 4215
 | 鞋舌 | Tongue | シュータン |  |
 | 鞋舌-奢鞋 | Tongue - luxury shoes | シュータン-高級シューズ |  |
 | 鞋跟变形 | Heel deformation | 靴かかと部変形 |  |
-| 鞋身内侧 | Medial Quarter | シューズの内側 |  |
+| 鞋身内侧 | Medial Quarter |  |  |
 | 鞋身内外侧-奢鞋 | Shoe inner/outer side - luxury shoes | シューズ内外側-高級シューズ |  |
-| 鞋身外侧 | Lateral Quarter | シューズの外側 |  |
+| 鞋身外侧 | Lateral Quarter |  |  |
 | 鞋边 | Welt | 靴の縁 |  |
 | 鞋边-奢鞋 | Shoe edge - luxury shoes | フォクシングテープ-ラグジュアリーシューズ |  |
 | 鞋面 | Upper vamp | 靴の表面 |  |
@@ -4105,7 +4163,7 @@ Total unique terms: 4215
 | 韩国国税报送订单明细 | National Tax Service (Republic of Korea) | 韓国国税申告内容 |  |
 | 韩潮 | Korean Trends | 韓国トレンド |  |
 | 韩进快递 | Hanjin | Hanjin |  |
-| 音像 | Audio & Video | 音楽・映像 |  |
+| 音像 | Audio & Video |  |  |
 | 韵达国际 | UDA International | UDA Logistics |  |
 | 页面价 | Buy box | ページ表示価格 |  |
 | 顶盖凹陷 | Top cover dents | ボトルキャップの凹み |  |
@@ -4128,25 +4186,28 @@ Total unique terms: 4215
 | 预估出价 | Est. Listing Price | 予定出品価格 |  |
 | 预估税 | Estimate Tax | 予定納税 |  |
 | 预售 | Pre-Sale | 予約販売 |  |
+| 预检 | Pre-check |  |  |
 | 预激活时效要求 | Pre-activation time frame | プリアクティベーション期限要件 |  |
 | 预热中 | Upcoming | プレイベント開催中 |  |
 | 预约 | Schedule | 予約 |  |
 | 预约入库单号 | Inbound Order No. | 予約入庫リスト番号 |  |
 | 预览 | Preview | プレビュー |  |
+| 预计总收入 | Est. Total Payout |  |  |
 | 预计收入 | Est. payout | 売上金 |  |
+| 预计收入/件 | Est. Payout/Unit |  |  |
 | 预计离港时间 | Estimated time of departure | 出港予定日 |  |
 | 预计起飞时间 | Estimated takeoff time | 離陸予定日 |  |
 | 预质检 | Pre-QC | 事前品質検査 |  |
 | 领 | Collar | 衿 |  |
 | 领取 | ‌Claim | 獲得 |  |
 | 领口 | Collar | 襟ぐり |  |
-| 领子设计 | Collar style | 襟デザイン |  |
+| 领子设计 | Collar style |  |  |
 | 领标 | Collar label | 襟タグ |  |
 | 颈部按摩仪 | Neck Massagers | ネックマッサージャー |  |
 | 颗粒度 | Granularity | 粒度 |  |
 | 颜色 | Color | カラー |  |
 | 颜色不符 | Color does not match order details | 色の不一致 |  |
-| 颜色核对 | Color verification | カラー確認 |  |
+| 颜色核对 | Color verification |  |  |
 | 颜色瑕疵 | Color defects | カラーに不良箇所があります |  |
 | 颜色缺失 | Missing color | 色の不備 |  |
 | 额度紧张 | Almost Gone | 残りわずか |  |
@@ -4155,19 +4216,20 @@ Total unique terms: 4215
 | 飞书会议妙记 | Feishu/Lark Minutes | Feishu・Lark Minutes |  |
 | 飞纱（异色线/布疵） | Missing stitches (contrasting color/fabric defects) | 縫い外れ（糸の色違い・生地の欠陥） |  |
 | 飞纱（异色线、布疵） | Missing stitches (contrasting color, fabric defects) | 縫い外れ（糸の色違い・生地の欠陥） |  |
-| 飞翼 | Wings Logo | ウイングロゴ |  |
+| 飞翼 | Wings Logo |  |  |
 | 食品 | Food | 食品 |  |
 | 餐厨线 | Kitchen & Dining | キッチン＆ダイニング |  |
 | 饮料 | Beverage | 飲料 |  |
 | 饰物缝合不良，饰物错位 | Poor embellishment stitching or misalignment | オーナメントの縫製不良、オーナメントの位置ズレ |  |
 | 饼体/膏体瑕疵 | Powder/cream defect | パウダー/クリームの不良箇所 |  |
 | 饼体瑕疵 | Powder defects | パウダーに不良箇所あり |  |
+| 首单奖励 | First order bonus |  |  |
 | 首次出价sku数 | SKU Qty_First Listing | 初出品SKU数 |  |
 | 首次出价spu数 | SPU Qty_First Listing | 初出品SPU数 |  |
-| 首次出价个人商家数 | Individual Seller Qty_First-time Listing | 初出品個人出品者数 |  |
+| 首次出价个人商家数 | Individual Seller Qty_First-time Listing |  |  |
 | 首次出价企业卖家数 | Business Seller Qty_First-time Listing | 初出品企業出品者数 |  |
 | 首次出价卖家数 | Seller Qty_First-time Listing | 初出品出品者数 |  |
-| 首次出价满30天GMV | 30-Day GMV Since First Listing | 初出品から30日間のGMV |  |
+| 首次出价满30天GMV | 30-Day GMV Since First Listing |  |  |
 | 首次出价满30天日期 | 30th Day Since First Listing | 初出品から30日間の日付  |  |
 | 首次绑定收款账户 | Add payout account | 代金受取口座登録 |  |
 | 首页 | Homepage | ホームページ |  |
@@ -4179,9 +4241,9 @@ Total unique terms: 4215
 | 香港陆运拼车 | Road freight (HK) - LTL | 香港陸運（LTL） |  |
 | 香港陆运自送 | Road freight (HK) - drop-off | 香港陸運（セルフデリバリー） |  |
 | 马来西亚 | MY | マレーシア |  |
-| 马面裙 | Mamian Skirt | 馬面スカート |  |
-| 驳回待修改 | Revision Required | 差戻し（修正待ち） |  |
-| 驳回待重建 | Re-initiate Required | 差戻し（再作成待ち） |  |
+| 马面裙 | Mamian Skirt |  |  |
+| 驳回待修改 | Revision Required |  |  |
+| 驳回待重建 | Re-initiate Required |  |  |
 | 验证码 | Verification code | 認証コード |  |
 | 验酒器缺失/无法使用 | Missing/non-functional alcohol tester | ワインテスター不備・使用不可 |  |
 | 骑行运动 | Cycling Sports | サイクリング |  |
@@ -4197,7 +4259,7 @@ Total unique terms: 4215
 | 高端 | High-End | ハイエンド |  |
 | 高街 | Premium Streetwear | ストリートファッション |  |
 | 高街潮牌 | Premium Streetwear Brands | ラグジュアリーストリート |  |
-| 高调性 | High Profile | 高いプロフィール |  |
+| 高调性 | High Profile | ハイエンド感 |  |
 | 高需求 | high demand | 売れやすい価格 |  |
 | 魔术贴 | Velcro | マジックテープ |  |
 | 魔术贴/logo | Velcro/logo | マジックテープ/ロゴ |  |
@@ -4205,8 +4267,8 @@ Total unique terms: 4215
 | 魔术贴瑕疵 | Velcro defects | マジックテープに不良箇所あり |  |
 | 魔术贴错位 | Misaligned velcro | マジックテープの位置ずれ |  |
 | 鱼线 |  Fishing Line | 釣り糸 |  |
-| 鸿星尔克 | ERKE | Erke |  |
-| 黄金/珠宝/翡翠/玉石 | Gold, Jewelry, Jadeites & Jades | 黄金・ジュエリー・翡翠・玉石 |  |
+| 鸿星尔克 | ERKE |  |  |
+| 黄金/珠宝/翡翠/玉石 | Gold, Jewelry, Jadeites & Jades | ゴールド・ジュエリー・翡翠・玉石 |  |
 | 黄金珠宝 | Gold Jewelry | ゴールドジュエリー |  |
 | 黄金珠宝业务线 | Gold & Jewelry | ゴールドジュエリー |  |
 | 黑点/白点 | Black/white spots | 黒点/白点 |  |
@@ -4216,7 +4278,7 @@ Total unique terms: 4215
 | 黑猫 | Yamato Transport | ヤマト運輸 |  |
 | 黑猫宅急便 | Yamato Transport | ヤマト運輸 |  |
 | 默认地址 | Default address | デフォルトアドレス |  |
-| 默认续期 | Auto-Renew | 自動延長 |  |
+| 默认续期 | Auto-Renew |  |  |
 | 鼓包 | Bulge | ふくれ |  |
 | 鼻托 | Nose pad | 鼻パッド |  |
 | 龙虾扣 | Lobster clasp | ロブスタークラスプ |  |
