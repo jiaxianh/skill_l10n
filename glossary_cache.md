@@ -1,10 +1,10 @@
 ## POIZON Glossary (Cached)
 
-Last updated: 2026-06-23 06:16
+Last updated: 2026-06-24 06:14
 
-Sources: POIZON - User Facing (Legacy)'s Glossary (4340 terms), POIZON - Internal Facing's Glossary (295 terms), POIZON 商品词库 (31 terms)
+Sources: POIZON - User Facing (Legacy)'s Glossary (4366 terms), POIZON - Internal Facing's Glossary (295 terms), POIZON 商品词库 (31 terms)
 
-Total unique terms: 4358
+Total unique terms: 4384
 
 | Chinese | English | Japanese | Description |
 |---------|---------|----------|-------------|
@@ -40,6 +40,7 @@ Total unique terms: 4358
 | "色斑/色点,凹凸点或杂点" | "Color spots/color dots, raised or indented marks/specks" | 「色斑/色点/凸凹または不純物」 |  |
 | "花纸，喷漆、彩绘，喷砂，丝印等瑕疵 （表面处理，表面图案类）" | "Defects of decal, spray-painting, color painting, sandblasting, silkscreen printing, etc. (surface pattern and finish)" |  |  |
 | 0元保证金，10秒入驻 | Start selling in 10 seconds | 保証金0円！10秒で出店 |  |
+| 0元抽优惠券 | FREE DRAW | 無料抽選クーポン |  |
 | 0元抽奖 | Win It Free |  |  |
 | 0成本极速入驻  | Zero Deposit | 無料ですぐ出店 |  |
 | 120天以上库龄商品数量占比 | Product Proportion_Storage Age over 120 Days |  |  |
@@ -116,6 +117,7 @@ Total unique terms: 4358
 | GZCS | GZCS | GZCS |  |
 | HK | HK | 香港 |  |
 | HK仓 | HK Warehouse | 香港倉庫 |  |
+| HSCODE | HS Code |  |  |
 | ISV待新品审核 | ISV Awaiting New Item Review |  |  |
 | Italy-KA | Italy-KA | イタリア‐KA |  |
 | Italy-PKA | Italy-PKA | イタリア‐PKA |  |
@@ -212,7 +214,7 @@ Total unique terms: 4358
 | uvctr/pvctr | UVctr/PVctr |  |  |
 | 一品一商 | One-to-One | 1商品に1人のみ出品 |  |
 | 一品多商 | One-to-Many | 1商品に2人以上出品 |  |
-| 一次换单服务费 | First-time B/L exchange service (to D/O) | 初回B/L交換サービス料（B/L → D/O） |  |
+| 一次换单服务费 | First-time B/L exchange service (to D/O) |  |  |
 | 一级管理类目 | Primary Category | カテゴリー1 |  |
 | 一级类目 | Primary category | カテゴリー1 |  |
 | 一级责任部门 | Primary Department | 第一エリア |  |
@@ -221,6 +223,7 @@ Total unique terms: 4358
 | 一般贸易 | General trade | 一般貿易 |  |
 | 一销 | First-sale |  |  |
 | 一键出价 | List Shortcut | かんたん出品 |  |
+| 七天无理由退货 | 7-Day Hassle-Free Returns |  |  |
 | 万向轮 | Caster wheels | キャスター |  |
 | 三方账号 | External Accounts | 第三者アカウント |  |
 | 三级管理类目 | Tertiary Category | カテゴリー3 |  |
@@ -282,7 +285,7 @@ Total unique terms: 4358
 | 丢件 | Lost shipments | 紛失荷物 |  |
 | 两侧 | Both sides | 両側 |  |
 | 两侧/皮质吊牌 | Both sides/leather hangtag | 両側/革タグ |  |
-| 两步申报 | Consolidated declaration | 2段階申告 |  |
+| 两步申报 | Consolidated declaration |  |  |
 | 个人 | Individual Seller | 個人 |  |
 | 个人卖家 | Individual Seller | 個人出品者 |  |
 | 个人商家GMV占比 | GMV Proportion_Individual Seller |  |  |
@@ -361,7 +364,7 @@ Total unique terms: 4358
 | 争议 | Dispute | 争議 |  |
 | 二手完美 | Pre-Owned Excellent | 新古品 |  |
 | 二次元 | ACGN | サブカル |  |
-| 二次换单服务费 | Secondary B/L exchange service (to D/O) | 二回目B/L交換サービス料（B/L → D/O） |  |
+| 二次换单服务费 | Secondary B/L exchange service (to D/O) |  |  |
 | 二次来货 | Second stock | 重複倉庫到着（二回） |  |
 | 二级管理类目 | Secondary Category | カテゴリー2 |  |
 | 二级类目 | Secondary category | カテゴリー2 |  |
@@ -422,7 +425,7 @@ Total unique terms: 4358
 | 仓储费补贴 | Storage fee subsidy | 倉庫保管料補助金 |  |
 | 仓储费返还 | Storage fee refund |  |  |
 | 仓内上架数（正品） | Published Product Qty (Consigned) |  |  |
-| 仓内增值服务费 | In-warehouse value-added service fee | 倉庫内オプションサービス料 |  |
+| 仓内增值服务费 | In-warehouse value-added service fee |  |  |
 | 仓内少货 | In-warehouse shortage | 倉庫内商品不足 |  |
 | 仓内待上架 | Product Qty_To be Published | 倉庫内掲載待ち |  |
 | 仓内拣货完成 | Picking completed |  |  |
@@ -434,6 +437,7 @@ Total unique terms: 4358
 | 仓库处理 | Warehouse Processing |  |  |
 | 仓库多收 | Overage | 在庫数量超過 |  |
 | 仓库已收货 | Received at POIZON | 倉庫商品受領済 |  |
+| 仓库打包中 | Packing |  |  |
 | 仓库拣货 | Pick & Pack |  |  |
 | 仓库未收 | Shortage | 倉庫未受取 |  |
 | 仓库费 | Storage Fee | 倉庫保管料 |  |
@@ -445,7 +449,7 @@ Total unique terms: 4358
 | 代发 | Defects Forwarding | 発送代行 |  |
 | 代备案代拍照 | POIZON Declaration & Photo-Taking | POIZON申請代行・撮影代行 |  |
 | 代备案服务 | POIZON Declaration Service | 申請代行サービス |  |
-| 代备案（不含拍照） | POIZON declaration service (excl. photography) | 代理登録（撮影なし） |  |
+| 代备案（不含拍照） | POIZON declaration service (excl. photography) |  |  |
 | 代收代付税费 | Tax collected & remitted on your behalf | 代行税金 |  |
 | 代理行 | Correspondent bank | 代理銀行 |  |
 | 以旧换新 | Trade-in |  |  |
@@ -510,7 +514,7 @@ Total unique terms: 4358
 | 低价sku的国际gmv | POIZON GMV_Competitive SKU |  |  |
 | 低价sku的大盘gmv | Overall GMV_Competitive SKU |  |  |
 | 低库存 | Low stock | 在庫わずか |  |
-| 低硫费  | Low sulfur surcharge | 低硫黄燃料追加料 |  |
+| 低硫费  | Low sulfur surcharge |  |  |
 | 低竞争 | Low Competition | 競争が少ない |  |
 | 低至 | As low as | に下がる |  |
 | 佐川急便 | Sagawa Express | 佐川急便 |  |
@@ -584,19 +588,19 @@ Total unique terms: 4358
 | 保税免鉴直发 | Bonded Direct Shipping | 特例鑑定商品直送（保税） |  |
 | 保税入仓 | Bonded Consignment | 保税入庫 |  |
 | 保税入仓GMV | GMV (Bonded) | 保税入庫GMV |  |
-| 保税入仓未履约罚款 | Bonded Non-Fulfillment Penalty | 保税入庫未履行違約金 |  |
+| 保税入仓未履约罚款 | Bonded Non-Fulfillment Penalty |  |  |
 | 保税区 | Bonded Area | 保税地域 |  |
 | 保税品牌直发 | Direct Shipping (Bonded Brand) | 保税ブランド直送 |  |
 | 保税商品 | Bonded Item | 保税品 |  |
 | 保税备货请求 | Bonded Request Order | 保税入庫申込 |  |
 | 保税微瑕服务 | Bonded New with Defects | 保税B級品サービス |  |
-| 保税无暇自动出价 | Auto-Listing Eligible Bonded Returns | 自動出品（保税不良箇所なし） |  |
+| 保税无暇自动出价 | Auto-Listing Eligible Bonded Returns |  |  |
 | 保税瑕疵修复服务 | Defect Fix (Bonded Warehouse) | 保税B級品修理サービス |  |
 | 保税直发 | Direct Shipping (Bonded) | 保税直送 |  |
 | 保税直发GMV | GMV (Bonded Direct Shipping) | 保税直送GMV |  |
 | 保税见单采 | Bonded Direct Shipping (purchase-to-fulfill) | 受注後仕入商品（保税） |  |
 | 保税规则 | Bonded Policy | 保税ルール |  |
-| 保税调拨 | Bonded transfer service fee | 保税倉庫間運送 |  |
+| 保税调拨 | Bonded transfer service fee |  |  |
 | 保证金 | Security deposit | 保証金 |  |
 | 保证金待充值 | Top-up security deposit | 保証金チャージ待ち |  |
 | 保证金缴纳方式 | Security Deposit Payment Method | 保証金支払方法 |  |
@@ -642,6 +646,7 @@ Total unique terms: 4358
 | 储蓄账户 | Savings account | 普通預金 |  |
 | 充值 | Top up | チャージ |  |
 | 充值专享 | Recharge Exclusive |  |  |
+| 充值折扣 | Volume Discounts |  |  |
 | 充电器 | Chargers | 充電器 |  |
 | 充电器/数据线 | Charger/USB Cable | 充電器/充電ケーブル |  |
 | 充电测试 | Charging test |  |  |
@@ -758,9 +763,9 @@ Total unique terms: 4358
 | 其他 | Other | その他 |  |
 | 其他功能配件 | Other functional accessories | その他機能付属品 |  |
 | 其他场次 | Other Draws |  |  |
-| 其他增值服务费 | Other value-added service fee | その他オプションサービス料 |  |
+| 其他增值服务费 | Other value-added service fee |  |  |
 | 其他异常积压商品库存数 | Backlog Inventory_Caused by Other Exceptions |  |  |
-| 其他理货上架所需服务收费 | Other inbound inspection fee | その他の検品・棚入れ関連サービス料 |  |
+| 其他理货上架所需服务收费 | Other inbound inspection fee |  |  |
 | 其他类型调账 | Other adjustments | その他の調整 |  |
 | 其他运动 | Other Sports | スポーツ（その他） |  |
 | 其他部位 | Other parts | その他の部位 |  |
@@ -846,9 +851,12 @@ Total unique terms: 4358
 | 出口申报委任书 | Export power of attorney | 輸出申告委任状 |  |
 | 出口许可证 | Export license/permit | 輸出許可証 |  |
 | 出口货主通关编码 | Exporter identification number | 輸出者識別番号 |  |
-| 出库 | Shipped | 出庫 |  |
+| 出库 | Shipping | 出庫 |  |
+| 出库中 | Preparing to ship |  |  |
 | 出库单 | Outbound Order | 出庫リスト |  |
+| 出库单已创建 | Outbound order created |  |  |
 | 出库及时率 | Outbound Timeliness |  |  |
+| 出库完成 | Shipped |  |  |
 | 出料口 | Dispensing Outlet | 排出口 |  |
 | 出生日期 | Date of Birth | 生年月日 |  |
 | 出绒、钻绒 | Down leakage | ダウン製品羽毛抜け |  |
@@ -867,7 +875,7 @@ Total unique terms: 4358
 | 创建工单 | Create ticket |  |  |
 | 创建时间 | Creation Time / Created On | 作成日時 |  |
 | 初始化 | Initialize | 初期設定 |  |
-| 删单重报费 | Cancellation and re-declaration fee | 通関申告書の削除・再申告手数料 |  |
+| 删单重报费 | Cancellation and re-declaration fee |  |  |
 | 利润 | Profit | 利益 |  |
 | 利润更多 | Earn more | 収益がより高い |  |
 | 利润计算 | Profit Calc. | 利益シミュレーション |  |
@@ -881,7 +889,7 @@ Total unique terms: 4358
 | 到货异常积压商品库存数 | Backlog Inventory_Caused by Arrival Exceptions |  |  |
 | 到达 | Arrive | 到着 |  |
 | 到达出口口岸 | Arrived at export hub | 輸出拠点到着 |  |
-| 制标费 | Label printing fee | ラベル作成料 |  |
+| 制标费 | Label printing fee |  |  |
 | 刷头 | Brush Head | ブラシヘッド |  |
 | 刷新 | Refresh | 再読込 |  |
 | 券包 | Coupon Bundle | クーポンバンドル |  |
@@ -916,11 +924,12 @@ Total unique terms: 4358
 | 加价购商品 | Add-on Item | プレミアム購入製品 |  |
 | 加急单 | Expedited Order | 緊急オーダー |  |
 | 加急物流 | Expedited Shipping | 速達配送 |  |
+| 加急空运 | Express Air |  |  |
 | 加拍 | Additional shot |  |  |
 | 加拿大 | CAN | カナダ |  |
 | 加拿大仓 | CAN Warehouse | カナダ倉庫 |  |
 | 加拿大邮政 | Canada Post | カナダ郵便公社 |  |
-| 加班费 | Overtime pay | 残業代 |  |
+| 加班费 | Overtime pay |  |  |
 | 加绒款 | Fleece-lined |  |  |
 | 加装礼盒 | Gift box assembly | ギフトボックス追加包装 |  |
 | 加赠品及礼品卡 | Gift and gift card | 景品およびギフトカード追加 |  |
@@ -995,7 +1004,7 @@ Total unique terms: 4358
 | 包装重瑕 | Damaged Box | パッケージに重度の不良箇所あり |  |
 | 包装问题 | Packaging issues | 包装問題 |  |
 | 包裹 | Package | パッケージ |  |
-| 包裹内放赠品服务费 | Gift insertion service fee | 景品同梱サービス料 |  |
+| 包裹内放赠品服务费 | Gift insertion service fee |  |  |
 | 包裹性 | Lockdown |  |  |
 | 包裹维度 | Package Dimension | パッケージ寸法 |  |
 | 包身 | Bag body | バッグ本体 |  |
@@ -1062,7 +1071,7 @@ Total unique terms: 4358
 | 卖家首次出价时间 | First Listing Time_Seller |  |  |
 | 卖更多 | Sell more | 販売数アップ |  |
 | 博客列表 | The Blog |  |  |
-| 卡口登记费 | Customs checkpoint filling fee | ゲート登録料 |  |
+| 卡口登记费 | Customs checkpoint filling fee |  |  |
 | 卡扣 | Buckle | バックル |  |
 | 卡扣瑕疵 | Buckle defects | バックルの不良箇所 |  |
 | 卡片 | Card | カード |  |
@@ -1079,7 +1088,7 @@ Total unique terms: 4358
 | 印花缺失/破损 | Worn/missing prints | プリント不足/破損 |  |
 | 危害人身安全 | Hazardous to personal safety | 人身安全を脅かすもの |  |
 | 危险品 | Hazardous materials | 危険物 |  |
-| 危险品申报服务费 | Hazardous materials declaration fee | 危険物申告サービス料 |  |
+| 危险品申报服务费 | Hazardous materials declaration fee |  |  |
 | 危险标识 | Hazmat Warning | 危険物ラベル |  |
 | 危险种类 | Hazard Class |  |  |
 | 即将到期 | Near expiration | 期限間近 |  |
@@ -1137,7 +1146,7 @@ Total unique terms: 4358
 | 发货时效 | Shipping time | 発送期限 |  |
 | 发货申请被驳回 | Shipping request rejected | 発送申込不受理 |  |
 | 发货须知 | Shipping Requirements | 発送注意事項 |  |
-| 发起促销申请 | Apply for Promo | プロモーションを申込 |  |
+| 发起促销申请 | Apply for Promo |  |  |
 | 发霉 | Mold | カビ |  |
 | 发霉/霉变 | Mold | カビ・カビによる変質 |  |
 | 发霉潮湿 | Mold and dampness | カビ・湿気 |  |
@@ -1154,7 +1163,7 @@ Total unique terms: 4358
 | 变形/褶皱 | Deformation/wrinkles | 変形/シワ |  |
 | 变色 | Discoloration | 変色 |  |
 | 变质 | Deterioration | 劣化 |  |
-| 口岸查验服务费  | Port inspection service fee | 港湾検査サービス料 |  |
+| 口岸查验服务费  | Port inspection service fee |  |  |
 | 口岸查验费  | Port inspection fee | 港湾検査料 |  |
 | 口红 | Lipstick | リップ |  |
 | 口红融化 | Melted lipstick | 口紅が溶けています |  |
@@ -1173,6 +1182,7 @@ Total unique terms: 4358
 | 可搭配性 | Versatility |  |  |
 | 可见 | Visible | 表示 |  |
 | 可视内容物 | Visible contents | 見える内容物 |  |
+| 可负担的好货 | AFFORDABLE PREMIUM | お手頃で良質な商品 |  |
 | 可露出 | Visible | 表示 |  |
 | 台湾 | CN-TW | 台湾 |  |
 | 合作买手店数量 | Boutique Qty |  |  |
@@ -1288,15 +1298,15 @@ Total unique terms: 4358
 | 商品外侧 | Outer side | 商品の外側 |  |
 | 商品外包装破损/缺失/污渍 | Packaging damaged/missing/stained |  |  |
 | 商品外包装褶皱 | Outer packaging wrinkles | 商品外箱にシワあり |  |
-| 商品外放物料 | Material Placement | 資材の分離同梱 |  |
-| 商品外放物料費 | Loose kitting fee | 資材の分離同梱料 |  |
+| 商品外放物料 | Material Placement |  |  |
+| 商品外放物料費 | Loose kitting fee |  |  |
 | 商品外表面 | Item exterior surface | 商品外部表面 |  |
 | 商品尺寸过小 | Product size is too small | 商品サイズが小さすぎます |  |
 | 商品序列号与外包装不符 | Serial number and outer packaging do not match | 商品と外装にあるシリアルナンバーが一致しません |  |
 | 商品开线 | Loose stitching | 商品のほつれ |  |
 | 商品影响使用 | Functionality issues | 商品の通常利用に影響あり |  |
 | 商品微瑕 | Good Item | 商品に微細な不良箇所あり |  |
-| 商品拍照 | Product photography fee | 商品写真撮影 |  |
+| 商品拍照 | Product photography fee |  |  |
 | 商品掉漆 | Item paint peeling | 商品の塗りがはげ落ちる |  |
 | 商品提前入库 | Fulfilled via consignment stock |  |  |
 | 商品搜索 | Item Search | 商品検索 |  |
@@ -1332,7 +1342,7 @@ Total unique terms: 4358
 | 商家C端补贴金额 | Buyer Side Subsidy Amount (from Seller) | 消費者特典金額（出品者負担） |  |
 | 商家C端补贴金额占比 | Buyer Side Subsidy Amount Proportion (from Seller) | 消費者特典金額の割合（出品者負担） |  |
 | 商家ID | Seller ID | 出品者ID |  |
-| 商家仓直发 | Direct Shipping (Bonded) | 直送（保税） |  |
+| 商家仓直发 | Direct Shipping (3PL Bonded Warehouse) | 直送（保税） |  |
 | 商家入驻协议 | POIZON Seller Agreement | 販売者契約 |  |
 | 商家分层 | Seller Statistics | セラーランク |  |
 | 商家后台 | Seller Dashboard | 出品者バックオフィス |  |
@@ -1450,7 +1460,7 @@ Total unique terms: 4358
 | 地区最低价 | Local lowest | 最低出品価格（ローカル） |  |
 | 地址簿 | Address Book | アドレス帳 |  |
 | 均码 | One Size |  |  |
-| 坏污箱费  | Damaged container repair & cleaning fee | 破損したコンテナの修理および清掃料 |  |
+| 坏污箱费  | Damaged container repair & cleaning fee |  |  |
 | 垫付费 | Advance payment fee | 仮払金・立替金 |  |
 | 垫肩 | Shoulder pads | 肩パッド |  |
 | 城市 | City | 都市 |  |
@@ -1464,7 +1474,7 @@ Total unique terms: 4358
 | 塑封膜/封条后封 | Post-sealed plastic film /sealing strip | ラミネートフィルム/シールは後から貼られたものです |  |
 | 塑封膜破损 | Damaged plastic film | プラスチックフィルムの破損 |  |
 | 塑封袋破损 | Damaged plastic sealed bag | ラミネートフィルムの破損 |  |
-| 塑封费 | Film-sealing fee | ラミネート加工料 |  |
+| 塑封费 | Film-sealing fee |  |  |
 | 塑形效果 | Shape & sculpt |  |  |
 | 塑料/玻璃 | Plastic/Glass | プラスチック/ガラス |  |
 | 塑料部件老化发黄 | Aged and yellowed plastic parts | プラスチック部品の老朽化、黄ばみ |  |
@@ -1478,6 +1488,7 @@ Total unique terms: 4358
 | 备案不通过 | Declaration Rejected | 申請不通過 |  |
 | 备案申请驳回 | Customs declaration rejected | 届出申込不受理 |  |
 | 备案通过 | Declaration Approved | 申請通過 |  |
+| 备案采购价 | Declared value |  |  |
 | 备用鞋带缺失 | Missing replacement shoelaces | 予備靴紐の不備 |  |
 | 备货单 | Stocklist | 倉庫保管可能商品リスト |  |
 | 备货量 | Stocking Qty | 入庫準備数量 |  |
@@ -1491,7 +1502,7 @@ Total unique terms: 4358
 | 复购用户数 | Buyer Qty_Repurchase (POIZON Global) |  |  |
 | 夏 | Summer | 夏 |  |
 | 夏季购 | Summer Sale |  |  |
-| 外仓费  | Offsite warehouse handling fee | 外部倉庫料 |  |
+| 外仓费  | Offsite warehouse handling fee |  |  |
 | 外包材 | Outer pack |  |  |
 | 外包装 | Outer packaging | 外装 |  |
 | 外包装/塑封膜破损 | Damaged outer packaging/plastic seal | 外装/ラミネートフィルム破損 |  |
@@ -1544,17 +1555,18 @@ Total unique terms: 4358
 | 多标&少标 | Redundant & missing labels | ラベルの余分&不足 |  |
 | 多标或少标 | Redundant/missing labels | ラベルの余分または不足 |  |
 | 多货 | Over shipped | 商品数量超過 |  |
-| 多货已核增 | Over shipment - customs verified | 数量過多 増量承認済み |  |
-| 多货已补单 | Over shipment - supplemental order created | 数量過多 申告補填済み |  |
-| 多货待处理 | Over shipment - pending | 数量過多 処理待ち |  |
-| 多货核增 | Over shipment - customs verification | 数量過多分の追加補填 |  |
-| 多货核增补单 | Over shipment - customs verification | 数量過多分の追加補填 |  |
-| 多货申报补单 | Over shipment - supplemental order | 数量過多分の申告補填 |  |
+| 多货已核增 | Over shipment - customs verified |  |  |
+| 多货已补单 | Over shipment - supplemental order created |  |  |
+| 多货待处理 | Over shipment - pending |  |  |
+| 多货核增 | Over shipment - customs verification |  |  |
+| 多货核增补单 | Over shipment - customs verification |  |  |
+| 多货申报补单 | Over shipment - supplemental order |  |  |
 | 多货转寄售 | Resale via Consignment (Over Shipment) | 誤発送（数量過多）品の事前入庫販売切替完了 |  |
 | 夜明珠污渍 | Night pearl stains | 夜明珠の汚れ |  |
 | 夜明珠瑕疵 | Night pearl defects | 夜明珠の不良 |  |
 | 大众 | Mass | マスブランド |  |
 | 大众潮流 | Mass Fashion | マスファッション |  |
+| 大促优惠 | BIG SALE |  |  |
 | 大家电 | Major Appliances | 大型家電 |  |
 | 大底 | Outsole | アウトソール |  |
 | 大盘GMV | Overall GMV | POIZON全体のGMV |  |
@@ -1738,7 +1750,7 @@ Total unique terms: 4358
 | 尾部 | Long tail | ロングテール |  |
 | 屏幕 | Screen | スクリーン |  |
 | 屏幕瑕疵 | Screen defects | スクリーンに不良箇所あり |  |
-| 属地查验服务费  | Local inspection service fee | 属地検査サービス料 |  |
+| 属地查验服务费  | Local inspection service fee |  |  |
 | 属地查验费  | Local inspection fee | 属地検査料 |  |
 | 履约 | Fulfillment | 履行 |  |
 | 履约GMV | GMV_Fulfilled | 履行GMV |  |
@@ -1790,6 +1802,7 @@ Total unique terms: 4358
 | 已匹配有库存SKU数 | Matched SKU Qty_In-Stock | マッチング済み、かつ有在庫SPU数 |  |
 | 已售罄 | Sold Out | 完売 |  |
 | 已开启 | ON | 通知設定済み |  |
+| 已打包完成 | Packed |  |  |
 | 已抢光 | Out of Stock | 在庫切れ |  |
 | 已抢完 | All Gone | 完売 |  |
 | 已拆封 | Opened | 開封済 |  |
@@ -2062,13 +2075,13 @@ Total unique terms: 4358
 | 打印机 | Printer | プリンター |  |
 | 打托 | Palletization |  |  |
 | 打托完成 | Palletization Complete |  |  |
-| 打托费 | Palletizing fee | パレタイジング作業料 |  |
+| 打托费 | Palletizing fee |  |  |
 | 打折 | Discount by | 割引 |  |
 | 打款失败 | Payout failed | 支払エラー |  |
 | 打款成功 | Payout successful | 支払済み |  |
 | 托唛 | Pallet mark | シッピングマーク |  |
 | 托盘 | Pallet |  |  |
-| 托盘费 | Pallet fee | パレット作業料 |  |
+| 托盘费 | Pallet fee |  |  |
 | 托管价 | Expected price | おまかせ出品価格 |  |
 | 托管出价 | POIZON Smart Listing | おまかせ出品 |  |
 | 托管在售 | Listed (Smart Listing) | おまかせ販売 |  |
@@ -2112,9 +2125,9 @@ Total unique terms: 4358
 | 护理补色 | Maintenance & recoloring | メンテナンスによる補色 |  |
 | 护肤/彩妆/香水/美妆工具 | Skincare, Makeup, Fragrances & Beauty Tools | スキンケア・メイクアップ・香水・コスメ |  |
 | 报关 | Customs Declaration | 通関 |  |
-| 报关单删单重报费  | Cancellation and re-declaration fee | 通関申告書の削除・再申告手数料 |  |
-| 报关单改单费  | Declaration amendment fee | 通関申告書の修正手数料 |  |
-| 报关单联单费 | Additional line item for customs declaration | 追加ページ料（通関申告書用） |  |
+| 报关单删单重报费  | Cancellation and re-declaration fee |  |  |
+| 报关单改单费  | Declaration amendment fee |  |  |
+| 报关单联单费 | Additional line item for customs declaration |  |  |
 | 报关授权书 | Customs clearance authorization letter | 通関授権書 |  |
 | 报关费 | Customs clearance fee | 通関手数料 |  |
 | 报销 | Reimbursement | 還元 |  |
@@ -2124,10 +2137,10 @@ Total unique terms: 4358
 | 抽绳-奢服 | Drawstring - luxury apparel | ドローストリング-ラグジュアリーアパレル |  |
 | 抽绳/束绳瑕疵 | Drawstring/cord defects | ドローストリングに不良箇所あり |  |
 | 抽象 | Abstract Styles | 抽象表現主義 |  |
-| 拆套费 | De-kitting fee | セット商品の解梱料 |  |
+| 拆套费 | De-kitting fee |  |  |
 | 拆封查验 | QC with unpacking |  |  |
 | 拆封痕迹 | Traces of unsealing | 開封痕跡 |  |
-| 拆托费 | Depalletizing fee | デパレタイズ作業料 |  |
+| 拆托费 | Depalletizing fee |  |  |
 | 拆预包/拆套 | Unpack/Dekitting | 事前包装商品やセット商品の解梱 |  |
 | 拉杆 | Telescopic Handle | 引き伸ばしハンドル |  |
 | 拉链 | Zipper | ファスナー |  |
@@ -2173,6 +2186,7 @@ Total unique terms: 4358
 | 挂花，电镀不良 | Spotty plating, poor electroplating | ざらつき、メッキ不良 |  |
 | 挂饰板-奢配 | Display board - luxury accessories | パンチングボード-ラグジュアリーアクセサリー |  |
 | 指南 | Guide | ガイド |  |
+| 指定时间送达 | Time-definite delivery |  |  |
 | 指纹图 | Product fingerprint |  |  |
 | 指针 | Hands | 指針 |  |
 | 指针部位鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points on the hands are worn or missing; unable to confirm whether the manufacturing is original | 指針の鑑定ポイントに磨り減り・不備があるため、オリジナルの仕上がりであるかどうかを確認することは不可能です。 |  |
@@ -2203,12 +2217,12 @@ Total unique terms: 4358
 | 提交 | Submit | 送信 |  |
 | 提升您的风格。提升您的生活。 | ELEVATE YOUR STYLE. ELEVATE YOUR LIFE. | スタイルを格上げします。生活を格上げします。 |  |
 | 提报机会 | Stocking Invitations | 申請案件 |  |
-| 提派费 | Local pickup & delivery fee | ピックアップ・配送料 |  |
+| 提派费 | Local pickup & delivery fee |  |  |
 | 提示 | Reminder | ヒント |  |
 | 提货地址 | Pickup address | ピックアップ先住所 |  |
 | 提货方式 | Delivery options | ピックアップ方法 |  |
 | 提货码 | Pickup code | ピックアップコード |  |
-| 提送货登记停车费 | Parking fee | ピックアップ・配送時の駐車料 |  |
+| 提送货登记停车费 | Parking fee |  |  |
 | 提醒已取消 | Reminder Off | 通知解除済み |  |
 | 插件 | Plugins |  |  |
 | 揽收记录 | Pickup Scan | 集荷記録 |  |
@@ -2220,7 +2234,7 @@ Total unique terms: 4358
 | 摄影摄像 | Camera, Photo & Video | 撮影機材 |  |
 | 摆轮工艺偏差 | Deviation in balance wheel manufacturing | テンプの仕上がりが悪い |  |
 | 摩托车/电动车/装备配件 | Motorcycle & Electric Vehicle Gear and Parts |  |  |
-| 撕码费 | Label removal fee | ラベル剥がし料 |  |
+| 撕码费 | Label removal fee |  |  |
 | 撕裂 | Tear | 破れ |  |
 | 撤回费 | Retrieval Fee | 回収費用 |  |
 | 撬动痕迹 | Signs of prying | こじ開けた痕跡あり |  |
@@ -2262,7 +2276,7 @@ Total unique terms: 4358
 | 收货单 | Receipt # |  |  |
 | 收货地址 | Recipient Address | 商品お届け先（購入者住所） |  |
 | 收货速度净满意度 | Net Satisfaction_Delivery Timeliness | 商品受領スピード正味満足者比率 |  |
-| 改/拆舱单费  | Manifest amendment fee | 船荷証券の変更・分割料 |  |
+| 改/拆舱单费  | Manifest amendment fee |  |  |
 | 放大 | Zoom in | 拡大 |  |
 | 放货地点 | Drop off Location | ドロップオフ拠点 |  |
 | 政策 | Policy | ポリシー |  |
@@ -2289,7 +2303,7 @@ Total unique terms: 4358
 | 整体外观（鞋+鞋盒） | Overall appearance (shoes + shoe box) | 外観全体（シューズ＋靴箱） |  |
 | 整包补色 | Bag recoloring | バッグの補色 |  |
 | 整单卖 | Take-All | リスト全商品販売 |  |
-| 整合申报 | Summary declaration | 統合申告 |  |
+| 整合申报 | Summary declaration |  |  |
 | 文字 | Text | 文字 |  |
 | 文教用品 | Stationery | 文房具 |  |
 | 文玩玉翠业务线 | Antiques & Jade | アンティーク＆ストーン |  |
@@ -2309,7 +2323,7 @@ Total unique terms: 4358
 | 断货预警 | Out of stock alert | まもなく在庫切れ |  |
 | 新上架SPU数 | New Published SPU Qty | 新規掲載SKU数 |  |
 | 新上架商品差异spu数 | Number of New Unique SPUs Shelved on POIZON | 新規掲載商品POIZON Global限定SPU数（初回出品日） |  |
-| 新人权益 | Welcome Bonus | 新規登録者の権利利益 |  |
+| 新人权益 | WELCOME BONUS | 新規登録者の権利利益 |  |
 | 新出价次数 | New Listing Count | 新規出品回数 |  |
 | 新品 | New items | 新品 |  |
 | 新品上架sku数 | New Published SKU Qty | 新規掲載SKU数 |  |
@@ -2447,6 +2461,7 @@ Total unique terms: 4358
 | 显示器 | Monitors |  |  |
 | 显色度 | Color payoff | 発色 |  |
 | 晚到必赔 | Late Delivery Compensation | 配達遅延補償 |  |
+| 晚到必赔优惠券 | LATE-DELIVERY COMPENSATION | 遅延補償クーポン |  |
 | 普款 | General Releases |  |  |
 | 普通退货 |  Regular Returns | 通常返品 |  |
 | 智能定价闪电售出 | Sell Faster with Smart Pricing | スマートな価格設定で一瞬で売れる |  |
@@ -2506,7 +2521,7 @@ Total unique terms: 4358
 | 期末-单商家平均在线共有SKU数 | End-of-Period - Avg Common Listed SKU Qty per Seller | 期末時点の1出品者あたりの平均掲載済SKU（他チャネルにも出品あり）数 |  |
 | 期末-单商家平均在线国际差异化SKU数 | End-of-Period - Avg Unique Listed SKU Qty per seller | 期末時点の1出品者あたりの平均掲載済SKU（POIZON Global限定）数 |  |
 | 期货 | Incoming-stock goods | 先物 |  |
-| 木包装销毁费  | Wood packaging disposal fee | 木製梱包材廃棄処理料 |  |
+| 木包装销毁费  | Wood packaging disposal fee |  |  |
 | 未中奖 | Missed |  |  |
 | 未开到 | Mark as not received |  |  |
 | 未开始 | Upcoming | 準備中 |  |
@@ -2522,7 +2537,7 @@ Total unique terms: 4358
 | 本周积压商品库存数 | Backlog Inventory_Current Week |  |  |
 | 本周静置积压商品库存数 | Standing Backlog Inventory_Current Week |  |  |
 | 本地卖家销量 | Sales by Local Sellers | ローカル出品者販売数 |  |
-| 本地拖车费 | Local haulage fee | ローカルトレーラー料 |  |
+| 本地拖车费 | Local haulage fee |  |  |
 | 本地汇款 | Domestic transfer | ローカル送金 |  |
 | 本对本 | Local-to-local |  |  |
 | 本本 | Local-to-local |  |  |
@@ -2578,7 +2593,7 @@ Total unique terms: 4358
 | 检测露出情况 | Buy Box Status | 掲載チェック |  |
 | 植染 | Natural dye |  |  |
 | 楦宽 | Last width |  |  |
-| 概要申报费用 | Preliminary declaration fee | 概要申告料 |  |
+| 概要申报费用 | Preliminary declaration fee |  |  |
 | 概览 | Overview | 概要 |  |
 | 榜单 | Ranking | ランキング |  |
 | 模块 | Module | ページ |  |
@@ -2718,12 +2733,12 @@ Total unique terms: 4358
 | 浮层曝光日均uv | Daily Avg UV_Floating Layer Exposure  |  |  |
 | 海关 | Customs | 税関 |  |
 | 海关备案 | Customs Declaration | 税関届出 |  |
-| 海关查验-处置费 | Customs inspection - handling fee | 税関検査 - 処理手数料 |  |
-| 海关查验-报关费 | Customs inspection - customs clearance fee | 税関検査 - 通関手数料 |  |
+| 海关查验-处置费 | Customs inspection - handling fee |  |  |
+| 海关查验-报关费 | Customs inspection - customs clearance fee |  |  |
 | 海关正面清单 | Permitted Customs Brokers Listing | ポジティブリスト（越境ECによる販売可能な商品一覧リスト） |  |
-| 海关滞报金  | Customs late declaration penalty | 通関延滞金 |  |
+| 海关滞报金  | Customs late declaration penalty |  |  |
 | 海关账册 | Customs Entry | 税関帳簿 |  |
-| 海关金二册 | Customs Golden II account | 税関「金二冊」 |  |
+| 海关金二册 | Customs Golden II account |  |  |
 | 海外 | Overseas | 中国以外 |  |
 | 海外IP拉新 | Dewu seller with intl. IP | 海外(中国以外)のDewu出品者 |  |
 | 海外入仓GMV | GMV (Consignment) | 海外（中国以外）入庫GMV |  |
@@ -2734,10 +2749,10 @@ Total unique terms: 4358
 | 海外预售GMV | GMV (Pre-Sale) | 海外（中国以外）予約販売GMV |  |
 | 海运 | Sea freight | 海運 |  |
 | 海运拼箱 | Sea freight - LCL | 海運（LCL） |  |
-| 海运拼箱提货费  | Sea freight LCL cargo pickup fee | 海上混載(LCL)引取料 |  |
+| 海运拼箱提货费  | Sea freight LCL cargo pickup fee |  |  |
 | 海运整柜 | Sea freight - FCL | 海運（FCL） |  |
-| 海运港口基础作业包干费  | Lump-sum port terminal handling fee | 港湾基本作業一括料金 |  |
-| 海运附加费  | Sea freight surcharges | 海上輸送追加料 |  |
+| 海运港口基础作业包干费  | Lump-sum port terminal handling fee |  |  |
+| 海运附加费  | Sea freight surcharges |  |  |
 | 海量商机 | Massive Opportunities | 無限のビジネスチャンス |  |
 | 涂改 | Altered ticket | 改ざん |  |
 | 涂码 | Label obscured |  |  |
@@ -2751,7 +2766,7 @@ Total unique terms: 4358
 | 混合模式 | All-in-Hybrid  | ハイブリッドモデル |  |
 | 清关 | Customs Clearance | 通関 |  |
 | 清关审核驳回 | Customs Clearance Review Failed |  |  |
-| 清关报关费 | Customs clearance fee | 通関手数料 |  |
+| 清关报关费 | Customs clearance fee |  |  |
 | 清关费退回 | Customs clearance fee refund |  |  |
 | 清洁力度 | Clean power |  |  |
 | 清洁度 | Clean power | 清潔度 |  |
@@ -2771,7 +2786,7 @@ Total unique terms: 4358
 | 滋润版 | Moisturizing |  |  |
 | 滋补营养品 | Supplements |  |  |
 | 滞留 | Lab hold |  |  |
-| 滞箱费  | Demurrage charge | 滞船料 |  |
+| 滞箱费  | Demurrage charge |  |  |
 | 滞销品 | Slow-moving item | 滞留品 |  |
 | 滞销库存 | Slow-moving inventory | 滞留在庫 |  |
 | 漏拍 | Missing shot |  |  |
@@ -2816,7 +2831,7 @@ Total unique terms: 4358
 | 热门新品精选 | New and Noteworthy |  |  |
 | 热门求购商品 | High-demand trending items |  |  |
 | 照片搜索 | Visual Search | 画像検索 |  |
-| 熏蒸费  | Fumigation processing fee | 燻蒸処理手数料 |  |
+| 熏蒸费  | Fumigation processing fee |  |  |
 | 爬虫 | Crawler |  |  |
 | 版型 | Cut & fit | スタイル |  |
 | 版本不符 | Mismatched version | バージョン不一致 |  |
@@ -2828,18 +2843,19 @@ Total unique terms: 4358
 | 版本问题 | Version issue | バージョンの問題 |  |
 | 牛仔裤 | Jeans | ジーンズ |  |
 | 物料加工 | Material processing | 資材加工 |  |
-| 物料加工费 | Material processing fee | 資材加工作業料 |  |
+| 物料加工费 | Material processing fee |  |  |
 | 物料组套 | Material kitting | 資材セット |  |
-| 物料组套费 | Material kitting fee | 資材セット構成品の組立料 |  |
+| 物料组套费 | Material kitting fee |  |  |
 | 物流体验投诉率 | Shipping Experience Complaint Rate | 配送に関するクレーム率 |  |
 | 物流信息 | Tracking Info | 配送情報 |  |
 | 物流公司 | Logistics carrier | 配送業者 |  |
 | 物流单号 | Tracking No. | 送り状番号 |  |
 | 物流揽收时效 | Pickup Scan Time | 商品発送期限 |  |
 | 物流时效投诉率 | Complaint Rate_Logistics Timeliness | 配送スケジュールに関するクレーム率 |  |
+| 物流费用 | Shipping Fee |  |  |
 | 物流轨迹抓取率 | Tracking Capture Rate | 配送追跡サービス付きオーダー率 |  |
 | 特殊包装 | Special pack |  |  |
-| 特殊商品理货费 | Inspection fee for exception handling | 特別商品検数料 |  |
+| 特殊商品理货费 | Inspection fee for exception handling |  |  |
 | 状况 | Condition | コンディション |  |
 | 状态 | Status | ステータス |  |
 | 独有gmv | GMV_Unique SPU & Unique SKUs in Common SPUs |  |  |
@@ -2870,7 +2886,7 @@ Total unique terms: 4358
 | 理货 | Inbound Inspection | 検数 |  |
 | 理货差异报告 | Inspection Report | 差異報告 |  |
 | 理货报告 | Inbound Inspection Report |  |  |
-| 理货费 | Inbound inspection fee | 検数手数料 |  |
+| 理货费 | Inbound inspection fee |  |  |
 | 瑕疵 | Defects | 不良箇所 |  |
 | 瑕疵不可售 | Defective Item (Not for Sale) | Ｂ級品(販売不可) |  |
 | 瑕疵业务管理 | New with Defects | B級品業務管理 |  |
@@ -2880,7 +2896,7 @@ Total unique terms: 4358
 | 瑕疵修复费 |  Defect fix fee (Bonded) | B級品修理費用 |  |
 | 瑕疵可售 | New with Defects | Ｂ級品(販売可) |  |
 | 瑕疵品 | New with Defects | Ｂ級品 |  |
-| 瑕疵品平台处理费 | Express QC - defective item handling fee | B級品プラットフォーム処理手数料 |  |
+| 瑕疵品平台处理费 | Express QC - defective item handling fee |  |  |
 | 瑕疵品销售 | New with Defects Service | B級品販売 |  |
 | 瑕疵定级 | Condition | 不良等級 |  |
 | 瑕疵影响查验 | Defects affecting authentication | 不良箇所は検査に影響します |  |
@@ -2932,7 +2948,7 @@ Total unique terms: 4358
 | 用户视角C端补贴金额 | Consumer End Subsidy Order Amount from User's Perspective | ユーザーから見た消費者特典金額 |  |
 | 用户视角C端补贴金额占比 | Buyer-Subsidised Order Amount Proportion (from buyers' perspective) | ユーザーから見た消費者特典金額の割合 |  |
 | 申报 | Declare | 申告 |  |
-| 申报模式 | Declaration Mode | 申告方式 |  |
+| 申报模式 | Declaration Mode |  |  |
 | 申诉 | Appeal | 申立 |  |
 | 申请新品 | Request new item | 新規商品登録申込 |  |
 | 申请退货退款订单量 | Actual Return Order Volume_Initiated by Buyer |  |  |
@@ -2978,7 +2994,7 @@ Total unique terms: 4358
 | 皲裂 | Cracks | 亀裂 |  |
 | 监管政策 | Regulation policies | 規制当局の政策 |  |
 | 监管政策（跨境商品仅限个人自用，不得再次销售） | Regulatory policy (cross-border items are for personal use only and cannot be resold) | 規制当局の政策（越境EC商品は個人使用のみ、転売不可） |  |
-| 监管部门处罚金  | Regulatory penalty | 監督機関の罰金 |  |
+| 监管部门处罚金  | Regulatory penalty |  |  |
 | 盒子 | Box | ボックス |  |
 | 盖子 | Cap | 蓋 |  |
 | 盘点LOGO | Inventory logo check | ロゴチェック棚卸 |  |
@@ -3016,8 +3032,8 @@ Total unique terms: 4358
 | 短款 | Short |  |  |
 | 短驳 | Cross-dock transfer |  |  |
 | 石英表电池没电或电量较低 | Quartz watch battery low or depleted | クオーツ時計のバッテリー切れまたはバッテリー残量低下 |  |
-| 码头插电费  | Refrigerated container power fee | 埠頭電気使用料 |  |
-| 码头操作费（THC）  | Terminal handling charge (THC) | ターミナルハンドリングチャージ（THC） |  |
+| 码头插电费  | Refrigerated container power fee |  |  |
+| 码头操作费（THC）  | Terminal handling charge (THC) |  |  |
 | 破损/磨损 | Damage/wear and tear | 破損・磨り減り |  |
 | 破损（主体，配件，包装） | Damage (main item, accessories, packaging) | 破損（本体、付属品、包装） |  |
 | 破损，起泡鼓包，起皮等 | Damage, blistering, bulging, peeling, etc. | 破損、膨張、剥がれなど |  |
@@ -3070,12 +3086,12 @@ Total unique terms: 4358
 | 积压量 | Backlog  |  |  |
 | 移除 | Remove | 削除 |  |
 | 稀缺溢价 | Premium Price (Scarcity) | プレミアム価格（品薄） |  |
-| 税务申报信息 | Tax Reporting Info | 税務申告関連情報 |  |
+| 税务申报信息 | Tax Filing Info | 税務申告関連情報 |  |
 | 税费 | Taxes | 税金 |  |
 | 税费占比 | Tax Proportion | 税金の割合 |  |
 | 空放费 | Empty trip fee | 空車回送料 |  |
-| 空港地面服务费  | Airport ground handling service fee | 空港地上サービス料 |  |
-| 空港超期仓储费  | Airport overtime storage fee | 空港の超過保管料 |  |
+| 空港地面服务费  | Airport ground handling service fee |  |  |
+| 空港超期仓储费  | Airport overtime storage fee |  |  |
 | 空运 | Air freight | 空輸 |  |
 | 穿孔 | Perforation | 穴あきあり |  |
 | 穿着/使用痕迹 | Traces of use | 着用・使用痕跡 |  |
@@ -3105,12 +3121,13 @@ Total unique terms: 4358
 | 第三方外链贴纸 | Third-party sticker | 第三者外部リンクシール |  |
 | 第二计量单位 | Secondary unit of measurement | 第二計量単位 |  |
 | 笼车 | Roll Cage |  |  |
-| 等候费 | Vehicle holding fee | 待機時間料 |  |
+| 等候费 | Vehicle holding fee |  |  |
 | 等待仓库收货 | On its way to POIZON | 倉庫商品受領待ち |  |
 | 等待开奖 | Pending Draw |  |  |
 | 筛选 | Filter | 絞り込み |  |
 | 筛选条件 | Filter criteria | 絞り込み条件 |  |
 | 签到 | Check-in | チェックイン |  |
+| 签收 | Delivered |  |  |
 | 签约主体 | Company | 契約（相手方）主体 |  |
 | 签约主体  | Company | 契約（相手方）主体 |  |
 | 签约企业商家数 | Business Seller Qty Registered |  |  |
@@ -3166,7 +3183,7 @@ Total unique terms: 4358
 | 线下缴纳 | Off-Platform Payment | オフライン支払 |  |
 | 线头 | Threads residue | 糸くず |  |
 | 组套 | Bundle | セット |  |
-| 组套费 | Kitting fee | セット商品の梱包料 |  |
+| 组套费 | Kitting fee |  |  |
 | 织物，无色差、勾丝断线、开线跳线、破洞、走线不良、起球、打结、接口不良 | Fabric: no color difference, snagged or broken threads, loose or skipped stitches, holes, poor stitching, pilling, knots, poor seam connection | 織物、色差や糸切れ、ほつれ、破れ、縫い付け作業上の不良箇所、毛玉、固まり、結び目不良などがない |  |
 | 经典款 | Classics |  |  |
 | 经典系列 | Iconic Archival | 定番シリーズ |  |
@@ -3329,7 +3346,6 @@ Total unique terms: 4358
 | 老品 | Existing items | 既存商品 |  |
 | 老商 | Existing sellers | 既存出品者 |  |
 | 老客 | Repurchasing |  |  |
-| 老鞋 | Shoes too old | 製造ロットが古いシューズ |  |
 | 耐心 | Patient/Patience | 辛抱強い・忍耐 |  |
 | 耐用性 | Durability | 耐久性 |  |
 | 耐磨性 | Abrasion resistance |  |  |
@@ -3381,6 +3397,7 @@ Total unique terms: 4358
 | 膏体杂质 | Powder impurities | クリームに不純物混入 |  |
 | 膏体瑕疵 | Cream defects | クリームの不良箇所 |  |
 | 膨胀 | Boost | アップ |  |
+| 膨胀券 | BOOSTED | お得アップクーポン |  |
 | 臀围 | Hips | ヒップ |  |
 | 自主出价 | Manual Listing | セルフ出品 |  |
 | 自主在售 | Listed (Manual Listing) | セルフ販売 |  |
@@ -3406,7 +3423,7 @@ Total unique terms: 4358
 | 舒适性 | Ventilation | 快適性 |  |
 | 航次号 | Voyage number | 航海番号 |  |
 | 航班号 | Flight number | 便名 |  |
-| 船司换单费 | B/L exchange service (to D/O) by carrier | 船会社D/O発行手数料 |  |
+| 船司换单费 | B/L exchange service (to D/O) by carrier |  |  |
 | 良品取回-操作服务费 | Returns processing fee (regular products) | 作業手数料‐通常商品の回収 |  |
 | 良好 | Good | 良 |  |
 | 色号 |  Shade | カラーコード |  |
@@ -3468,7 +3485,7 @@ Total unique terms: 4358
 | 补单不同意 | Replacement order declined | 補充オーダー失敗 |  |
 | 补单超时 | Replacement order timeout | 補充オーダー期限超過 |  |
 | 补发货单 | Supplementary shipping order | 補充商品発送リスト |  |
-| 补缴海关税费 | Short shipment tax/duty supplement | 関税の追加納税 |  |
+| 补缴海关税费 | Short shipment tax/duty supplement |  |  |
 | 补色 | Color touch-up |  |  |
 | 补货 | Restock | 在庫補充 |  |
 | 补货建议 | Restock Suggestion | 在庫補充推奨 |  |
@@ -3532,6 +3549,7 @@ Total unique terms: 4358
 | 袜口 | Sock Cuff | 靴下の口ゴム部 |  |
 | 袜底 | Sock sole | 靴下のフット部 |  |
 | 袜长 | Sock length |  |  |
+| 裂变优惠券 | REFERRAL REWARD | シェアクーポン |  |
 | 裂痕 | Crack | ひび割れ |  |
 | 装反 | Assembly in reverse | 逆向き装着 |  |
 | 装箱列表 | Packing list |  |  |
@@ -3616,7 +3634,7 @@ Total unique terms: 4358
 | 货不对板转寄售 | Resale via Consignment (Incorrect Item) |  |  |
 | 货不对版 | Incorrect Item | 商品不一致 |  |
 | 货不对版转寄售 | Resale via Consignment (Incorrect Item) | 商品不一致による事前入庫販売切替 |  |
-| 货代换单费 | B/L exchange service (to D/O) by freight forwarder | 通関代理D/O発行手数料 |  |
+| 货代换单费 | B/L exchange service (to D/O) by freight forwarder |  |  |
 | 货到付税 | DAP (Delivery At Place) | DAP（仕向地持込渡し） |  |
 | 货单 | Inventory List | 品目リスト |  |
 | 货单原始单价 | Original price | オリジナル単価 |  |
@@ -3629,13 +3647,14 @@ Total unique terms: 4358
 | 货品机会盘点 | Inventory Evaluation | 市場分析 |  |
 | 货币 | Currency | 通貨 |  |
 | 货物已到保税仓 | Arrived at Bonded Warehouse |  |  |
+| 货物离港 | Departed Origin |  |  |
 | 质地 | Texture | 生地 |  |
 | 质检 | Quality Check | 品質検査 |  |
 | 质检不通过率 | QC Failure Rate | 品質検査不通過率 |  |
 | 质检优化 | Slight defects allowed |  |  |
 | 质检提效 | Express QC Service | 迅速な検査 |  |
-| 质检提效服务费 | Express QC fee | 迅速検査料 |  |
-| 质检提效轻暇物流费 | Express QC - defective item return shipping fee | 迅速な検査によるB級品配送料 |  |
+| 质检提效服务费 | Express QC fee |  |  |
+| 质检提效轻暇物流费 | Express QC - defective item return shipping fee |  |  |
 | 质疑真假（使用后） | Authenticity concerns after use |  |  |
 | 质量保证 | Quality Assurance | 品質保証（QA） |  |
 | 质量瑕疵问题 | Quality issues | 商品に不良箇所があります |  |
@@ -3645,8 +3664,8 @@ Total unique terms: 4358
 | 购物车 | Cart | カート |  |
 | 贴合度 | Adhesion | 密着度 |  |
 | 贴标无法确认是否为原装 | Unable to confirm whether the label is original | オリジナルのラベルかどうかは確認できません |  |
-| 贴标费 | Labeling fee | ラベル貼付料 |  |
-| 贴码费 | Labeling fee | ラベル貼付料 |  |
+| 贴标费 | Labeling fee |  |  |
+| 贴码费 | Labeling fee |  |  |
 | 贴纸 | Sticker | シール |  |
 | 贴纸/异物 | Sticker/foreign object | シール/異物 |  |
 | 贴纸/防盗芯片 | Sticker/anti-theft chip | シール・防犯チップ |  |
@@ -3694,13 +3713,17 @@ Total unique terms: 4358
 | 超时未发货投诉率 | Shipping Overdue Complaint Rate | 発送期限超過クレーム率 |  |
 | 超时未发货率 | Shipping Overdue Rate_Seller | 発送期限超過率 |  |
 | 超时未确认 | Order Confirmation Overdue | オーダー確定期限超過 |  |
-| 超期堆存费  | Overtime storage fee for containers | 保管超過料 |  |
+| 超期堆存费  | Overtime storage fee for containers |  |  |
 | 超纲 | Authentication waiver | 審査免除ステータス |  |
 | 趋势推荐 | Top Trends |  |  |
 | 跟踪 | Track | 追跡 |  |
 | 跟进人 | Assignee |  |  |
 | 跟随最低价 | Match the lowest | 最低価格に合わせる |  |
 | 跨境 | Cross-Border | 越境 |  |
+| 跨境-寄售业务管理 | Consignment |  |  |
+| 跨境-寄售订单管理 | Orders |  |  |
+| 跨境-现货业务管理 | Ship-to-Verify |  |  |
+| 跨境-现货订单管理 | Orders |  |  |
 | 跨境备案 | Cross-border declaration | 越境届出 |  |
 | 跨境电商知识 | Cross-Border 101 |  |  |
 | 跨境电子商务税 | Cross Border E-Commerce Tax | 電商総合税（中国） |  |
@@ -3714,7 +3737,7 @@ Total unique terms: 4358
 | 身份证明文件 | Identity-Verifying Documents | 本人確認書類 |  |
 | 车 | Auto Parts & Accessories | 車 |  |
 | 车缝瑕疵 | Stitching defects | 縫製不良 |  |
-| 车船衔接费  | Vessel-to-yard transfer fee | 車両および船舶の連携処理料 |  |
+| 车船衔接费  | Vessel-to-yard transfer fee |  |  |
 | 车辆 | Vehicle | 車両情報 |  |
 | 转95分 | Resale via New with Defects | 95分（B級品販売）切替 |  |
 | 转动松动 | Loose | 転動の緩み |  |
@@ -3724,7 +3747,7 @@ Total unique terms: 4358
 | 转寄售服务 | Resale via Consignment | 事前入庫販売切替サービス |  |
 | 转寄售瑕疵修复 | Defect Fix (Resale via Consignment) | B級品修理（事前入庫販売による再販売） |  |
 | 转平台 | Taken over by platform | プラットフォームへ移行 |  |
-| 转栈费/疏港费  | Cargo transfer fee | コンテナ移動料 |  |
+| 转栈费/疏港费  | Cargo transfer fee |  |  |
 | 转瑕疵销售服务 | Resale via New with Defects | B級品販売切替 |  |
 | 转账 | Transfer | 振込 |  |
 | 转账充值 | Bank transfer top‑up | 振込チャージ |  |
@@ -3781,7 +3804,7 @@ Total unique terms: 4358
 | 进口清关成功 | Import customs-Cleared | 輸入通関完了 |  |
 | 进行中 | Ongoing | 開催中 |  |
 | 远离火源 | Keep Away From Fire | 着火源から遠ざける |  |
-| 远途提还箱费  | Long-distance container pickup & return fee | 長距離コンテナの引取・返却料 |  |
+| 远途提还箱费  | Long-distance container pickup & return fee |  |  |
 | 违约金 | Penalty | 違約金 |  |
 | 违约金-商品严重瑕疵 | Penalty - severely defective item |  違約金 - 重大な不良個所がある商品 |  |
 | 违规 | Policy violation | 規約違反 |  |
@@ -3800,6 +3823,7 @@ Total unique terms: 4358
 | 退货净满意度 | Net Satisfaction_Return Service | 返品正味満足者比率 |  |
 | 退货包运费 | Free return shipping |  |  |
 | 退货单 | RMA |  |  |
+| 退货原因 | Return Reason |  |  |
 | 退货地址 | Return address | 返送先住所 |  |
 | 退货失败订单量占比 | Proportion of Return Failed Orders | 返品エラーオーダー数の割合 |  |
 | 退货总成本 | Overall Return Cost |  |  |
@@ -3810,7 +3834,7 @@ Total unique terms: 4358
 | 退货投诉率 | Complaint Rate_Return Service | 返品に関するクレーム率 |  |
 | 退货政策 | Return Policy | 返品ポリシー |  |
 | 退货方式 | Return Method | 返送方法 |  |
-| 退货无瑕自动出价 | Auto-Listing Eligible Bonded Returns | 自動出品（返品不良箇所なし） |  |
+| 退货无瑕自动出价 | Auto-Listing Eligible Bonded Returns |  |  |
 | 退货点寄件 | Drop-off Return |  |  |
 | 退货订单 | Return order | 返品オーダー |  |
 | 退货赔付GMV占比 | Reverse GMV Proportion | 返品返金商品（SKU）のGMVの割合 |  |
@@ -3993,7 +4017,7 @@ Total unique terms: 4358
 | 防伪钻不符合原厂工艺 | Anti-counterfeiting diamond does not conform to original manufacturing standards | 偽造防止コードがオリジナルの仕上がりと一致していません |  |
 | 防尘袋 | Dust bag | 防塵袋 |  |
 | 防尘袋-奢鞋 | Dust bag - luxury shoes | 防塵袋‐ラグジュアリーシューズ |  |
-| 防尘袋增值服务费 | Dust bag fee | 防塵袋オプションサービス料 |  |
+| 防尘袋增值服务费 | Dust bag fee |  |  |
 | 防尘袋开线/抽丝 | Loose stitches/snags (dust bag) | 防塵袋のほつれ/ほころび |  |
 | 防尘袋染色 | Dust bag dyes | 防塵袋色移り |  |
 | 防尘袋污渍 | Dust bag stains | 防塵袋の汚れ |  |
@@ -4013,6 +4037,7 @@ Total unique terms: 4358
 | 附件问题 | Accessory issues | 付属品問題 |  |
 | 陆运 | Road freight | 陸運 |  |
 | 限时 | Limited-time | 期間限定 |  |
+| 限时抢购优惠券 | LIMITED-TIME OFFER | 期間限定クーポン |  |
 | 限量尖货 | Limited Editions | 数量限定商品 |  |
 | 院线/医美 | Medical Aesthetics & Supplies | ドクターズコスメ＆美容機器 |  |
 | 陶瓷制品 | Ceramics | セラミックス |  |
@@ -4020,7 +4045,7 @@ Total unique terms: 4358
 | 隐私 | Privacy | プライバシー |  |
 | 隐私政策 | Privacy Policy | プライバシーポリシー |  |
 | 隐私权协议 | Privacy Policy |  |  |
-| 隧道费 | Tunnel toll fee | トンネル通行料 |  |
+| 隧道费 | Tunnel toll fee |  |  |
 | 雅诗兰黛 | Estée Lauder |  |  |
 | 集中到货积压 | Backlog Inventory_Caused by Centralized Arrival |  |  |
 | 集包 | Consolidation | 集約荷物 |  |
@@ -4336,6 +4361,7 @@ Total unique terms: 4358
 | 高价绝对值 | Lowest Price Variance_Global vs Dewu Domestic | 最低価格価格差（グローバル・ローカル） |  |
 | 高利润商品 | Profit Opportunity | 高収益商品 |  |
 | 高奢 | High-end luxury |  |  |
+| 高机会商品 | High potential |  |  |
 | 高珠 | High jewelry | 高級ジュエリー |  |
 | 高端 | High-End | ハイエンド |  |
 | 高街 | Premium Streetwear | ストリートファッション |  |
