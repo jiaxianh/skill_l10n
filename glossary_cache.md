@@ -1,10 +1,10 @@
 ## POIZON Glossary (Cached)
 
-Last updated: 2026-08-06 05:24
+Last updated: 2026-08-07 04:30
 
-Sources: POIZON - User Facing (Legacy)'s Glossary (4367 terms), POIZON - Internal Facing's Glossary (295 terms), POIZON 商品词库 (31 terms)
+Sources: POIZON - User Facing (Legacy)'s Glossary (4402 terms), POIZON - Internal Facing's Glossary (295 terms), POIZON 商品词库 (31 terms)
 
-Total unique terms: 4385
+Total unique terms: 4420
 
 | Chinese | English | Japanese | Description |
 |---------|---------|----------|-------------|
@@ -92,6 +92,7 @@ Total unique terms: 4385
 | DHL | DHL | DHL |  |
 | DOC_30 | DOC_30 | 30日在庫日数（DOC_30） |  |
 | DPD | DPD | DPD |  |
+| DPD德国 | DPD DE | DPD DE |  |
 | DPD法国 | DPD FR | DPD France |  |
 | Drop-off | Drop-off | ドロップオフ |  |
 | D码 | D | D サイズ |  |
@@ -444,6 +445,7 @@ Total unique terms: 4385
 | 付款 | Payment | 支払 |  |
 | 付款失败 | Payment Failed | 支払エラー |  |
 | 付款方式 | Payment Method | 支払方法 |  |
+| 付款状态 | Payment Status | 支払ステータス |  |
 | 付款设置 | Payout Settings | 支払設定 |  |
 | 付费券包 | Prepaid Coupon | 有料クーポンセット |  |
 | 代发 | Defects Forwarding | 発送代行 |  |
@@ -703,6 +705,9 @@ Total unique terms: 4385
 | 全新商品 | Brand New | 新品 |  |
 | 全新瑕疵品 | New with Defects | 新品のB級品 |  |
 | 全款 | Full payment | 一括払い |  |
+| 全款付款中 | Processing Full Payout | 全額支払中 |  |
+| 全款已付款 | Full Payout Initiated | 全額支払済み |  |
+| 全款待付款 | Awaiting Full Payout | 全額支払待ち |  |
 | 全球均价 | Global avg. price | グローバル平均価格 |  |
 | 全球最低价 | Global lowest | 最低出品価格（グローバル） |  |
 | 全球销量 | Global Sales | グローバル販売数 |  |
@@ -756,6 +761,7 @@ Total unique terms: 4385
 | 关于我们 | About POIZON | 会社概要 |  |
 | 关区 | Customs district | 税関地域 |  |
 | 关注 | Follow | フォロー |  |
+| 关注我们 | Follow Us | フォロー |  |
 | 关税 | Tariff Surcharge | 関税 |  |
 | 关键词分析 | Keyword Intelligence | キーワード分析 |  |
 | 关闭鉴别spu数 | No Longer Authenticable SPU Qty  | 鑑定中止（鑑定不可）となったSPU数 |  |
@@ -933,6 +939,7 @@ Total unique terms: 4385
 | 加绒款 | Fleece-lined | 裏起毛仕様 |  |
 | 加装礼盒 | Gift box assembly | ギフトボックス追加包装 |  |
 | 加赠品及礼品卡 | Gift and gift card | 景品・ギフトカード追加 |  |
+| 加载中... | Loading... | 読み込み中... |  |
 | 动销SKU数 | SKU Qty Sold | 販売実績を有するSKU数 |  |
 | 动销sku数 | SKU Qty Sold | 販売実績を有するSKU数 |  |
 | 动销spu数 | SPU Qty Sold | 販売実績を有するSPU数 |  |
@@ -1188,7 +1195,7 @@ Total unique terms: 4385
 | 合作买手店数量 | Boutique Qty | 提携セレクトショップ数 |  |
 | 合并出价 | Combine listings | まとめて出品 |  |
 | 合并发货 | Combine shipping | まとめて発送 |  |
-| 合并退 | Combine returns | まとめて返品 |  |
+| 合并退 | Batch return | まとめて返品 |  |
 | 合格证重贴 | Reattached certificate | 品質証明書が再貼付されている |  |
 | 合格证非原配 | Non-original certificate of conformity | 非純正の品質証明書 |  |
 | 吊坠 | Pendant | ペンダント |  |
@@ -1259,6 +1266,7 @@ Total unique terms: 4385
 | 售后 | After-Sales Service | アフターサービス |  |
 | 售后体验投诉率 | After-Sales Complaint Rate | クレーム率（アフターサービス） |  |
 | 售后体验诉率 | Complaint Rate_After-sales | クレーム率（アフターサービス） |  |
+| 售后流向 | Return Routing | 返品先 |  |
 | 售罄 | Sold Out | 完売済 |  |
 | 唯一 | Unique | ユニークコード |  |
 | 唯一码 | UID | ユニークコード |  |
@@ -1484,6 +1492,7 @@ Total unique terms: 4385
 | 境外银行账号信息 | Foreign Bank Account Information | 海外銀行口座情報 |  |
 | 增值服务 | Value-added service | オプションサービス |  |
 | 增值税 | VAT | 付加価値税（VAT） |  |
+| 增长激励费 | Performance incentive fee | 事業成長支援サービス料 |  |
 | 备案 | Declaration | 申請 |  |
 | 备案不通过 | Declaration Rejected | 申請不通過 |  |
 | 备案申请驳回 | Customs declaration rejected | 届出申込不受理 |  |
@@ -1618,6 +1627,8 @@ Total unique terms: 4385
 | 完成上架数（此字段默认是正品上架） | Product Qty_Published | 掲載完了数（正規品数） |  |
 | 完成入货 | Finish receiving | 入庫完了 |  |
 | 完成预签收 | Finish pre-receipt | 事前受取完了 |  |
+| 官方合作伙伴 | Official Partner | 公式パートナー |  |
+| 官方新闻 | Press Releases | 公式ニュース |  |
 | 官方通知 | Platform | POIZONからのお知らせ |  |
 | 官网同购 | Online Arbitrage | 公式サイト裁定取引 |  |
 | 官翻机 | Certified refurbished | 認定再生品 |  |
@@ -1628,6 +1639,9 @@ Total unique terms: 4385
 | 定时出价 | Scheduled pricing  | 時間指定出品 |  |
 | 定金 | Deposit | 前金 |  |
 | 定金+尾款 | Deposit + Balance | 予約金＋残代金 |  |
+| 定金付款中 | Processing Deposit Payout | 前払金支払中 |  |
+| 定金已付款 | Deposit Payout Initiated | 前払金支払済み |  |
+| 定金待付款 | Awaiting Deposit Payout |  前払金支払待ち |  |
 | 实付单均邮费 | Avg Shipping Fee Paid Per Order | オーダー1件あたりの平均送料（送料優待適用後） |  |
 | 实付邮费 | Paid Shipping Fee | 送料実額（特典等による割引額を差し引いた実額） |  |
 | 实付邮费占比 | Proportion of Shipping Fee Paid | 送料実額の割合 |  |
@@ -1641,6 +1655,7 @@ Total unique terms: 4385
 | 实物与订单不符（禁用） | Item does not match order details (prohibited) | 実物とオーダー内容が不一致（無効） |  |
 | 实物图片与订单不符 | Mismatched item image | 実物写真とオーダー内容が不一致 |  |
 | 实物图片与订单不符（禁用） | Mismatched item image (deactivate) | 実物写真とオーダー内容が不一致（無効） |  |
+| 实物对比 | Scale Reference | サイズの比較 |  |
 | 实物尺码与尺码表不符 | Size not as described in the size chart | 実物サイズとサイズ表が不一致 |  |
 | 实物细节与大图不符 | Item details not as described on full image | 実物細部と商品画像が不一致 |  |
 | 实物细节与展示图不符 | Item details not as described on display image | 実物と商品画像が不一致 |  |
@@ -1742,10 +1757,13 @@ Total unique terms: 4385
 | 尺码对照表 | Size chart | サイズ表 |  |
 | 尺码推荐表覆盖率 | Size Chart Coverage | サイズ目安表表示SPU率 |  |
 | 尺码核对 | Size verification | サイズ確認 |  |
-| 尺码类型 | Size Type | サイズタイプ |  |
+| 尺码类型 | Size Type | サイズ表記 |  |
 | 尺码表 | Size Chart | サイズ表 |  |
 | 尺码货号与订单不符 | Mismatched size article number/style ID | サイズ番号とオーダーが不一致（確認、オーダーサイズ不一致） |  |
 | 尾款 | Balance | 残金 |  |
+| 尾款付款中 | Processing Balance Payout | 残金支払中 |  |
+| 尾款已付款 | Balance Payout Initiated | 残金支払済み |  |
+| 尾款待付款 | Awaiting Balance Payout | 残金支払待ち |  |
 | 尾缀-奢配 | Charm end - luxury accessories | エンドチャーム（ラグジュアリーアクセサリー） |  |
 | 尾部 | Long tail | ロングテール |  |
 | 屏幕 | Screen | スクリーン |  |
@@ -2497,6 +2515,7 @@ Total unique terms: 4385
 | 有效企业商家数 | Valid Business Seller Qty Sold | GMV基準を達成した企業出品者数 |  |
 | 有效卖家数 | Active Seller Qty Sold | GMV基準を達成した出品者数 |  |
 | 有效期 | Shelf life | 使用期限 |  |
+| 有效露出价 | Price to Sell | 競争力のある価格 |  |
 | 有订单咨询会话量 | Contact Qty_with Orders | オーダー関連の問い合わせ件数 |  |
 | 服务 | Service | サービス |  |
 | 服务单 | Service ticket | サービス依頼書 |  |
@@ -2508,7 +2527,7 @@ Total unique terms: 4385
 | 服装 | Apparel | アパレル |  |
 | 服装整体 | Apparel overview | 服全体 |  |
 | 服饰 | Apparel | アパレル |  |
-| 期望结算价 | Expected payout | 希望決済価格 |  |
+| 期望结算价 | Expected settlement price | 希望決済価格 |  |
 | 期末-一品一商占比 | End-of-Period - One-to-One Proportion | 期末‐1出品者のみが販売している商品（SKU）の割合 |  |
 | 期末-一品二商占比 | End-of-Period - One-to-Two Proportion | 期末‐2出品者のみが販売している商品（SKU）の割合 |  |
 | 期末-出价SKU数 | End-of-Period - SKU Qty Listed (History) | 期末‐出品SKU数 |  |
@@ -2552,6 +2571,7 @@ Total unique terms: 4385
 | 杂质棉絮 | Impurities & lint | 不純物、詰め綿 |  |
 | 杂质黑点棉絮 | Impurities, black spots, lint | 異物（黒点・綿くず） |  |
 | 杂质（黑点白点） | Impurities (black & white spots) | 不純物（黒点・白点） |  |
+| 权威媒体引言 | Featured In | メディア掲載実績 |  |
 | 材质 | Material | 材質 |  |
 | 材质不符 | Material does not match order details | 素材不一致 |  |
 | 材质过度处理 | Excessively processed materials | 材質が過度処理されている |  |
@@ -2586,6 +2606,7 @@ Total unique terms: 4385
 | 校园 | Campus | キャンパス |  |
 | 校园潮牌 | Campus Trendy Brands | キャンパススタイル人気ブランド |  |
 | 样式不符 | Mismatched style | デザインが不一致 |  |
+| 核心优势 | Why Choose POIZON | POIZONが選ばれる理由 |  |
 | 核心尺码断货率 | Proportion of OOS SPUs in Core Size | 主要サイズ欠品SPU割合 |  |
 | 核心特点 | Core Features | 主な特徴 |  |
 | 核销 | Write-off | 消込 |  |
@@ -2641,7 +2662,8 @@ Total unique terms: 4385
 | 每周商家动销GMV | Weekly Avg Seller GMV Sold | 販売実績を有する出品者によるGMVの週平均 |  |
 | 每商家动销GMV | Per Seller GMV Sold | 1出品者あたりの販売実績のあるGMV |  |
 | 每商家履约GMV | Fulfillment GMV Per Seller | 各出品者（販売実績あり）あたりの履行GMV |  |
-| 比最低价低一档 | One tier below the lowest | 最低価格より1ランク安く |  |
+| 比中国露出价低一档 | Undercut CN buy box by 1 tier | 価格競争力の強化 |  |
+| 比最低价低一档 | Undercut the lowest by 1 tier | 最低価格より1ランク安く |  |
 | 毛利 | GP | 粗利 |  |
 | 毛刺/披锋 | Burrs/sharp edges | バリ・鋭い縁 |  |
 | 毛刺、飞边、缺胶、烧焦、发白、缺口缺肉，开裂，变形 | Burrs, flash, insufficient glue, burn marks, whitening, notches or material loss, cracks, deformation | バリ、鋭利部、接着剤不足、焼け、白化、欠け、ひび割れ、変形 |  |
@@ -2760,6 +2782,7 @@ Total unique terms: 4385
 | 涂鸦，划伤 | Scribbles, scratches | 落書き、傷 |  |
 | 消息 | Messages | メッセージ |  |
 | 消费者想要退订单量 | Overall Return Order Volume_Initiated by Buyer | 消費者返品希望のオーダー数 |  |
+| 消费者荐言 | What Our Users Say | お客様の声 |  |
 | 液体杂质 | Liquid impurities | 液体不純物 |  |
 | 液体浑浊/杂质 | Turbid liquid/impurities | 液体濁り・不純物 |  |
 | 液体蒸发、析出；液位过低；漏液 | Liquid evaporation, separation; low liquid level; leakage | 液体の蒸発/分離、液漏れ/水位低下 |  |
@@ -2844,7 +2867,7 @@ Total unique terms: 4385
 | 牛仔裤 | Jeans | ジーンズ |  |
 | 物料加工 | Material processing | 資材加工 |  |
 | 物料加工费 | Material processing fee | 梱包資材加工料 |  |
-| 物料组套 | Material kitting | 資材セット |  |
+| 物料组套 | Material kitting | 商品同梱 |  |
 | 物料组套费 | Material kitting fee | 商品同梱料 |  |
 | 物流体验投诉率 | Shipping Experience Complaint Rate | クレーム率（配送体験） |  |
 | 物流信息 | Tracking Info | 配送情報 |  |
@@ -2854,6 +2877,7 @@ Total unique terms: 4385
 | 物流时效投诉率 | Complaint Rate_Logistics Timeliness | クレーム率（配送期間） |  |
 | 物流费用 | Shipping Fee | 配送料 |  |
 | 物流轨迹抓取率 | Tracking Capture Rate | 配送追跡サービス付きオーダー率 |  |
+| 特快专递 | Express Ship | 特急配送 |  |
 | 特殊包装 | Special pack | 特殊梱包 |  |
 | 特殊商品理货费 | Inspection fee for exception handling | 特殊商品検数料 |  |
 | 状况 | Condition | コンディション |  |
@@ -2902,7 +2926,9 @@ Total unique terms: 4385
 | 瑕疵影响查验 | Defects affecting authentication | 不良箇所による品質検査への影響 |  |
 | 瑕疵投诉率 | Complaint Rate_Product with Defects | クレーム率（不良箇所） |  |
 | 瑕疵撮合 | Defective Item Negotiation | B級品取引仲介サービス |  |
+| 瑕疵焕新 | Defect Restoration | リペア・リフレッシュ |  |
 | 瑕疵管理 | New with Defects | B級品管理 |  |
+| 瑕疵退货商品特别处理费 | Defective Return Handling Fee | B級品返送特別対応料 |  |
 | 瑕疵销售服务 | New with Defects Service | B級品販売サービス |  |
 | 瑕疵降价销售 | Defective Item Negotiation | B級品値下げ販売 |  |
 | 瑞表德表 | Swiss and German Watches | スイス＆ドイツ製ウォッチ |  |
@@ -3009,6 +3035,7 @@ Total unique terms: 4385
 | 直发 | Direct Shipping | 直送 |  |
 | 直发-直发买家 | Direct Shipping (direct-to-buyer) | 直送‐直送出品者 |  |
 | 直发-见单采 | Direct Shipping (purchase-to-fulfill) | 直送（受注後仕入商品） |  |
+| 直退商家 | Direct to Seller | 出品者へ直接返送 |  |
 | 相册 | Albums | アルバム |  |
 | 相对低价gmv占比 | GMV Proportion_Relatively Competitive SKU | 他チャネルにも出品のある相対的に低価格SKUのGMV割合 |  |
 | 相对低价sku的gmv贡献度 | GMV Proportion_Common Relatively Competitive SKU | 他チャネルにも出品のある相対的に低価格SKUのGMV貢献度 |  |
@@ -3131,6 +3158,7 @@ Total unique terms: 4385
 | 签约主体 | Company | 契約（相手方）主体 |  |
 | 签约主体  | Company | 契約（相手方）主体 |  |
 | 签约企业商家数 | Business Seller Qty Registered | 契約企業出品者数 |  |
+| 简单清理 | Spot Cleaning | 簡易クリーニング |  |
 | 简易报关增值服务费 | Simplified Customs Clearance Value-Added Service Fee | 簡易通関付加価値サービス料 |  |
 | 简约 | Minimalism | ミニマリズム |  |
 | 管口螺旋 | Tube Top Spiral | チューブキャップスクリュー |  |
@@ -3187,6 +3215,7 @@ Total unique terms: 4385
 | 织物，无色差、勾丝断线、开线跳线、破洞、走线不良、起球、打结、接口不良 | Fabric: no color difference, snagged or broken threads, loose or skipped stitches, holes, poor stitching, pilling, knots, poor seam connection | 生地の不良（色差、糸切れ、ほつれ・断線、穴、縫製不良、毛玉、結び、縫い目不良） |  |
 | 经典款 | Classics | 定番アイテム |  |
 | 经典系列 | Iconic Archival | 定番シリーズ |  |
+| 经平台退商家 | Via Platform to Seller | POIZON経由で出品者へ返送 |  |
 | 经营产出 | Business Output | 経営成果 |  |
 | 经营分析 | Operations Overview | 運営分析 |  |
 | 经营品牌 | Main brands | 取扱ブランド |  |
@@ -3201,6 +3230,7 @@ Total unique terms: 4385
 | 结算 | Settlement | 決済 |  |
 | 结算周期 | Payout cycle | 決済周期 |  |
 | 结算币种 | Payout currency | 決済通貨 |  |
+| 结算状态 | Payout Status | 決済ステータス |  |
 | 统一社会信用代码 | Unified Social Credit Code | 統一社会信用コード |  |
 | 绣花印花 | Embroidery and printing | 刺繍・プリント柄 |  |
 | 续件 | Each additional | 超過料金 |  |
@@ -3346,6 +3376,7 @@ Total unique terms: 4385
 | 老品 | Existing items | 既存商品 |  |
 | 老商 | Existing sellers | 既存出品者 |  |
 | 老客 | Repurchasing | 既存利用者 |  |
+| 老客回归礼 | Welcome Back Gift | 復帰特典 |  |
 | 耐心 | Patient/Patience | 辛抱強い・忍耐 |  |
 | 耐用性 | Durability | 耐久性 |  |
 | 耐磨性 | Abrasion resistance | 耐摩耗性 |  |
@@ -3358,6 +3389,7 @@ Total unique terms: 4385
 | 耳针-奢配 | Earring stud - luxury accessories | ピアス（ラグジュアリーアクセサリー） |  |
 | 耳钉正面-奢配 | Stud earring front - luxury accessories | ピアス正面（ラグジュアリーアクセサリー） |  |
 | 耳钉背面-奢配 | Stud earring back - luxury accessories | ピアス裏面（ラグジュアリーアクセサリー） |  |
+| 联合营销费 | Co-Marketing Fee | 共同マーケティング料 |  |
 | 联盟营销 | Affiliate Marketing | アフィリエイトマーケティング |  |
 | 联系人 | Contact | 連絡先 |  |
 | 联系方式 | Contact | 連絡先 |  |
@@ -3484,7 +3516,7 @@ Total unique terms: 4385
 | 补单 | Replacement Order | 追加オーダー |  |
 | 补单不同意 | Replacement order declined | 追加オーダー失敗 |  |
 | 补单超时 | Replacement order timeout | 追加オーダー期限超過 |  |
-| 补发货单 | Supplementary shipping order | 商品発送補足リスト |  |
+| 补发货单 | Supplemental shipping order | 商品発送補足リスト |  |
 | 补缴海关税费 | Short shipment tax/duty supplement | 税関追徴税 |  |
 | 补色 | Color touch-up | 色補正 |  |
 | 补货 | Restock | 在庫補充 |  |
@@ -3606,7 +3638,7 @@ Total unique terms: 4385
 | 试穿/试戴痕迹 | Traces of try-on/wear | 試着痕あり |  |
 | 试穿痕迹 | Traces of try-on | 試着痕あり |  |
 | 试衣间 | Fitting room | 試着室 |  |
-| 诚信标签 | Chestny ZNAK |  |  |
+| 诚信标签 | Chestny ZNAK | Chestny ZNAK |  |
 | 询问图 | Buy-asked photo | 購入者要求写真 |  |
 | 询问运营 | Contact us | POIZONへのお問い合わせ |  |
 | 该商品免开箱 | No-open inspection | 未開封検査 |  |
@@ -3714,9 +3746,11 @@ Total unique terms: 4385
 | 超时未发货投诉率 | Shipping Overdue Complaint Rate | クレーム率（発送期限超過） |  |
 | 超时未发货率 | Shipping Overdue Rate_Seller | 発送期限超過率 |  |
 | 超时未确认 | Order Confirmation Overdue | オーダー確定期限超過 |  |
+| 超时率（超时订单占比） | Shipping Overdue Rate (Proportion of Overdue Shipments) | 期限超過率（期限超過オーダーの割合） |  |
 | 超期堆存费  | Overtime storage fee for containers | 期限超過在庫保管料 |  |
 | 超纲 | Authentication waiver | 鑑定免除 |  |
 | 趋势推荐 | Top Trends | おすすめ |  |
+| 跟中国露出价 | Match the CN buy box | 購入者ページへの表示保証 |  |
 | 跟踪 | Track | 追跡 |  |
 | 跟进人 | Assignee | 担当者 |  |
 | 跟随最低价 | Match the lowest | 最低価格に合わせる |  |
@@ -4184,6 +4218,7 @@ Total unique terms: 4385
 | 非常规鉴定占比 | Rate of Authentication Waiver (for specified brand/categories) | 特例鑑定の割合 |  |
 | 非明显面 | Non-obvious side | 非表示面 |  |
 | 非明显面（底/内） | Non-obvious surfaces (bottom/inside) | 非可視面（底面/内部） |  |
+| 非有效露出 | Visible but uncompetitive | より競争力のある価格に調整 |  |
 | 非标 | Fashion Category | 非規格品 |  |
 | 非标-奢品 | Fashion Category - Luxury | 非規格品－ラグジュアリー |  |
 | 非标-手表 | Fashion Category - Watches | 非規格品－ウォッチ |  |
