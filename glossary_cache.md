@@ -1,10 +1,10 @@
 ## POIZON Glossary (Cached)
 
-Last updated: 2026-10-22 07:26
+Last updated: 2026-10-23 07:20
 
-Sources: POIZON - User Facing (Legacy)'s Glossary (4410 terms), POIZON - Internal Facing's Glossary (295 terms), POIZON 商品词库 (31 terms)
+Sources: POIZON - User Facing (Legacy)'s Glossary (4412 terms), POIZON - Internal Facing's Glossary (295 terms), POIZON 商品词库 (31 terms)
 
-Total unique terms: 4428
+Total unique terms: 4430
 
 | Chinese | English | Japanese | Description |
 |---------|---------|----------|-------------|
@@ -271,7 +271,7 @@ Total unique terms: 4428
 | 丢件 | Lost shipments | 紛失 | 指在物流运输过程中，商家寄出的包裹未能成功送达收件人手中，且无法确定其具体位置或下落的情况。 |
 | 两侧 | Both sides | 両側 | 质检项描述，需根据品类、场景等具体判断。 |
 | 两侧/皮质吊牌 | Both sides/leather hangtag | 両側・革タグ | 质检项描述，需根据品类、场景等具体判断。 |
-| 两步申报 | Consolidated declaration | 2段階申告 | 申报模式的一种。支持商家预申报一次，然后以仓内实际收货的数据进行第二次申报，但涉及改单费用。 |
+| 两步申报 | Consolidated declaration | 二段階申告 | 申报模式的一种。支持商家预申报一次，然后以仓内实际收货的数据进行第二次申报，但涉及改单费用。 |
 | 个人 | Individual Seller | 個人 | 维度/类目枚举值 |
 | 个人卖家 | Individual Seller | 個人出品者 | 卖家为总称，细分为个人卖家，企业卖家和买手店。 |
 | 个人商家GMV占比 | GMV Proportion_Individual Seller | 個人出品者GMV割合 | 个人商家国际GMV/国际整体国际GMV |
@@ -1356,6 +1356,7 @@ Total unique terms: 4428
 | 商家识别码 | Seller Code | 出品者識別コード | 在平台联系人和联系地址（即原仓库收货信息）的基础上，新增POIZON商家识别码(6位大写字母样式，实际内容以前端页面显示为准），平台可以根据商家识别码快速识别包裹归属。 |
 | 商家运营关联 | Account Manager | アカウントマネージャー | BI后台菜单 |
 | 商家邮费优惠金额 | Shipping Fee Discount Amount (Subsidised by Seller) | 出品者送料優待額 | 订单中由于包邮券、包邮活动产生的优惠金额，由商家承担成本 |
+| 商机 | Profitable Insights |  | 商家后台主菜单名称 |
 | 商机优先触达 | First-Mover Advantages | ビジネスチャンスへの優先アクセス | 商家触达优先级 |
 | 商机推荐 | Profit Opportunity | 売れ筋 | APP商家中心顶部菜单栏 |
 | 商标 | Trademark | 商標 |  |
@@ -1966,7 +1967,7 @@ Total unique terms: 4428
 | 引流标识（竞品） | Markings directing to competitors | コマーシャル表示（競合品） | 质检项描述，需根据品类、场景等具体判断。 |
 | 弹力 | Stretch | 伸縮性 | 仅限用于商品用户评论Reviews发布时会展示可供勾选的标签，按商品类目会有不同对应展示。请参考：[‌‍‍‬‌‌‍‍‍﻿⁠‬⁠﻿‍‍‍⁠‌‍‌‬⁠‍PRD-311667_Reviews发布链路优化_标签配置_翻译需求 - 飞书云文档](https://poizon.feishu.cn/wiki/KxQRw5NJQirT1BkHSXhcaqCZnWg?sheet=FGovl4) |
 | 弹窗 | Pop-up window | ポップアップウィンドウ |  |
-| 强退 | Forced Return |  | 强退说明：该商品为不可售品，在仓已超期且未处理，系统自动退回 |
+| 强退 | Forced Return | 強制返送 | 强退说明：该商品为不可售品，在仓已超期且未处理，系统自动退回 |
 | 归因分析 | GMV Attribution Analysis | GMV貢献分析 | 智能运营系统菜单，这个模块里会展示各种商品、商家等的GMV贡献度数据，并且分析这些因素对于总体GMV的变动的影响 |
 | 当下最热 | Most Wanted | 大人気 | 竞对参考 |
 | 当前在线SKU数 | Active SKU Qty | 現在掲載済のSKU数 | 截止到昨天有可售库存的SKU数 |
@@ -2318,7 +2319,7 @@ Total unique terms: 4428
 | 整体外观（鞋+鞋盒） | Overall appearance (shoes + shoe box) | 全体外観（シューズとシューズボックス） | 质检项描述，需根据品类、场景等具体判断。 |
 | 整包补色 | Bag recoloring | バッグの色補正 | 质检项描述，需根据品类、场景等具体判断。 |
 | 整单卖 | Take-All | リスト全商品販売 | B2B交易方式，支持买家挑选商品 |
-| 整合申报 | Summary declaration | 統合申告 | 申报模式的一种。入保税仓的库存以入区前申报的数量为准；实际到仓多出来的数量，不可以销售；实际少到仓的数量，也需按「一般贸易税」缴税。 |
+| 整合申报 | Summary declaration | 一括申告 | 申报模式的一种。入保税仓的库存以入区前申报的数量为准；实际到仓多出来的数量，不可以销售；实际少到仓的数量，也需按「一般贸易税」缴税。 |
 | 文字 | Text | 文字 |  |
 | 文教用品 | Stationery | 文房具・事務用品 |  |
 | 文玩玉翠业务线 | Antiques & Jade | アンティーク＆ストーン | 维度/类目枚举值 |
@@ -3627,6 +3628,7 @@ Total unique terms: 4428
 | 订单增速 | Order Vol. Growth | オーダー増加率 | 订单量增长速率% |
 | 订单总金额 | Order total | オーダー総金額 | B2B独立站，用户付款界面，当前订单的总金额，即订单总值 |
 | 订单管理 | Order Management | オーダー管理 | PC商家后台“订单管理”主页 |
+| 订货指引 | Procurement Strategy |  | 商家后台主菜单“商机”下的模块名称 |
 | 订金 | Deposit | 保証金 | 竞对参考 |
 | 订阅服务费 | Subscription fee | サブスクリプション料 | 企卖汇金账单费用项 |
 | 记录 | Record | 記録 | 描述一条一条的记录 |
@@ -3969,7 +3971,7 @@ Total unique terms: 4428
 | 金属纹路/镀层瑕疵 | Metallic pattern/plating defects | 金属模様・メッキの欠陥 | 质检项描述，需根据品类、场景等具体判断。 |
 | 金属表带 | Metal watch band | メタルブレスレット | 质检项描述，需根据品类、场景等具体判断。 |
 | 金属铆钉-奢服 | Metal rivet - luxury apparel | 金属リベット（ラグジュアリーアパレル） | 质检项描述，需根据品类、场景等具体判断。 |
-| 金融服务 | Funding |  | 商家后台，用于向商家提供融资的模块菜单名称 |
+| 金融服务 | Funding | ローン管理 | 商家后台，用于向商家提供融资的模块菜单名称 |
 | 鉴别 | Authentication | 鑑定 | 对商品进行鉴别真假的阶段，公司核心技术，是公司核心竞争力的体现。 鉴别方式分为线上鉴别和线下鉴别 线上鉴别：仓库作业人员拍照发布鉴别贴，NPI鉴别师根据鉴别图片判断商品真假，给出鉴别结果。 线下鉴别：PI鉴别师在仓库直接对商品进行鉴别，并给出鉴别结果。 鉴别是得物商品研究中心最重要的工作，是对商品求真的一种重要方式。对于鉴别师而言，在鉴别时应该避免跳级鉴定、谋取私利、四处炫耀等行为，同时鉴别师应多学习提升自己的业务能力与职业道德，对自己的鉴别结果负责。 |
 | 鉴别不通过 | Authentication not pass | 鑑定不通過 | 质检项描述，需根据品类、场景等具体判断。 |
 | 鉴别不通过取回数 | Retrieval Qty_Authentication Not Pass | 鑑定不通過による回収数 | 鉴定不通过上架后，卖家申请取回的商品数 |
@@ -4030,7 +4032,7 @@ Total unique terms: 4428
 | 镜架 | Eyeglasses frame | メガネフレーム | 质检项描述，需根据品类、场景等具体判断。 |
 | 镜片 | Lens | レンズ | 质检项描述，需根据品类、场景等具体判断。 |
 | 镜片划痕 | Lens scratches | レンズに傷 | 质检项描述，需根据品类、场景等具体判断。 |
-| 镭射标 | Laser mark | ホログラムラベル | 鉴别拍摄点位 |
+| 镭射标 | Laser mark | レーザーラベル | 鉴别拍摄点位 |
 | 镶嵌物无法确认是否原装 | Unable to confirm whether the inlays are original | 象嵌素材が純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
 | 镶嵌物污渍 | Inlays stained | 象嵌素材の汚れ | 质检项描述，需根据品类、场景等具体判断。 |
 | 镶嵌物鉴别点磨损缺失 | Inlay authentication points are worn or missing | 象嵌素材の鑑定ポイントに磨り減り・不備 | 质检项描述，需根据品类、场景等具体判断。 |
