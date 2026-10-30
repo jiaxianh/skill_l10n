@@ -1,8 +1,8 @@
 ## POIZON Glossary (Cached)
 
-Last updated: 2026-10-29 08:19
+Last updated: 2026-10-30 08:28
 
-Sources: POIZON - User Facing (Legacy)'s Glossary (4412 terms), POIZON - Internal Facing's Glossary (295 terms), POIZON 商品词库 (31 terms)
+Sources: POIZON - User Facing (Legacy)'s Glossary (4411 terms), POIZON - Internal Facing's Glossary (295 terms), POIZON 商品词库 (31 terms)
 
 Total unique terms: 4430
 
@@ -426,7 +426,7 @@ Total unique terms: 4430
 | 仓库打包中 | Packing | 梱包中 | 退货商品在仓库进行打包处理的状态提示 |
 | 仓库拣货 | Pick & Pack | 倉庫ピッキング中 | B2B订单物流轨迹中的子节点。（现货渠道） |
 | 仓库未收 | Shortage | 倉庫未受取 | 寄售入库单管理-收货明细字段，表示此单在仓库理货之后的终态少货情况。 |
-| 仓库费 | Storage Fee | 倉庫保管料 | 竞对参考 |
+| 仓库费 | Storage Fee | 倉庫保管料 |  |
 | 付款 | Payment | 支払 | 指在商品或服务交易过程中，买方向卖方支付相应款项的行为。 |
 | 付款失败 | Payment Failed | 支払エラー | 指在进行支付操作过程中，由于各种原因（如账户余额不足、银行卡信息错误、网络故障等）导致支付未能成功完成的状态。 |
 | 付款方式 | Payment Method | 支払方法 | 竞对参考 |
@@ -624,7 +624,7 @@ Total unique terms: 4430
 | 偏振不达标 | Beat error does not meet standards | 偏光基準値未達 | 质检项描述，需根据品类、场景等具体判断。 |
 | 做工 | Craftsmanship | 製造品質 | 仅限用于商品用户评论Reviews发布时会展示可供勾选的标签，按商品类目会有不同对应展示。请参考：[‌‍‍‬‌‌‍‍‍﻿⁠‬⁠﻿‍‍‍⁠‌‍‌‬⁠‍PRD-311667_Reviews发布链路优化_标签配置_翻译需求 - 飞书云文档](https://poizon.feishu.cn/wiki/KxQRw5NJQirT1BkHSXhcaqCZnWg?sheet=FGovl4) |
 | 做工不合格 | Poor manufacturing quality | 製造不良 | 质检项描述，需根据品类、场景等具体判断。 |
-| 做工瑕疵 | Manufacturing defects | 製造不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 做工瑕疵 | Craftsmanship defects | 製造不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 做工问题 | Manufacturing issues | 製造不良 加工 | 质检项描述，需根据品类、场景等具体判断。 |
 | 做旧 | Distressed | ダメージ加工 | 复古做旧工艺 |
 | 停用 | Suspended | 販売停止 |  |
@@ -1356,7 +1356,7 @@ Total unique terms: 4430
 | 商家识别码 | Seller Code | 出品者識別コード | 在平台联系人和联系地址（即原仓库收货信息）的基础上，新增POIZON商家识别码(6位大写字母样式，实际内容以前端页面显示为准），平台可以根据商家识别码快速识别包裹归属。 |
 | 商家运营关联 | Account Manager | アカウントマネージャー | BI后台菜单 |
 | 商家邮费优惠金额 | Shipping Fee Discount Amount (Subsidised by Seller) | 出品者送料優待額 | 订单中由于包邮券、包邮活动产生的优惠金额，由商家承担成本 |
-| 商机 | Profitable Insights |  | 商家后台主菜单名称 |
+| 商机 | Profitable Insights | 収益機会 | 商家后台主菜单名称 |
 | 商机优先触达 | First-Mover Advantages | ビジネスチャンスへの優先アクセス | 商家触达优先级 |
 | 商机推荐 | Profit Opportunity | 売れ筋 | APP商家中心顶部菜单栏 |
 | 商标 | Trademark | 商標 |  |
@@ -1946,9 +1946,9 @@ Total unique terms: 4430
 | 开线/抽丝 | Loose stitches/snags | 糸ほつれ・糸引き | 质检项描述，需根据品类、场景等具体判断。 |
 | 开线/走线 | Loose stitches/stitching defects | ほつれ・糸抜け | 质检项描述，需根据品类、场景等具体判断。 |
 | 开线/跳线 | Loose/skipped stitches | ほつれ | 质检项描述，需根据品类、场景等具体判断。 |
-| 开线/跳线/开胶 | Loose/skipped stitches/unglued | ほつれ・縫い飛び・接着剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
-| 开胶 | Unglued | 接着剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
-| 开胶/开裂 | Unglued/cracks | 接着剥がれ・ひび割れ | 质检项描述，需根据品类、场景等具体判断。 |
+| 开线/跳线/开胶 | Loose/skipped stitches/glue separation | ほつれ・縫い飛び・接着剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
+| 开胶 | Glue separation | 接着剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
+| 开胶/开裂 | Glue separation/cracks | 接着剥がれ・ひび割れ | 质检项描述，需根据品类、场景等具体判断。 |
 | 开裂 | Cracks | ひび割れ | 质检项描述，需根据品类、场景等具体判断。 |
 | 开裂/融化变形 | Cracks/melting deformations | ひび割れ・溶解変形 | 质检项描述，需根据品类、场景等具体判断。 |
 | 异味 | Odor | 異臭 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -3464,10 +3464,10 @@ Total unique terms: 4430
 | 良品取回-操作服务费 | Returns processing fee (regular products) | 作業手数料‐通常品の回収 | 即取回操作服务费，平台将对商品取回收取取回操作费用。 良品收费：针对全新可售商品取回收取仓库操作服务费； 次品收费：针对严重卖家责商品取回收取仓库操作服务费。 详见《良品退货取回操作服务费规则解释》。 |
 | 良好 | Good | 良 | 消费者口径的库存等级描述，可参考[供应链库存在B端和C端映射关系 - 飞书云文档](https://poizon.feishu.cn/docx/Fp3idE0OIoA5E1xLNC2cOvoTn6e?open_in_browser=true) |
 | 色号 | Shade | カラーコード | 鉴别拍摄点位 |
-| 色差 | Color differences | 色差 | 质检项描述，需根据品类、场景等具体判断。 |
-| 色差/褪色 | Color differences/fading | 色差・色褪せ | 质检项描述，需根据品类、场景等具体判断。 |
+| 色差 | Color discrepancy | 色差 | 质检项描述，需根据品类、场景等具体判断。 |
+| 色差/褪色 | Color discrepancy/fading | 色差・色褪せ | 质检项描述，需根据品类、场景等具体判断。 |
 | 色差、流纹，银丝，拉伤、无明显 | Color difference, flow marks, silver streaks, surface scratches, no visible defects | 色差、流れ跡、銀糸状痕、傷、目立たない | 质检项描述，需根据品类、场景等具体判断。 |
-| 色差，脱色 | Color differences, fading | 色違い、色落ち | 质检项描述，需根据品类、场景等具体判断。 |
+| 色差，脱色 | Color discrepancy, fading | 色違い、色落ち | 质检项描述，需根据品类、场景等具体判断。 |
 | 色斑/色点 | Color stains/spots | 色斑/色点 | 质检项描述，需根据品类、场景等具体判断。 |
 | 色斑/色点/凹凸点/杂点 | Color spots/dots/bumps/specks | 色斑点・色点・表面凹凸・異点 | 质检项描述，需根据品类、场景等具体判断。 |
 | 艺人 | Artist | 職人 | 维度/类目枚举值 |
@@ -3628,7 +3628,7 @@ Total unique terms: 4430
 | 订单增速 | Order Vol. Growth | オーダー増加率 | 订单量增长速率% |
 | 订单总金额 | Order total | オーダー総金額 | B2B独立站，用户付款界面，当前订单的总金额，即订单总值 |
 | 订单管理 | Order Management | オーダー管理 | PC商家后台“订单管理”主页 |
-| 订货指引 | Procurement Strategy |  | 商家后台主菜单“商机”下的模块名称 |
+| 订货指引 | Procurement Strategy | 仕入れ戦略 | 商家后台主菜单“商机”下的模块名称 |
 | 订金 | Deposit | 保証金 | 竞对参考 |
 | 订阅服务费 | Subscription fee | サブスクリプション料 | 企卖汇金账单费用项 |
 | 记录 | Record | 記録 | 描述一条一条的记录 |
@@ -4263,9 +4263,9 @@ Total unique terms: 4430
 | 鞋带 | Shoelace | 靴ひも | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋带-奢鞋 | Shoelaces - luxury shoes | 靴ひも（ラグジュアリーシューズ） | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋带头变形 | Shoelace top deformation | 靴ひもの先端変形 | 质检项描述，需根据品类、场景等具体判断。 |
-| 鞋带孔 | Shoelace holes | 靴ひも穴 | 质检项描述，需根据品类、场景等具体判断。 |
-| 鞋带孔-奢鞋 | Shoelace holes - luxury shoes | ハトメ（ラグジュアリーシューズ） | 质检项描述，需根据品类、场景等具体判断。 |
-| 鞋带孔数量不一 | Inconsistent number of shoelace holes | ハトメ数違い（左右不一致） | 质检项描述，需根据品类、场景等具体判断。 |
+| 鞋带孔 | Eyelets | 靴ひも穴 | 质检项描述，需根据品类、场景等具体判断。 |
+| 鞋带孔-奢鞋 | Eyelets - luxury shoes | ハトメ（ラグジュアリーシューズ） | 质检项描述，需根据品类、场景等具体判断。 |
+| 鞋带孔数量不一 | Inconsistent number of eyelets | ハトメ数違い（左右不一致） | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋带扣 | Shoelace lock | シューレースロック | 鞋带装饰扣 |
 | 鞋底 | Outsole | アウトソール | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋底-奢鞋 | Outsole - luxury shoes | アウトソール（ラグジュアリーシューズ） | 质检项描述，需根据品类、场景等具体判断。 |
@@ -4281,7 +4281,7 @@ Total unique terms: 4430
 | 鞋盒 | Shoe Box | シューズボックス | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋盒-奢鞋 | Shoe box - luxury shoes | シューズボックス（ラグジュアリーシューズ） | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋盒中度划痕 | Shoe box with moderate scratches | シューズボックスに傷（中程度） | 质检项描述，需根据品类、场景等具体判断。 |
-| 鞋盒侧标 | Shoe box side label | シューズボックスサイドラベル | 质检项描述，需根据品类、场景等具体判断。 |
+| 鞋盒侧标 | Shoebox label | シューズボックスサイドラベル | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋盒侧标遮盖/涂改 | Covered/altered shoebox label | シューズボックスのサイドラベルの遮蔽/改ざん | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋盒侧标遮盖/涂改/缺失 | Shoe box side label covered/altered/missing | シューズボックスのサイドラベルの遮蔽・改ざん・欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋盒压痕 | Shoe box indentations | シューズボックスの圧痕 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -4304,7 +4304,7 @@ Total unique terms: 4430
 | 鞋身外侧 | Lateral Quarter | シューズ外側 | 鞋身鞋帮的外侧部分，鉴别拍摄点位。上下文已有鉴别鞋，不用重复表达Shoe/Sneaker |
 | 鞋边 | Welt | シューズの縁 | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋边-奢鞋 | Shoe edge - luxury shoes | シューズの側面（ラグジュアリーシューズ） | 质检项描述，需根据品类、场景等具体判断。 |
-| 鞋面 | Upper vamp | シューズの表面 | 质检项描述，需根据品类、场景等具体判断。 |
+| 鞋面 | Upper | シューズの表面 | 质检项描述，需根据品类、场景等具体判断。 |
 | 韩国 | KR | 韓国 | 缩写 |
 | 韩国佳佐洞仓 | KR Warehouse (Gajwa-dong) | 韓国佳佐洞倉庫 | 韩国仓名 |
 | 韩国国税 | National Tax Service (Republic of Korea) | 韓国国税 | National Tax Service (Republic of Korea)，韩国国税。用于进出口场景。 |
