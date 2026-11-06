@@ -1,10 +1,10 @@
 ## POIZON Glossary (Cached)
 
-Last updated: 2026-11-05 09:19
+Last updated: 2026-11-06 09:13
 
-Sources: POIZON - User Facing (Legacy)'s Glossary (4411 terms), POIZON - Internal Facing's Glossary (295 terms), POIZON 商品词库 (31 terms)
+Sources: POIZON - User Facing (Legacy)'s Glossary (4426 terms), POIZON - Internal Facing's Glossary (295 terms), POIZON 商品词库 (31 terms)
 
-Total unique terms: 4430
+Total unique terms: 4445
 
 | Chinese | English | Japanese | Description |
 |---------|---------|----------|-------------|
@@ -210,6 +210,7 @@ Total unique terms: 4430
 | 一销 | First-sale | 初回販売 |  |
 | 一键出价 | List Shortcut | かんたん出品 | 商家后台新增的功能模块，覆盖自主出价的现货场景。商家可将自己在 Kream 上经营的商品清单导入，实现一键搬家。商品匹配成功后，系统会根据计算得出的价格及设定的库存系数自动完成出价。 |
 | 七天无理由退货 | 7-Day Hassle-Free Returns | 7日間無料返品保証 | 签收后7天内，商品符合退货条件，可申请无理由退货。 |
+| 七无商家优惠费 | Incentive for 7-day return |  | 针对七天无理由退货能力相关场景新增的费用项，用于记录平台向商家返还的费用，通常作为操作服务费或技术服务费的优惠，在商家账单中按对应计费方向展示。 |
 | 万向轮 | Caster wheels | 自在キャスター | 质检项描述，需根据品类、场景等具体判断。 |
 | 三方账号 | External Accounts | 第三者アカウント | 买家侧，绑定三方外部账号场景，如Google，Apple，Yandex等。 这里“绑定”外部三方账号后，可以使用这些账号进行快捷登录。 原始的POIZON App登录会需要收发验证码。 |
 | 三级管理类目 | Tertiary Category | カテゴリー3 | 维度/类目枚举值 |
@@ -525,7 +526,7 @@ Total unique terms: 4430
 | 供给 | Supply | 供給 |  |
 | 供给竞争弱 | Low Competition | 機会品 | 出价商家少，成交机会大。在大盘数据中新增的快捷筛选卡片，点击后会对下方的商品榜单的数据进行排序筛选，如从“按GMV高低”切换到“按GMV增速”进行排序 |
 | 供销平台 | POIZON RESELL | POIZON RESELL |  |
-| 侧标 | Side Labal | サイドラベル | 鉴别拍摄点位 |
+| 侧标 | Side Label | サイドラベル | 鉴别拍摄点位 |
 | 侧标信息遮挡 | Side label information obscured | サイドラベル情報がブロックされている | 质检项描述，需根据品类、场景等具体判断。 |
 | 侧标或侧标信息缺失 | Missing side label/side label info | サイドラベル・ラベル情報不足 | 质检项描述，需根据品类、场景等具体判断。 |
 | 侧标破损 | Damaged side label | サイドラベル破損 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -622,9 +623,9 @@ Total unique terms: 4430
 | 偏小 | Runs small by | やや大きい | C端商详页偏码提示，商品尺码偏小 |
 | 偏振、摆幅、日差问题 | Beat error, amplitude, and daily rate deviation issues | 偏振動・振幅・日差 | 质检项描述，需根据品类、场景等具体判断。 |
 | 偏振不达标 | Beat error does not meet standards | 偏光基準値未達 | 质检项描述，需根据品类、场景等具体判断。 |
-| 做工 | Craftsmanship | 製造品質 | 仅限用于商品用户评论Reviews发布时会展示可供勾选的标签，按商品类目会有不同对应展示。请参考：[‌‍‍‬‌‌‍‍‍﻿⁠‬⁠﻿‍‍‍⁠‌‍‌‬⁠‍PRD-311667_Reviews发布链路优化_标签配置_翻译需求 - 飞书云文档](https://poizon.feishu.cn/wiki/KxQRw5NJQirT1BkHSXhcaqCZnWg?sheet=FGovl4) |
+| 做工 | Craftsmanship | 仕上がり | 仅限用于商品用户评论Reviews发布时会展示可供勾选的标签，按商品类目会有不同对应展示。请参考：[‌‍‍‬‌‌‍‍‍﻿⁠‬⁠﻿‍‍‍⁠‌‍‌‬⁠‍PRD-311667_Reviews发布链路优化_标签配置_翻译需求 - 飞书云文档](https://poizon.feishu.cn/wiki/KxQRw5NJQirT1BkHSXhcaqCZnWg?sheet=FGovl4) |
 | 做工不合格 | Poor manufacturing quality | 製造不良 | 质检项描述，需根据品类、场景等具体判断。 |
-| 做工瑕疵 | Craftsmanship defects | 製造不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 做工瑕疵 | Craftsmanship defects | 仕上がり不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 做工问题 | Manufacturing issues | 製造不良 加工 | 质检项描述，需根据品类、场景等具体判断。 |
 | 做旧 | Distressed | ダメージ加工 | 复古做旧工艺 |
 | 停用 | Suspended | 販売停止 |  |
@@ -1148,8 +1149,8 @@ Total unique terms: 4430
 | 发霉/霉变 | Mold | カビ・カビによる変質 | 质检项描述，需根据品类、场景等具体判断。 |
 | 发霉潮湿 | Mold and dampness | カビ・湿気 | 质检项描述，需根据品类、场景等具体判断。 |
 | 取回 | retrieve | 回収 | 取回（寄售商品） |
-| 取回寄售瑕疵商品 | Defective consignments retrieval | 事前入庫商品（不良個所あり）の回収 |  |
-| 取回寄售瑕疵商品-操作服务费 | Operation service fee - defective consignments retrieval | 作業手数料 - 事前入庫商品（不良個所あり）の回収 |  |
+| 取回寄售瑕疵商品 | Defective consignments retrieval | 事前入庫商品（不良箇所あり）の回収 |  |
+| 取回寄售瑕疵商品-操作服务费 | Operation service fee - defective consignments retrieval | 作業手数料 - 事前入庫商品（不良箇所あり）の回収 |  |
 | 取回操作服务费 | Returns processing fee | 回収サービス料 | 平台将对商品取回收取取回操作费用。 良品收费：针对全新可售商品取回收取仓库操作服务费； 次品收费：针对严重卖家责商品取回收取仓库操作服务费。 详见《良品退货取回操作服务费规则解释》。 |
 | 取回操作费 | Returns processing fee | 回収手数料 | 即取回操作服务费，平台将对商品取回收取取回操作费用。 良品收费：针对全新可售商品取回收取仓库操作服务费； 次品收费：针对严重卖家责商品取回收取仓库操作服务费。 详见《良品退货取回操作服务费规则解释》。 |
 | 取数 | Data Acquisition | データ収集 | BI后台菜单 |
@@ -1262,6 +1263,7 @@ Total unique terms: 4430
 | 唯一 | Unique | ユニークコード | 唯一码/唯一编号 |
 | 唯一码 | UID | UID | 库内商品的唯一码 |
 | 商业 | Business | ビジネス | 维度/类目枚举值 |
+| 商业化收费 | Ad promo fee |  | 用于记录商业化收费资金返还场景的费用项，通常对已有的商业化收费进行线下导入并返还给商家，在商家账单中按对应计费方向展示。 |
 | 商业发票 | Commercial Invoice | 商業送り状 | 竞对参考 |
 | 商品 | Item | アイテム | 商品的统称。UI多数情况都使用 Item |
 | 商品/价格分析 | Item/Price Analytics | 商品・価格分析 | 用户管理页面。当前“不可出价”、“可出价待出价”、“已出价可优化经营”三个经营场景下，商家的经营动作分散在不同的页面。针对以上场景，为卖家提供完整视角的数据看板--“价盘分析”，帮助卖家进行统一分析和操作 |
@@ -1276,7 +1278,7 @@ Total unique terms: 4430
 | 商品侧面 | Item side | 商品側面 | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品信息 | Item Info | 商品情報 | 一般指平台上的商品信息 |
 | 商品信息不符 | Mismatched item info | 商品情報が不一致 | 质检项描述，需根据品类、场景等具体判断。 |
-| 商品做工瑕疵 | Manufacturing defects | 製造不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 商品做工瑕疵 | Manufacturing defects | 仕上がり不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品入库 | Order received for verification | 鑑定オーダー受付済み | B2B订单物流轨迹中的子节点。（现货渠道） |
 | 商品内侧 | Inside of item | 商品内側 | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品内部-内管凹陷 | Item interior - dented inner tube | 商品内部チューブの凹み | 质检项描述，需根据品类、场景等具体判断。 |
@@ -1317,6 +1319,7 @@ Total unique terms: 4430
 | 商品末次出价时间 | Last Listing Time_Item | 商品の最終出品時間 | - |
 | 商品本体改装 | Product body modified | 商品本体が改造されている | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品正面 | Product front | 商品正面 | 质检项描述，需根据品类、场景等具体判断。 |
+| 商品清理服务 | Product Care Service | 商品クリーニングサービス | 原瑕疵修复服务，更名为”商品清理服务“。 |
 | 商品点击uv/pv | Product Clicks UV/PV | 商品クリックのUV・PV | 商品卡片点击人数/次数商品卡片点击人数/次数 商品卡片点击人数/次数商品卡片点击人数/次数 |
 | 商品状况 | Item Condition | 商品状態 | 用于描述商品在销售、质检等环节中的具体状况，如是否全新、有无瑕疵、功能是否完好等信息的表述。 |
 | 商品独立编码 | Item UPC | UPC |  |
@@ -1330,6 +1333,7 @@ Total unique terms: 4430
 | 商品缺少材质标，影响鉴别 | Missing material label | 商品に材質ラベルの不備ため、鑑定に影響を及ぼす | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品背面/链条 | Product back/chain | 商品背面・チェーン | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品调包 | Product does not match the original | 商品のすり替え | 质检项描述，需根据品类、场景等具体判断。 |
+| 商品资质关联管理 | Compliance & Certificates | コンプライアンス・証明書 | XBB商家后台专有菜单名称，用户商品合规管理 |
 | 商品跳线 | Skipped stitches | 跳び糸 | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品过旧 | Product too old | 旧式商品 | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品重瑕 | Major Defects | 商品に重度の不良箇所あり |  |
@@ -1498,6 +1502,7 @@ Total unique terms: 4430
 | 复卖 | Return-to-Stock | 再販売 |  |
 | 复卖-仅美国仓使用 | Resale - for US warehouse only | 再販売（米国倉庫限定） | 质检项描述，需根据品类、场景等具体判断。 |
 | 复印/打印侧标（换标） | Photocopied/printed side label (re-labeled) | 複写・印刷したサイドラベル（再ラベル貼付） | 质检项描述，需根据品类、场景等具体判断。 |
+| 复杂清理 | Premium Care | 徹底クリーニング | 原瑕疵修复服务下的子类别，专业修复，变次为良；若修复成功，变成良品销售 |
 | 复检 | Re-check | 再検査 |  |
 | 复苏个人商家数 | Individual Seller Qty_Revived | 復帰した個人出品者数 | 上月无出价/库存/成交、本月出价的个人卖家数 |
 | 复苏卖家数 | Seller Qty_Revived | 復帰した出品者数 | 上月无出价/库存/成交、本月出价卖家数 |
@@ -1590,10 +1595,10 @@ Total unique terms: 4430
 | 套内版本不符 | Mismatched version within set | セット内のバージョン不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 套装缺水洗 | Missing care label on kit | セット品洗濯タグ不備 | 质检项描述，需根据品类、场景等具体判断。 |
 | 奢侈品牌 | Luxury Brands | ラグジュアリーブランド | 维度/类目枚举值 |
-| 奢品 | Luxury Goods | ラグジュアリーアイテム | 维度/类目枚举值 |
+| 奢品 | Luxury Goods | ラグジュアリー品 | 维度/类目枚举值 |
 | 奢品券 | Luxury Auth Coupon | ラグジュアリー鑑定クーポン | 鉴别券的券名称展示标签（业务定义的英文） |
 | 奢品及国际潮 | Luxury and International Trend | ラグジュアリー＆グローバルトレンド | 维度/类目枚举值 |
-| 奢品线 | Luxury | ラグジュアリーアイテム | 维度/类目枚举值 |
+| 奢品线 | Luxury | ラグジュアリー品 | 维度/类目枚举值 |
 | 奢服BBP | Luxury Bags & Watches & Accessories | ラグジュアリーバッグ/ウォッチ/アクセサリー | 维度/类目枚举值 |
 | 奢美 | Luxury Beauty | ラグジュアリーコスメ | 维度/类目枚举值 |
 | 奢配-手镯 | Bracelet - luxury accessories | ブレスレット（ラグジュアリーアクセサリー） | 质检项描述，需根据品类、场景等具体判断。 |
@@ -2099,6 +2104,7 @@ Total unique terms: 4430
 | 托管出价 | POIZON Smart Listing | おまかせ出品 | 商家提供商品信息、价格、库存，平台帮匹配和进行出价 |
 | 托管在售 | Listed (Smart Listing) | 販売中（おまかせ） | PC商家后台首页菜单 |
 | 扣保证金抵负数账单 | Deposit applied to balance | 保証金控除（マイナス精算） | 财务资金-保证金账户，金额变动描述 |
+| 扣回 | Recapture | 控除 | 在财务会计和税务上，表示收回已发放的款项/津贴/补贴。需要区分于“Chargeback”，Chargeback更倾向于一种消费者发起的、机构仲裁的争议解决机制，对卖家带有惩罚性的资金逆流场景。 |
 | 扣子 | Button | 留め具 | 纽扣配件 |
 | 扣子瑕疵 | Button defects | ボタンに不良箇所あり | 质检项描述，需根据品类、场景等具体判断。 |
 | 执照是否长期有效 | Perpetual license (Y/N) | 長期ライセンスの有無 |  |
@@ -2266,6 +2272,7 @@ Total unique terms: 4430
 | 支付总金额 | Amount due | 支払総金額 | B2B独立站，用户付款界面，当前交易所需支付的金额 |
 | 支付方式 | Payment Method | 支払方法 | 竞对参考 |
 | 支付时间 | Payment Time | 支払日時 | 指交易完成支付的具体时间点或时间段，用于记录和标识订单款项支付成功的时刻。 |
+| 支付榜 | Leading Sales | オーダー数ランキング | 商家端商机模块中的支付类榜单，用于展示近期有销售或成交规模较高的商品，辅助商家识别平台热卖机会。 |
 | 支付订单 | Paid order | 支払済みオーダー | 表示已支付完成的订单 |
 | 支付订单uv/pv | Payment Orders UV/PV | 支払オーダーのUV・PV | 支付订单的人数/次数/次数 |
 | 支持 | Support | サポート | 指在电商业务运营过程中，为内部运营人员提供的各种协助、保障和服务，以确保电商平台的正常运作、业务流程的顺畅推进以及相关工作的有效开展。 |
@@ -2286,8 +2293,9 @@ Total unique terms: 4430
 | 收款账户名称 | Account Name | 代金受取口座名義 | 指用于接收款项的账户所对应的名称，通常与账户持有人的身份信息一致，在资金往来等场景中用于标识收款方的账户主体。 |
 | 收款银行 | Bank | 受取銀行 | 指接收款项的银行机构，是资金流转过程中款项最终汇入的银行。 |
 | 收纳整理 | Storage & Organization | 整理収納 |  |
-| 收藏 | wishlist | お気に入り | 指买家用户将感兴趣的商品添加到特定列表中，以便日后查看、购买或关注的功能模块。 |
+| 收藏 | Wishlist | お気に入り | 指买家用户将感兴趣的商品添加到特定列表中，以便日后查看、购买或关注的功能模块。 |
 | 收藏品 | Collectibles | コレクション | 收藏品属性的商品，如手办品类等 |
+| 收藏榜 | Customer Favorites | お気に入り数ランキング | 商家端商机模块中的收藏类榜单，基于收藏热度或用户想要数等指标展示具有收藏关注潜力的商品。 |
 | 收藏率 | Add-to-favorite Rate | お気に入り率 | 访问商详页的用户点击收藏的占比（仅收藏动作而非收藏状态） |
 | 收货单 | Receipt # | 受取リスト |  |
 | 收货地址 | Recipient Address | 商品お届け先（消費者住所） | 指买家在购买商品时填写的用于接收所购商品的具体地址信息。 |
@@ -2341,6 +2349,7 @@ Total unique terms: 4430
 | 新上架商品差异spu数 | Number of New Unique SPUs Shelved on POIZON | 新規掲載商品POIZON Global限定SPU数（初回出品日） | 新上架商品中首次出价当天仅有国际出价的差异化SPU数 |
 | 新人权益 | Welcome Bonus | 新規会員特典 | 平台向新注册的买家用户提供的各类优惠、福利或特权的统称，旨在吸引新买家加入并提升其初始使用体验。 |
 | 新出价次数 | New Listing Count | 新規出品回数 | 统计期内首次出价的次数 |
+| 新动销榜 | Fastest Growth | 新規商品のオーダー数ランキング | 商机模块中的新动销商品榜单，选取近一段时间新产生销售的商品并按GMV倒序排列，用于发现新动销商品机会。 |
 | 新品 | New Releases | 新規取扱商品 | 特指商品“上新”场景，平台新推出的商品 |
 | 新品上架sku数 | New Published SKU Qty | 新規掲載SKU数 | 国际渠道推上架的spu包含的sku |
 | 新品上架spu出价率 | Listing Rate_New Published SPU Qty | 新規掲載SPU出品率 | 国际渠道推上架后国际渠道出价spu数/国际渠道推上架spu数 |
@@ -2584,7 +2593,7 @@ Total unique terms: 4430
 | 极简版 | Lite | 簡易版 | 商家出价界面，添加视图切换，极简版 & 专家版。极简版的内容更为精简。没有那么多市场数据展示。 |
 | 极速售卖 | Swift Sales | より早く！ | 商家后台升级 三个亮点推广 |
 | 极限运动 | Extreme Sports | Xスポーツ | 维度/类目枚举值 |
-| 极高奢 | Ultra-luxury | ウルトラ・ラグジュアリー品 |  |
+| 极高奢 | Ultra-luxury | ウルトラハイエンド品 |  |
 | 染色 | Dyes | 染み | 质检项描述，需根据品类、场景等具体判断。 |
 | 染色/污渍/泛黄 | Dyes/stains/yellowing | シミ・汚れ・黄ばみ | 质检项描述，需根据品类、场景等具体判断。 |
 | 查看 | View | 見る | 界面提示词 |
@@ -2852,6 +2861,7 @@ Total unique terms: 4430
 | 点击打开 | Turn on flashlight | タップして点灯 | 图搜页面，光线不足的特殊场景，配合“手电筒”的Icon使用 |
 | 烫金涂改 | Altered foil stamping | 箔押しの改ざん | 质检项描述，需根据品类、场景等具体判断。 |
 | 烫金瑕疵 | Hot stamping defects | 箔押しに不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 热搜榜 | Top Searches | 検索人気ランキング | 商家端商机模块中的热搜类榜单，基于热搜指数、搜索PV等指标展示搜索热度较高的商品。 |
 | 热敏标签 | Thermal label | 感熱ラベル | 一种通过热能使标签材料显色以实现信息打印的标签类型，常用于物流、仓储等履约场景中商品信息的标识。 |
 | 热销 | Best-selling | 人気商品 | 指平台当前热销商品/销量最高的商品 |
 | 热销款 | Best-selling | 人気商品 | 指在特定时期或范围内，销量领先、广受欢迎的产品或商品，通常具有较高的市场认可度和购买频次。 |
@@ -2922,6 +2932,7 @@ Total unique terms: 4430
 | 瑕疵业务管理 | New with Defects | B級品業務管理 | PC端瑕疵渠道的菜单名称 |
 | 瑕疵严重 | Major defects | 不良（重度） | 质检项描述，需根据品类、场景等具体判断。 |
 | 瑕疵代发 | Defects Forwarding | B級品発送代行サービス | 名词，一种履约服务的名称。 商家发起退货时针对部分商品指定发到第三方平台，由poizon仓库协助处理 |
+| 瑕疵修复单详情 | Defect Fix Details | 修理履歴 | 瑕疵工作台页面下的分支Tab |
 | 瑕疵修复服务 | Defect Fix Service | B級品修理サービス | 当质检发现商品有瑕疵且满足一定条件时,POIZON会自动进行瑕疵品修复 |
 | 瑕疵修复费 | Defect fix fee (Bonded) | B級品修理費用 | 指在保税状态下，对商品存在的瑕疵进行修复所产生的相关费用。 |
 | 瑕疵可售 | New with Defects | B級品（販売可） | 退货中心，商品库存等级标签 |
@@ -2929,10 +2940,11 @@ Total unique terms: 4430
 | 瑕疵品平台处理费 | Express QC - defective item handling fee | B級品対応効率化サービス料 | 涉及到轻瑕客退的质检提效订单，退货寄回商家的同时回收对应的客退国际gmv |
 | 瑕疵品销售 | New with Defects Service | B級品販売 | 履约无忧服务下的子服务名称。[‍‍⁠‬‍﻿⁠‍﻿‬⁠⁠﻿⁠⁠‍⁠⁠﻿0731更新-瑕疵品标签名称优化的讨论 - 飞书云文档 (feishu.cn)](https://poizon.feishu.cn/docx/LzLfd5KYsoZUcbxJgiJcuU2ynxV?open_in_browser=true) |
 | 瑕疵定级 | Condition | 不良等級 | 在瑕疵商品管理界面上下文中，Condition即可表达 |
+| 瑕疵工作台 | Dashboard | B級品管理 | 用于展示瑕疵品到件明细、瑕疵状态、操作建议及相关处理入口的业务页面。 |
 | 瑕疵影响查验 | Defects affecting authentication | 不良箇所による品質検査への影響 | 质检项描述，需根据品类、场景等具体判断。 |
 | 瑕疵投诉率 | Complaint Rate_Product with Defects | クレーム率（不良箇所） | 瑕疵投诉订单量/支付订单量 ，瑕疵投诉指工单分类为“售后服务-瑕疵（使用前）” |
 | 瑕疵撮合 | Defective Item Negotiation | B級品取引仲介サービス | 针对符合特定条件的瑕疵品，基于商家设置的降价比例，平台与买家进行沟通，询问交易接受意愿。 |
-| 瑕疵焕新 | Defect Restoration | リペア・リフレッシュ | 瑕疵修复服务下的子类别，专业修复，变次为良；若修复成功，变成良品销售 |
+| 瑕疵操作台 | Dashboard | 修理管理 | 用于管理在仓瑕疵品并提供瑕疵处理操作入口的页面或功能区域。 |
 | 瑕疵管理 | New with Defects | B級品管理 | App端瑕疵渠道的菜单名称 |
 | 瑕疵退货商品特别处理费 | Defective Return Handling Fee | B級品返送特別対応料 | XBB买家逆向退货场景，退货回来发生破损或者瑕疵，客服和买家协商收取的扣除金额。 |
 | 瑕疵销售服务 | New with Defects Service | B級品販売サービス | 海外95分。当质检时发现商品有瑕疵且满足一定条件时，POIZON会以您设置的折扣降价与买家协商或进行瑕疵品转售。 |
@@ -3163,7 +3175,7 @@ Total unique terms: 4430
 | 签收 | Delivered | 受取 | 退货商品送达后，买家或相关方确认签收的状态提示 |
 | 签约主体 | Company | 契約相手方 | 指在合同等法律文件中签订协议的双方或多方主体，是承担合同权利与义务的当事人。 |
 | 签约企业商家数 | Business Seller Qty Registered | 契約企業出品者数 | 入驻完成（缴纳完保证金）的企业商家数 |
-| 简单清理 | Spot Cleaning | 簡易クリーニング | 瑕疵修复服务下的子类别，质检时发现污渍类瑕疵可即时清理，若清理成功，现货直接履约，寄售变成良品销售 |
+| 简单清理 | Spot Cleaning | 簡易クリーニング | 原瑕疵修复服务下的子类别，质检时发现污渍类瑕疵可即时清理，若清理成功，现货直接履约，寄售变成良品销售 |
 | 简易报关增值服务费 | Simplified Customs Clearance Value-Added Service Fee | 簡易通関付加価値サービス料 | 费用项名称。针对商家在台湾仓出库时选择简易报关模式的订单，平台将收取简易报关增值服务费。 |
 | 简约 | Minimalism | ミニマリズム | 维度/类目枚举值 |
 | 管口螺旋 | Tube Top Spiral | チューブキャップスクリュー | 鉴别拍摄点位 |
@@ -3685,6 +3697,7 @@ Total unique terms: 4430
 | 货号核对 | Style ID verification | 商品番号確認 | 核对产品货号 |
 | 货品机会盘点 | Inventory Evaluation | 市場分析 | 菜单名称。即盘货，对商家所经营货品的市场机会、销售潜力、库存状况等方面进行系统性的梳理与评估，旨在帮助商家发现潜在的销售机会、优化库存管理并制定更有效的经营策略。 |
 | 货币 | Currency | 通貨 |  |
+| 货损赔付款 | Damage compensation |  | 仓库货损赔付卖家的费用 |
 | 货物已到保税仓 | Arrived at Bonded Warehouse | 保税倉庫到着済み | 货物已成功运抵保税仓的状态 |
 | 货物离港 | Departed Origin | 出港完了 | XBB 二销的订单状态，表示货物已从中国香港离港。 |
 | 质地 | Texture | 質感 | 鉴别拍摄点位 |
@@ -3887,6 +3900,7 @@ Total unique terms: 4430
 | 适用人群 | Target user | 販売対象 | 商品的适用对象，如男、女、无性别等 |
 | 适用年龄 | Age suitability | 適用年齢 | 仅限用于商品用户评论Reviews发布时会展示可供勾选的标签，按商品类目会有不同对应展示。请参考：[‌‍‍‬‌‌‍‍‍﻿⁠‬⁠﻿‍‍‍⁠‌‍‌‬⁠‍PRD-311667_Reviews发布链路优化_标签配置_翻译需求 - 飞书云文档](https://poizon.feishu.cn/wiki/KxQRw5NJQirT1BkHSXhcaqCZnWg?sheet=FGovl4) |
 | 适用肤质 | Skin-friendly | 適用肌質 | 仅限用于商品用户评论Reviews发布时会展示可供勾选的标签，按商品类目会有不同对应展示。请参考：[‌‍‍‬‌‌‍‍‍﻿⁠‬⁠﻿‍‍‍⁠‌‍‌‬⁠‍PRD-311667_Reviews发布链路优化_标签配置_翻译需求 - 飞书云文档](https://poizon.feishu.cn/wiki/KxQRw5NJQirT1BkHSXhcaqCZnWg?sheet=FGovl4) |
+| 适穿温度 | Warmth | 着用適温 | XBB商详页面，适穿温度由商品参数综合计算，仅供参考。实际体感因人而异，请根据实际气候灵活穿衣。 |
 | 适配包型 | Compatible bag style | 適用バッグタイプ | 仅限用于商品用户评论Reviews发布时会展示可供勾选的标签，按商品类目会有不同对应展示。请参考：[‌‍‍‬‌‌‍‍‍﻿⁠‬⁠﻿‍‍‍⁠‌‍‌‬⁠‍PRD-311667_Reviews发布链路优化_标签配置_翻译需求 - 飞书云文档](https://poizon.feishu.cn/wiki/KxQRw5NJQirT1BkHSXhcaqCZnWg?sheet=FGovl4) |
 | 适配表类型 | Compatible watch type | 対応時計タイプ | 仅限用于商品用户评论Reviews发布时会展示可供勾选的标签，按商品类目会有不同对应展示。请参考：[‌‍‍‬‌‌‍‍‍﻿⁠‬⁠﻿‍‍‍⁠‌‍‌‬⁠‍PRD-311667_Reviews发布链路优化_标签配置_翻译需求 - 飞书云文档](https://poizon.feishu.cn/wiki/KxQRw5NJQirT1BkHSXhcaqCZnWg?sheet=FGovl4) |
 | 逆向 | Reverse | 逆方向（返品など） | 即逆向物流履约过程 |
@@ -4104,7 +4118,7 @@ Total unique terms: 4430
 | 雪茄 | Cigars | 葉巻・シガー | 鉴别前台类目 |
 | 雪镜 | Snow Goggle | スノーボード・スキーゴーグル | 鉴别拍摄点位 |
 | 零件/商品磨损 | Parts/Product wear and tear | 部品・商品の磨り減り | 质检项描述，需根据品类、场景等具体判断。 |
-| 零件松动&做工瑕疵 | Loose parts & manufacturing defects | 加工不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 零件松动&做工瑕疵 | Loose parts & manufacturing defects | 部品の緩み/仕上がり不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 零件松动/工艺瑕疵 | Loose parts/manufacturing defects | 部品の緩み/製造上の不良箇所 | 质检项描述，需根据品类、场景等具体判断。 |
 | 零件缺失 | Missing parts | 部品不足 | 质检项描述，需根据品类、场景等具体判断。 |
 | 零件脱落 | Detached parts | 部品の欠落 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -4406,7 +4420,8 @@ Total unique terms: 4430
 | 高价sku的大盘gmv | Overall GMV_Non-competitive SKU | 高価格SKUのPOIZON全体のGMV | 高价sku的得物大盘gmv |
 | 高价绝对值 | Lowest Price Variance_Global vs Dewu Domestic | 最低価格価格差（グローバル・ローカル） | 国际最低价与国内最低价的价差 |
 | 高利润商品 | Profit Opportunity | 売れ筋 | POIZON APP未动销卖家中心页，同“商机推荐”板块入口 |
-| 高奢 | High-end luxury | ハイエンド・ラグジュアリー品 |  |
+| 高利润榜 | Most Profitable | 収益性ランキング | 商机模块中的高利润商品榜单，按折扣率倒序排列并剔除近一个月订单数低于阈值的商品，用于展示平台高利润商品。 |
+| 高奢 | High-end luxury | ハイエンド品 |  |
 | 高机会商品 | High potential | よく売れている商品 | 白名单商品：SKU隶属于抢坑任务重点商品；商品列表T+1数仓回流 重点商品定义：496个品牌象限内 且 近7天销量≥20 且 未被业务逻辑剔除（如定制等） 针对白名单内的商品，统一打标出价诊断为「高机会商品」； |
 | 高珠 | High jewelry | ハイジュエリー | 质检项描述，需根据品类、场景等具体判断。 |
 | 高端 | High-End | ハイエンド | 维度/类目枚举值 |
