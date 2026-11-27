@@ -1,15 +1,15 @@
 ## POIZON Glossary (Cached)
 
-Last updated: 2026-11-26 10:43
+Last updated: 2026-11-27 10:44
 
-Sources: POIZON - User Facing (Legacy)'s Glossary (4426 terms), POIZON - Internal Facing's Glossary (295 terms), POIZON 商品词库 (31 terms)
+Sources: POIZON - User Facing (Legacy)'s Glossary (4431 terms), POIZON - Internal Facing's Glossary (295 terms), POIZON 商品词库 (31 terms)
 
-Total unique terms: 4445
+Total unique terms: 4450
 
 | Chinese | English | Japanese | Description |
 |---------|---------|----------|-------------|
 | "氧化、生锈 （金属件生锈，硅橡胶件发黄变硬粘连等情况）" | "Oxidation, rusting (rust on metal parts; yellowing, hardening, or sticking in silicone rubber parts)" | 「酸化、錆び （金属部品の錆び、シリコンゴム部品の黄ばみ、硬化、粘着など）」 | 质检项描述，需根据品类、场景等具体判断。 |
-| "色斑/色点,凹凸点或杂点" | "Color spots/color dots, raised or indented marks/specks" | 「色斑点・色点・表面凹凸・異物」 | 质检项描述，需根据品类、场景等具体判断。 |
+| "色斑/色点,凹凸点或杂点" | "Color spots/color dots, raised or indented marks/specks" | 「色ムラ、色点、表面凹凸、異物」 | 质检项描述，需根据品类、场景等具体判断。 |
 | "花纸，喷漆、彩绘，喷砂，丝印等瑕疵 （表面处理，表面图案类）" | "Defects of decal, spray-painting, color painting, sandblasting, silkscreen printing, etc. (surface pattern and finish)" | 「転写シール・塗装・彩色・サンドブラスト・シルク印刷などの不良（表面処理・表面模様類）」 | 质检项描述，需根据品类、场景等具体判断。 |
 | 0元保证金，10秒入驻 | Start selling in 10 seconds | 保証金0円！10秒で出店 | POIZON APP未入驻开屏页内容标语 |
 | 0元抽优惠券 | FREE DRAW | 無料抽選クーポン | 优惠券标签名称。当前为全大写表示。 |
@@ -27,8 +27,8 @@ Total unique terms: 4445
 | 7日回访率 | 7-day Revisiting Rate | 7日間リピート訪問率 | 同一用户在未来7日内再次访问该页面 |
 | 95分 | New with Defects | 95分（B級品販売） | 95分App是一种潮流闲置交易平台，主要针对品牌闲置商品交易市场中经常遇到的商品真实性、商品真伪、商品卫生等问题，开创了集商品实物拍摄，查验鉴别，洗护杀菌服务为一体的快速交易流程，并不断探索闲置物品领域的新可能。 在这个平台，支持个人跟个人交易，也支持个人跟二手商家交易；交易模式有两种：挂售和寄售。 挂售的模式是，用户先把物品的展示图挂在平台进行出售。在用户买单后，商家再把货品寄到平台，平台检测完毕后，再发送到用户手里。 寄售的模式是，商家先把货品寄到平台，平台检测完毕后，物品的展示图挂在平台进行出售。在用户买单后，平台直接发送到用户手里。 |
 | 95分-商品不可发 | New with Defects - unavailable for shipping | 95分（B級品販売）-発送不可 | 质检项描述，需根据品类、场景等具体判断。 |
-| 95分-商品可发 | New with Defects - available for shipping | 95分（B級品販売）_発送可能 | 质检项描述，需根据品类、场景等具体判断。 |
-| 95分-鉴别为假 | New with Defects - product is off | 95分（B級品販売）_偽物と鑑定された | 质检项描述，需根据品类、场景等具体判断。 |
+| 95分-商品可发 | New with Defects - available for shipping | 95分（B級品販売）－発送可能 | 质检项描述，需根据品类、场景等具体判断。 |
+| 95分-鉴别为假 | New with Defects - product is off | 95分（B級品販売）－偽物と鑑定された | 质检项描述，需根据品类、场景等具体判断。 |
 | AB品在仓SKU数 | End-of-Period - A & B SKU Qty_In-Stock | 倉庫保管SKU数（正規品・B級品） | AB品周末/月末/季度末时点在仓可售SKU数 |
 | AB品在仓SPU数 | End-of-Period - A & B SPU Qty_In-Stock | 倉庫保管SPU数（正規品・B級品） | AB品周末/月末/季度末时点在仓可售SPU数 |
 | AB品在线SKU数 | Active SKU Qty_A & B Class | 掲載済SKU数（正規品・B級品） | 在线SKU中当月GMV满足固定门槛值的SKU数 |
@@ -94,8 +94,8 @@ Total unique terms: 4445
 | HK仓 | HK Warehouse | 香港倉庫 | 维度/类目枚举值 |
 | HSCODE | HS Code | HSコード | 用于商品归类的编码，可参考通关网kw.hscode.net以及海关正面清单对商品进行归类，非正面清单商品无法入区，需填写正确的HSCODE |
 | ISV待新品审核 | ISV Awaiting New Item Review | ISV新規商品審査待ち | 维度/类目枚举值 |
-| Italy-KA | Italy-KA | イタリア‐KA | 维度/类目枚举值 |
-| Italy-PKA | Italy-PKA | イタリア‐PKA | 维度/类目枚举值 |
+| Italy-KA | Italy-KA | イタリア－KA | 维度/类目枚举值 |
+| Italy-PKA | Italy-PKA | イタリア－PKA | 维度/类目枚举值 |
 | JDFOP | JDFOP | JDFOP | 物流承运商名称，以官网名称为准 |
 | JPSaaS | Japan - API Business Seller | 日本出品者ーSaaS | 日本大区对接SaaS的商家 |
 | JP个人 | Japan - Individual Seller | 日本出品者ー個人 | 日本大区管理的个人商家 |
@@ -130,7 +130,7 @@ Total unique terms: 4445
 | New Categories | New Categories | 新規カテゴリー | 维度/类目枚举值 |
 | Nike | Nike | Nike | 耐克 |
 | ONTRAC | OnTrac | OnTrac | 物流承运商名称，以官网名称为准 |
-| OW扣缺失 | Missing OW zip tie | Off-Whiteジップタイ不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| OW扣缺失 | Missing OW zip tie | OW結束バンドの欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | PC | Desktop | PC | 描述应用端的场景 |
 | POIZON | POIZON | POIZON | 得物海外版App名称，注意大小写, Non-translatable |
 | POIZON合作快递服务 | POIZON Express | POIZON提携業者による配送サービス | POIZON与物流供应商合作，向用户提供快递服务。 |
@@ -148,7 +148,7 @@ Total unique terms: 4445
 | SF | SF | SF | 维度/类目枚举值 |
 | SK-II | SK-II | SK-II | SK-II护肤 |
 | SKU动销率 | Sell-Through Rate_SKU | 販売実績を有するSKUの割合 | 有支付订单的SKU数/有可售库存的SKU数 |
-| SKU标签 | SKU Label | SKUラベルorSKUタグ | 商品单证要求：一个纸箱内仅存在一个sku，不需要额外贴sku标签；一个纸箱内超过n个sku发货的情况下，要将相同sku商品单独装袋或用纸板、塑袋等固定材料物理分隔，同一个sku商品可仅贴一张sku标签，需贴中间外侧明显处。 |
+| SKU标签 | SKU Label | SKUラベル | 商品单证要求：一个纸箱内仅存在一个sku，不需要额外贴sku标签；一个纸箱内超过n个sku发货的情况下，要将相同sku商品单独装袋或用纸板、塑袋等固定材料物理分隔，同一个sku商品可仅贴一张sku标签，需贴中间外侧明显处。 |
 | SKU近30日成交情况 | 30-Day SKU Sales Performance | SKU直近30日間の販売状況 | 表示该SKU近30天在中国市场的成交情况，包含全球销量、全球均价、国际销量占比、本地卖家、SKU销售占比等子项 |
 | SKU销售占比 | SKU sales (%) | SKU販売数比率 | SKU30日中国市场销量/SPU30日中国市场销量，是SKU近30日成交情况的子项 |
 | SN码 | SN | SN |  |
@@ -189,7 +189,7 @@ Total unique terms: 4445
 | WMS退供 | WMS - Returns | WMS返送 | 退供页面标题 |
 | YSL | YSL | YSL | 圣罗兰 |
 | logo | logo | ロゴ | 质检项描述，需根据品类、场景等具体判断。 |
-| logo&小标倒置 | Inverted logo & tag | ロゴ＆表示が逆さま | 质检项描述，需根据品类、场景等具体判断。 |
+| logo&小标倒置 | Inverted logo & tag | ロゴ＆サブタグが逆さま | 质检项描述，需根据品类、场景等具体判断。 |
 | logo倒置 | Inverted logo | ロゴ逆さま | 质检项描述，需根据品类、场景等具体判断。 |
 | logo倒置&歪斜 | Inverted & misaligned logo | ロゴ逆さま＆傾き | 质检项描述，需根据品类、场景等具体判断。 |
 | logo倒置或不符 | Inverted/incorrect logo | ロゴが逆または不一致 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -210,7 +210,7 @@ Total unique terms: 4445
 | 一销 | First-sale | 初回販売 |  |
 | 一键出价 | List Shortcut | かんたん出品 | 商家后台新增的功能模块，覆盖自主出价的现货场景。商家可将自己在 Kream 上经营的商品清单导入，实现一键搬家。商品匹配成功后，系统会根据计算得出的价格及设定的库存系数自动完成出价。 |
 | 七天无理由退货 | 7-Day Hassle-Free Returns | 7日間無料返品保証 | 签收后7天内，商品符合退货条件，可申请无理由退货。 |
-| 七无商家优惠费 | Incentive for 7-day return |  | 针对七天无理由退货能力相关场景新增的费用项，用于记录平台向商家返还的费用，通常作为操作服务费或技术服务费的优惠，在商家账单中按对应计费方向展示。 |
+| 七无商家优惠费 | Incentive for 7-day return | 7日間返品インセンティブ | 针对七天无理由退货能力相关场景新增的费用项，用于记录平台向商家返还的费用，通常作为操作服务费或技术服务费的优惠，在商家账单中按对应计费方向展示。 |
 | 万向轮 | Caster wheels | 自在キャスター | 质检项描述，需根据品类、场景等具体判断。 |
 | 三方账号 | External Accounts | 第三者アカウント | 买家侧，绑定三方外部账号场景，如Google，Apple，Yandex等。 这里“绑定”外部三方账号后，可以使用这些账号进行快捷登录。 原始的POIZON App登录会需要收发验证码。 |
 | 三级管理类目 | Tertiary Category | カテゴリー3 | 维度/类目枚举值 |
@@ -238,7 +238,7 @@ Total unique terms: 4445
 | 上门质检 | Onsite QC | 品質検査出張サービス | 指在商品履约过程中，工作人员前往商家现场对商品质量进行检验的服务行为。 |
 | 下一步 | Next | 次へ | 按钮名称。 |
 | 下围 | Underbust | カップ下辺 | 质检项描述，需根据品类、场景等具体判断。 |
-| 下摆 | Hem | ヘムライン | 质检项描述，需根据品类、场景等具体判断。 |
+| 下摆 | Hem | 裾 | 质检项描述，需根据品类、场景等具体判断。 |
 | 下摆-奢服 | Hem - luxury apparel | 裾（ラグジュアリーアパレル） | 质检项描述，需根据品类、场景等具体判断。 |
 | 下架 | Remove | 出品終了 | 商品在平台下架，无法出价 |
 | 下架任务单 | Pick ticket | 棚出し作業指示書 |  |
@@ -254,7 +254,7 @@ Total unique terms: 4445
 | 不含税 | Tax-exclusive | 税抜 |  |
 | 不回弹 | Non-resilient | 弾力性がない | 质检项描述，需根据品类、场景等具体判断。 |
 | 不属于售后承保范围 | Not covered by after-sales warranty | アフターサービス対象外 | 质检项描述，需根据品类、场景等具体判断。 |
-| 不拆封质检 | QC without unpacking | 未開封QC | 无需拆封检验 |
+| 不拆封质检 | QC without unpacking | 品質検査（未開封） | 无需拆封检验 |
 | 不拔泵头 | Do not remove pump | ポンプ開封禁止 | 泵头不拆卸 |
 | 不拧封条 | Do not twist seal | 開封防止シール開封禁止 | 封条不拧开 |
 | 不支持退货 | Not eligible for return | 返品サポート対象外 | 部分商品类目不支持无理由退货政策 |
@@ -318,9 +318,9 @@ Total unique terms: 4445
 | 主单号 | MAWB No. | MAWB No. | 空运 |
 | 主品鉴别为真，赠品暂无法鉴别 | The product is authentic, but gift authentication is unavailable | 商品は本物だが、景品が鑑定不能 | 质检项描述，需根据品类、场景等具体判断。 |
 | 主子关系 | Bundle Details | セット内容 | 点击后可查看套装商品中的主商品和子商品的详细信息 |
-| 主标-奢服 | Main label - luxury apparel | メインラベル（ラグジュアリーアパレル） | 质检项描述，需根据品类、场景等具体判断。 |
-| 主标/水洗标/尺码标瑕疵 | Main label/care label/size label defects | メインラベル・洗濯タグ・サイズタグ不良 | 质检项描述，需根据品类、场景等具体判断。 |
-| 主标水洗尺码不一致 | Inconsistent size between main label and care label | メインラベル、洗濯タグ、サイズ表記の不一致 | 质检项描述，需根据品类、场景等具体判断。 |
+| 主标-奢服 | Main label - luxury apparel | メインタグ（ラグジュアリーアパレル） | 质检项描述，需根据品类、场景等具体判断。 |
+| 主标/水洗标/尺码标瑕疵 | Main label/care label/size label defects | メインタグ/洗濯タグ/サイズラベル不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 主标水洗尺码不一致 | Inconsistent size between main label and care label | メインタグ・洗濯タグ・サイズ表記の不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 主石瑕疵 | Center stone defects | 宝石本体の不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 主营类目 | Main category | 主力カテゴリー | 商家的主营类目 |
 | 主要面 | Main surface | 主要面 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -359,26 +359,26 @@ Total unique terms: 4445
 | 二维码 | QR Code | QRコード | 又称二维条码，是一种在二维平面上利用黑白相间的几何图形记录数据符号信息的编码方式。它比传统的一维条码能存储更多信息，并能表示更复杂的数据类型，如图片、网络链接等 |
 | 二销 | Return-to-Stock sale | 再販売 |  |
 | 二销收入 | Return-to-Stock Sale GMV | 再販売の売上 | 二销订单的收入：原订单产生的退货退款GMV按照瑕疵等级进行的折算gmv |
-| 云仓 | Certified 3PL Warehouse | 3PLサビース倉庫 | 云仓是业务外包，得物提供操作标准&考核标准，计件付费；供应商实施生产操作，得物不直接参与生产操作，不管理人员 |
+| 云仓 | Certified 3PL Warehouse | 提携倉庫 | 云仓是业务外包，得物提供操作标准&考核标准，计件付费；供应商实施生产操作，得物不直接参与生产操作，不管理人员 |
 | 云仓配 | Partner Delivery Service | 提携倉庫配送 |  |
 | 云鉴别 | Online Authentication | オンライン鑑定 | 基于美国本对本现货履约模式，提供「商家仓-线上鉴别-鉴别通过后直发消费者」的云鉴别直发履约模式MVP试跑。降低商家和平台履约成本。 |
 | 云鉴直发 | Direct Shipping (online authentication) | オンライン鑑定商品直送 | 商家库存出价->用户下单->商家仓接单-拍照上传->Poizon线上鉴定通过->商家仓打包->物流揽收 清关->用户 |
 | 五金 | Hardware | 金属パーツ | 五金件 |
 | 五金/工具 | Hardware & Tools | 金属パーツ・工具 | 一级类目 |
-| 五金凹坑 | Hardware dents | 金属部品の凹み | 质检项描述，需根据品类、场景等具体判断。 |
-| 五金划痕 | Hardware scratches | 金属パーツの傷 | 质检项描述，需根据品类、场景等具体判断。 |
+| 五金凹坑 | Hardware dents | 金属部品のくぼみ | 质检项描述，需根据品类、场景等具体判断。 |
+| 五金划痕 | Hardware scratches | 金属パーツの擦過痕 | 质检项描述，需根据品类、场景等具体判断。 |
 | 五金开裂 | Hardware cracks | 金属パーツのひび割れ | 质检项描述，需根据品类、场景等具体判断。 |
 | 五金抛光 | Hardware polishing | 金属つや出し | 质检项描述，需根据品类、场景等具体判断。 |
 | 五金掉漆 | Hardware paint peeling | 金属パーツの塗装剝がれ | 质检项描述，需根据品类、场景等具体判断。 |
 | 五金正面侧面 | Hardware Front and Side | 金属パーツ正面と側面 | 质检项描述，需根据品类、场景等具体判断。 |
 | 五金氧化 | Hardware oxidation | 金属パーツの酸化 | 质检项描述，需根据品类、场景等具体判断。 |
 | 五金污渍 | Hardware stains | 金属パーツの汚れ | 质检项描述，需根据品类、场景等具体判断。 |
-| 五金磨损 | Hardware wear and tear | 金属パーツの磨損 | 质检项描述，需根据品类、场景等具体判断。 |
+| 五金磨损 | Hardware wear and tear | 金属パーツの磨り減り | 质检项描述，需根据品类、场景等具体判断。 |
 | 五金翻新 | Hardware refurbished | 金属パーツ再生品 | 质检项描述，需根据品类、场景等具体判断。 |
 | 五金背面 | Hardware Back | 金属パーツ裏 | 质检项描述，需根据品类、场景等具体判断。 |
 | 五金脱落 | Detached hardware | 金属パーツ脱落 | 质检项描述，需根据品类、场景等具体判断。 |
-| 五金配件缺失 | Missing hardware accessories | 金具アクセサリーの不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 五金配件鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the hardware accessory are worn or missing; unable to confirm whether the manufacturing is original | 金属パーツ鑑定ポイント：摩耗・欠落によるオリジナル仕上がり確認不可 | 质检项描述，需根据品类、场景等具体判断。 |
+| 五金配件缺失 | Missing hardware accessories | 金具アクセサリー欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 五金配件鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the hardware accessory are worn or missing; unable to confirm whether the manufacturing is original | 金属パーツ鑑定ポイントに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
 | 五金铆钉 | Hardware rivets | 金属リベット | 包类商品的包身五金铆钉装饰部位 |
 | 五金（金属材质） | Hardware(Metal) | 金具（金属製） | 质检项描述，需根据品类、场景等具体判断。 |
 | 亚洲尺码 | Asia Size | アジアサイズ | 竞对参考 |
@@ -458,7 +458,7 @@ Total unique terms: 4445
 | 企业 | Business Seller | 企業 | 维度/类目枚举值 |
 | 企业信息 | Company Information | 企業情報 | 描述商家的基本信息，包括企业名称、注册信息、联系方式等内容，供卖家和内部人员使用的术语。 |
 | 企业卖家 | Business Seller | 企業出品者 | 卖家为总称，细分为个人卖家，企业卖家和买手店。 |
-| 企业受益人 | UBO | 会社受益者情報の登録 | Ultimate Beneficial Owner。UBO 是拥有和/或控制另一个实体的自然人或团体。实体可以是另一个人，也可以是价值数十亿美元的机构。虽然实际受益人可能控制很大一部分责任，但他们可能不会直接列在公司的官方文件或关联个人的记录中。 最终受益所有权的标准定义是当 25%（或更多）由一个团体或个人控制时。如此大的股权赋予所有者无与伦比的水平来行使最终和有效的控制。 |
+| 企业受益人 | UBO | 実質的支配者 | Ultimate Beneficial Owner。UBO 是拥有和/或控制另一个实体的自然人或团体。实体可以是另一个人，也可以是价值数十亿美元的机构。虽然实际受益人可能控制很大一部分责任，但他们可能不会直接列在公司的官方文件或关联个人的记录中。 最终受益所有权的标准定义是当 25%（或更多）由一个团体或个人控制时。如此大的股权赋予所有者无与伦比的水平来行使最终和有效的控制。 |
 | 企业商家GMV占比 | GMV Proportion_Business Seller | 企業出品者GMV割合 | 企业商家GMV占比/国际整体GMV |
 | 企业商家订单占比 | Order Volume Proportion_Business Seller | 企業出品者オーダー割合 | 企业商家单量占比/国际整体单量 |
 | 企业有效商家数 | Business Seller Qty Sold | 有効出品者数（企業） | 企业有效商家数：企业商卖家当月有出价 + 卖家近3月至少一个月GMV>=3w；季度取月均企业有效商家数；企业包含贸易商+品牌商+Saas商家内非买手店 |
@@ -526,14 +526,14 @@ Total unique terms: 4445
 | 供给 | Supply | 供給 |  |
 | 供给竞争弱 | Low Competition | 機会品 | 出价商家少，成交机会大。在大盘数据中新增的快捷筛选卡片，点击后会对下方的商品榜单的数据进行排序筛选，如从“按GMV高低”切换到“按GMV增速”进行排序 |
 | 供销平台 | POIZON RESELL | POIZON RESELL |  |
-| 侧标 | Side Label | サイドラベル | 鉴别拍摄点位 |
+| 侧标 | Side Labal | サイドラベル | 鉴别拍摄点位 |
 | 侧标信息遮挡 | Side label information obscured | サイドラベル情報がブロックされている | 质检项描述，需根据品类、场景等具体判断。 |
-| 侧标或侧标信息缺失 | Missing side label/side label info | サイドラベル・ラベル情報不足 | 质检项描述，需根据品类、场景等具体判断。 |
+| 侧标或侧标信息缺失 | Missing side label/side label info | サイドラベルまたはラベル情報不備 | 质检项描述，需根据品类、场景等具体判断。 |
 | 侧标破损 | Damaged side label | サイドラベル破損 | 质检项描述，需根据品类、场景等具体判断。 |
-| 侧标缺失 | Missing side label | サイドラベルの不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 侧标缺失 | Missing side label | サイドラベル欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 侧标被遮挡 | Obscured side label | サイドラベルの遮蔽 | 质检项描述，需根据品类、场景等具体判断。 |
 | 侧面-奢配 | Side - luxury accessories | 側面（ラグジュアリーアクセサリー） | 质检项描述，需根据品类、场景等具体判断。 |
-| 侧面及把头 | Side and crown | 側面とハンドル | 质检项描述，需根据品类、场景等具体判断。 |
+| 侧面及把头 | Side and crown | 側面とリューズ | 质检项描述，需根据品类、场景等具体判断。 |
 | 侧面金属环 | Metal ring (side) | 側面金属リング | 质检项描述，需根据品类、场景等具体判断。 |
 | 侧面铆钉 | Riverts (side) | 側面リベット | 质检项描述，需根据品类、场景等具体判断。 |
 | 便利店 | Convenience Store | コンビニ |  |
@@ -553,16 +553,16 @@ Total unique terms: 4445
 | 保卡&说明书 | Warranty card & manual | 保証書＆取扱説明書 | 质检项描述，需根据品类、场景等具体判断。 |
 | 保卡-奢 | Warranty card - luxury | 保証書（ラグジュアリー） | 质检项描述，需根据品类、场景等具体判断。 |
 | 保卡/说明书-奢配 | Warranty card/manual - luxury accessories | 保証書・取扱説明書（ラグジュアリーアクセサリー） | 质检项描述，需根据品类、场景等具体判断。 |
-| 保卡/说明书-手表 | Warranty card/manual - watch | 保証書・取扱説明書‐ウォッチ | 质检项描述，需根据品类、场景等具体判断。 |
+| 保卡/说明书-手表 | Warranty card/manual - watch | 保証書・取扱説明書－ウォッチ | 质检项描述，需根据品类、场景等具体判断。 |
 | 保卡/说明书不配套 | Mismatched warranty card/user manual | 保証書と取扱説明書が一致しない | 质检项描述，需根据品类、场景等具体判断。 |
 | 保卡不配套 | Mismatched warranty card | 保証書不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 保卡与实物不符 | Warranty card and the product do not match | 保証書と商品実物が不一致 | 质检项描述，需根据品类、场景等具体判断。 |
-| 保卡与延保日期相差 | Discrepancy between warranty card and extended warranty dates | 保証書‐延長保証日付不一致 | 质检项描述，需根据品类、场景等具体判断。 |
+| 保卡与延保日期相差 | Discrepancy between warranty card and extended warranty dates | 保証書－延長保証日付不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 保卡和官网不同步 | Warranty card does not match info on official website | 保証書と公式サイト情報が不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 保卡效期不足 | Near warranty expiry | 保証書の有効期限切れ | 质检项描述，需根据品类、场景等具体判断。 |
 | 保卡日期不足一年 | Warranty card date less than one year | 保証書の有効期限が1年未満 | 质检项描述，需根据品类、场景等具体判断。 |
 | 保卡缺失 | Missing warranty card | 保証書不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 保卡验证码贴纸瑕疵 | Warranty code sticker defective | ギャランティカード認証コードステッカーに不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 保卡验证码贴纸瑕疵 | Warranty code sticker defective | ギャランティカードの認証コードステッカーの不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 保存并退出 | Save & Exit | 保存して終了する | UI界面，固定按钮名称 |
 | 保护膜 | Protective film | 保護フィルム | 质检项描述，需根据品类、场景等具体判断。 |
 | 保暖 | Thermal | 保温 | 维度/类目枚举值 |
@@ -624,9 +624,9 @@ Total unique terms: 4445
 | 偏振、摆幅、日差问题 | Beat error, amplitude, and daily rate deviation issues | 偏振動・振幅・日差 | 质检项描述，需根据品类、场景等具体判断。 |
 | 偏振不达标 | Beat error does not meet standards | 偏光基準値未達 | 质检项描述，需根据品类、场景等具体判断。 |
 | 做工 | Craftsmanship | 仕上がり | 仅限用于商品用户评论Reviews发布时会展示可供勾选的标签，按商品类目会有不同对应展示。请参考：[‌‍‍‬‌‌‍‍‍﻿⁠‬⁠﻿‍‍‍⁠‌‍‌‬⁠‍PRD-311667_Reviews发布链路优化_标签配置_翻译需求 - 飞书云文档](https://poizon.feishu.cn/wiki/KxQRw5NJQirT1BkHSXhcaqCZnWg?sheet=FGovl4) |
-| 做工不合格 | Poor manufacturing quality | 製造不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 做工不合格 | Poor manufacturing quality | 仕上がり基準不適合 | 质检项描述，需根据品类、场景等具体判断。 |
 | 做工瑕疵 | Craftsmanship defects | 仕上がり不良 | 质检项描述，需根据品类、场景等具体判断。 |
-| 做工问题 | Manufacturing issues | 製造不良 加工 | 质检项描述，需根据品类、场景等具体判断。 |
+| 做工问题 | Manufacturing issues | 仕上がり不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 做旧 | Distressed | ダメージ加工 | 复古做旧工艺 |
 | 停用 | Suspended | 販売停止 |  |
 | 健身器材 | Fitness Equipment | フィットネス器具 | 维度/类目枚举值 |
@@ -648,12 +648,13 @@ Total unique terms: 4445
 | 克数不足 | Insufficient weight | グラム数不足 | 质检项描述，需根据品类、场景等具体判断。 |
 | 克重不符 | Mismatched weight | 重量が不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 克重不足/跑酒 | Insufficient weight/leakage | 重量不足・アルコール揮発による減量 | 质检项描述，需根据品类、场景等具体判断。 |
-| 免开箱只查验外观 | No-open: visual check only | 開封不要：外観のみ検査 |  |
+| 免开箱只查验外观 | No-open: visual check only | 外観のみ品質検査（開封不要） |  |
 | 免息 | Interest-free | 無利息 |  |
 | 免税商品 | Duty-free items | 免税商品 | 质检项描述，需根据品类、场景等具体判断。 |
 | 免税字样 | Duty-free | 免税表記 | 免税商品标识 |
 | 免税店直发 | Direct Shipping (Duty-Free Store) | 免税店直送 | 直发模式的一种 |
 | 免费物流 | Free Shipping | 無料配送 | 标准时效的物流选项，买家商详页的空运 物流选项框之一。 |
+| 免退货服务费 | Free Returns Processing |  | XBB买家侧，免退货服务费券名称。可抵₽899的退货服务费用。（签收后无理由退货、拒收包裹或超时未取件退回，均需支付 ₽899 的服务费，用于覆盖退货处理成本。） |
 | 免鉴直发 | Direct Shipping | 特例鑑定商品直送 | 商家库存出价->用户下单->商家仓接单-打包->物流揽收 清关->用户 |
 | 兑现费 | Cash Out Fee | 引き出し手数料 |  |
 | 入仓 | Received by POIZON | 入庫 | 指商品被POIZON仓库接收并完成入库的状态，常用于卖家发货后商品进入平台仓储环节的描述，供卖家和内部人员追踪商品仓储流程。 |
@@ -684,7 +685,7 @@ Total unique terms: 4445
 | 入驻 | Registration | 出店 | 商家申请加入得物/POIZON并有资格开始上架售卖商品 |
 | 入驻到首次出价平均时长_h | Avg Reg to List_hour | 出店～初出品までの平均所要時間 | 首次出价时间 到入驻时间到首次出价时间的差值 |
 | 入驻卖家数 | Seller Qty_Registered | 出店完了の出品者数 | 统计期内，入驻成功的卖家数 |
-| 入驻卖家数-动销卖家数转化率 | CVR of registered sellers to registered sellers with sales | 出店完了の出品者数‐販売実績を有する出品者数のコンバージョン率 | 周期时间内完成入驻并且完成动销卖家占入驻卖家的比例 |
+| 入驻卖家数-动销卖家数转化率 | CVR of registered sellers to registered sellers with sales | 出店完了の出品者数－販売実績を有する出品者数のコンバージョン率 | 周期时间内完成入驻并且完成动销卖家占入驻卖家的比例 |
 | 入驻成功 | Registration completed | 出店完了 | 商家完成从注册至平台入驻的整体流程。 |
 | 入驻指南 | Get Started | 出店ガイド | POIZON招商网站框架“知识课堂”下的子标题 |
 | 全地区露出 | Buy Box (Nationwide) | 表示可能価格（全地域） | 限保税场景，指商品在所有买家地区均可被买家看到的露出状态，原「中国买家可见」更名为「全地区露出」，用于展示商品在全国范围内可露出的价格。 |
@@ -784,8 +785,8 @@ Total unique terms: 4445
 | 内盖 | Inner Cap | 内蓋 | 鉴别拍摄点位 |
 | 内着 | Undergarments | アンダーウェア | 维度/类目枚举值 |
 | 内管凹陷 | Dented inner tube | インナーチューブの凹み | 质检项描述，需根据品类、场景等具体判断。 |
-| 内管划痕 | Inner tube scratches | インナーチューブに傷 | 质检项描述，需根据品类、场景等具体判断。 |
-| 内管掉漆 | Inner tube paint peeling | インナーチューブの塗装剥がれ【掉漆 暂译：塗装剥がれ？】 | 质检项描述，需根据品类、场景等具体判断。 |
+| 内管划痕 | Inner tube scratches | インナーチューブの擦過痕 | 质检项描述，需根据品类、场景等具体判断。 |
+| 内管掉漆 | Inner tube paint peeling | インナーチューブの塗装剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
 | 内管瑕疵 | Defective inner tube | インナーチューブの不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 内管脱落 | Inner tube detached | 内部チューブ脱落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 内衣 | Underwear | アンダーウェア・下着 | 维度/类目枚举值 |
@@ -807,11 +808,11 @@ Total unique terms: 4445
 | 净利 | Net profit | 純利益 | 一般UI字符空间足够且不折行的话，写全 |
 | 净增长sku数 | SKU Qty_Net Growth | SKU純増数 | 相比上周期在线sku数的增长值 |
 | 净增长spu数 | SPU Qty_Net Growth | SPU純増数 | 相比上周期在线spu数的增长值 |
-| 凸起/变形/鼓包 | Bulge/deformation | 凸起・変形・膨らみ | 质检项描述，需根据品类、场景等具体判断。 |
+| 凸起/变形/鼓包 | Bulge/deformation | 凸起/変形/膨らみ | 质检项描述，需根据品类、场景等具体判断。 |
 | 凸起变形 | Bulge deformation | 突起状の変形 | 质检项描述，需根据品类、场景等具体判断。 |
 | 凹坑 | Dents | くぼみ | 质检项描述，需根据品类、场景等具体判断。 |
-| 凹坑/掉漆 | Dents/paint peeling | 凹み・塗装剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
-| 凹坑，变形 | Dents, deformation | 凹み、変形 | 质检项描述，需根据品类、场景等具体判断。 |
+| 凹坑/掉漆 | Dents/paint peeling | くぼみ/塗装剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
+| 凹坑，变形 | Dents, deformation | くぼみ、変形 | 质检项描述，需根据品类、场景等具体判断。 |
 | 凹陷 | Dents | へこみ | 表面凹陷 |
 | 出仓单 | Outbound order | 出庫リスト | 用于记录商品从仓库出库信息的单据，包含商品名称、数量、出库时间等内容，供卖家在内部管理仓储及清关流程时使用。 |
 | 出价 | List | 出品 | 动词。什么是商品出价？ 当多个商家同时销售同一款商品时，POIZON采用“商家竞价，优者胜出”的模式。 在这种模式下，所有商家想要售卖商品，需要找到该商品，设定出售价格。时效快或者价格低的商品能在竞价中胜出，在得物或者POIZON APP展示给消费者。 |
@@ -943,7 +944,7 @@ Total unique terms: 4445
 | 动销品牌数 | Brand Qty Sold | 販売実績を有するブランド数 | 有支付订单品牌数 |
 | 动销建议价 | Likely to sell | 売れやすい価格 | 参考价的一种，指可动销的价格 |
 | 动销率 | Sell-Through Rate | 販売実績を有する割合 | 商品成功售出的比例 |
-| 勾丝 | Snags | 糸引っ掛かり | 质检项描述，需根据品类、场景等具体判断。 |
+| 勾丝 | Snags | 糸引き | 质检项描述，需根据品类、场景等具体判断。 |
 | 勾线 | Snags | 引っ掛かり糸 | 质检项描述，需根据品类、场景等具体判断。 |
 | 包 | Bags | バッグ | 竞对参考 |
 | 包体油边 | Bag body paint edge | バッグ本体コバ塗り | 质检项描述，需根据品类、场景等具体判断。 |
@@ -954,7 +955,7 @@ Total unique terms: 4445
 | 包内年份标 | Bag inner date label | バッグ内製造年表示タグ | 质检项描述，需根据品类、场景等具体判断。 |
 | 包内底部 | Bag inner bottom | バッグ内底部 | 质检项描述，需根据品类、场景等具体判断。 |
 | 包内拉链 | Inner zipper | バッグ内側ファスナー | 质检项描述，需根据品类、场景等具体判断。 |
-| 包内拉链头 | Zipper pull (interior) | バッグ内ファスナー引き手 | 质检项描述，需根据品类、场景等具体判断。 |
+| 包内拉链头 | Zipper pull (interior) | バッグ内ファスナーの引手 | 质检项描述，需根据品类、场景等具体判断。 |
 | 包内搭扣 | Inner buckle | バッグ内部バックル | 质检项描述，需根据品类、场景等具体判断。 |
 | 包内烫金 | Bag inner foil stamping | バッグ内箔押し | 质检项描述，需根据品类、场景等具体判断。 |
 | 包内瑕疵 | Inner bag defects | バッグ内部不良 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -974,9 +975,9 @@ Total unique terms: 4445
 | 包装污渍 | Packaging stains | 包装汚れ | 质检项描述，需根据品类、场景等具体判断。 |
 | 包装盒 | Packaging box | 包装箱 | 质检项描述，需根据品类、场景等具体判断。 |
 | 包装盒-内衬褶皱 | Packaging box - wrinkled lining | 包装箱（裏地）のシワ | 质检项描述，需根据品类、场景等具体判断。 |
-| 包装盒-无中文标签 | Packaging box - no Chinese label | 包装箱‐中国語ラベルなし | 质检项描述，需根据品类、场景等具体判断。 |
+| 包装盒-无中文标签 | Packaging box - no Chinese label | 包装箱－中国語ラベルなし | 质检项描述，需根据品类、场景等具体判断。 |
 | 包装盒不配套 | Mismatched packaging box | 包装箱の不一致 | 质检项描述，需根据品类、场景等具体判断。 |
-| 包装盒划痕 | Packaging box scratches | 包装箱に傷 | 质检项描述，需根据品类、场景等具体判断。 |
+| 包装盒划痕 | Packaging box scratches | 包装箱の擦過痕 | 质检项描述，需根据品类、场景等具体判断。 |
 | 包装盒完好 | Good Box | パッケージボックス異常なし | 指商品的包装盒子在外观及结构上保持完整、无破损、无变形等良好状态，符合相关质量标准和要求。 |
 | 包装盒损坏 | Damaged Box | パッケージボックス破損 | 指商品在运输、存储或处理过程中，其外包装盒出现破损、开裂、变形等物理损坏的情况。 |
 | 包装盒掉漆 | Packing box paint peeling | 包装箱の塗装剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
@@ -988,13 +989,13 @@ Total unique terms: 4445
 | 包装盒（指礼盒和原盒 | Packaging box (gift box & original box) | 包装箱（ギフトボックス・オリジナルボックス） | 质检项描述，需根据品类、场景等具体判断。 |
 | 包装破损 | Damaged packaging | 包装の破損 | 质检项描述，需根据品类、场景等具体判断。 |
 | 包装袋&盒 | Packaging bag & box | パッケージバッグ＆ボックス | 质检项描述，需根据品类、场景等具体判断。 |
-| 包装袋/盒 | Packaging bag/box | パッケージバッグ・ボックス | 质检项描述，需根据品类、场景等具体判断。 |
+| 包装袋/盒 | Packaging bag/box | パッケージバッグ/ボックス | 质检项描述，需根据品类、场景等具体判断。 |
 | 包装袋/礼盒 | Packaging bag/gift box | パッケージバッグ・ギフトボックス | 质检项描述，需根据品类、场景等具体判断。 |
 | 包装袋与衣服不匹配 | Packaging bag and apparel do not match | パッケージバッグと本体が不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 包装袋缺失 | Missing packaging bag | パッケージバッグ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 包装褪色 | Faded packaging | 包装の色褪せ | 质检项描述，需根据品类、场景等具体判断。 |
 | 包装褶皱 | Packaging wrinkles | 包装のシワ | 质检项描述，需根据品类、场景等具体判断。 |
-| 包装褶皱，折痕，水渍，染色，污染，涂鸦，信息被遮挡，褪色；包装盒不匹配 | Packaging wrinkles, creases, water stains, dye marks, contamination, scribble, obscured info, fading; mismatched packaging box | 包装のシワ、折り跡、水シミ、染み、汚れ、落書き、表示欠損、色褪せ／包装箱不一致 | 质检项描述，需根据品类、场景等具体判断。 |
+| 包装褶皱，折痕，水渍，染色，污染，涂鸦，信息被遮挡，褪色；包装盒不匹配 | Packaging wrinkles, creases, water stains, dye marks, contamination, scribble, obscured info, fading; mismatched packaging box | 包装のシワ、折り跡、水シミ、色移り、汚れ、落書き、情報の隠れ、色褪せ。包装箱不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 包装配件假 | Packaging & accessories are off | パッケージ付属品が偽物 | 质检项描述，需根据品类、场景等具体判断。 |
 | 包装配件假且商品存疑 | Packaging & accessories are off, and the product authenticity is uncertain | 包装・付属品が偽物で、商品にも疑義あり | 质检项描述，需根据品类、场景等具体判断。 |
 | 包装重瑕 | Damaged Box | パッケージに重度の不良箇所あり |  |
@@ -1014,7 +1015,7 @@ Total unique terms: 4445
 | 包身皮质正反面 | Bag body leather front and back | バッグ本体レザー（表面・裏面） | 质检项描述，需根据品类、场景等具体判断。 |
 | 包身皮质顶部 | Body leather (top) | バッグ本体レザー部上端 | 质检项描述，需根据品类、场景等具体判断。 |
 | 包身顶部 | Bag body top | バッグ本体上端 | 质检项描述，需根据品类、场景等具体判断。 |
-| 包边 | Bag edge | バッグコバ（塗り） | 质检项描述，需根据品类、场景等具体判断。 |
+| 包边 | Bag edge | 縁取り | 质检项描述，需根据品类、场景等具体判断。 |
 | 包邮 | Free Shipping | 送料無料 |  |
 | 包面补色 | Bag surface recoloring | バッグ表面の補色 | 质检项描述，需根据品类、场景等具体判断。 |
 | 匡威 | Converse | CONVERSE | Converse |
@@ -1069,19 +1070,19 @@ Total unique terms: 4445
 | 博客列表 | The Blog | ブログリスト | XBB H5，POIZON自建站页面的SEO文章集合下的文章类型入口名称 |
 | 卡口登记费 | Customs checkpoint filling fee | ゲート登録料 | 非保税货物出入保税区申报费 |
 | 卡扣 | Buckle | バックル | 卡扣配件 |
-| 卡扣瑕疵 | Buckle defects | バックルの不良箇所 | 质检项描述，需根据品类、场景等具体判断。 |
+| 卡扣瑕疵 | Buckle defects | バックルの不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 卡片 | Card | カード | 用于承载商品信息、用户信息、功能入口等各类内容的矩形或其他形状的信息展示单元，通常包含图片、文字等元素，可点击或滑动以进行相关操作或查看更多详情 |
 | 卫衣 | Sweatshirts | パーカー |  |
 | 印刷工艺瑕疵 | Printing defects | 印刷技術不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 印刷瑕疵 | Printing defects | 印刷不良 | 质检项描述，需根据品类、场景等具体判断。 |
-| 印字磨损掉漆 | Print abrasion/paint peeling | こすれと塗装剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
+| 印字磨损掉漆 | Print abrasion/paint peeling | 印字の擦れ・塗装剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
 | 印花不符 | Mismatched print | プリント柄不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 印花刺绣瑕疵 | Printed embroidery defects | プリント柄・刺繍の不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 印花刺绣缺失/破损 | Missing/damaged printed embroidery | プリント・刺繍の欠落/破損 | 质检项描述，需根据品类、场景等具体判断。 |
 | 印花工艺瑕疵 | Printing defects | 印刷製造技術の不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 印花瑕疵 | Printing defects | プリント柄不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 印花破损 | Damaged printing | プリント柄破損 | 质检项描述，需根据品类、场景等具体判断。 |
-| 印花缺失/破损 | Worn/missing prints | プリント不足・破損 | 质检项描述，需根据品类、场景等具体判断。 |
+| 印花缺失/破损 | Worn/missing prints | プリント不足/破損 | 质检项描述，需根据品类、场景等具体判断。 |
 | 危害人身安全 | Hazardous to personal safety | 人体に危害を及ぼす可能性あり | 质检项描述，需根据品类、场景等具体判断。 |
 | 危险品 | Hazardous materials | 危険物 | 泛指保税入仓时申报的危险商品、材料等等 |
 | 危险品申报服务费 | Hazardous materials declaration fee | 危険物申告サービス料 | 危险品运输，在入境前向海事等监管部门备案、申报产生的一系列费用 |
@@ -1106,7 +1107,7 @@ Total unique terms: 4445
 | 压车费 | Vehicle holding fee | 超過保管料 | 国际物流场景中，因海关查验且定责为商家原因产生的压车，提货滞期所收取的费用（请注意是提货前海关未放行的情况） |
 | 厚度 | Thickness | 厚さ | 仅限用于商品用户评论Reviews发布时会展示可供勾选的标签，按商品类目会有不同对应展示。请参考：[‌‍‍‬‌‌‍‍‍﻿⁠‬⁠﻿‍‍‍⁠‌‍‌‬⁠‍PRD-311667_Reviews发布链路优化_标签配置_翻译需求 - 飞书云文档](https://poizon.feishu.cn/wiki/KxQRw5NJQirT1BkHSXhcaqCZnWg?sheet=FGovl4) |
 | 原产地 | Country/Region of Origin | 原産地 | 指商品或产品的生产、制造或起源的国家或地区，用于标识产品的来源地信息。 |
-| 原包装缺失 | Missing original packaging | 非純正 | 质检项描述，需根据品类、场景等具体判断。 |
+| 原包装缺失 | Missing original packaging | 純正包装欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 原始 | Original | オリジナル | 指事物最初的、未经修改或变动的状态或版本 |
 | 原始状态 | Pristine Condition | 新品 | 竞对参考 |
 | 原状态出口 | Re-export | 再輸出 | 指将进口货物未经加工或仅进行简单处理（如分类、包装等）后再次出口到其他国家或地区的贸易行为。 |
@@ -1158,7 +1159,7 @@ Total unique terms: 4445
 | 取消拦截 | Release | 保留解除 |  |
 | 取消转寄售 | Resale via Consignment | キャンセル品の事前入庫販売切替 | 履约服务名称。符合转寄售的未履约订单/商品自动处理，降低卖家逆向退回操作成本。如：买家取消、尺码/货号不符质检不通过等原因。一键开启，逆向无忧。 |
 | 变形 | Deformation | 変形 | 质检项描述，需根据品类、场景等具体判断。 |
-| 变形/褶皱 | Deformation/wrinkles | 変形・シワ | 质检项描述，需根据品类、场景等具体判断。 |
+| 变形/褶皱 | Deformation/wrinkles | 変形/シワ | 质检项描述，需根据品类、场景等具体判断。 |
 | 变色 | Discoloration | 変色 | 竞对参考 |
 | 变质 | Deterioration | 変質 | 质检项描述，需根据品类、场景等具体判断。 |
 | 口岸查验服务费 | Port inspection service fee | 港湾検査サービス料 | 海关申报过程中，在入境口岸CP代理查验收取的服务费 |
@@ -1196,10 +1197,10 @@ Total unique terms: 4445
 | 吊坠正面-奢配 | Pendant front - luxury accessories | ペンダント正面（ラグジュアリーアクセサリー） | 质检项描述，需根据品类、场景等具体判断。 |
 | 吊坠背面-奢配 | Pendant back - luxury accessories | ペンダント裏面（ラグジュアリーアクセサリー） | 质检项描述，需根据品类、场景等具体判断。 |
 | 吊牌 | Hangtag | タグ | 商品吊牌 |
-| 吊牌/保卡 | Hang tag/warranty card | タグ・保証カード | 质检项描述，需根据品类、场景等具体判断。 |
-| 吊牌/合格证 | Hangtag/conformity certificate | タグ・品質証明書 | 质检项描述，需根据品类、场景等具体判断。 |
+| 吊牌/保卡 | Hang tag/warranty card | タグ/保証カード | 质检项描述，需根据品类、场景等具体判断。 |
+| 吊牌/合格证 | Hangtag/conformity certificate | タグ/品質証明書 | 质检项描述，需根据品类、场景等具体判断。 |
 | 吊牌/证书 | Hangtag/certificate | タグ/証明書 | 质检项描述，需根据品类、场景等具体判断。 |
-| 吊牌/说明书/保卡 | Hangtag/instruction manual/warranty card | タグ・取扱説明書・保証カード | 质检项描述，需根据品类、场景等具体判断。 |
+| 吊牌/说明书/保卡 | Hangtag/instruction manual/warranty card | タグ/取扱説明書/保証カード | 质检项描述，需根据品类、场景等具体判断。 |
 | 吊牌保卡说明书 | Hangtag, warranty card, and instruction manual | タグ、保証書、取扱説明書 | 质检项描述，需根据品类、场景等具体判断。 |
 | 吊牌信息遮挡 | Hangtag obscured | タグ情報がブロックされている | 质检项描述，需根据品类、场景等具体判断。 |
 | 吊牌存疑 | Hangtag authenticity uncertain | タグに疑義あり | 质检项描述，需根据品类、场景等具体判断。 |
@@ -1209,8 +1210,8 @@ Total unique terms: 4445
 | 吊牌破损、涂改 | Damaged/altered hangtag | タグの破損または改ざん | 质检项描述，需根据品类、场景等具体判断。 |
 | 吊牌缺失 | Missing hang tag | タグ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 吊牌脱落 | Detached hang tag | タグが外れてしまう | 质检项描述，需根据品类、场景等具体判断。 |
-| 吊粒/挂绳问题 | String seal/hangtag issues | タブ・ストラップ問題 | 质检项描述，需根据品类、场景等具体判断。 |
-| 吊粒挂绳问题 | String seal/hangtag issues | ハングタグ関連問題 | 质检项描述，需根据品类、场景等具体判断。 |
+| 吊粒/挂绳问题 | String seal/hangtag issues | タグ留め具/ストラップ問題 | 质检项描述，需根据品类、场景等具体判断。 |
+| 吊粒挂绳问题 | String seal/hangtag issues | タグ留め具問題 | 质检项描述，需根据品类、场景等具体判断。 |
 | 同一视角内，出现的瑕疵数量 | Defect quantity within the same viewpoint | 同視野内の不良箇所数 | 质检项描述，需根据品类、场景等具体判断。 |
 | 同期环比 | Period-over-period | 前期比 | 指将当前时期的数据与上一个可比时期的数据进行对比分析，以反映事物在相邻时间段内的变化情况和发展趋势。 |
 | 同购 | Online Arbitrage | 裁定取引 | 同购业务即平台协助获取竞品商品信息，同步至商家后台，经由商家设置加价后出价经营的业务 |
@@ -1263,7 +1264,7 @@ Total unique terms: 4445
 | 唯一 | Unique | ユニークコード | 唯一码/唯一编号 |
 | 唯一码 | UID | UID | 库内商品的唯一码 |
 | 商业 | Business | ビジネス | 维度/类目枚举值 |
-| 商业化收费 | Ad promo fee |  | 用于记录商业化收费资金返还场景的费用项，通常对已有的商业化收费进行线下导入并返还给商家，在商家账单中按对应计费方向展示。 |
+| 商业化收费 | Ad promo fee | マーケティング料 | 用于记录商业化收费资金返还场景的费用项，通常对已有的商业化收费进行线下导入并返还给商家，在商家账单中按对应计费方向展示。 |
 | 商业发票 | Commercial Invoice | 商業送り状 | 竞对参考 |
 | 商品 | Item | アイテム | 商品的统称。UI多数情况都使用 Item |
 | 商品/价格分析 | Item/Price Analytics | 商品・価格分析 | 用户管理页面。当前“不可出价”、“可出价待出价”、“已出价可优化经营”三个经营场景下，商家的经营动作分散在不同的页面。针对以上场景，为卖家提供完整视角的数据看板--“价盘分析”，帮助卖家进行统一分析和操作 |
@@ -1284,7 +1285,7 @@ Total unique terms: 4445
 | 商品内部-内管凹陷 | Item interior - dented inner tube | 商品内部チューブの凹み | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品内里 | Item lining | 商品内側 | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品凹陷 | Item dents | 商品の凹み | 质检项描述，需根据品类、场景等具体判断。 |
-| 商品划痕 | Item scratches | 商品表面に傷 | 质检项描述，需根据品类、场景等具体判断。 |
+| 商品划痕 | Item scratches | 商品表面の擦過痕 | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品加工 | Item processing | 商品加工 | POIZON仓内增值服务选项 |
 | 商品包装 | Item packaging | 商品包装 | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品包装发霉 | Moldy packaging | 商品包装のカビ | 质检项描述，需根据品类、场景等具体判断。 |
@@ -1297,18 +1298,18 @@ Total unique terms: 4445
 | 商品图片 | Item Image | 商品画像 | 商品对应的展示图片 |
 | 商品基础属性不适合存储 | Basic attributes unsuitable for storage | 商品の基本属性が保管に適さない | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品外侧 | Outer side | 商品外側 | 质检项描述，需根据品类、场景等具体判断。 |
-| 商品外包装破损/缺失/污渍 | Packaging damaged/missing/stained | 外装破損・欠落・汚れ | B2B香港交货订单退货时，买家可选择的退货原因类型之一，指商品外包装存在破损、缺失或污渍情况。 |
+| 商品外包装破损/缺失/污渍 | Packaging damaged/missing/stained | 外装破損/欠落/汚れ | B2B香港交货订单退货时，买家可选择的退货原因类型之一，指商品外包装存在破损、缺失或污渍情况。 |
 | 商品外包装褶皱 | Outer packaging wrinkles | 外装にシワあり | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品外放物料 | Material Placement | 梱包資材の分離同梱料 | 保税仓，仅将商品与物料（如盒子袋子等）堆放在一起而非放在礼盒礼袋的服务 |
 | 商品外放物料費 | Loose kitting fee | 梱包資材の分離同梱料 | 指的是仅将商品与物料（如盒子袋子等）堆放在一起而非放在礼盒礼袋的服务，是保税仓库作业内容的一种 |
 | 商品外表面 | Item exterior surface | 商品外表面 | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品尺寸过小 | Product size is too small | サイズが小さすぎる | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品序列号与外包装不符 | Serial number and outer packaging do not match | シリアル番号と外装が不一致 | 质检项描述，需根据品类、场景等具体判断。 |
-| 商品开线 | Loose stitching | 縫い目ほつれ | 质检项描述，需根据品类、场景等具体判断。 |
+| 商品开线 | Loose stitching | ほつれ | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品影响使用 | Functionality issues | 支障あり | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品微瑕 | Good Item | 商品に微細な不良箇所あり |  |
 | 商品拍照 | Product photography fee | 商品撮影料 | 拍摄3张照片（含原产国、UPC条形码、码数等必要信息的清晰照片） |
-| 商品掉漆 | Item paint peeling | 商品の塗装剥がれ【掉漆 暂译：塗装剥がれ？】 | 质检项描述，需根据品类、场景等具体判断。 |
+| 商品掉漆 | Item paint peeling | 商品の塗装剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品提前入库 | Fulfilled via consignment stock | 事前入庫で入庫済み | B2B订单物流轨迹中的子节点。（寄售渠道） |
 | 商品搜索 | Item Search | 商品検索 | 菜单名称。指商家在系统中查找商品相关信息的功能或操作，用于帮助卖家快速定位和获取所需商品数据，支持内部管理及履约等相关业务场景的顺利开展。 |
 | 商品收藏uv/pv | Product Favorites UV/PV | 商品お気に入り登録のUV・PV | 收藏商品的人数/次数收藏商品的人数/次数 收藏商品的人数/次数收藏商品的人数/次数 |
@@ -1324,17 +1325,17 @@ Total unique terms: 4445
 | 商品状况 | Item Condition | 商品状態 | 用于描述商品在销售、质检等环节中的具体状况，如是否全新、有无瑕疵、功能是否完好等信息的表述。 |
 | 商品独立编码 | Item UPC | UPC |  |
 | 商品真赠品存疑 | The product is authentic, but the authenticity of the gift is uncertain | 商品は本物だが、付属の景品に疑義あり | 质检项描述，需根据品类、场景等具体判断。 |
-| 商品真，LOGO缺失 | The product is authentic, but Logo is missing | 商品は本物、ロゴの不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 商品真，LOGO缺失 | The product is authentic, but Logo is missing | 商品は本物、ロゴの欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品真，赠品为假 | The product is authentic, but the gift is off | 商品は本物だが景品が偽物 | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品真，赠品假 | Product is authentic, but the gift is off | 商品本物、景品偽物 | 质检项描述，需根据品类、场景等具体判断。 |
-| 商品破损 | Damaged product | 商品に破損 | 质检项描述，需根据品类、场景等具体判断。 |
-| 商品破损/漏液 | Item damaged/leaking | 商品の破損・液漏れ | B2B香港交货订单退货时，买家可选择的退货原因类型之一，指商品存在破损或漏液情况。 |
+| 商品破损 | Damaged product | 商品破損 | 质检项描述，需根据品类、场景等具体判断。 |
+| 商品破损/漏液 | Item damaged/leaking | 商品の破損、液漏れ | B2B香港交货订单退货时，买家可选择的退货原因类型之一，指商品存在破损或漏液情况。 |
 | 商品税 | Sales Tax | 売上税 | 竞对参考 |
-| 商品缺少材质标，影响鉴别 | Missing material label | 商品に材質ラベルの不備ため、鑑定に影響を及ぼす | 质检项描述，需根据品类、场景等具体判断。 |
-| 商品背面/链条 | Product back/chain | 商品背面・チェーン | 质检项描述，需根据品类、场景等具体判断。 |
+| 商品缺少材质标，影响鉴别 | Missing material label | 商品に材質ラベル欠落ため、鑑定に影響を及ぼす | 质检项描述，需根据品类、场景等具体判断。 |
+| 商品背面/链条 | Product back/chain | 商品背面/チェーン | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品调包 | Product does not match the original | 商品のすり替え | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品资质关联管理 | Compliance & Certificates | コンプライアンス・証明書 | XBB商家后台专有菜单名称，用户商品合规管理 |
-| 商品跳线 | Skipped stitches | 跳び糸 | 质检项描述，需根据品类、场景等具体判断。 |
+| 商品跳线 | Skipped stitches | 目飛び | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品过旧 | Product too old | 旧式商品 | 质检项描述，需根据品类、场景等具体判断。 |
 | 商品重瑕 | Major Defects | 商品に重度の不良箇所あり |  |
 | 商品问题 | Item issue | 商品問題 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -1345,7 +1346,7 @@ Total unique terms: 4445
 | 商家C端补贴金额 | Buyer Side Subsidy Amount (from Seller) | 消費者特典金額（出品者負担） | C端补贴支付金额（为商家承担成本） |
 | 商家C端补贴金额占比 | Buyer Side Subsidy Amount Proportion (from Seller) | 消費者特典金額の割合（出品者負担） | 财务卖家补贴买家邮费金额/gmv_国际 为商家C补金额，目前只有全场包邮商家出资 |
 | 商家ID | Seller ID | 出品者ID | 用于标识商家身份的唯一编码 |
-| 商家仓直发 | Direct Shipping (3PL Bonded Warehouse) | 直送（保税） | 即保税直发，从第三方云仓或者商家自己的保税仓进行直发的履约模式 |
+| 商家仓直发 | Direct Shipping (3PL Bonded Warehouse) | 直送（保税） | 从海外商家自己合作的第三方仓库进行直发的履约模式 |
 | 商家入驻协议 | POIZON Seller Agreement | 販売者契約 | 商家入驻POIZON时需签署的协议名称 |
 | 商家分层 | Seller Statistics | 出品者レベル | BI后台菜单 |
 | 商家后台 | Seller Dashboard | 出品者バックオフィス | 企业卖家PC端平台产品名 |
@@ -1372,7 +1373,7 @@ Total unique terms: 4445
 | 回调 | Callback | コールバック | Open API，回调接口配置 |
 | 回退 | Back | 戻る | 界面按钮名称 |
 | 回邮地址 | Return address | 返送先住所 | 商家用于接收退回商品的地址信息 |
-| 固定扣鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the fixing buckle are worn or missing; unable to confirm whether the manufacturing is original | 固定バックルの鑑定ポイントに磨り減り・不備があり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
+| 固定扣鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the fixing buckle are worn or missing; unable to confirm whether the manufacturing is original | 固定バックルの鑑定ポイントに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
 | 国内传统 | CN Domestic Traditional Brands | 中国国内ハイブランド | 维度/类目枚举值 |
 | 国内品牌 | CN Domestic Brands | 中国国内ブランド | 维度/类目枚举值 |
 | 国内大众 | CN Domestic Mass Brands | 中国国内マスブランド | 维度/类目枚举值 |
@@ -1484,7 +1485,7 @@ Total unique terms: 4445
 | 塑料/玻璃 | Plastic/Glass | プラスチック・ガラス | 质检项描述，需根据品类、场景等具体判断。 |
 | 塑料部件老化发黄 | Aged and yellowed plastic parts | プラスチック部品の劣化、黄ばみ | 质检项描述，需根据品类、场景等具体判断。 |
 | 填充物 | Fillers | 緩衝材 | 礼盒内填充材料 |
-| 填充物缺失 | Missing fillers | 詰め物不足 | 质检项描述，需根据品类、场景等具体判断。 |
+| 填充物缺失 | Missing fillers | 詰め物欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 填写助手 | Instructions | ヒント | 买家信息填写助手，提供模板等辅助信息。 |
 | 境外银行账号信息 | Foreign Bank Account Information | 海外銀行口座情報 | 用于描述商家在境外开设的银行账户相关信息，供卖家和内部人员在资金管理场景下使用。 |
 | 增值服务 | Value-added service | オプションサービス | 指在基础服务之外，为提升用户体验、仓内为了满足特定需求或增加产品附加值而提供的额外服务。 |
@@ -1495,13 +1496,13 @@ Total unique terms: 4445
 | 备案申请驳回 | Customs declaration rejected | 通関申請差戻し | 指商家提交的海关备案申请未通过审核，被相关部门驳回的情况。 |
 | 备案通过 | Declaration Approved | 申請通過 | 保税备案管理->平台代备案的单据状态 |
 | 备案采购价 | Declared value | 申請商品－仕入価格 | 需填写商品采购价，包括商品境外采购价格+国际段运费+国际段运输保险费，币制为外币时按采购合同日期对应的中国人民银行中间价折算，请勿直接填写销售价，一线入境申报价格过高或过低会有风险 |
-| 备用鞋带缺失 | Missing replacement shoelaces | 交換用シューレース欠品 | 质检项描述，需根据品类、场景等具体判断。 |
+| 备用鞋带缺失 | Missing replacement shoelaces | 交換用シューレース欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 备货单 | Stocklist | 倉庫保管可能商品リスト | 用于记录商家需要准备货物的清单，供卖家和内部人员在清关与仓储相关场景中使用，包含备货相关的商品信息。 |
 | 备货量 | Stocking Qty | 入庫予備数量 | 周度 预估仓内待上架+在仓可售数 的日峰值 |
 | 备货需求 | Stocking Request | 入庫準備商品申請 | 保税备货场景下，商家发起的备货申请 |
 | 复卖 | Return-to-Stock | 再販売 |  |
 | 复卖-仅美国仓使用 | Resale - for US warehouse only | 再販売（米国倉庫限定） | 质检项描述，需根据品类、场景等具体判断。 |
-| 复印/打印侧标（换标） | Photocopied/printed side label (re-labeled) | 複写・印刷したサイドラベル（再ラベル貼付） | 质检项描述，需根据品类、场景等具体判断。 |
+| 复印/打印侧标（换标） | Photocopied/printed side label (re-labeled) | 複写/印刷したサイドラベル（再ラベル貼付） | 质检项描述，需根据品类、场景等具体判断。 |
 | 复杂清理 | Premium Care | 徹底クリーニング | 原瑕疵修复服务下的子类别，专业修复，变次为良；若修复成功，变成良品销售 |
 | 复检 | Re-check | 再検査 |  |
 | 复苏个人商家数 | Individual Seller Qty_Revived | 復帰した個人出品者数 | 上月无出价/库存/成交、本月出价的个人卖家数 |
@@ -1552,7 +1553,7 @@ Total unique terms: 4445
 | 外观损伤 | Cosmetic Damage | 外観ダメージ | 竞对参考 |
 | 外观掉漆 | Appearance paint peeling | 外観の塗装剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
 | 外观污渍 | Appearance stains | 外観汚れ | 质检项描述，需根据品类、场景等具体判断。 |
-| 外观磨损 | Appearance wear and tear | 外観キズ | 质检项描述，需根据品类、场景等具体判断。 |
+| 外观磨损 | Appearance wear and tear | 外観の磨り減り | 质检项描述，需根据品类、场景等具体判断。 |
 | 多发 | Over shipment | 誤発送（数量過多） | 名词 |
 | 多发配件不支持 | Extra accessories not supported | 鑑定サポート対象外部品多数 | 质检项描述，需根据品类、场景等具体判断。 |
 | 多寄 | Over shipment | 誤発送（数量過多） | 名词 |
@@ -1593,7 +1594,7 @@ Total unique terms: 4445
 | 头部卖家 | Top-tier Seller | トップ出品者 | 维度/类目枚举值 |
 | 套内少件 | Missing items within set | セット内商品点数不足 | 质检项描述，需根据品类、场景等具体判断。 |
 | 套内版本不符 | Mismatched version within set | セット内のバージョン不一致 | 质检项描述，需根据品类、场景等具体判断。 |
-| 套装缺水洗 | Missing care label on kit | セット品洗濯タグ不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 套装缺水洗 | Missing care label on kit | セット品洗濯タグ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 奢侈品牌 | Luxury Brands | ラグジュアリーブランド | 维度/类目枚举值 |
 | 奢品 | Luxury Goods | ラグジュアリー品 | 维度/类目枚举值 |
 | 奢品券 | Luxury Auth Coupon | ラグジュアリー鑑定クーポン | 鉴别券的券名称展示标签（业务定义的英文） |
@@ -1612,7 +1613,7 @@ Total unique terms: 4445
 | 委托销售书 | Distribution agreement | 委託販売契約書 | 商家后台韩国出口信息录入 |
 | 婴儿 | (I)-Infant | ベビー | 竞对参考 |
 | 子母件 | Multi-piece shipment | 親子送り状 | 子母件就是一票多件，为了方便多个物件一起发出的一种包装方式。一个母单号对应多个子单号，扫描母单号可识别整个快递包裹信息。 |
-| 字体瑕疵 | Font defects | フォントに不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 字体瑕疵 | Font defects | フォントの不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 字段 | Field | フィールド | 指数据库、表单、文档等信息载体中，用于存储或呈现特定类型数据的基本单元，可理解为信息组织中的一个具体栏目或数据项。 |
 | 存在拔头特征 | Traces of capsule removing | 栓が抜かれた可能性がある | 质检项描述，需根据品类、场景等具体判断。 |
 | 存在赠品配件非鉴别范围 | Gift or accessory is out of the authentication scope | 景品付属品が鑑定サポート対象外 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -1655,7 +1656,7 @@ Total unique terms: 4445
 | 实物图片与订单不符（禁用） | Mismatched item image (deactivate) | 実物写真とオーダー内容が不一致（無効） | 质检项描述，需根据品类、场景等具体判断。 |
 | 实物对比 | Scale Reference | サイズの比較 | 商详中，增加的实物尺寸对比图标题 |
 | 实物尺码与尺码表不符 | Size not as described in the size chart | 実物サイズとサイズ表が不一致 | 质检项描述，需根据品类、场景等具体判断。 |
-| 实物细节与大图不符 | Item details not as described on full image | 実物細部と商品画像が不一致 | 质检项描述，需根据品类、场景等具体判断。 |
+| 实物细节与大图不符 | Item details not as described on full image | 実物細部とメイン画像が不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 实物细节与展示图不符 | Item details not as described on display image | 実物と商品画像が不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 实物货号与订单不符 | Mismatched article number/style ID | 実物商品番号とオーダーが不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 实物货号与订单不符（禁用） | Mismatched article number/style ID (prohibited) | 実物商品番号とオーダーが不一致（無効） | 质检项描述，需根据品类、场景等具体判断。 |
@@ -1790,13 +1791,13 @@ Total unique terms: 4445
 | 岗位权限查询 | Access Permission | 職務権限照会 | API菜单名称，商家可以于此设置账号权限。 |
 | 工作人员 | Staff | 担当者 |  |
 | 工作日 | Business day | 営業日 | 指在商业活动中，正常进行业务往来和交易的日子，通常不包括周末和法定节假日。 |
-| 工具鉴别点磨损缺失 | Authentication points on the toolkit are worn or missing | ツール鑑定ポイント摩損・不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 工具鉴别点磨损缺失 | Authentication points on the toolkit are worn or missing | ツール鑑定ポイントに磨り減り・欠損あり | 质检项描述，需根据品类、场景等具体判断。 |
 | 工艺 | Build | 加工 | 仅限用于商品用户评论Reviews发布时会展示可供勾选的标签，按商品类目会有不同对应展示。请参考：[‌‍‍‬‌‌‍‍‍﻿⁠‬⁠﻿‍‍‍⁠‌‍‌‬⁠‍PRD-311667_Reviews发布链路优化_标签配置_翻译需求 - 飞书云文档](https://poizon.feishu.cn/wiki/KxQRw5NJQirT1BkHSXhcaqCZnWg?sheet=FGovl4) |
 | 工艺变化 | Manufacturing alteration | 加工の変化 | 质检项描述，需根据品类、场景等具体判断。 |
 | 工艺存疑 | Manufacturing authenticity uncertain | 加工に疑義あり | 质检项描述，需根据品类、场景等具体判断。 |
-| 工艺瑕疵 | Manufacturing defects | 製造技術不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 工艺瑕疵 | Manufacturing defects | 製造上の不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 左右尺寸偏差 | Incorrect size between left and right | 左右サイズ不一致 | 质检项描述，需根据品类、场景等具体判断。 |
-| 左右新旧、氧化不一样 | Uneven wear/oxidation between left and right sides | 左右の劣化・酸化状態の不一致 | 质检项描述，需根据品类、场景等具体判断。 |
+| 左右新旧、氧化不一样 | Uneven wear/oxidation between left and right sides | 左右の劣化、酸化状態の不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 左右脚信息不一致 | The right and left shoe info does not match | 左右の靴情報の不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 左右脚鞋标不配套 | The left and right size labels do not match | シューズラベル左右不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 左右鞋不配套 | Mismatched left and right shoes | 両方のシューズが合わない | 质检项描述，需根据品类、场景等具体判断。 |
@@ -1842,7 +1843,7 @@ Total unique terms: 4445
 | 常规款 | Regular edition | レギュラー仕様 | 标准版本 |
 | 帽子内部 | Hat interior | 帽子内部 | 质检项描述，需根据品类、场景等具体判断。 |
 | 帽子表面 | Hat surface | 帽子の表面 | 质检项描述，需根据品类、场景等具体判断。 |
-| 帽扣其它配件 | Hat buckle & other accessories | 帽子バックル・その他アクセサリー | 质检项描述，需根据品类、场景等具体判断。 |
+| 帽扣其它配件 | Hat buckle & other accessories | 帽子バックルとその他アクセサリー | 质检项描述，需根据品类、场景等具体判断。 |
 | 帽檐 | Brim | 帽子のつば | 质检项描述，需根据品类、场景等具体判断。 |
 | 帽檐&logo歪斜 | Misaligned hat brim & logo | 帽子のつば＆ロゴの歪み | 质检项描述，需根据品类、场景等具体判断。 |
 | 帽檐歪斜 | Crooked brim | 帽子つばの歪み | 质检项描述，需根据品类、场景等具体判断。 |
@@ -1874,10 +1875,11 @@ Total unique terms: 4445
 | 平台申诉成功单量 | Orders successful appeal on POIZON | POIZONによる取引未履行オーダー数（異議申立てが認められたもの） | 判定为卖家原因导致订单被关闭，卖家申诉并通过，将关闭原因归为平台的单量 |
 | 平台签收到平台发货时长 | Time from POIZON Receipt to Platform Delivery | POIZON商品受領～発送までの平均所要時間 | 平台签收到平台发货平均时长 |
 | 平台经营模型 | Platform Business Model | プラットフォームビジネスモデル | BI后台菜单 |
-| 平台缺供给 | High Demand | 人気在庫切れ商品 | 大盘数据中的卡片名称，指高需求品平台热招的商品 |
+| 平台缺供给 | Supply Gap | 供給不足 | 大盘数据中的卡片名称，指高需求品平台热招的商品，供给稀缺 |
 | 平台联系人 | POIZON Contact | POIZON連絡先 | POIZON仓的联系人信息 |
 | 平台规则 | Understand Policies | ポリシーガイド | POIZON招商网站框架“知识课堂”下的子标题 |
 | 平台邮费优惠金额 | Shipping Fee Discount Amount (Subsidised by POIZON) | POIZON送料優待額 | 订单中由于包邮券、包邮活动产生的优惠金额，由平台承担成本 |
+| 平台高流量 | High Traffic | 売れ筋 | 商家后台，大盘数据模块中的”拓供方向“枚举值，和运营任务系统中保持一致。 |
 | 平均inbound时效 | Avg Inbound Timeliness | 平均入庫所要時間（支払完了~入庫） | 下单-扫码入库平均天数；中间流程包含下单-卖家发货-有海外快递物流轨迹-海外快递签收-扫码入库 |
 | 平均outbound时效 | Avg Outbound Timeliness | 平均出庫所要時間（出庫~受取） | 出库-签收平均天数；签收为履约相对签收时间，出库时间为出库交接时间 |
 | 平均仓内时效 | Avg Warehousing Timeliness | 平均倉庫保管時間（入庫~出庫） | 寄售为订单支付-出库平均天数，现货为扫码入库-出库平均天数； |
@@ -1890,7 +1892,7 @@ Total unique terms: 4445
 | 序列号不符 | Incorrect serial number | シリアルナンバーが不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 序列号信息异常 | Abnormal serial number | シリアル番号情報エラー | 质检项描述，需根据品类、场景等具体判断。 |
 | 序列号无法核实（遮挡、覆盖、脏污等） | Unverifiable serial number (obscured/covered/stained, etc.) | シリアル番号確認不可（遮蔽、覆い、汚れなど） | 质检项描述，需根据品类、场景等具体判断。 |
-| 序列号皮牌缺失 | Missing serial number tag | シリアルナンバー革タグ不足 | 质检项描述，需根据品类、场景等具体判断。 |
+| 序列号皮牌缺失 | Missing serial number tag | シリアルナンバー革タグ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 序列号被注册 | Registered serial number | シリアル番号既登録 | 质检项描述，需根据品类、场景等具体判断。 |
 | 序列号被覆盖 | Obscured serial number | シリアルナンバー遮蔽 | 质检项描述，需根据品类、场景等具体判断。 |
 | 序列吊牌-奢配 | Serial hangtag - luxury accessories | シリアルタグ（ラグジュアリーアクセサリー） | 质检项描述，需根据品类、场景等具体判断。 |
@@ -1917,14 +1919,14 @@ Total unique terms: 4445
 | 应履约订单数 | Order Volume_To be Fulfilled | 履行すべきオーダー数 | 平台已发货订单+未履约订单 |
 | 应用程序接口 | Application Programming Interface (API) | API | API（應用程式介面）是一組規則或協議，可支援軟體應用程式相互通信，以交換資料、特性和功能。 API 允許開發人員整合來自其他應用程式的資料、服務和功能，而不是從頭開始開發它們，從而簡化和加速應用程式和軟體開發。 API 還為應用程式擁有者提供了一種簡單、安全的方式，使其應用程式資料和功能可供組織內的部門使用 |
 | 应用程序界面 | Application Programming Interface (API) | アプリケーションプログラミングインターフェース | API（應用程式介面）是一組規則或協議，可支援軟體應用程式相互通信，以交換資料、特性和功能。 API 允許開發人員整合來自其他應用程式的資料、服務和功能，而不是從頭開始開發它們，從而簡化和加速應用程式和軟體開發。 API 還為應用程式擁有者提供了一種簡單、安全的方式，使其應用程式資料和功能可供組織內的部門使用 |
-| 底壳拧动痕迹 | Traces of screw turning on case back | 底面ケースにねじられた跡あり | 质检项描述，需根据品类、场景等具体判断。 |
-| 底壳有污渍、划痕、磕碰、反光不均等 | Stains, scratches, dents, and uneven reflection on back case | 裏蓋に汚れ・傷・打痕・反射ムラなど | 质检项描述，需根据品类、场景等具体判断。 |
-| 底壳货号不符 | Mismatched article number/style ID on sole shell | 裏蓋商品番号が不一致 | 质检项描述，需根据品类、场景等具体判断。 |
-| 底壳鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the case back are worn or missing; unable to confirm whether the manufacturing is original | 底部ケースの鑑定ポイントに磨り減り・不備があり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
-| 底壳非原装 | Non-original case back | 非純正の底面ケース | 质检项描述，需根据品类、场景等具体判断。 |
+| 底壳拧动痕迹 | Traces of screw turning on case back | 裏蓋にねじられた跡あり | 质检项描述，需根据品类、场景等具体判断。 |
+| 底壳有污渍、划痕、磕碰、反光不均等 | Stains, scratches, dents, and uneven reflection on back case | 裏蓋の汚れ、擦過痕、打痕、反射ムラなど | 质检项描述，需根据品类、场景等具体判断。 |
+| 底壳货号不符 | Mismatched article number/style ID on sole shell | 裏蓋の商品番号が不一致 | 质检项描述，需根据品类、场景等具体判断。 |
+| 底壳鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the case back are worn or missing; unable to confirm whether the manufacturing is original | 裏蓋の鑑定ポイントに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
+| 底壳非原装 | Non-original case back | 非純正の裏蓋 | 质检项描述，需根据品类、场景等具体判断。 |
 | 底标 | Bottom label | 底ラベル | 质检项描述，需根据品类、场景等具体判断。 |
 | 底标瑕疵 | Defective bottom label | 底ラベル不良 | 质检项描述，需根据品类、场景等具体判断。 |
-| 底标缺失 | Missing bottom label | 底ラベル不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 底标缺失 | Missing bottom label | 底ラベル欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 底部 | Bottom | 底部 | 鉴别拍摄点位 |
 | 底部卖家 | Tail-tier Seller | 小規模出品者 | 维度/类目枚举值 |
 | 底部边角 | Bottom corner | 底部コーナー | 质检项描述，需根据品类、场景等具体判断。 |
@@ -1948,23 +1950,23 @@ Total unique terms: 4445
 | 开户行地址 | Bank Address | 取引銀行住所 | 指开立银行账户的金融机构所在的具体地理位置信息，用于标识账户所属银行的物理地点。 |
 | 开盖口撬动痕迹 | Traces of prying on the lid opening | 蓋にこじ開け跡あり | 质检项描述，需根据品类、场景等具体判断。 |
 | 开线 | Loose stitches | ほつれ | 质检项描述，需根据品类、场景等具体判断。 |
-| 开线/抽丝 | Loose stitches/snags | 糸ほつれ・糸引き | 质检项描述，需根据品类、场景等具体判断。 |
-| 开线/走线 | Loose stitches/stitching defects | ほつれ・糸抜け | 质检项描述，需根据品类、场景等具体判断。 |
-| 开线/跳线 | Loose/skipped stitches | ほつれ | 质检项描述，需根据品类、场景等具体判断。 |
-| 开线/跳线/开胶 | Loose/skipped stitches/glue separation | ほつれ・縫い飛び・接着剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
+| 开线/抽丝 | Loose stitches/snags | ほつれ/糸引き | 质检项描述，需根据品类、场景等具体判断。 |
+| 开线/走线 | Loose stitches/stitching defects | ほつれ/縫い目 | 质检项描述，需根据品类、场景等具体判断。 |
+| 开线/跳线 | Loose/skipped stitches | ほつれ/目飛び | 质检项描述，需根据品类、场景等具体判断。 |
+| 开线/跳线/开胶 | Loose/skipped stitches/glue separation | ほつれ/目飛び/接着剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
 | 开胶 | Glue separation | 接着剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
-| 开胶/开裂 | Glue separation/cracks | 接着剥がれ・ひび割れ | 质检项描述，需根据品类、场景等具体判断。 |
+| 开胶/开裂 | Glue separation/cracks | 接着剥がれ/ひび割れ | 质检项描述，需根据品类、场景等具体判断。 |
 | 开裂 | Cracks | ひび割れ | 质检项描述，需根据品类、场景等具体判断。 |
-| 开裂/融化变形 | Cracks/melting deformations | ひび割れ・溶解変形 | 质检项描述，需根据品类、场景等具体判断。 |
+| 开裂/融化变形 | Cracks/melting deformations | ひび割れ/溶解変形 | 质检项描述，需根据品类、场景等具体判断。 |
 | 异味 | Odor | 異臭 | 质检项描述，需根据品类、场景等具体判断。 |
 | 异味&发霉 | Odor & mold | 臭い・カビ | 质检项描述，需根据品类、场景等具体判断。 |
-| 异味/潮湿 | Odor/dampness | 臭い・湿気 | 质检项描述，需根据品类、场景等具体判断。 |
-| 异味潮湿 | Odor/dampness | 臭い・湿気 | 质检项描述，需根据品类、场景等具体判断。 |
+| 异味/潮湿 | Odor/dampness | 臭い/湿気 | 质检项描述，需根据品类、场景等具体判断。 |
+| 异味潮湿 | Odor/dampness | 臭い/湿気 | 质检项描述，需根据品类、场景等具体判断。 |
 | 异常变形 | Deformation | 異常変形 | 质检项描述，需根据品类、场景等具体判断。 |
 | 异常形变 | Deformation | 異常変形 | 质检项描述，需根据品类、场景等具体判断。 |
 | 异步 | Asynchronous | 非同期 |  |
 | 异物 | Foreign object | 異物 | 质检项描述，需根据品类、场景等具体判断。 |
-| 异物/贴纸 | Foreign object/sticker | 異物・ステッカー | 质检项描述，需根据品类、场景等具体判断。 |
+| 异物/贴纸 | Foreign object/sticker | 異物/ステッカー | 质检项描述，需根据品类、场景等具体判断。 |
 | 异物贴纸 | Foreign object sticker | 異物シール | 质检项描述，需根据品类、场景等具体判断。 |
 | 异物遮挡 | Obscured by foreign object | 異物で遮蔽されている | 质检项描述，需根据品类、场景等具体判断。 |
 | 异物黏贴遮盖 | Obscured by foreign object | 異物による遮蔽 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -2111,7 +2113,7 @@ Total unique terms: 4445
 | 扫描 | Scan | スキャン | 界面按钮名称 |
 | 扫码质检 | Scan for Pre-QC | オンライン品質検査 | 按钮。质检和退货问题是法国贸易商的共性问题，欧洲大部分商家为见单采商家，整体履约率大概是40%~50%。 受贸易商与上游的退货规则影响，如产生退货，需在两周内进行退货，同时退货数量过多会影响后续拿货额度。因此，导致大量贸易商前置判断商品瑕疵问题不上架或不发货； 针对现货订单（尤其是知瑕卖瑕），有一些商品是轻微瑕疵，通过预制检的方式判断能不能通过仓库的质检，避免说到仓库之间不通过退货 |
 | 扫货商 | Reseller | 再販店 | 维度/类目枚举值 |
-| 扭动痕迹/使用痕迹 | Signs of twisting/use | ねじれ痕・使用痕あり | 质检项描述，需根据品类、场景等具体判断。 |
+| 扭动痕迹/使用痕迹 | Signs of twisting/use | ねじれ痕/使用痕あり | 质检项描述，需根据品类、场景等具体判断。 |
 | 扭曲 | Twisted | 歪み | 质检项描述，需根据品类、场景等具体判断。 |
 | 批发业务管理 | Wholesale & Sourcing | 卸売・仕入 | 商家后台B2B业务的菜单名称 |
 | 批号 | Batch no. | ロット番号 | 发货批次编号 |
@@ -2120,7 +2122,7 @@ Total unique terms: 4445
 | 批次不符 | Mismatched batch number | ロットが不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 批次号 | Batch # | ロット番号 |  |
 | 批次号瑕疵 | Batch number defects | ロット番号の不良 | 质检项描述，需根据品类、场景等具体判断。 |
-| 批次号缺失 | Missing batch number | ロット番号がない | 质检项描述，需根据品类、场景等具体判断。 |
+| 批次号缺失 | Missing batch number | ロット番号欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 批次存在质量隐患 | Quality risks with the batch | ロットに品質リスクあり | 质检项描述，需根据品类、场景等具体判断。 |
 | 批量 | Batch | 一括 | 指将多个相似或相关的项目、任务或操作集中起来，一次性进行处理或执行的方式。 |
 | 批量发货 | Batch shipment | まとめて発送 | 指卖家将多个订单的商品集中在一起进行统一打包和发送的物流处理方式，适用于卖家和内部业务场景中对多订单并发发货的管理操作。 |
@@ -2136,7 +2138,7 @@ Total unique terms: 4445
 | 投诉率（新投诉） | Complaint Rate_New Complaints | クレーム率（新規クレーム） | 支付订单在后续产生投诉工单的订单量占比，投诉订单量/支付订单量；新投诉为客服侧统一定义的工单投诉类型 |
 | 折扣率GAP | Discount % VAR | 割引率GAP | 国内订单与国际订单折扣率的差距 |
 | 折痕 | Creases | 折り跡 | 质检项描述，需根据品类、场景等具体判断。 |
-| 抛光&油边翻新 | Polished/refurbished paint edge | 研磨・コバ塗り補修 | 质检项描述，需根据品类、场景等具体判断。 |
+| 抛光&油边翻新 | Polished/refurbished paint edge | 研磨&コバ塗り補修 | 质检项描述，需根据品类、场景等具体判断。 |
 | 抛光打磨 | Polishing & buffing | 研磨処理 | 质检项描述，需根据品类、场景等具体判断。 |
 | 抛光痕 | Polishing marks | ポリッシュ痕 | 质检项描述，需根据品类、场景等具体判断。 |
 | 抛光痕迹 | Polishing marks | 研磨痕 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -2152,14 +2154,14 @@ Total unique terms: 4445
 | 报关授权书 | Customs clearance authorization letter | 通関委任状 | 商家授权相关主体代为办理货物报关手续时所出具的具有法律效力的文件，用于明确授权方、被授权方的权利与义务，确保报关流程合法合规进行。 |
 | 报关费 | Customs clearance fee | 通関手数料 | 进入中国关区的申报费用 |
 | 报销 | Reimbursement | 還元 | 竞对参考 |
-| 抽丝 | Snags | ほころび | 质检项描述，需根据品类、场景等具体判断。 |
+| 抽丝 | Snags | 糸引き | 质检项描述，需根据品类、场景等具体判断。 |
 | 抽奖记录 | History | 抽選履歴 | XBB用户抽奖页活动UI |
 | 抽奖说明 | How to Play | 抽選案内 | XBB用户抽奖页活动UI |
 | 抽绳-奢服 | Drawstring - luxury apparel | ドローストリング（ラグジュアリーアパレル） | 质检项描述，需根据品类、场景等具体判断。 |
 | 抽绳/束绳瑕疵 | Drawstring/cord defects | ドローストリングの不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 抽象 | Abstract Styles | 抽象表現主義 | 维度/类目枚举值 |
 | 拆套费 | De-kitting fee | セット分解料 | 应商家要求对已预包的商品进行拆包的服务。月对账时，数量以商家书面确认/申请为准，包括但不限于邮件。 |
-| 拆封查验 | QC with unpacking | 開封QC | 需拆封检验 |
+| 拆封查验 | QC with unpacking | 品質検査（開封） | 需拆封检验 |
 | 拆封痕迹 | Traces of unsealing | 開封痕跡 | 质检项描述，需根据品类、场景等具体判断。 |
 | 拆托费 | Depalletizing fee | デパレタイズ料 | 根据商家货品形态，如需要进行拆托、打托服务的，我们将收取对应操作费用 |
 | 拆预包/拆套 | Unpack/Dekitting | 事前梱包・セット商品開梱 | POIZON仓内增值服务选项 |
@@ -2167,7 +2169,7 @@ Total unique terms: 4445
 | 拉链 | Zipper | ファスナー | 鉴别拍摄点位 |
 | 拉链-奢服 | Zipper - luxury apparel | ファスナー（ラグジュアリーアパレル） | 质检项描述，需根据品类、场景等具体判断。 |
 | 拉链不良 | Zipper defects | ファスナー不良 | 质检项描述，需根据品类、场景等具体判断。 |
-| 拉链头 | Zipper pull | ファスナーヘッド | 质检项描述，需根据品类、场景等具体判断。 |
+| 拉链头 | Zipper pull | ファスナーの引手 | 质检项描述，需根据品类、场景等具体判断。 |
 | 拉链存疑 | Zipper authenticity uncertain | ファスナーに疑義あり | 质检项描述，需根据品类、场景等具体判断。 |
 | 拉链掉漆 | Zipper paint peeling | ジッパーの塗装剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
 | 拉链绳 | Zipper pull | ジッパープル | 拉链装饰绳 |
@@ -2189,7 +2191,7 @@ Total unique terms: 4445
 | 拖鞋 | Slippers | スリッパ | 鉴别拍摄点位 |
 | 招商 | Business Development | 誘致 | 指为吸引商家入驻或开展商业合作而进行的一系列商业拓展活动，旨在促进商家服务领域的业务发展与合作机会拓展。 |
 | 招商入驻 | Seller Registration | 出店＆販路拡大 | 商家后台“规则中心”的目录项 |
-| 招商负责人 | Business Development Manager | 誘致担当者（BD） | 维度/类目枚举值 |
+| 招商负责人 | Business Development Manager | 出品者開拓担当者（BD） | 维度/类目枚举值 |
 | 拜访人 | Visitor | 訪問者 | 运营后台，拜访记录模块UI |
 | 拜访目的 | Topic | 訪問目的 | 运营后台，拜访记录模块UI |
 | 拜访记录 | Visit Recaps | 商談履歴 | 在运营后台新增拜访记录管理功能。支持BD/AM查看自己的商家列表，查看商家历史的拜访记录、新建拜访记录以及跳转到智能运营系统查看数据。 |
@@ -2210,14 +2212,14 @@ Total unique terms: 4445
 | 指定时间送达 | Time-definite delivery | 配送リードタイム | 头程物流快递上门取件场景中，商家指定时间送往集拼仓。此项服务将产生额外物流费用。 |
 | 指纹图 | Product fingerprint | フィンガープリント画像 |  |
 | 指针 | Hands | 時針 | 质检项描述，需根据品类、场景等具体判断。 |
-| 指针部位鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points on the hands are worn or missing; unable to confirm whether the manufacturing is original | 指針に磨り減りがあり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
+| 指针部位鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points on the hands are worn or missing; unable to confirm whether the manufacturing is original | 指針に磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
 | 按压头 | Spray Nozzle | ポンプヘッド | 鉴别拍摄点位 |
 | 按库位上架 | Location putaway | ロケーションによる入庫 | 按库位上架 |
 | 按扣功能 | Snap button check | スナップボタン動作確認 | 按扣功能测试 |
 | 按钮 | Button | ボタン |  |
-| 按钮变形，按扣开合难 | Button deformation, difficult to open and close | ボタン変形・開閉不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 按钮变形，按扣开合难 | Button deformation, difficult to open and close | ボタン変形、開閉不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 按钮错位，按钮不合 | Button misalignment/mismatch | ボタン位置、ボタンの不良 | 质检项描述，需根据品类、场景等具体判断。 |
-| 按键有污渍、划痕、磕碰等 | Stains, scratches, and dents on buttons | ボタンに汚れ、傷、凹みなど | 质检项描述，需根据品类、场景等具体判断。 |
+| 按键有污渍、划痕、磕碰等 | Stains, scratches, and dents on buttons | ボタンに汚れ、擦過痕、凹みなど | 质检项描述，需根据品类、场景等具体判断。 |
 | 挽回订单 | Prevented loss of orders (total) | 復活オーダー | 通过履约规则等措施成功规避潜在损失的订单 |
 | 捏合手势 | Pinch | ピンチアウト | 盘货界面的画布操作 |
 | 损坏，起泡鼓包，起皮等 | Damage, bubbling, blistering, peeling, etc. | 破損、膨れ、剥がれなど | 质检项描述，需根据品类、场景等具体判断。 |
@@ -2231,8 +2233,8 @@ Total unique terms: 4445
 | 换货 | Exchange | 商品交換 | 竞对参考 |
 | 授权 | Authorize | 許可 | 授予某人或某系统执行特定操作、访问特定资源或拥有特定权限的过程。 |
 | 授权经销商 | Authorized distributor | 正規販売店 | Global运营平台，【商家业态/类型】的枚举值 |
-| 掉漆 | Paint peeling | 塗装落ち | 质检项描述，需根据品类、场景等具体判断。 |
-| 掉漆严重 | Severe paint peeling | 塗装落ち（重度） | 质检项描述，需根据品类、场景等具体判断。 |
+| 掉漆 | Paint peeling | 塗装剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
+| 掉漆严重 | Severe paint peeling | 塗装剥がれ（重度） | 质检项描述，需根据品类、场景等具体判断。 |
 | 掉色 | Color fading | 色落ち | 质检项描述，需根据品类、场景等具体判断。 |
 | 掉钻 | Missing diamonds | ダイヤモンドの石外れ | 质检项描述，需根据品类、场景等具体判断。 |
 | 推荐 | Recommended | 推奨 | 表头中，空间不足时可使用缩写“Rec.” |
@@ -2322,8 +2324,8 @@ Total unique terms: 4445
 | 数码家电 | Electronics & Appliances | デジタル家電 | 鉴别一级类目，主要包含一些小型家电以及笔记本、手机、数据线等数码产品 |
 | 数量 | Quantity | 数量 | 一般用于句中时写全称 |
 | 整体 | Overall appearance | 全体 | 质检项描述，需根据品类、场景等具体判断。 |
-| 整体外观 | Overall appearance | 外観全体 | 质检项描述，需根据品类、场景等具体判断。 |
-| 整体外观-奢鞋 | Overall appearance - luxury shoes | 外観全体（ラグジュアリーシューズ） | 质检项描述，需根据品类、场景等具体判断。 |
+| 整体外观 | Overall appearance | 全体外観 | 质检项描述，需根据品类、场景等具体判断。 |
+| 整体外观-奢鞋 | Overall appearance - luxury shoes | 全体外観（ラグジュアリーシューズ） | 质检项描述，需根据品类、场景等具体判断。 |
 | 整体外观（鞋+鞋盒） | Overall appearance (shoes + shoe box) | 全体外観（シューズとシューズボックス） | 质检项描述，需根据品类、场景等具体判断。 |
 | 整包补色 | Bag recoloring | バッグの色補正 | 质检项描述，需根据品类、场景等具体判断。 |
 | 整单卖 | Take-All | リスト全商品販売 | B2B交易方式，支持买家挑选商品 |
@@ -2333,8 +2335,8 @@ Total unique terms: 4445
 | 文玩玉翠业务线 | Antiques & Jade | アンティーク＆ストーン | 维度/类目枚举值 |
 | 文玩珠宝 | Antiques & Jewelry | 文玩・古美術・アンティークジュエリー | 维度/类目枚举值 |
 | 断线 | Broken stitches | 糸切れ | 质检项描述，需根据品类、场景等具体判断。 |
-| 断线/线头 | Broken stitches/thread residue | 糸切れ・糸端露出 | 质检项描述，需根据品类、场景等具体判断。 |
-| 断线/跳线 | Broken/skipped stitches | 糸切れ・ほつれ | 质检项描述，需根据品类、场景等具体判断。 |
+| 断线/线头 | Broken stitches/thread residue | 糸切れ/糸くず | 质检项描述，需根据品类、场景等具体判断。 |
+| 断线/跳线 | Broken/skipped stitches | 糸切れ/目飛び | 质检项描述，需根据品类、场景等具体判断。 |
 | 断裂 | Broken | 断裂 | 质检项描述，需根据品类、场景等具体判断。 |
 | 断货 | Out of stock | 欠品 | 指商品库存数量为零，无法满足当前或未来一段时间内的销售或发货需求的状态。 |
 | 断货GMV占比 | Out-of-Stock GMV Proportion | 欠品SKUのGMVの割合 | 断货sku的预估gmv之和/总gmv |
@@ -2380,10 +2382,10 @@ Total unique terms: 4445
 | 新百伦 | New Balance | New Balance | New Balance |
 | 新竹物流 | HCT Logistics | HCT Logistics | 物流承运商名称，以官网名称为准 |
 | 新类目 | New Categories | 新規カテゴリー | 维度/类目枚举值 |
-| 新类目-净新增品牌 | New Category - New Brand Qty_Active Listings | 新規カテゴリー‐ブランド純増数 | 该新类目周期内净新增的出价品牌数量 |
-| 新类目-净新增商品数 | New Category - New Product Qty_Active Listings | 新規カテゴリー‐商品純増数 | 该新类目周期内净新增的出价商品数量 |
-| 新类目-累计SPU | New Category - Cumulative SPU Qty_Active Listings | 新規カテゴリー-累計SPU数 | 该新类目历史累计出价spu数量 |
-| 新类目-累计品牌 | New Category - Cumulative Brand Qty_Active Listings | 新規カテゴリー‐累計ブランド数 | 该新类目历史累计出价品牌数量 |
+| 新类目-净新增品牌 | New Category - New Brand Qty_Active Listings | 新規カテゴリー－ブランド純増数 | 该新类目周期内净新增的出价品牌数量 |
+| 新类目-净新增商品数 | New Category - New Product Qty_Active Listings | 新規カテゴリー－商品純増数 | 该新类目周期内净新增的出价商品数量 |
+| 新类目-累计SPU | New Category - Cumulative SPU Qty_Active Listings | 新規カテゴリー－累計SPU数 | 该新类目历史累计出价spu数量 |
+| 新类目-累计品牌 | New Category - Cumulative Brand Qty_Active Listings | 新規カテゴリー－累計ブランド数 | 该新类目历史累计出价品牌数量 |
 | 新锐 | Emerging | 新進気鋭 | 维度/类目枚举值 |
 | 方式 | Method | 方法 | 指为达成特定目标或解决某一问题而采用的一系列有条理的步骤、手段、策略或程序，在电商运营等场景中常用于描述具体的操作流程或处理方式。 |
 | 旅游服务 | Tour Services | トラベルサービス |  |
@@ -2391,19 +2393,19 @@ Total unique terms: 4445
 | 无主件 | Unclaimed package | 荷主様不明荷物 | 无主件/无头包裹说明：商家在系统上传的单号和实际收货单号的不一致(含见单采场景)，产生无头包裹，仓库收到货找不到对应的商家； |
 | 无主件转寄售 | Resale via Consignment (Unclaimed Package) | 事前入庫販売切替（荷主様不明荷物） | 无主件/无头包裹说明：商家在系统上传的单号和实际收货单号的不一致(含见单采场景)，产生无头包裹，仓库收到货找不到对应的商家； 转为寄售模式进行销售 |
 | 无保卡 | Missing warranty card | 保証カード不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 无内盒 | Missing inner box | インナーボックス不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 无包装丝带 | Missing wrapping ribbon | 包装用リボン不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 无包装垫板 | Missing packaging plate | 梱包用マット不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 无内盒 | Missing inner box | インナーボックスなし | 质检项描述，需根据品类、场景等具体判断。 |
+| 无包装丝带 | Missing wrapping ribbon | 包装用リボンなし | 质检项描述，需根据品类、场景等具体判断。 |
+| 无包装垫板 | Missing packaging plate | 梱包用マットなし | 质检项描述，需根据品类、场景等具体判断。 |
 | 无包装条码 | Missing packaging barcode | 包装バーコードなし | 质检项描述，需根据品类、场景等具体判断。 |
 | 无包装袋 | Missing packaging bag | パッケージバッグなし | 质检项描述，需根据品类、场景等具体判断。 |
-| 无包装贴纸 | Missing packaging sticker | 包装シール不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 无包装贴纸 | Missing packaging sticker | 包装シールなし | 质检项描述，需根据品类、场景等具体判断。 |
 | 无原盒 | Missing original box | オリジナルボックスなし | 质检项描述，需根据品类、场景等具体判断。 |
-| 无吊牌 | Missing hangtag | タグ不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 无固定扣 | Missing fixing buckle | 固定バックル不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 无外盒 | Missing outer box | 外箱不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 无吊牌 | Missing hangtag | タグなし | 质检项描述，需根据品类、场景等具体判断。 |
+| 无固定扣 | Missing fixing buckle | 固定バックル欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 无外盒 | Missing outer box | 外箱なし | 质检项描述，需根据品类、场景等具体判断。 |
 | 无头包裹 | Unclaimed package | 荷主様不明荷物 | 无主件/无头包裹说明：商家在系统上传的单号和实际收货单号的不一致(含见单采场景)，产生无头包裹，仓库收到货找不到对应的商家； |
 | 无封层 | No sealer | 保護フィルムなし | 质检项描述，需根据品类、场景等具体判断。 |
-| 无底标 | Missing bottom label | 底ラベルの不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 无底标 | Missing bottom label | 底ラベル欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 无忧体验 | Hassle-Free Experience | ストレスフリーなユーザー体験 | 竞对参考 |
 | 无损质拍 | Nondestructive QC | 非破壊QC（撮影） | 无损检验拍照 |
 | 无效 | Invalid | 無効 | 无法达到预期的有效状态 |
@@ -2425,20 +2427,20 @@ Total unique terms: 4445
 | 无法鉴别 | Unable to authenticate | 鑑定不能 | 质检项描述，需根据品类、场景等具体判断。 |
 | 无法鉴别_批号问题 | Authentication unavailable - batch number issue | 鑑定不可_ロット番号の問題 | 质检项描述，需根据品类、场景等具体判断。 |
 | 无理由退货 | hassle-free return policy | 無条件で返品 | 指消费者在购买商品后，符合特定条件时，无需说明具体理由即可按照相关规定将商品退回给卖家的政策或服务。 |
-| 无眼镜布 | Missing glasses cloth | メガネ拭き不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 无眼镜盒 | Missing glasses case | メガネケース不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 无眼镜袋 | Missing glasses pouch | メガネポーチ不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 无眼镜布 | Missing glasses cloth | メガネ拭きなし | 质检项描述，需根据品类、场景等具体判断。 |
+| 无眼镜盒 | Missing glasses case | メガネケース欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 无眼镜袋 | Missing glasses pouch | メガネポーチなし | 质检项描述，需根据品类、场景等具体判断。 |
 | 无礼盒内标 | Missing gift box inner label | ギフトボックス内部ラベルなし | 质检项描述，需根据品类、场景等具体判断。 |
 | 无纽扣 | Missing button | ボタンなし | 质检项描述，需根据品类、场景等具体判断。 |
-| 无绳子 | Missing cord | 紐不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 无绳子 | Missing cord | 紐なし | 质检项描述，需根据品类、场景等具体判断。 |
 | 无耳堵 | Missing earplug | イヤープラグなし | 质检项描述，需根据品类、场景等具体判断。 |
 | 无订单咨询会话量 | Contact Qty_without Orders | オーダー関連以外の問い合わせ件数 | 咨询未关联到具体订单，但咨询的spu为国际独有的spu，该部分的会话量 |
 | 无说明书 | Missing user manual | 取扱説明書なし | 质检项描述，需根据品类、场景等具体判断。 |
-| 无调节扣 | Missing adjustable buckle | アジャスタブルバックル不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 无调节扣 | Missing adjustable buckle | アジャスタブルバックルなし | 质检项描述，需根据品类、场景等具体判断。 |
 | 无调节环 | Missing adjustment ring | 調整リングなし | 质检项描述，需根据品类、场景等具体判断。 |
-| 无链接扣 | Missing link pin | リンクバックル不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 无链条 | Missing chain | チェーン不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 无镜片 | Missing lens | レンズ不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 无链接扣 | Missing link pin | リンクバックルなし | 质检项描述，需根据品类、场景等具体判断。 |
+| 无链条 | Missing chain | チェーンなし | 质检项描述，需根据品类、场景等具体判断。 |
+| 无镜片 | Missing lens | レンズなし | 质检项描述，需根据品类、场景等具体判断。 |
 | 无门槛 | No Min Spend | 制限なし | 新人专区限时折扣抢券活动的UI界面，门槛金额，=0，即不限制下单门槛 |
 | 无防尘袋 | Missing dust bag | ダストバッグなし | 质检项描述，需根据品类、场景等具体判断。 |
 | 无鞋盒 | Missing shoe box | シューズボックスなし | 质检项描述，需根据品类、场景等具体判断。 |
@@ -2467,10 +2469,11 @@ Total unique terms: 4445
 | 时间 | Time | 時間 | 请区分与“日期”使用。时间展示一般包含具体的小时、分钟、秒。 |
 | 明日10点开奖 | Tomorrow 10:00 AM | 明日午前10時発表 | XBB用户抽奖页活动UI |
 | 明日预告 | Coming Up | 明日予告 | XBB用户抽奖页活动UI |
+| 明星同款 | Celeb Picks | 芸能人着用 | 商家后台，大盘数据模块中的”拓供方向“枚举值，和运营任务系统中保持一致。 |
 | 明星艺人 | Celebrities & Entertainers | セレブ＆タレント | 维度/类目枚举值 |
 | 明星设计师 | Celebrity Designers | スターデザイナー | 维度/类目枚举值 |
-| 明显面（正/侧/LOGO/背 ） | Main side (front/side/LOGO/back) | 可視面（前面・側面・ロゴ・裏面） | 质检项描述，需根据品类、场景等具体判断。 |
-| 明显面（正面/上面/logo/标签面） | Main side (front/side/LOGO/back) | 可視面（正面/上面/ロゴ/ラベル） | 质检项描述，需根据品类、场景等具体判断。 |
+| 明显面（正/侧/LOGO/背 ） | Main side (front/side/LOGO/back) | 目立つ部分（正面、側面、ロゴ、背面） | 质检项描述，需根据品类、场景等具体判断。 |
+| 明显面（正面/上面/logo/标签面） | Main side (front/side/LOGO/back) | 目立つ部分（正面、上面、ロゴ、ラベル） | 质检项描述，需根据品类、场景等具体判断。 |
 | 明细 | Details | 明細 | 指对事物的具体情况、详细信息进行的描述或说明，常用于展示事物的各个方面、属性、特征等具体内容。 |
 | 易客满 | ECMS Express | ECMS | 物流承运商名称，以官网名称为准 |
 | 易碎品 | Fragile | 割れ物 |  |
@@ -2535,17 +2538,17 @@ Total unique terms: 4445
 | 服装整体 | Apparel overview | 服全体 | 质检项描述，需根据品类、场景等具体判断。 |
 | 服饰 | Apparel | アパレル | 竞对参考 |
 | 期望结算价 | Expected settlement price | 希望決済価格 | 商家在托管模式下填写的期望与平台结算的价格。是计算预计利润、预计销量等数据的重要参数，若商家填写则填充，未填写则留空 |
-| 期末-一品一商占比 | End-of-Period - One-to-One Proportion | 期末‐1出品者のみが販売している商品（SKU）の割合 | 统计周期最后一天，只有一个出价商家的在线sku的数量/在线sku数量 |
-| 期末-一品二商占比 | End-of-Period - One-to-Two Proportion | 期末‐2出品者のみが販売している商品（SKU）の割合 | 统计周期最后一天，有两个出价商家的在线sku的数量/在线sku数量 |
-| 期末-出价SKU数 | End-of-Period - SKU Qty Listed (History) | 期末‐出品SKU数 | 统计周期的最后一天有出价的SKU数 |
-| 期末-出价SPU数 | End-of-Period - SPU Qty Listed (History) | 期末‐出品SPU数 | 统计周期的最后一天有出价的SPU数 |
-| 期末-出价SPU的出价卖家数 | End-of-Period - Avg Sellers with Listings (SPU) | 期末‐1出品SPUあたりの平均出品者数 | 国际整体SPU期末出价卖家数求和/期末在线出价商品数 |
+| 期末-一品一商占比 | End-of-Period - One-to-One Proportion | 期末－1出品者のみが販売している商品（SKU）の割合 | 统计周期最后一天，只有一个出价商家的在线sku的数量/在线sku数量 |
+| 期末-一品二商占比 | End-of-Period - One-to-Two Proportion | 期末－2出品者のみが販売している商品（SKU）の割合 | 统计周期最后一天，有两个出价商家的在线sku的数量/在线sku数量 |
+| 期末-出价SKU数 | End-of-Period - SKU Qty Listed (History) | 期末－出品SKU数 | 统计周期的最后一天有出价的SKU数 |
+| 期末-出价SPU数 | End-of-Period - SPU Qty Listed (History) | 期末－出品SPU数 | 统计周期的最后一天有出价的SPU数 |
+| 期末-出价SPU的出价卖家数 | End-of-Period - Avg Sellers with Listings (SPU) | 期末－1出品SPUあたりの平均出品者数 | 国际整体SPU期末出价卖家数求和/期末在线出价商品数 |
 | 期末-出价SPU的卖家数求和 | End-of-Period - Cumulative Sellers with Listings (SPU) | 期末-出品SPU出品者延べ数 | 国际整体SPU粒度统计周期期末（日维度取当日24:00，周维度取当周周日24:00）处于在线出价状态的国际整体卖家数求和 即：一个期末出价商品✖️一个期末出价卖家计为1 |
-| 期末-出价共有SPU的出价卖家数 | End-of-Period - Avg Sellers with Common Listed SPU | 期末‐1出品SPU（他チャネルにも出品あり）あたりの平均出品者数 | 国际和国内共有SPU期末出价卖家数求和/期末在线出价商品数 |
-| 期末-出价共有SPU的卖家数求和 | End-of-Period - Cumulative Sellers with Common Listed SPU | 期末-出品SPU（他チャネルにも出品あり）出品者延べ数 | 国际和国内共有SPU粒度统计周期期末（日维度取当日24:00，周维度取当周周日24:00）处于在线出价状态的国际整体卖家数求和 即：一个期末出价商品✖️一个期末出价卖家计为1 |
-| 期末-单商家平均在线SKU数 | End-of-Period - Avg Listed SKU Qty per Seller | 期末-1出品者あたりの平均掲載済SKU数 | 期末在线出价国际整体SKU数 / 期末在线出价国际整体卖家数 |
-| 期末-单商家平均在线共有SKU数 | End-of-Period - Avg Common Listed SKU Qty per Seller | 期末-1出品者あたりの平均掲載済SKU（他チャネルにも出品あり）数 | 期末在线出价国际与非得物国际渠道共有的SKU数 / 期末在线出价国际整体卖家数 |
-| 期末-单商家平均在线国际差异化SKU数 | End-of-Period - Avg Unique Listed SKU Qty per seller | 期末-1出品者あたりの平均掲載済SKU（POIZON Global限定）数 | 期末在线出价国际差异化SKU数 / 期末在线出价国际差异化SKU的卖家数 |
+| 期末-出价共有SPU的出价卖家数 | End-of-Period - Avg Sellers with Common Listed SPU | 期末－1出品SPU（他チャネルにも出品あり）あたりの平均出品者数 | 国际和国内共有SPU期末出价卖家数求和/期末在线出价商品数 |
+| 期末-出价共有SPU的卖家数求和 | End-of-Period - Cumulative Sellers with Common Listed SPU | 期末－出品SPU（他チャネルにも出品あり）出品者延べ数 | 国际和国内共有SPU粒度统计周期期末（日维度取当日24:00，周维度取当周周日24:00）处于在线出价状态的国际整体卖家数求和 即：一个期末出价商品✖️一个期末出价卖家计为1 |
+| 期末-单商家平均在线SKU数 | End-of-Period - Avg Listed SKU Qty per Seller | 期末－1出品者あたりの平均掲載済SKU数 | 期末在线出价国际整体SKU数 / 期末在线出价国际整体卖家数 |
+| 期末-单商家平均在线共有SKU数 | End-of-Period - Avg Common Listed SKU Qty per Seller | 期末－1出品者あたりの平均掲載済SKU（他チャネルにも出品あり）数 | 期末在线出价国际与非得物国际渠道共有的SKU数 / 期末在线出价国际整体卖家数 |
+| 期末-单商家平均在线国际差异化SKU数 | End-of-Period - Avg Unique Listed SKU Qty per seller | 期末－1出品者あたりの平均掲載済SKU（POIZON Global限定）数 | 期末在线出价国际差异化SKU数 / 期末在线出价国际差异化SKU的卖家数 |
 | 期货 | Incoming stock | 先物 | 用于UI中。表示货物交易的类型，尤指大批量的货品，表示货品当前仍在采购中或在途，并有预计到货时期。 |
 | 木包装销毁费 | Wood packaging disposal fee | 木製梱包材廃棄処理料 | 检验检疫监管下发生，由消毒公司办理货物不合格木质包装销毁的处理费 |
 | 未中奖 | Missed | 落選 | XBB用户抽奖页活动UI |
@@ -2559,7 +2562,7 @@ Total unique terms: 4445
 | 未组套 | Unkitted bundle | 未セット品 | 质检项描述，需根据品类、场景等具体判断。 |
 | 未被穿过的 | Unworn | 未着用 | 竞对参考 |
 | 未评分卡牌 | Raw Cards | 未評価カード | 竞对参考 |
-| 本体缺失 | Missing main item | 本体不足 | 质检项描述，需根据品类、场景等具体判断。 |
+| 本体缺失 | Missing main item | 本体欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 本周积压商品库存数 | Backlog Inventory_Current Week | 今週のバックログ在庫数 | 应处理商品库存数 - 处理完成商品库存数（保税5日处理完成商品库存数，寄售3日处理完成商品库存数） （指本周未在考核天数内处理完成的商品库存数，考核天数：寄售3天/保税5天） |
 | 本周静置积压商品库存数 | Standing Backlog Inventory_Current Week | 今週の滞留によるバックログ在庫数 | 由静置导致的本周积压商品库存数 |
 | 本地卖家销量 | Sales by Local Sellers | ローカル出品者販売数 | 表示当前卖家所属地区的本地卖家往此市场的销量 |
@@ -2571,7 +2574,7 @@ Total unique terms: 4445
 | 机芯内 | Movement interior | ムーブメント内部 | 质检项描述，需根据品类、场景等具体判断。 |
 | 机芯内-奢 | Movement interior - luxury | ムーブメント内部（ラグジュアリー） | 质检项描述，需根据品类、场景等具体判断。 |
 | 机芯日差、偏振、摆幅等过低或过高 | Excessive or insufficient daily rate, beat error, or amplitude | ムーブメントの誤差、偏光、振動幅などが過度に低いまたは高い | 质检项描述，需根据品类、场景等具体判断。 |
-| 机芯有污渍、划痕、磕碰等 | Stains, scratches, and dents on movement | ムーブメントに汚れ、傷、凹みなど | 质检项描述，需根据品类、场景等具体判断。 |
+| 机芯有污渍、划痕、磕碰等 | Stains, scratches, and dents on movement | ムーブメントに汚れ、擦過痕、凹みなど | 质检项描述，需根据品类、场景等具体判断。 |
 | 机芯类型 | Movement type | ムーブメント種類 | 仅限用于商品用户评论Reviews发布时会展示可供勾选的标签，按商品类目会有不同对应展示。请参考：[‌‍‍‬‌‌‍‍‍﻿⁠‬⁠﻿‍‍‍⁠‌‍‌‬⁠‍PRD-311667_Reviews发布链路优化_标签配置_翻译需求 - 飞书云文档](https://poizon.feishu.cn/wiki/KxQRw5NJQirT1BkHSXhcaqCZnWg?sheet=FGovl4) |
 | 机芯维修 | Movement repaired | ムーブメントの修理痕跡 | 质检项描述，需根据品类、场景等具体判断。 |
 | 杂质含量高 | Excessive impurities | 不純物がたくさん含まれている | 质检项描述，需根据品类、场景等具体判断。 |
@@ -2583,7 +2586,7 @@ Total unique terms: 4445
 | 材质不符 | Material does not match order details | 素材不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 材质过度处理 | Excessively processed materials | 材質が過度処理されている | 质检项描述，需根据品类、场景等具体判断。 |
 | 条形码 | Barcode/UPC | バーコード | 商品条码 |
-| 条形码涂鸦 | Barcode/UPC defaced | バーコード／UPC塗りつぶし | 条码被涂改 |
+| 条形码涂鸦 | Barcode/UPC defaced | バーコード/UPCの落書き | 条码被涂改 |
 | 条款 | Terms | 条項 |  |
 | 条款和条件 | Terms & Conditions | 利用規約 | Terms & Conditions，需要时缩写为“T&Cs” |
 | 松动 | Loose | 緩み | 质检项描述，需根据品类、场景等具体判断。 |
@@ -2594,18 +2597,18 @@ Total unique terms: 4445
 | 极速售卖 | Swift Sales | より早く！ | 商家后台升级 三个亮点推广 |
 | 极限运动 | Extreme Sports | Xスポーツ | 维度/类目枚举值 |
 | 极高奢 | Ultra-luxury | ウルトラハイエンド品 |  |
-| 染色 | Dyes | 染み | 质检项描述，需根据品类、场景等具体判断。 |
-| 染色/污渍/泛黄 | Dyes/stains/yellowing | シミ・汚れ・黄ばみ | 质检项描述，需根据品类、场景等具体判断。 |
+| 染色 | Dyes | 色移り | 质检项描述，需根据品类、场景等具体判断。 |
+| 染色/污渍/泛黄 | Dyes/stains/yellowing | 色移り/汚れ/黄ばみ | 质检项描述，需根据品类、场景等具体判断。 |
 | 查看 | View | 見る | 界面提示词 |
 | 查验 | QC | 品質検査 | 质量检验。Quality Check的缩写 |
-| 查验鉴别 | POIZON Verified | 検査・鑑定 | QC+鉴别的总称。表示商品已查验鉴别通过的状态时用“POIZON Verified” |
+| 查验鉴别 | POIZON Verified | 品質検査・鑑定 | QC+鉴别的总称。表示商品已查验鉴别通过的状态时用“POIZON Verified” |
 | 标品 | Hardline Category | 規格品 | 维度/类目枚举值 |
 | 标品-3C酒水宠物潮玩 | Hardline Category - Electronics, Alcohol & Beverages, Pet, Collectibles | 規格品－電子機器・お酒＆飲料・ペット・アートトイ | 维度/类目枚举值 |
 | 标品-个护&保健 | Hardline Category - Personal Care & Healthcare | 規格品－パーソナルケア＆ヘルスケア | 维度/类目枚举值 |
 | 标品-家居食品母婴 | Hardline Category - Home, Food, Maternity & Baby | 規格品－インテリア・食品・ベビー＆マタニティ | 维度/类目枚举值 |
 | 标品-美妆日韩 | Hardline Category - Beauty (JP & KR) | 規格品－コスメ（日韓） | 维度/类目枚举值 |
 | 标品-美妆欧美 | Hardline Category - Beauty (EU & US) | 規格品－コスメ（欧米） | 维度/类目枚举值 |
-| 标签 | Label | ラベルorタグ | 商品or物流标签 |
+| 标签 | Label | ラベル | 商品or物流标签 |
 | 标签/配件不匹配 | Mismatched label/accessory | タグ/付属品が不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 标签潮湿 | Label dampness | ラベル濡れ | 质检项描述，需根据品类、场景等具体判断。 |
 | 标签瑕疵 | Label defects | ラベルに不良箇所あり | 质检项描述，需根据品类、场景等具体判断。 |
@@ -2620,7 +2623,7 @@ Total unique terms: 4445
 | 格式 | Format | フォーマット | 指数据、文件、信息等在呈现、存储或传输时所遵循的特定结构、样式或规则，用于确保内容的规范性和一致性，方便识别、处理和使用。 |
 | 检测露出情况 | Buy Box Status | 購入者ページの表示状況 | 检测该商品的出价是否能在对应市场露出 |
 | 植染 | Natural dye | 天然染色 | 植物染色 |
-| 楦宽 | Last width | 足の横幅 | 鞋楦宽度 |
+| 楦宽 | Last width | ラスト幅 | 鞋楦宽度 |
 | 概要申报费用 | Preliminary declaration fee | 概要申告料 | 申报方式为两步申报的报关单，概要申报费用 |
 | 概览 | Overview | 概要 |  |
 | 榜单 | Ranking | ランキング |  |
@@ -2630,7 +2633,7 @@ Total unique terms: 4445
 | 模糊匹配_一码多SKU | Partial match: shared barcode/UPC | あいまいマッチング（複数SKU） | 盘货页面匹配类型，表示您导入商品时提供了【条形码】信息，通过【条形码】及其他信息（如货号/规格等），我们为您匹配到了多个符合条件的SKU。但由于无法确认您具体需要的是哪个，因此商品匹配结果为您展示了所有符合条件的SKU，请您可根据自身需求选择相应的SKU进行出价。 |
 | 欠款 | Outstanding | 未払金 | 指商家尚未支付或结清的款项，在资金管理场景中用于描述未偿付的债务或欠款金额。 |
 | 次品 | Defective item | B級品 | 在平台不可出售的商品，如查验未通过且属于重度瑕疵的商品 |
-| 次品取回-操作服务费 | Returns processing fee (defective products) | 作業手数料‐B級品の回収 | 即取回操作服务费，平台将对商品取回收取取回操作费用。 良品收费：针对全新可售商品取回收取仓库操作服务费； 次品收费：针对严重卖家责商品取回收取仓库操作服务费。 详见《良品退货取回操作服务费规则解释》。 |
+| 次品取回-操作服务费 | Returns processing fee (defective products) | 作業手数料－B級品の回収 | 即取回操作服务费，平台将对商品取回收取取回操作费用。 良品收费：针对全新可售商品取回收取仓库操作服务费； 次品收费：针对严重卖家责商品取回收取仓库操作服务费。 详见《良品退货取回操作服务费规则解释》。 |
 | 次日揽收 | Next-day pickup (except Sundays and Holidays) | 翌日集荷 | 指在除星期日和节假日外的次日，对商家的货物进行上门收取的物流服务安排。 |
 | 次日达 | Next Day | 翌日着予定 | 指商品在下单后的下一个工作日内送达买家手中的配送服务承诺。 |
 | 欧元 | EUR | EUR |  |
@@ -2672,7 +2675,7 @@ Total unique terms: 4445
 | 比中国露出价低一档 | Undercut CN buy box by 1 tier | 価格競争力の強化 | 当您的露出价发生变动时，且（露出价金额 -1元）仍高于您的自动跟价底价时，出价会自动跟至露出价-1元，确保您抢占更多订单份额。 |
 | 比最低价低一档 | Undercut the lowest by 1 tier | 最低価格より1ランク安く | 当平台有新的最低价时，且该价格降低一档后，仍在您的底价之上，则自动修改您的出价为当前最低价低一档，一档为${出价币种}${出价币种对应的出价步长}。 |
 | 毛利 | Gross profit | 粗利 | 一般UI字符空间足够且不折行的话，写全 |
-| 毛刺/披锋 | Burrs/sharp edges | バリ・鋭い縁 | 质检项描述，需根据品类、场景等具体判断。 |
+| 毛刺/披锋 | Burrs/sharp edges | バリ/鋭い縁 | 质检项描述，需根据品类、场景等具体判断。 |
 | 毛刺、飞边、缺胶、烧焦、发白、缺口缺肉，开裂，变形 | Burrs, flash, insufficient glue, burn marks, whitening, notches or material loss, cracks, deformation | バリ、鋭利部、接着剤不足、焼け、白化、欠け、ひび割れ、変形 | 质检项描述，需根据品类、场景等具体判断。 |
 | 毛孔粗大 | Large pores | 大きな毛穴 | 质检项描述，需根据品类、场景等具体判断。 |
 | 毛衣 | Sweaters | セーター |  |
@@ -2683,19 +2686,19 @@ Total unique terms: 4445
 | 气垫梳 | Air Cushion Combs | クッションブラシ | 均为数码家电一级类目下二级类目 |
 | 气泡 | Bubbles | 気泡 | 质检项描述，需根据品类、场景等具体判断。 |
 | 氧化 | Oxidation | 酸化 | 竞对参考 |
-| 氧化/发黄 | Oxidation/yellowing | 酸化・黄ばみ | 质检项描述，需根据品类、场景等具体判断。 |
-| 氧化/电镀不良 | Oxidation/poor plating | 酸化・メッキ不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 氧化/发黄 | Oxidation/yellowing | 酸化/黄ばみ | 质检项描述，需根据品类、场景等具体判断。 |
+| 氧化/电镀不良 | Oxidation/poor plating | 酸化/メッキ不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 氧化、生锈 | Oxidation, rust | 酸化、錆び | 质检项描述，需根据品类、场景等具体判断。 |
 | 氧化泛黄 | Oxidation/yellowing | 酸化・黄ばみ | 质检项描述，需根据品类、场景等具体判断。 |
 | 氧化生锈 | Oxidation & rust | 酸化・錆び | 质检项描述，需根据品类、场景等具体判断。 |
 | 水产肉类/新鲜水果/熟食 | Seafood, Meat, Fresh Fruits, Deli Food | 魚介類・肉類・フルーツ・惣菜 | 一级类目 |
 | 水印 | Water stains | ウォーターマーク | 质检项描述，需根据品类、场景等具体判断。 |
-| 水洗/车马标 | Care label/logo | 洗濯タグ・フロントエンブレム | 质检项描述，需根据品类、场景等具体判断。 |
-| 水洗、主标 | Care label/main label | 洗濯タグ・メインタグ | 质检项描述，需根据品类、场景等具体判断。 |
+| 水洗/车马标 | Care label/logo | 洗濯タグ/フロントエンブレム | 质检项描述，需根据品类、场景等具体判断。 |
+| 水洗、主标 | Care label/main label | 洗濯タグ、メインタグ | 质检项描述，需根据品类、场景等具体判断。 |
 | 水洗唛 | Care Label | 洗濯タグ | 质检项描述，需根据品类、场景等具体判断。 |
 | 水洗标 | Care label | 洗濯タグ | 质检项描述，需根据品类、场景等具体判断。 |
 | 水洗标-奢服 | Care label - luxury apparel | 洗濯タグ（ラグジュアリーアパレル） | 质检项描述，需根据品类、场景等具体判断。 |
-| 水洗标/主标 | Care label/main label | 洗濯タグ・メインタグ | 质检项描述，需根据品类、场景等具体判断。 |
+| 水洗标/主标 | Care label/main label | 洗濯タグ/メインタグ | 质检项描述，需根据品类、场景等具体判断。 |
 | 水洗标瑕疵 | Care label defects | 洗濯タグの不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 水渍 | Water stains | 水シミ | 质检项描述，需根据品类、场景等具体判断。 |
 | 求购买家违约 | Bid default compensation | 購入者違約金（即時取引） | 求购单场景，买家会先交一部分定金，最后卖家响应后，未成交，扣除的这部分定金给卖家 |
@@ -2705,17 +2708,17 @@ Total unique terms: 4445
 | 汇款附言 | Postscript | 備考 |  |
 | 汇率 | Exchange rate | 為替レート |  |
 | 污渍 | Stains | 汚れ | 质检项描述，需根据品类、场景等具体判断。 |
-| 污渍&染色 | Stains & dyes | 汚れ＆染み | 质检项描述，需根据品类、场景等具体判断。 |
-| 污渍/染色 | Stains/dyes | 汚れ・シミ | 质检项描述，需根据品类、场景等具体判断。 |
-| 污渍/氧化 | Stains/oxidation | 汚れ・酸化 | 质检项描述，需根据品类、场景等具体判断。 |
+| 污渍&染色 | Stains & dyes | 汚れ＆色移り | 质检项描述，需根据品类、场景等具体判断。 |
+| 污渍/染色 | Stains/dyes | 汚れ/色移り | 质检项描述，需根据品类、场景等具体判断。 |
+| 污渍/氧化 | Stains/oxidation | 汚れ/酸化 | 质检项描述，需根据品类、场景等具体判断。 |
 | 污渍/水渍 | Stains/water stains | 汚れ・水シミ | 质检项描述，需根据品类、场景等具体判断。 |
-| 污渍/水渍/染色/泛黄 | Stains/water stains/dyes/yellowing | 汚れ・水シミ・染み・黄ばみ | 质检项描述，需根据品类、场景等具体判断。 |
+| 污渍/水渍/染色/泛黄 | Stains/water stains/dyes/yellowing | 汚れ、水シミ、色移り、黄ばみ | 质检项描述，需根据品类、场景等具体判断。 |
 | 污渍/泛黄 | Stains/yellowing | 汚れ/黄ばみ | 质检项描述，需根据品类、场景等具体判断。 |
-| 污渍/泛黄/磨损 | Stains/yellowing/wear and tear | 汚れ・黄ばみ・磨り減り | 质检项描述，需根据品类、场景等具体判断。 |
-| 污渍/磨损/染色 | Stains/wear and tear/dyes | 汚れ/摩耗/染み | 质检项描述，需根据品类、场景等具体判断。 |
+| 污渍/泛黄/磨损 | Stains/yellowing/wear and tear | 汚れ/黄ばみ/磨り減り | 质检项描述，需根据品类、场景等具体判断。 |
+| 污渍/磨损/染色 | Stains/wear and tear/dyes | 汚れ/磨り減り/色移り | 质检项描述，需根据品类、场景等具体判断。 |
 | 污渍、染色 | Stains, dyes | 汚れ、染み | 质检项描述，需根据品类、场景等具体判断。 |
 | 污渍（内衣商品） | Stains (underwear) | 汚れ（下着類） | 质检项描述，需根据品类、场景等具体判断。 |
-| 污渍，染色 | Stains/dyes | 汚れ、染み | 质检项描述，需根据品类、场景等具体判断。 |
+| 污渍，染色 | Stains/dyes | 汚れ、色移り | 质检项描述，需根据品类、场景等具体判断。 |
 | 污渍，水渍，油渍等 | Stains, water stains, oil stains, etc. | 汚れ、水シミ、油シミなど | 质检项描述，需根据品类、场景等具体判断。 |
 | 汽车 | Automotive | 自動車 | 维度/类目枚举值 |
 | 汽车/汽车用品/零部件 | Cars, Car Accessories & Parts | 車・カー用品・パーツ | 一级类目 |
@@ -2736,7 +2739,7 @@ Total unique terms: 4445
 | 注销账户 | Delete account | アカウント削除 | 删除并注销账号 |
 | 泵头 | Pump Head | ポンプヘッド | 质检项描述，需根据品类、场景等具体判断。 |
 | 泵头凹陷 | Dented pump head | ポンプヘッドの凹み | 质检项描述，需根据品类、场景等具体判断。 |
-| 泵头划痕 | Pump head scratches | ポンプヘッドに傷 | 质检项描述，需根据品类、场景等具体判断。 |
+| 泵头划痕 | Pump head scratches | ポンプヘッドの擦過痕 | 质检项描述，需根据品类、场景等具体判断。 |
 | 泵头掉漆 | Pump head paint peeling | ポンプヘッドの塗装剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
 | 泵头脱落 | Detached pump head | ポンプヘッドの脱落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 泼墨 | Ink Splatter | インクスプラッター | 泼墨设计 |
@@ -2770,6 +2773,7 @@ Total unique terms: 4445
 | 海关金二册 | Customs Golden II account | 税関「金関二期」 | 金关账册2期 |
 | 海外 | Overseas | 中国以外 | 指中国以外的国家或地区。 |
 | 海外IP拉新 | Dewu seller with intl. IP | 国際IP保有DEWU出品者 | 智能运营平台招商效率看板的一种“招商方式”，表示海外IP的得物国内卖家 |
+| 海外三方仓直发 | Direct Shipping (seller's 3PL warehouse) | 直送（出品者による提携倉庫） | 商家从自己存货的第三方本地仓（非官方合作的云仓）进行直发。 |
 | 海外入仓GMV | GMV (Consignment) | 入庫GMV |  |
 | 海外公司公章 | Company seal | 会社印 | 海外公司的公章，需与发货人所属公司名称一致，用于生成出口申报资料 |
 | 海外现货GMV | GMV (Ship-to-Verify) | 通常販売GMV |  |
@@ -2818,7 +2822,7 @@ Total unique terms: 4445
 | 游戏卡牌 | Trading Cards | トレーディングカード | 集换式卡牌是一种基于实体卡牌的游戏，玩家通过购买随机包装的补充包收集卡牌，并根据自己的策略构建卡组进行对战。由于每人的卡组和抓牌顺序不同，游戏具有极高的变化性和策略深度。 |
 | 游戏设备 | Gaming Hardware | ゲーム機 |  |
 | 溢胶 | Excess glue | 接着剤のはみ出し | 质检项描述，需根据品类、场景等具体判断。 |
-| 溢胶/胶印 | Excess glue/glue imprints | 接着剤のはみ出し・接着剤の跡 | 质检项描述，需根据品类、场景等具体判断。 |
+| 溢胶/胶印 | Excess glue/glue imprints | 接着剤のはみ出し/接着剤の跡 | 质检项描述，需根据品类、场景等具体判断。 |
 | 滋润度 | Hydration | 保湿力 | 仅限用于商品用户评论Reviews发布时会展示可供勾选的标签，按商品类目会有不同对应展示。请参考：[‌‍‍‬‌‌‍‍‍﻿⁠‬⁠﻿‍‍‍⁠‌‍‌‬⁠‍PRD-311667_Reviews发布链路优化_标签配置_翻译需求 - 飞书云文档](https://poizon.feishu.cn/wiki/KxQRw5NJQirT1BkHSXhcaqCZnWg?sheet=FGovl4) |
 | 滋润版 | Moisturizing | モイスチャータイプ | 滋润型版本 |
 | 滋补营养品 | Supplements | 健康食品・サプリメント | 一级类目 |
@@ -2854,13 +2858,13 @@ Total unique terms: 4445
 | 激活 | Activate | アクティベート | 使某功能、服务或账户等从非活动状态转变为可使用状态的操作行为。 |
 | 灯带检查 | Light strip check | ライトストリップ確認 | 灯带功能检查 |
 | 灯饰照明 | Lighting Fixtures | 照明器具 |  |
-| 灰尘/毛絮 | Dust/fluff | ほこり・毛羽 | 质检项描述，需根据品类、场景等具体判断。 |
+| 灰尘/毛絮 | Dust/fluff | ほこり/毛羽 | 质检项描述，需根据品类、场景等具体判断。 |
 | 点击 | Click | クリック | 非移动端界面场景使用，如PC/H5 |
 | 点击关闭 | Turn off flashlight | タップして点灯 | 图搜页面，光线不足的特殊场景，配合“手电筒”的Icon使用 |
 | 点击可抽 | Tap to Enter | タップして参加 | XBB用户抽奖页活动UI |
 | 点击打开 | Turn on flashlight | タップして点灯 | 图搜页面，光线不足的特殊场景，配合“手电筒”的Icon使用 |
 | 烫金涂改 | Altered foil stamping | 箔押しの改ざん | 质检项描述，需根据品类、场景等具体判断。 |
-| 烫金瑕疵 | Hot stamping defects | 箔押しに不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 烫金瑕疵 | Hot stamping defects | 箔押しの不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 热搜榜 | Top Searches | 検索人気ランキング | 商家端商机模块中的热搜类榜单，基于热搜指数、搜索PV等指标展示搜索热度较高的商品。 |
 | 热敏标签 | Thermal label | 感熱ラベル | 一种通过热能使标签材料显色以实现信息打印的标签类型，常用于物流、仓储等履约场景中商品信息的标识。 |
 | 热销 | Best-selling | 人気商品 | 指平台当前热销商品/销量最高的商品 |
@@ -2939,9 +2943,9 @@ Total unique terms: 4445
 | 瑕疵品 | New with Defects | B級品 | 质检结果为带有瑕疵的新品，一般通过95分、瑕疵渠道进行售卖。 |
 | 瑕疵品平台处理费 | Express QC - defective item handling fee | B級品対応効率化サービス料 | 涉及到轻瑕客退的质检提效订单，退货寄回商家的同时回收对应的客退国际gmv |
 | 瑕疵品销售 | New with Defects Service | B級品販売 | 履约无忧服务下的子服务名称。[‍‍⁠‬‍﻿⁠‍﻿‬⁠⁠﻿⁠⁠‍⁠⁠﻿0731更新-瑕疵品标签名称优化的讨论 - 飞书云文档 (feishu.cn)](https://poizon.feishu.cn/docx/LzLfd5KYsoZUcbxJgiJcuU2ynxV?open_in_browser=true) |
-| 瑕疵定级 | Condition | 不良等級 | 在瑕疵商品管理界面上下文中，Condition即可表达 |
+| 瑕疵定级 | Condition | 商品コンディションの判定 | 在瑕疵商品管理界面上下文中，Condition即可表达 |
 | 瑕疵工作台 | Dashboard | B級品管理 | 用于展示瑕疵品到件明细、瑕疵状态、操作建议及相关处理入口的业务页面。 |
-| 瑕疵影响查验 | Defects affecting authentication | 不良箇所による品質検査への影響 | 质检项描述，需根据品类、场景等具体判断。 |
+| 瑕疵影响查验 | Defects affecting authentication | 不良による品質検査への影響 | 质检项描述，需根据品类、场景等具体判断。 |
 | 瑕疵投诉率 | Complaint Rate_Product with Defects | クレーム率（不良箇所） | 瑕疵投诉订单量/支付订单量 ，瑕疵投诉指工单分类为“售后服务-瑕疵（使用前）” |
 | 瑕疵撮合 | Defective Item Negotiation | B級品取引仲介サービス | 针对符合特定条件的瑕疵品，基于商家设置的降价比例，平台与买家进行沟通，询问交易接受意愿。 |
 | 瑕疵操作台 | Dashboard | 修理管理 | 用于管理在仓瑕疵品并提供瑕疵处理操作入口的页面或功能区域。 |
@@ -2965,7 +2969,7 @@ Total unique terms: 4445
 | 瓶身破损 | Damaged bottle | ボトル本体破損 | 质检项描述，需根据品类、场景等具体判断。 |
 | 瓶身磕碰 | Bottle dents | ボトルに傷・凹みあり | 质检项描述，需根据品类、场景等具体判断。 |
 | 瓶身贴纸破损 | Damaged bottle sticker | ボトルシールの破損 | 质检项描述，需根据品类、场景等具体判断。 |
-| 瓶颈划痕 | Neck scratches | ボトルネックに傷 | 质检项描述，需根据品类、场景等具体判断。 |
+| 瓶颈划痕 | Neck scratches | ボトルネックの擦過痕 | 质检项描述，需根据品类、场景等具体判断。 |
 | 瓶颈破损 | Damaged neck | ボトルネックの破損 | 质检项描述，需根据品类、场景等具体判断。 |
 | 生产批号修改/遮盖痕迹 | Modified/obscured batch number | 製造ロット番号の修正・遮蔽痕跡 | 质检项描述，需根据品类、场景等具体判断。 |
 | 生产批号工艺不符 | Production batch number process does not match | 製造ロット番号と生産工程情報が不一致 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -2978,8 +2982,8 @@ Total unique terms: 4445
 | 生活服务 | Life Services | 生活サービス |  |
 | 生活电器 | Home Appliances | 生活家電 | 一级类目 |
 | 生耳不符合原厂工艺 | Spring bar does not meet original manufacturing standards | バネ棒がオリジナルの加工と不一致 | 质检项描述，需根据品类、场景等具体判断。 |
-| 生耳鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the watch lug are worn or missing; unable to confirm whether the manufacturing is original | 時計ラグ鑑定ポイント：摩耗・欠落によるオリジナル仕上がり確認不可 | 质检项描述，需根据品类、场景等具体判断。 |
-| 生耳非原装 | Non-original lugs | 非純正の生耳 | 质检项描述，需根据品类、场景等具体判断。 |
+| 生耳鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the watch lug are worn or missing; unable to confirm whether the manufacturing is original | バネ棒鑑定ポイントに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
+| 生耳非原装 | Non-original lugs | 非純正のバネ棒 | 质检项描述，需根据品类、场景等具体判断。 |
 | 生锈 | Rust | 錆び | 质检项描述，需根据品类、场景等具体判断。 |
 | 生长纹 | Natural markings | ナチュラルマーク | 质检项描述，需根据品类、场景等具体判断。 |
 | 用户协议 | Terms of Use | 利用規約 | 用户在使用平台服务时需遵守的规则和条款，明确双方权利与义务的协议文件。 |
@@ -3016,13 +3020,13 @@ Total unique terms: 4445
 | 皮带正面 | Belt front | ベルトの正面 | 质检项描述，需根据品类、场景等具体判断。 |
 | 皮带背面 | Belt back | ベルトの背面 | 质检项描述，需根据品类、场景等具体判断。 |
 | 皮牌 | Leather tag | 革タグ | 质检项描述，需根据品类、场景等具体判断。 |
-| 皮签牌鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the leather tag are worn or missing; unable to confirm whether the manufacturing is original | 革タグ鑑定ポイント：摩耗・欠落によるオリジナル仕上がり確認不可 | 质检项描述，需根据品类、场景等具体判断。 |
+| 皮签牌鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the leather tag are worn or missing; unable to confirm whether the manufacturing is original | 革タグ鑑定ポイントに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
 | 皮质与订单不符 | Leather does not match order details | 革の部分とオーダーが不一致 | 质检项描述，需根据品类、场景等具体判断。 |
-| 皮质划痕 | Leather scratches | 革に傷 | 质检项描述，需根据品类、场景等具体判断。 |
+| 皮质划痕 | Leather scratches | 革の擦過痕 | 质检项描述，需根据品类、场景等具体判断。 |
 | 皮质吊牌缺失 | Missing leather material info hang tag | 革タグ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 皮质材质 | Leather material | レザー素材 | 质检项描述，需根据品类、场景等具体判断。 |
 | 皮质毛孔粗糙 | Rough leathery pores | 本革毛穴加工不良 | 质检项描述，需根据品类、场景等具体判断。 |
-| 皮质瑕疵 | Leather defects | 皮革の不良箇所 | 质检项描述，需根据品类、场景等具体判断。 |
+| 皮质瑕疵 | Leather defects | 革の品質不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 皮质表带 | Leather watch strap | 革ベルト | 质检项描述，需根据品类、场景等具体判断。 |
 | 皮质部位 | Leather part | レザー部位 | 质检项描述，需根据品类、场景等具体判断。 |
 | 皮面凸起变形 | Leather surface bulge | 革表面の膨れ・凸起変形 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -3051,7 +3055,7 @@ Total unique terms: 4445
 | 目录申报 | Catalog declaration | 目録申告 | 韩国出口场景。 定义：使用韩国海关发布的“简化商品目录”代码（예: 간이품목분류）批量申报，不再逐行提供 HS 编码，只核对目录码、总数量与总价。 适用：低值、高频、SKU 标准化的个人物品或小包裹（B2C 直邮）。 特点：清单式批量放行，半小时级通关；关税/增值税通常按固定税率或行邮税一次性计征，目录外商品不得使用。 |
 | 目的地 | Destination | 配送先 | 竞对参考 |
 | 直发 | Direct shipping | 直送 | 海外直发、菜鸟保税直发，分免鉴&云鉴。商品不过仓，直接由商家交付至消费者手中。可参考： [‌‬﻿‍﻿‍⁠﻿‌⁠‍﻿‍‬‌‌‍‬‬‬⁠‬⁠﻿⁠﻿‌直发介绍 - 飞书云文档](https://poizon.feishu.cn/wiki/GONQwXmGzifgm9k2S4ucjZTWnVd) |
-| 直发-直发买家 | Direct Shipping (direct-to-buyer) | 直送‐直送出品者 | 跨境直发履约模式的一种，一单一件发，直接发给买家 |
+| 直发-直发买家 | Direct Shipping (direct-to-buyer) | 直送－直送出品者 | 跨境直发履约模式的一种，一单一件发，直接发给买家 |
 | 直发-见单采 | Direct Shipping (purchase-to-fulfill) | 直送（受注後仕入商品） | “见单采”指的是一种采购模式，在直发模式下。即产品出单后再去采购产品发货，俗称现采。这种模式的优点在于，只有在产品实际售出之后才进行采购，这样可以减少滞销风险，降低库存成本 |
 | 直退商家 | Direct to Seller | 出品者へ直接返送 | XBB后台，售后中心"售后流向“的枚举项，表示该笔退货的流向 |
 | 相册 | Albums | アルバム | 用于存储和管理一系列相关图片、照片或文件的集合，便于用户查看、整理和使用的功能模块或空间。 |
@@ -3065,9 +3069,9 @@ Total unique terms: 4445
 | 眼镜框 | Eyeglass frame | メガネフレーム | 质检项描述，需根据品类、场景等具体判断。 |
 | 眼镜片 | Lens | レンズ | 质检项描述，需根据品类、场景等具体判断。 |
 | 眼镜盒 | Eyeglasses case | メガネケース | 质检项描述，需根据品类、场景等具体判断。 |
-| 眼镜盒/包缺失 | Missing eyeglass case/bag | メガネケース・袋欠落 | 质检项描述，需根据品类、场景等具体判断。 |
-| 眼镜盒鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the glasses case are worn or missing; unable to confirm whether the manufacturing is original | メガネケースの鑑定ポイントに磨り減り・不備があり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
-| 眼镜缺失 | Missing eyeglasses | メガネの欠品 | 质检项描述，需根据品类、场景等具体判断。 |
+| 眼镜盒/包缺失 | Missing eyeglass case/bag | メガネケース/袋欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 眼镜盒鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the glasses case are worn or missing; unable to confirm whether the manufacturing is original | メガネケースの鑑定ポイントに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
+| 眼镜缺失 | Missing eyeglasses | メガネ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 眼镜腿 | Temple arms | テンプル | 质检项描述，需根据品类、场景等具体判断。 |
 | 眼霜 | Eye cream | アイクリーム | 眼部护理霜 |
 | 知名品牌 | Renowned Brands | 有名ブランド | 维度/类目枚举值 |
@@ -3079,15 +3083,15 @@ Total unique terms: 4445
 | 石英表电池没电或电量较低 | Quartz watch battery low or depleted | クォーツ時計電池切れ・残量不足 | 质检项描述，需根据品类、场景等具体判断。 |
 | 码头插电费 | Refrigerated container power fee | 冷凍コンテナの電源使用料 | 船公司收取，冷冻柜在码头产生的电费 |
 | 码头操作费（THC） | Terminal handling charge (THC) | ターミナルハンドリングチャージ（THC） | 集装箱码头操作费，港口基础费用之一 |
-| 破损/磨损 | Damage/wear and tear | 破損・磨り減り | 质检项描述，需根据品类、场景等具体判断。 |
+| 破损/磨损 | Damage/wear and tear | 破損/磨り減り | 质检项描述，需根据品类、场景等具体判断。 |
 | 破损（主体，配件，包装） | Damage (main item, accessories, packaging) | 破損（本体、付属品、包装） | 质检项描述，需根据品类、场景等具体判断。 |
 | 破损，起泡鼓包，起皮等 | Damage, blistering, bulging, peeling, etc. | 破損、膨れ、剥がれなど | 质检项描述，需根据品类、场景等具体判断。 |
 | 破皮 | Torn leather | 革の剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
-| 硅橡胶件，无老化发黄变硬、目视无荧光、无污渍油渍、无明显气味 | Silicone rubber parts: no signs of aging, yellowing, or hardening; no visible fluorescence, stains or oil marks; no noticeable odor | シリコーンゴム部品：経年による変色・硬化、目視で蛍光なし、汚れ・油分なし、臭いなし | 质检项描述，需根据品类、场景等具体判断。 |
+| 硅橡胶件，无老化发黄变硬、目视无荧光、无污渍油渍、无明显气味 | Silicone rubber parts: no signs of aging, yellowing, or hardening; no visible fluorescence, stains or oil marks; no noticeable odor | シリコーンゴム部品に経年による黄ばみ・硬化がなく、目視で蛍光反応がなくし、汚れ・油汚れ・明らかな異臭がない | 质检项描述，需根据品类、场景等具体判断。 |
 | 硬广 | Display ads | ディスプレイ広告 | 指一眼就能看出是广告的横幅、弹窗、贴片等 |
 | 确定 | OK | OK | 界面按钮名称 |
 | 确认 | Confirm | 確認 | 界面按钮名称 |
-| 确认收货 | Confirm Receipt | 受取しました |  |
+| 确认收货 | Confirm Receipt | 受取確認 |  |
 | 确认款非盲盒 | Confirmed version, not mystery box | 確認済みの製品、ブラインドボックスではない | 质检项描述，需根据品类、场景等具体判断。 |
 | 确认订单时效 | Order Confirmation Time | オーダー確定期限 | 商家确认订单的时间期限，即从订单创建到商家完成订单确认所经历的时长。 |
 | 碳板 | Carbon plate | カーボンプレート | 鞋底碳板 |
@@ -3095,13 +3099,13 @@ Total unique terms: 4445
 | 磕印 | Dent marks | 打痕 | 质检项描述，需根据品类、场景等具体判断。 |
 | 磕痕 | Dents | 打痕 | 质检项描述，需根据品类、场景等具体判断。 |
 | 磕碰 | Bumps | 傷 | 质检项描述，需根据品类、场景等具体判断。 |
-| 磕碰/凹坑 | Bumps/dents | 衝突/凹み | 质检项描述，需根据品类、场景等具体判断。 |
+| 磕碰/凹坑 | Bumps/dents | 衝突/くぼみ | 质检项描述，需根据品类、场景等具体判断。 |
 | 磕碰/坑陷 | Bumps/dents | 凹み | 质检项描述，需根据品类、场景等具体判断。 |
-| 磕碰/磨损 | Bumps/wear and tear | キズ・磨り減り | 质检项描述，需根据品类、场景等具体判断。 |
-| 磕碰、凹坑 | Bumps/dents | 打痕・凹み | 质检项描述，需根据品类、场景等具体判断。 |
-| 磕碰、磨损 | Dents/wear and tear | 凹み、摩耗 | 质检项描述，需根据品类、场景等具体判断。 |
+| 磕碰/磨损 | Bumps/wear and tear | キズ/磨り減り | 质检项描述，需根据品类、场景等具体判断。 |
+| 磕碰、凹坑 | Bumps/dents | 打痕、くぼみ | 质检项描述，需根据品类、场景等具体判断。 |
+| 磕碰、磨损 | Dents/wear and tear | 凹み、磨り減り | 质检项描述，需根据品类、场景等具体判断。 |
 | 磨损 | Wear and tear | 磨り減り | 质检项描述，需根据品类、场景等具体判断。 |
-| 磨损掉漆 | Abrasion/paint peeling | 磨り減りと塗装落ち | 质检项描述，需根据品类、场景等具体判断。 |
+| 磨损掉漆 | Abrasion/paint peeling | 磨り減り/塗装剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
 | 磨痕 | Wear marks | 研磨痕 | 质检项描述，需根据品类、场景等具体判断。 |
 | 磨白 | Fading | 色褪せ | 质检项描述，需根据品类、场景等具体判断。 |
 | 磨码 | Worn code | 元のコードが消去された | 质检项描述，需根据品类、场景等具体判断。 |
@@ -3110,7 +3114,7 @@ Total unique terms: 4445
 | 礼物卡 | Gift Card | ギフトカード | 竞对参考 |
 | 礼盒 | Gift box | ギフトボックス | 礼品包装盒 |
 | 礼盒/礼袋 | Gift box/bag | ギフトボックス・ギフトバッグ | 质检项描述，需根据品类、场景等具体判断。 |
-| 礼盒内填充物缺失 | Missing fillers in gift box | ギフトボックス内の詰め物不足 | 质检项描述，需根据品类、场景等具体判断。 |
+| 礼盒内填充物缺失 | Missing fillers in gift box | ギフトボックス内の詰め物欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 礼盒和原盒 | Gift box & original box | ギフトボックスとオリジナルボックス | 质检项描述，需根据品类、场景等具体判断。 |
 | 礼盒礼袋样式不符 | Mismatched gift box/bag style | ギフトボックス・ギフト袋のデザインが不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 礼盒礼袋颜色不符 | Mismatched gift box/bag color | ギフトボックス・ギフトバッグの色不一致 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -3215,13 +3219,13 @@ Total unique terms: 4445
 | 纳税义务人 | Taxpayer | 納税義務者 |  |
 | 纳税人 | Taxpayer | 納税者 | 指依照法律、行政法规规定负有纳税义务的单位和个人。 |
 | 纳税人识别号 | Taxpayer Identification Number | 米国納税者番号（TIN） | US Taxpayer Identification Number (TIN) |
-| 纸质吊牌缺失 | Missing paper hang tag | 紙タグ不足 | 质检项描述，需根据品类、场景等具体判断。 |
+| 纸质吊牌缺失 | Missing paper hang tag | 紙タグ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 纺织布料 | Textile Fabrics | 織物 | 质检项描述，需根据品类、场景等具体判断。 |
 | 纺织材质 | Textile material | 繊維素材 | 质检项描述，需根据品类、场景等具体判断。 |
 | 纽扣 | Button | ボタン | 服装纽扣 |
 | 纽扣-奢服 | Buttons - luxury apparel | ボタン（ラグジュアリーアパレル） | 质检项描述，需根据品类、场景等具体判断。 |
 | 纽扣衬衫 | Button Downs | ボタンダウンシャツ |  |
-| 纽扣鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the button are worn or missing; unable to confirm whether the manufacturing is original | ボタン鑑定ポイント：摩耗・欠落によるオリジナル仕上がり確認不可 | 质检项描述，需根据品类、场景等具体判断。 |
+| 纽扣鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the button are worn or missing; unable to confirm whether the manufacturing is original | ボタン鑑定ポイントに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
 | 线上充值 | Online top‑up | オンラインチャージ | B2B模块中的预付款管理，通过线上支付宝充值等方式直接充值的资金 |
 | 线上鉴别 | Online Authentication | オンライン鑑定 | 纯鉴APP场景中的线上鉴别 |
 | 线下拜访 | In-person | オフライン訪問 | 运营后台，拜访记录模块UI |
@@ -3229,7 +3233,7 @@ Total unique terms: 4445
 | 线头 | Threads residue | 糸くず | 质检项描述，需根据品类、场景等具体判断。 |
 | 组套 | Kitting | セット | 增值服务项名称。将多个不同的物品、组件或配件按照特定需求或顺序，组合成一个完整的套件或包裹。这个动作常用于生产、仓储或物流环节，以提高效率或满足客户的特殊需求。 |
 | 组套费 | Kitting fee | セット構成料 | 应商家要求对在库SKU进行预包装的服务。月对账时，数量以商家书面确认/申请为准，包括但不限于邮件。 |
-| 织物，无色差、勾丝断线、开线跳线、破洞、走线不良、起球、打结、接口不良 | Fabric: no color difference, snagged or broken threads, loose or skipped stitches, holes, poor stitching, pilling, knots, poor seam connection | 生地の不良（色差、糸切れ、ほつれ・断線、穴、縫製不良、毛玉、結び、縫い目不良） | 质检项描述，需根据品类、场景等具体判断。 |
+| 织物，无色差、勾丝断线、开线跳线、破洞、走线不良、起球、打结、接口不良 | Fabric: no color difference, snagged or broken threads, loose or skipped stitches, holes, poor stitching, pilling, knots, poor seam connection | 生地の不良（色差、糸引き・糸切れ、ほつれ・目飛び、穴、縫製不良、毛玉、結び目、縫い合わせ部分の不良） | 质检项描述，需根据品类、场景等具体判断。 |
 | 经典款 | Classics | 定番アイテム | 指具有传统设计风格、长期受欢迎且不易过时的商品款式。 |
 | 经典系列 | Iconic Archival | 定番シリーズ | 竞对参考 |
 | 经平台退商家 | Via Platform to Seller | POIZON経由で出品者へ返送 | XBB后台，售后中心"售后流向“的枚举项，表示该笔退货的流向 |
@@ -3257,15 +3261,15 @@ Total unique terms: 4445
 | 缩小 | Zoom out | 縮小 | 盘货界面的画布操作 |
 | 缺伞罩 | Missing umbrella cover | 傘カバー欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺伞骨帽 | Missing umbrella rib caps | 傘の先端キャップ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺失 | Missing items | 不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺失鞋标 | Shoe label missing | シューズラベル不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺失 | Missing items | 欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺失鞋标 | Shoe label missing | シューズラベル欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少 | Missing | 不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少OW调包扣 | Missing OW switch buckle | OW偽造防止バックル不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少主标 | Missing main label | メインラベル不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少OW调包扣 | Missing OW switch buckle | OW偽造防止バックルなし | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少主标 | Missing main label | メインタグ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少二维码页 | Missing QR code page | QRコードページ不備 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少五金 | Missing hardware | 金属パーツなし | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少产品合格证 | Missing conformity certificate | 品質証明書不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少产地/尺码标 | Missing origin/size label | 生産地・サイズシールの不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少产地/尺码标 | Missing origin/size label | 生産地/サイズラベル欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少价格标签 | Missing price tag | 価格ラベルの欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少侧标 | Missing side label | サイドラベルの欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少保卡 | Missing warranty card | 保証カード情報の欠落 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -3276,29 +3280,29 @@ Total unique terms: 4445
 | 缺少内标 | Missing inner label | 内側タグなし | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少内隔片/垫片 | Missing inner spacer/gasket | 内側スペーサー・ガスケット欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少出库单配件 | Missing outbound order accessories | 出庫リスト付属品不足 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少刻印 | Missing lettering | 刻印の不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少刻印 | Missing lettering | 刻印欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少包装盒 | Missing packaging box | 包装箱欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少包装袋贴纸 | Missing packaging bag sticker | パッケージバッグのステッカー欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少卡片 | Missing card | カードの欠落 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少卡牌 | Missing card | カード不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少卡牌 | Missing card | カード欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少卡西欧钟表保证书 | Missing Casio warranty certificate | カシオ専用保証書不足 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少印花/刺绣 | Missing print/embroidery | プリント柄・刺繍の不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少原包装 | Missing original packaging | 純正包装不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少印花/刺绣 | Missing print/embroidery | プリント柄・刺繍欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少原包装 | Missing original packaging | 純正包装欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少原包装袋 | Missing original packaging bag | 純正のパッケージバッグ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少原盒 | Missing original box | オリジナルボックス欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少参数标 | Missing parameter label | パラメータラベルがある | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少台球杆延长杆 | Missing pool cue extension | ビリヤードエクステンション不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少台球杆延长杆 | Missing pool cue extension | ビリヤードエクステンション欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少合格证 | Missing certificate | 品質証明書不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少合格证/说明书 | Missing conformity certificate/manual | 品質証明書・取扱説明書不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少吊牌 | Missing hangtag | タグ不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少合格证/说明书 | Missing conformity certificate/manual | 品質証明書/取扱説明書不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少吊牌 | Missing hangtag | タグ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少吊牌信息 | Missing hangtag information | タグ情報の欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少吊牌内页 | Missing hang tag inner page | タグ内のページの不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少吊牌贴纸 | Missing hangtag sticker | タグ・ステッカー不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少吊牌，印花工艺瑕疵 | Missing hang tag/printing defects | タグの不備、印刷加工の不良 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少商品标准配件 | Missing standard accessories | 商品の標準アクセサリーの不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少吊牌贴纸 | Missing hangtag sticker | タグシール欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少吊牌，印花工艺瑕疵 | Missing hang tag/printing defects | タグ欠落、印刷加工の不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少商品标准配件 | Missing standard accessories | 商品の標準アクセサリーの欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少商品标准配件（禁用） | Missing standard accessories (prohibited) | 商品標準付属品不足（無効） | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少国际联保卡 | Missing international warranty card | 国際保証書なし | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少塑封膜 | Missing plastic film | ラップフィルムの不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少塑封膜 | Missing plastic film | ラップフィルム欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少塑封袋 | Missing plastic wrap bag | ビニール袋の欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少塑料外壳 | Missing plastic casing | プラスチックケースなし | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少填充物 | Missing fillers | 緩衝材不足 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -3308,59 +3312,59 @@ Total unique terms: 4445
 | 缺少封层/封条/封口贴 | Missing sealer/seal/seal sticker | 保護フィルム・開封防止シール・封かんシール欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少封条 | Missing seal | 開封防止シール欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少封条/封层 | Missing seal/sealing layer | 開封防止シール保護フィルム欠落 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少小标 | Missing small label | ヒールタグ不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少底标 | Missing bottom label | 底ラベル不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少小标 | Missing small label | サブタグ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少底标 | Missing bottom label | 底ラベルなし | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少弹力球 | Missing bouncy ball | スーパーボールの欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少手提袋/手提袋相关配件 | Missing handle bag/related accessories | 手提げ袋・手提げ袋関連付属品欠落 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少打火机内胆 | Missing lighter liner | ライターインサートユニットの不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少打火机棉毡 | Missing lighter cotton felt | ライターコットン・フェルトの不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少打火机棉芯 | Missing lighter wick | ライターコットンコア不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少打火机内胆 | Missing lighter liner | ライター内側パーツの欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少打火机棉毡 | Missing lighter cotton felt | ライターコットン・フェルト欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少打火机棉芯 | Missing lighter wick | ライターコットンコア欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少挖勺 | Missing digging spoon | スプーンの欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少授权章 | Missing authorization seal | 認証スタンプ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少标签 | Missing label | ラベル不足 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少正品库标准 | Missing standards on authentic item | 正規品の基準がない | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少水洗标 | Missing care label | 洗濯タグ不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少特典卡 | Missing promo card | 特典カードの不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少特典卡 | Missing promo card | 特典カード欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少玩偶 | Missing doll | キャラクターなし | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少球星海报 | Missing player poster | 選手ポスターの欠落 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少笔记本 | Missing notebook | ノートが不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少笔记本 | Missing notebook | ノートなし | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少粉笔/铅笔 | Missing chalk/pencil | チョーク/鉛筆なし | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少背标 | Missing back label | バックラベル不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少芯片 | Missing chip | チップ不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少背标 | Missing back label | バックラベルなし | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少芯片 | Missing chip | チップ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少花盒/塑封袋/刷子/勺子类 | Missing floral design box/plastic encapsulation bag/brush/spoon, etc. | フラワーボックス・ビニール袋・ブラシ・さじ類欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少表带圈 | Missing strap loop | 時計ベルト欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少袖标 | Missing sleeve label | 袖タグ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少说明书 | Missing user manual | 説明書不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少调节环 | Missing regulating ring | 調整リング不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少说明书 | Missing user manual | 取扱説明書不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少调节环 | Missing regulating ring | 調整リング欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少质保卡 | Missing warranty card | 保証書不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少贴标 | Missing label | ラベルの不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少贴标 | Missing label | ラベル欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少赠品 | Missing gift | 景品不足 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少赠品配件 | Missing gift accessories | 景品の付属品なし | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少配件 | Missing accessories | 付属品不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少配件 | Missing accessories | 付属品欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少酒具配件 | Missing wine accessories | 酒関連付属品の不足 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少酒杯 | Missing wine glass | グラスなし | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少酒杯配件 | Missing wine glass accessories | グラス付属品欠落 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少重要配件 | Missing important accessories | 重要なアクセサリーの不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少重要配件 | Missing important accessories | 重要なアクセサリー欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少重要附件 | Missing important accessories | 重要付属品欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少鉴别点 | Lacking authentication points | 鑑定箇所欠落 | 云鉴直发的商家上传的图片问题项 |
 | 缺少钥匙 | Missing key | 鍵不足 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少链条 | Missing chain | チェーンの不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少锁和钥匙 | Missing lock and key | 錠と鍵不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少镭射标 | Missing laser mark | レーザーステッカー不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少防伪标 | Missing authentication tag | 偽造防止タグ不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少防伪码 | Missing authentication code | 偽造防止コード不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少防伪码/SV码 | Missing authentication code/SV code | 偽造防止コード・SVコード不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少防伪码/物流码 | Missing authentication code/tracking number | 偽造防止コード・物流コード欠落 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少防伪芯片 | Missing anti-counterfeiting chip | 偽造防止チップ不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少链条 | Missing chain | チェーン欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少锁和钥匙 | Missing lock and key | 錠と鍵なし | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少镭射标 | Missing laser mark | レーザーステッカー欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少防伪标 | Missing authentication tag | 偽造防止タグ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少防伪码 | Missing authentication code | 偽造防止コード欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少防伪码/SV码 | Missing authentication code/SV code | 偽造防止コード/SVコードなし | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少防伪码/物流码 | Missing authentication code/tracking number | 偽造防止コード/物流コード欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少防伪芯片 | Missing anti-counterfeiting chip | 偽造防止チップ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少防尘罩 | Missing dust cover | ダストカバー欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少防尘袋 | Missing dust bag | ダストバッグ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少附件 | Missing accessories | 付属品不足 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少鞋带 | Missing shoelaces | 靴ひもなし | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少鞋撑 | Missing shoe trees | シューキーパーの欠落 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少鞋标 | Missing size label | シューズラベル不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少鞋盒 | Missing shoe box | シューズボックス不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少鞋盒贴纸 | Missing shoe box sticker | シューズボックスのステッカー不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 缺少领标 | Missing collar label | 襟タグ不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少鞋标 | Missing size label | シューズラベル欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少鞋盒 | Missing shoe box | シューズボックス欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少鞋盒贴纸 | Missing shoe box sticker | シューズボックスのステッカーなし | 质检项描述，需根据品类、场景等具体判断。 |
+| 缺少领标 | Missing collar label | 襟タグ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少魔术贴 | Missing velcro | マジックテープの欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺少黑标 | Missing black label | ブラックラベルの欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 缺按钮开关 | Missing button/switch | ボタンスイッチ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -3399,7 +3403,7 @@ Total unique terms: 4445
 | 耐磨性 | Abrasion resistance | 耐摩耗性 | 仅限用于商品用户评论Reviews发布时会展示可供勾选的标签，按商品类目会有不同对应展示。请参考：[‌‍‍‬‌‌‍‍‍﻿⁠‬⁠﻿‍‍‍⁠‌‍‌‬⁠‍PRD-311667_Reviews发布链路优化_标签配置_翻译需求 - 飞书云文档](https://poizon.feishu.cn/wiki/KxQRw5NJQirT1BkHSXhcaqCZnWg?sheet=FGovl4) |
 | 耗材 | Consumables | 消耗品 | 泛指仓库内各种包装耗材等 |
 | 耳堵-奢配 | Earplugs - luxury accessories | イヤープラグ（ラグジュアリーアクセサリー） | 质检项描述，需根据品类、场景等具体判断。 |
-| 耳堵鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the earplug are worn or missing; unable to confirm whether the manufacturing is original | イヤープラグ鑑定ポイント：摩耗・欠落によるオリジナル仕上がり確認不可 | 质检项描述，需根据品类、场景等具体判断。 |
+| 耳堵鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the earplug are worn or missing; unable to confirm whether the manufacturing is original | イヤープラグ鑑定ポイントに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
 | 耳塞不配套 | Mismatched earplugs | 耳栓が不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 耳机 | Headphones | イヤホン | 均为数码家电一级类目下二级类目 |
 | 耳机壳 | Headphone Cases | イヤホンケース | 均为数码家电一级类目下二级类目 |
@@ -3473,19 +3477,19 @@ Total unique terms: 4445
 | 航次号 | Voyage number | 航海番号 | 用于标识船舶运输特定航次的编号，方便对该航次的运输信息、货物状态等进行追踪和管理。 |
 | 航班号 | Flight number | 便名 | 用于标识特定航班的编号，通常由航空公司代码和数字组成，方便乘客和工作人员识别与查询航班信息。 |
 | 船司换单费 | B/L exchange service (to D/O) by carrier | 船会社B/L交換サービス料（B/L → D/O） | 目的港船公司换单操作服务费用 |
-| 良品取回-操作服务费 | Returns processing fee (regular products) | 作業手数料‐通常品の回収 | 即取回操作服务费，平台将对商品取回收取取回操作费用。 良品收费：针对全新可售商品取回收取仓库操作服务费； 次品收费：针对严重卖家责商品取回收取仓库操作服务费。 详见《良品退货取回操作服务费规则解释》。 |
+| 良品取回-操作服务费 | Returns processing fee (regular products) | 作業手数料－通常品の回収 | 即取回操作服务费，平台将对商品取回收取取回操作费用。 良品收费：针对全新可售商品取回收取仓库操作服务费； 次品收费：针对严重卖家责商品取回收取仓库操作服务费。 详见《良品退货取回操作服务费规则解释》。 |
 | 良好 | Good | 良 | 消费者口径的库存等级描述，可参考[供应链库存在B端和C端映射关系 - 飞书云文档](https://poizon.feishu.cn/docx/Fp3idE0OIoA5E1xLNC2cOvoTn6e?open_in_browser=true) |
 | 色号 | Shade | カラーコード | 鉴别拍摄点位 |
 | 色差 | Color discrepancy | 色差 | 质检项描述，需根据品类、场景等具体判断。 |
-| 色差/褪色 | Color discrepancy/fading | 色差・色褪せ | 质检项描述，需根据品类、场景等具体判断。 |
+| 色差/褪色 | Color discrepancy/fading | 色差/色褪せ | 质检项描述，需根据品类、场景等具体判断。 |
 | 色差、流纹，银丝，拉伤、无明显 | Color difference, flow marks, silver streaks, surface scratches, no visible defects | 色差、流れ跡、銀糸状痕、傷、目立たない | 质检项描述，需根据品类、场景等具体判断。 |
-| 色差，脱色 | Color discrepancy, fading | 色違い、色落ち | 质检项描述，需根据品类、场景等具体判断。 |
-| 色斑/色点 | Color stains/spots | 色斑/色点 | 质检项描述，需根据品类、场景等具体判断。 |
-| 色斑/色点/凹凸点/杂点 | Color spots/dots/bumps/specks | 色斑点・色点・表面凹凸・異点 | 质检项描述，需根据品类、场景等具体判断。 |
+| 色差，脱色 | Color discrepancy, fading | 色差、色落ち | 质检项描述，需根据品类、场景等具体判断。 |
+| 色斑/色点 | Color stains/spots | 色ムラ/色点 | 质检项描述，需根据品类、场景等具体判断。 |
+| 色斑/色点/凹凸点/杂点 | Color spots/dots/bumps/specks | 色ムラ、色点、表面凹凸、異点 | 质检项描述，需根据品类、场景等具体判断。 |
 | 艺人 | Artist | 職人 | 维度/类目枚举值 |
 | 艺术品 | Art | アート・美術品 | 维度/类目枚举值 |
 | 芯片 | Chip | チップ | 鉴别拍摄点位 |
-| 芯片缺失 | Missing chip | チップ不足 | 质检项描述，需根据品类、场景等具体判断。 |
+| 芯片缺失 | Missing chip | チップ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 芯片问题 | Chip issues | チップ不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 花卉绿植 | Flowers & Plants | 花・観葉植物 |  |
 | 英文 | English | 英字 | 语种 |
@@ -3502,7 +3506,7 @@ Total unique terms: 4445
 | 虚拟类目 | Digital Content | デジタルカテゴリー |  |
 | 融化变形 | Melt, deformation | 溶融変形 | 质检项描述，需根据品类、场景等具体判断。 |
 | 融化，变形，凹陷，磕伤 | Melting, deformation, dents, dings | 溶融、変形、凹み、打痕 | 质检项描述，需根据品类、场景等具体判断。 |
-| 螺丝划痕 | Screw scratches | ネジに傷 | 质检项描述，需根据品类、场景等具体判断。 |
+| 螺丝划痕 | Screw scratches | ネジの擦過痕 | 质检项描述，需根据品类、场景等具体判断。 |
 | 螺丝口-奢配 | Screw hole - luxury accessories | ネジ穴（ラグジュアリーアクセサリー） | 质检项描述，需根据品类、场景等具体判断。 |
 | 螺丝拧动痕迹 | Traces of screw turning | ネジ回転痕あり | 质检项描述，需根据品类、场景等具体判断。 |
 | 螺丝松动 | Loose screws | ネジの緩み | 质检项描述，需根据品类、场景等具体判断。 |
@@ -3510,12 +3514,12 @@ Total unique terms: 4445
 | 螺丝瑕疵 | Screw defects | ネジの不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 螺丝磕痕 | Screw dings | ネジの打痕 | 质检项描述，需根据品类、场景等具体判断。 |
 | 螺丝磨痕 | Screw wear marks | ネジの研磨痕 | 质检项描述，需根据品类、场景等具体判断。 |
-| 螺丝缺失 | Missing screw | ネジなし | 质检项描述，需根据品类、场景等具体判断。 |
+| 螺丝缺失 | Missing screw | ネジ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 螺旋口瑕疵 | Defective screw-type opening | ねじ口の不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 螺牙 | Thread | ネジ山 | 鉴别拍摄点位 |
 | 螺纹 | Thread | ネジ山 | 鉴别拍摄点位 |
-| 行业-标品 | Hardline Category | カテゴリー‐規格品 | 维度/类目枚举值 |
-| 行业-非标 | Fashion Category | カテゴリー‐非規格品 | 维度/类目枚举值 |
+| 行业-标品 | Hardline Category | カテゴリー－規格品 | 维度/类目枚举值 |
+| 行业-非标 | Fashion Category | カテゴリー－非規格品 | 维度/类目枚举值 |
 | 行业资讯 | Insights | 業界ニュース | POIZON招商网站框架栏目标题模块 |
 | 行政区域 | Administrative division | 行政区画 |  |
 | 街头潮牌 | Streetwear Brands | ストリート人気ブランド | 维度/类目枚举值 |
@@ -3533,7 +3537,7 @@ Total unique terms: 4445
 | 补单 | Replacement Order | 追加オーダー | 用法较为灵活，需结合上下文注意实际表达方式。买家安心购服务：平台免费提供的订单保障服务，若订单因卖家原因被取消，平台将竭尽全力为你匹配同商品新的订单，若平台无法为您匹配到新的订单，将为您退款 |
 | 补单不同意 | Replacement order declined | 追加オーダー失敗 | 在订单原商家无法履约时，平台会发起补单并询问买家，买家不接受补单 |
 | 补单超时 | Replacement order timeout | 追加オーダー期限超過 | 在订单原商家无法履约时，平台会发起补单，但补单超时未匹配到合适卖家 |
-| 补发货单 | Supplemental shipping order | 商品発送補足リスト | 多货场景，仓库收货后发现多货；但是货已经到仓库了，需要商家补发货单 |
+| 补发货单 | Supplemental shipping order | 追加発送リスト | 多货场景，仓库收货后发现多货；但是货已经到仓库了，需要商家补发货单 |
 | 补缴海关税费 | Short shipment tax/duty supplement | 税関追徴税 | 海关收取，货物入保税仓后发现到货商品数量少于商家发货单商品数量，根据海关政策规定办理少货补税产生的税金 |
 | 补色 | Color touch-up | 色補正 | 质检项名称，如质检时发现卖家发来的鞋子有“补色”情况 |
 | 补货 | Restock | 在庫補充 | 指商家为了维持正常的库存水平，对已售罄或库存不足的商品进行补充的操作，以确保商品能够持续供应给消费者。 |
@@ -3545,28 +3549,28 @@ Total unique terms: 4445
 | 表冠&按键 | Crown & button | リューズ＆プッシャー | 质检项描述，需根据品类、场景等具体判断。 |
 | 表冠不符合原厂工艺 | Crown does not meet original manufacturing standards | クラウンがオリジナルの加工と不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 表冠松动 | Loose crown | リューズの緩み | 质检项描述，需根据品类、场景等具体判断。 |
-| 表冠鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the crown are worn or missing; unable to confirm whether the manufacturing is original | クラウンの鑑定ポイントに磨り減り・不備があり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
-| 表圈鉴别点磨损缺失、无法确认工艺是否为原装 | Bezel authentication points are worn or missing; unable to confirm whether the manufacturing is original | ベゼルの鑑定ポイントに磨り減り・不備があり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
+| 表冠鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the crown are worn or missing; unable to confirm whether the manufacturing is original | クラウンの鑑定ポイントに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
+| 表圈鉴别点磨损缺失、无法确认工艺是否为原装 | Bezel authentication points are worn or missing; unable to confirm whether the manufacturing is original | ベゼルの鑑定ポイントに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
 | 表壳 | Watch case | ケース | 鉴别拍摄点位 |
 | 表壳-奢 | Watch case - luxury | 時計ケース（ラグジュアリー） | 质检项描述，需根据品类、场景等具体判断。 |
 | 表壳一圈 | Watch case perimeter | ケース外周 | 质检项描述，需根据品类、场景等具体判断。 |
-| 表壳有污渍、划痕、磕碰等 | Stains, scratches, and dents on watch case | 時計ケースに汚れ・傷・打痕など | 质检项描述，需根据品类、场景等具体判断。 |
+| 表壳有污渍、划痕、磕碰等 | Stains, scratches, and dents on watch case | 時計ケースの汚れ、擦過痕、打痕など | 质检项描述，需根据品类、场景等具体判断。 |
 | 表壳表冠 | Watch case/crown | 時計箱・リューズ | 质检项描述，需根据品类、场景等具体判断。 |
 | 表壳非原装 | Non-original watch case | 非純正の時計ケース | 质检项描述，需根据品类、场景等具体判断。 |
 | 表带 | Watch strap | 時計ベルト | 质检项描述，需根据品类、场景等具体判断。 |
 | 表带-奢 | Watch strap - luxury | 時計ベルト（ラグジュアリー） | 质检项描述，需根据品类、场景等具体判断。 |
 | 表带外侧 | Watch strap outer side | 時計ベルト外側 | 质检项描述，需根据品类、场景等具体判断。 |
-| 表带有污渍、划痕、磕碰等 | Stains, scratches, and dents on watch strap | 腕時計ベルトに汚れ、傷、凹みなどあり | 质检项描述，需根据品类、场景等具体判断。 |
+| 表带有污渍、划痕、磕碰等 | Stains, scratches, and dents on watch strap | 腕時計ベルトに汚れ、擦過痕、凹みなどあり | 质检项描述，需根据品类、场景等具体判断。 |
 | 表带材质不符（硅胶&针织） | Strap material mismatch (silicone & knit) | 腕時計ベルト素材が不一致（シリコン＆ニット） | 质检项描述，需根据品类、场景等具体判断。 |
-| 表带鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points on the strap are worn or missing; unable to confirm whether the manufacturing is original | 腕時計ベルトに磨り減りがあり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
-| 表底壳 | Watch case back | ケース底部 | 质检项描述，需根据品类、场景等具体判断。 |
-| 表底壳-奢 | Watch case back - luxury | 時計裏蓋（ラグジュアリー） | 质检项描述，需根据品类、场景等具体判断。 |
+| 表带鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points on the strap are worn or missing; unable to confirm whether the manufacturing is original | 腕時計ベルトに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
+| 表底壳 | Watch case back | 裏蓋 | 质检项描述，需根据品类、场景等具体判断。 |
+| 表底壳-奢 | Watch case back - luxury | 裏蓋（ラグジュアリー） | 质检项描述，需根据品类、场景等具体判断。 |
 | 表扣 | Clasp | 時計バックル | 质检项描述，需根据品类、场景等具体判断。 |
 | 表扣-奢 | Clasp - luxury | 時計バックル（ラグジュアリー） | 质检项描述，需根据品类、场景等具体判断。 |
-| 表扣刻字不符合原厂工艺 | Buckle engraving does not conform to the original manufacturing | 腕時計バックルの刻印（文字）がオリジナルの加工と不一致 | 质检项描述，需根据品类、场景等具体判断。 |
-| 表扣有污渍、划痕、磕碰等 | Stains, scratches, and dents on watch clasp | バックルに汚れ・傷・打痕など | 质检项描述，需根据品类、场景等具体判断。 |
-| 表扣鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the clasp are worn or missing; unable to confirm whether the manufacturing is original | バックルの鑑定ポイントに磨り減り・不備があり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
-| 表扣非原装 | Non-original clasp | 非純正の腕時計バックル | 质检项描述，需根据品类、场景等具体判断。 |
+| 表扣刻字不符合原厂工艺 | Buckle engraving does not conform to the original manufacturing | 時計バックルの刻印（文字）がオリジナルの加工と不一致 | 质检项描述，需根据品类、场景等具体判断。 |
+| 表扣有污渍、划痕、磕碰等 | Stains, scratches, and dents on watch clasp | 時計バックルの汚れ、擦過痕、打痕など | 质检项描述，需根据品类、场景等具体判断。 |
+| 表扣鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the clasp are worn or missing; unable to confirm whether the manufacturing is original | 時計バックルの鑑定ポイントに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
+| 表扣非原装 | Non-original clasp | 非純正の時計バックル | 质检项描述，需根据品类、场景等具体判断。 |
 | 表枕-奢 | Watch pillow - luxury | 時計用クッション（ラグジュアリー） | 质检项描述，需根据品类、场景等具体判断。 |
 | 表枕缺失 | Missing watch pillow | 時計クッション欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 表现 | Performance | パフォーマンス | 维度/类目枚举值 |
@@ -3574,21 +3578,21 @@ Total unique terms: 4445
 | 表盒-奢 | Watch box - luxury | 時計箱（ラグジュアリー） | 质检项描述，需根据品类、场景等具体判断。 |
 | 表盒/表托 | Watch box/holder | 腕時計ケース・トレー | 质检项描述，需根据品类、场景等具体判断。 |
 | 表盒/说明书不配套 | Mismatched watch box/user manual | 腕時計ケース・取扱説明書が一致しない | 质检项描述，需根据品类、场景等具体判断。 |
-| 表盒logo磨损 | Worn watch box logo | 腕時計ケースロゴの磨耗 | 质检项描述，需根据品类、场景等具体判断。 |
+| 表盒logo磨损 | Worn watch box logo | 腕時計ケースロゴの磨り減り | 质检项描述，需根据品类、场景等具体判断。 |
 | 表盒缺失 | Missing watch box | 時計ケース欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 表盒表托 | Watch box/holder | 時計箱・時計ホルダー | 质检项描述，需根据品类、场景等具体判断。 |
 | 表盘 | Watch dial | 文字盤 | 质检项描述，需根据品类、场景等具体判断。 |
-| 表盘/指针 | Watch dial/hands | 腕時計の文字盤・時針 | 质检项描述，需根据品类、场景等具体判断。 |
-| 表盘鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the dial plate are worn or missing; unable to confirm whether the manufacturing is original | 文字盤の鑑定ポイントに磨り減り・不備があり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
-| 表盘非原装 | Non-original dial | 非純正の腕時計の文字盤 | 质检项描述，需根据品类、场景等具体判断。 |
+| 表盘/指针 | Watch dial/hands | 文字盤/時針 | 质检项描述，需根据品类、场景等具体判断。 |
+| 表盘鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the dial plate are worn or missing; unable to confirm whether the manufacturing is original | 文字盤の鑑定ポイントに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
+| 表盘非原装 | Non-original dial | 非純正の文字盤 | 质检项描述，需根据品类、场景等具体判断。 |
 | 表耳 | Lug | ラグ | 质检项描述，需根据品类、场景等具体判断。 |
 | 表耳-奢 | Lug - luxury | 時計ラグ（ラグジュアリー） | 质检项描述，需根据品类、场景等具体判断。 |
-| 表销鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the watch pin are worn or missing; unable to confirm whether the manufacturing is original | バネ棒の鑑定ポイントに磨り減り・不備ががあり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
-| 表镜 | Watch Crystal | 腕時計のガラス | 质检项描述，需根据品类、场景等具体判断。 |
-| 表镜内 | Crystal interior | 腕時計ガラスの内部 | 质检项描述，需根据品类、场景等具体判断。 |
-| 表镜内-奢 | Crystal interior - luxury | 時計ガラス内側（ラグジュアリー） | 质检项描述，需根据品类、场景等具体判断。 |
-| 表镜内有污渍、划痕、磕碰等 | Stains, scratches, and dents inside watch crystal | 時計ガラス内側に汚れ・傷・打痕など | 质检项描述，需根据品类、场景等具体判断。 |
-| 表镜鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points on the crystal are worn or missing; unable to confirm whether the manufacturing is original | ガラス（風防）の鑑定ポイントに摩損・不備があり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
+| 表销鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the watch pin are worn or missing; unable to confirm whether the manufacturing is original | バネ棒の鑑定ポイントに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
+| 表镜 | Watch Crystal | 風防ガラス | 质检项描述，需根据品类、场景等具体判断。 |
+| 表镜内 | Crystal interior | 風防ガラス内側 | 质检项描述，需根据品类、场景等具体判断。 |
+| 表镜内-奢 | Crystal interior - luxury | 風防ガラス内側（ラグジュアリー） | 质检项描述，需根据品类、场景等具体判断。 |
+| 表镜内有污渍、划痕、磕碰等 | Stains, scratches, and dents inside watch crystal | 風防ガラス内側の汚れ、擦過痕、打痕など | 质检项描述，需根据品类、场景等具体判断。 |
+| 表镜鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points on the crystal are worn or missing; unable to confirm whether the manufacturing is original | 風防ガラスの鑑定ポイントに磨り減り・欠損があり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
 | 表面掉漆 | Surface paint peeling | 表面の塗装剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
 | 袖 | Sleeve | 袖 | 质检项描述，需根据品类、场景等具体判断。 |
 | 袖口 | Cuff | 袖口 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -3662,16 +3666,16 @@ Total unique terms: 4445
 | 该商品免开箱 | No-open inspection | 開封不要 |  |
 | 详情 | Details | 詳細 | 指对事物的具体情况、详细信息进行的描述或说明，常用于展示事物的各个方面、属性、特征等具体内容。 |
 | 详细信息 | Details | 詳細情報 |  |
-| 说明书/保卡/合格证 | User manual/warranty card/certifcate of conformity | 取扱説明書・保証カード・品質証明書 | 质检项描述，需根据品类、场景等具体判断。 |
+| 说明书/保卡/合格证 | User manual/warranty card/certifcate of conformity | 取扱説明書/保証カード/品質証明書 | 质检项描述，需根据品类、场景等具体判断。 |
 | 说明书缺失 | Missing instruction manual | 取扱説明書欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 课堂 | Academy | 講座 | PC后台标题栏 |
 | 调价建议 | Pricing Suggestion | 価格変更推奨 | 一个用户管理页面，支持向商家推送展示符合标准的出价sku的价格调整建议，以促进商品交易 |
 | 调包扣 | Tamper-evident tag | 偽造防止タグ（すり替え） |  |
 | 调性风格 | Fashion Tone & Style | トーン＆スタイル | 维度/类目枚举值 |
 | 调节扣 | Adjustable buckle | アジャスタブルバックル | 质检项描述，需根据品类、场景等具体判断。 |
-| 调节扣鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points on the adjustable buckle are worn or missing; unable to confirm whether the manufacturing is original | アジャスタブルバックルに磨り減りがあり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
-| 调节环鉴别点磨损缺失 | Authentication points on the adjustment ring are worn or missing | 調整リングの鑑定ポイントに磨り減り・不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 调节环鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points on the adjustable band are worn or missing; unable to confirm whether the manufacturing is original | 調整リングに磨り減りがあり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
+| 调节扣鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points on the adjustable buckle are worn or missing; unable to confirm whether the manufacturing is original | アジャスタブルバックルに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
+| 调节环鉴别点磨损缺失 | Authentication points on the adjustment ring are worn or missing | 調整リングの鑑定ポイントに磨り減り・欠損あり | 质检项描述，需根据品类、场景等具体判断。 |
+| 调节环鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points on the adjustable band are worn or missing; unable to confirm whether the manufacturing is original | 調整リングに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
 | 贝母瑕疵 | Mother of pearl defects | マザーオブパール不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 贝母石-奢配 | Mother of pearl - luxury accessories | 螺鈿石（ラグジュアリーアクセサリー） | 质检项描述，需根据品类、场景等具体判断。 |
 | 账单 | Statement | 明細書 | 记录商家资金收支明细的单据 |
@@ -3697,7 +3701,7 @@ Total unique terms: 4445
 | 货号核对 | Style ID verification | 商品番号確認 | 核对产品货号 |
 | 货品机会盘点 | Inventory Evaluation | 市場分析 | 菜单名称。即盘货，对商家所经营货品的市场机会、销售潜力、库存状况等方面进行系统性的梳理与评估，旨在帮助商家发现潜在的销售机会、优化库存管理并制定更有效的经营策略。 |
 | 货币 | Currency | 通貨 |  |
-| 货损赔付款 | Damage compensation |  | 仓库货损赔付卖家的费用 |
+| 货损赔付款 | Damage compensation | 商品損傷補償 | 仓库货损赔付卖家的费用 |
 | 货物已到保税仓 | Arrived at Bonded Warehouse | 保税倉庫到着済み | 货物已成功运抵保税仓的状态 |
 | 货物离港 | Departed Origin | 出港完了 | XBB 二销的订单状态，表示货物已从中国香港离港。 |
 | 质地 | Texture | 質感 | 鉴别拍摄点位 |
@@ -3719,10 +3723,10 @@ Total unique terms: 4445
 | 贴标费 | Labeling fee | ラベル貼付料 | 根据商家需求提供的贴标服务（箱唛、托唛 、危化品） |
 | 贴码费 | Labeling fee | ラベル貼付料 | 根据商家需求提供的商品贴标服务 |
 | 贴纸 | Sticker | シール | 质检项描述，需根据品类、场景等具体判断。 |
-| 贴纸/异物 | Sticker/foreign object | ステッカー・異物 | 质检项描述，需根据品类、场景等具体判断。 |
+| 贴纸/异物 | Sticker/foreign object | ステッカー/異物 | 质检项描述，需根据品类、场景等具体判断。 |
 | 贴纸/防盗芯片 | Sticker/anti-theft chip | シール・防犯チップ | 质检项描述，需根据品类、场景等具体判断。 |
 | 贴纸、防盗芯片 | Sticker/anti-theft chip | 防犯タグ | 质检项描述，需根据品类、场景等具体判断。 |
-| 贴纸影响查验 | Sticker obstructs QC | シールが検査に影響 | 质检项描述，需根据品类、场景等具体判断。 |
+| 贴纸影响查验 | Sticker obstructs QC | シールが品質検査に影響 | 质检项描述，需根据品类、场景等具体判断。 |
 | 贴纸瑕疵 | Sticker defects | ステッカーの不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 贴纸破损 | Damaged sticker | シールの破損 | 质检项描述，需根据品类、场景等具体判断。 |
 | 贴纸遮挡 | Obscured sticker | シール遮蔽 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -3747,13 +3751,13 @@ Total unique terms: 4445
 | 赚钱情报 | Profit insights | 収益アップインフォメーション | 一个用户管理页面，罗列有利润机会的商品 |
 | 赠品、小样不符且多余情况不可取出 | Mismatched or excessive gifts/samples cannot be removed | 景品・サンプルが不一致、または過剰景品・サンプルが取り外し不可 | 质检项描述，需根据品类、场景等具体判断。 |
 | 赠品小样不符且无法取出 | Mismatched and unremovable gifts/samples | 付属品・サンプルが不一致（取り外し不可） | 质检项描述，需根据品类、场景等具体判断。 |
-| 走线 | Stitching | 縫い目痕 | 质检项描述，需根据品类、场景等具体判断。 |
-| 走线不良 | Poor stitching | 縫製の不良 | 质检项描述，需根据品类、场景等具体判断。 |
-| 走线做工瑕疵 | Flawed stitching | 縫い目の仕上げに不良箇所あり | 质检项描述，需根据品类、场景等具体判断。 |
-| 走线瑕疵 | Stitching defects | 縫い付け作業上の不良 | 质检项描述，需根据品类、场景等具体判断。 |
-| 起毛起球 | Pilling and fluffing | ピリング・毛玉 | 质检项描述，需根据品类、场景等具体判断。 |
+| 走线 | Stitching | 縫い目 | 质检项描述，需根据品类、场景等具体判断。 |
+| 走线不良 | Poor stitching | 縫製不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 走线做工瑕疵 | Flawed stitching | 縫い目の仕上がり不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 走线瑕疵 | Stitching defects | 縫い目の不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 起毛起球 | Pilling and fluffing | 毛羽立ち・毛玉 | 质检项描述，需根据品类、场景等具体判断。 |
 | 起泡 | Blistering | 発泡 | 质检项描述，需根据品类、场景等具体判断。 |
-| 起球 | Pilling | ピリング | 质检项描述，需根据品类、场景等具体判断。 |
+| 起球 | Pilling | 毛玉 | 质检项描述，需根据品类、场景等具体判断。 |
 | 起订数量 | MOQ | 最低発注数量（MOQ） | B2B，货单详情，货单起订数量，Minimum Order Quantity |
 | 起订最低SPU数量 | Min. SPU count | SPU別最低発注数量 ロット | B2B，货单详情，货单起订最低需包含的SPU数量 |
 | 起订金额 | MOA | 最低発注金額（MOA） | B2B，货单详情，货单起订金额，Minimum Order Amount |
@@ -3785,7 +3789,7 @@ Total unique terms: 4445
 | 跨境税费 | Cross-Border Tax | 越境EC小売輸入税 |  |
 | 跨境额度 | Cross-border purchase limit | 越境EC小売輸入商品年間取引上限額 | 个人在跨境电商平台上每年的购物总额度限制。 |
 | 路坚快递 | Logen Express | LOGEN | 物流承运商名称，以官网名称为准 |
-| 跳线 | Skipped stitches | ほつれ | 质检项描述，需根据品类、场景等具体判断。 |
+| 跳线 | Skipped stitches | 目飛び | 质检项描述，需根据品类、场景等具体判断。 |
 | 身份证 | Resident ID | 身分証明書 |  |
 | 身份证件发件地 | ID issuing country/region | 身分証明書の発行国・地域 | 证件的签发国家/地区。证件种类各有不同。 |
 | 身份证号 | Resident ID number | 身分証明書番号 |  |
@@ -3814,7 +3818,7 @@ Total unique terms: 4445
 | 轻奢/重奢/小众设计师 | Afforable Luxury/High-End Luxury/Niche Designers | アフォーダブルラグジュアリー/ラグジュアリー/ニッチデザイナーズ | 维度/类目枚举值 |
 | 轻奢线 | Affordable Luxury | アフォーダブルラグジュアリー | 维度/类目枚举值 |
 | 轻度瑕疵 | Slightly defective | 軽度不良 | 瑕疵等级分类 |
-| 轻微划痕 | Minor scratch | 傷（軽微） | 质检项描述，需根据品类、场景等具体判断。 |
+| 轻微划痕 | Minor scratch | 擦過痕（軽微） | 质检项描述，需根据品类、场景等具体判断。 |
 | 轻微抛光痕迹 | Traces of polishing (minor) | 軽微な研磨痕 | 质检项描述，需根据品类、场景等具体判断。 |
 | 轻微瑕疵 | Slightly defective | 軽度不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 轻松赚钱 | Earn with ease | 簡単に収益アップ | POIZON APP未入驻开屏页内容标语 |
@@ -3949,12 +3953,12 @@ Total unique terms: 4445
 | 配件材质不符 | Accessories material does not match | 部品の材質が不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 配件瑕疵 | Accessory defects | アクセサリーの不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 配件破损 | Damaged accessories | 付属品の破損 | 质检项描述，需根据品类、场景等具体判断。 |
-| 配件破损或缺失 | Damaged/missing accessories | アクセサリーが破損または不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 配件缺失 | Missing accessories | アクセサリーの不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 配件破损或缺失 | Damaged/missing accessories | アクセサリーが破損または欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 配件缺失 | Missing accessories | アクセサリー欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 配件缺失、损坏 | Missing or damaged accessories | 付属品欠落、破損 | 质检项描述，需根据品类、场景等具体判断。 |
 | 配件缺失（禁用） | Missing accessories (prohibited) | 付属品欠落（無効） | 质检项描述，需根据品类、场景等具体判断。 |
 | 配件缺少 | Missing accessories | 付属品欠落 | 质检项描述，需根据品类、场景等具体判断。 |
-| 配件钥匙鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the accessory key are worn or missing; unable to confirm whether the manufacturing is original | アクセサリーの鍵の鑑定ポイントに磨り減り・不備があり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
+| 配件钥匙鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the accessory key are worn or missing; unable to confirm whether the manufacturing is original | アクセサリーの鍵の鑑定ポイントに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
 | 配件问题 | Accessory issues | アクセサリー関連問題 | 质检项描述，需根据品类、场景等具体判断。 |
 | 配件非原装 | Non-original accessories | 非純正部品 | 质检项描述，需根据品类、场景等具体判断。 |
 | 配件（赠品）问题 | Accessory (gift) issues | 付属品（景品）不良 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -3979,10 +3983,10 @@ Total unique terms: 4445
 | 重要待办 | To-Do | ToDo | 商家中心菜单栏 |
 | 重要配件 | Important accessories | 重要パーツ | 质检项描述，需根据品类、场景等具体判断。 |
 | 重量 | Weight | 重量 |  |
-| 金属件：磨损刮花划痕 | Metal parts: wear and tear, scratches, and abrasions | 金属部品の摩耗・擦り傷・傷 | 质检项描述，需根据品类、场景等具体判断。 |
+| 金属件：磨损刮花划痕 | Metal parts: wear and tear, scratches, and abrasions | 金属部品：磨り減り・擦り傷・擦過痕 | 质检项描述，需根据品类、场景等具体判断。 |
 | 金属氧化 | Metal oxidation | 金属の錆び | 质检项描述，需根据品类、场景等具体判断。 |
 | 金属纹路 | Metallic pattern | 金属模様 | 质检项描述，需根据品类、场景等具体判断。 |
-| 金属纹路/镀层瑕疵 | Metallic pattern/plating defects | 金属模様・メッキの欠陥 | 质检项描述，需根据品类、场景等具体判断。 |
+| 金属纹路/镀层瑕疵 | Metallic pattern/plating defects | 金属模様・メッキの不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 金属表带 | Metal watch band | メタルブレスレット | 质检项描述，需根据品类、场景等具体判断。 |
 | 金属铆钉-奢服 | Metal rivet - luxury apparel | 金属リベット（ラグジュアリーアパレル） | 质检项描述，需根据品类、场景等具体判断。 |
 | 金融服务 | Funding | ローン管理 | 商家后台，用于向商家提供融资的模块菜单名称 |
@@ -3994,19 +3998,19 @@ Total unique terms: 4445
 | 鉴别图 | Online authentication photo | 鑑別用画像 | 图片类别 |
 | 鉴别异常积压商品库存数 | Backlog Inventory_Caused by Authentication Exceptions | 鑑定異常によるバックログ在庫数 | 到货异常导致的目前积压商品库存数 |
 | 鉴别指南 | Authentication Guides | 鑑定ガイド | XBB H5，POIZON自建站页面的SEO文章集合下的文章类型入口名称 |
-| 鉴别点缺失，不支持鉴别 | Authentication points are missing; unable to authenticate | 鑑定ポイントに不備があり鑑定サポート対象外 | 质检项描述，需根据品类、场景等具体判断。 |
+| 鉴别点缺失，不支持鉴别 | Authentication points are missing; unable to authenticate | 鑑定ポイントに欠損あり鑑定サポート対象外 | 质检项描述，需根据品类、场景等具体判断。 |
 | 鉴别突破 | Authentication Breakthrough | 鑑定サポート申込 | 对于平台暂不支持鉴别的商品，商家可以发起请求支持鉴别 |
 | 鉴定 | Authentication | 鑑定 | 对商品进行鉴别真假的阶段，公司核心技术，是公司核心竞争力的体现。 鉴别方式分为线上鉴别和线下鉴别 线上鉴别：仓库作业人员拍照发布鉴别贴，NPI鉴别师根据鉴别图片判断商品真假，给出鉴别结果。 线下鉴别：PI鉴别师在仓库直接对商品进行鉴别，并给出鉴别结果。 鉴别是得物商品研究中心最重要的工作，是对商品求真的一种重要方式。对于鉴别师而言，在鉴别时应该避免跳级鉴定、谋取私利、四处炫耀等行为，同时鉴别师应多学习提升自己的业务能力与职业道德，对自己的鉴别结果负责。 |
 | 鉴定不通过率 | Authentication Failure Rate | QC不通過率 | 鉴定不通过订单数/支付单量 |
 | 鉴定为假 | Product is off | 鑑定結果：偽物 | 质检项描述，需根据品类、场景等具体判断。 |
-| 针孔/拆痕 | Pinholes/traces of being opened | 針穴・シワ跡 | 质检项描述，需根据品类、场景等具体判断。 |
-| 针孔、拆痕 | Pinholes, traces of being opened | 針穴・拆し跡 | 质检项描述，需根据品类、场景等具体判断。 |
+| 针孔/拆痕 | Pinholes/traces of being opened | 針穴、シワ跡 | 质检项描述，需根据品类、场景等具体判断。 |
+| 针孔、拆痕 | Pinholes, traces of being opened | 針穴、拆し跡 | 质检项描述，需根据品类、场景等具体判断。 |
 | 针尖 | Hand tip | 針先 | 质检项描述，需根据品类、场景等具体判断。 |
 | 针轴瑕疵 | Hands shaft defects | 軸部の不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 钉子头-奢配 | Nail head - luxury accessories | ジグヘッド（ラグジュアリーアクセサリー） | 质检项描述，需根据品类、场景等具体判断。 |
 | 钢印 | Stamp | 刻印 | 鉴别拍摄点位 |
 | 钢印信息遮挡 | Obscured steel stamp | 刻印情報遮蔽 | 质检项描述，需根据品类、场景等具体判断。 |
-| 钢印及其他标识瑕疵 | Steel stamp and other marking defects | 刻印・その他のマーク不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 钢印及其他标识瑕疵 | Steel stamp and other marking defects | 刻印・その他の表示の不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 钢印损毁 | Steel stamp damaged | 刻印破損 | 质检项描述，需根据品类、场景等具体判断。 |
 | 钥匙 | Key | 鍵 | 质检项描述，需根据品类、场景等具体判断。 |
 | 钥匙扣 | Keychains | キーホルダー | 鉴别前台类目 |
@@ -4017,13 +4021,13 @@ Total unique terms: 4445
 | 银行编号 | Bank code | 金融機関コード |  |
 | 银行许可证/合作方银行信息确认函 | Bank account confirmation letter | 銀行口座開設許可証/提携先銀行口座情報の確認書類 | 用于确认商家银行账户信息或合作方银行相关许可证明的文件，供卖家在业务开展及内部流程中使用。 |
 | 银行转账凭证 | Transfer receipt | 送金証明書 | 用于证明银行账户之间资金转账行为已完成的书面凭证，通常包含转账金额、转账时间、付款方和收款方账户信息等内容，供卖家进行资金管理相关操作及内部核对使用。 |
-| 链接扣鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the link pin are worn or missing; unable to confirm whether the manufacturing is original | リンクバックルの鑑定ポイントに磨り減り・不備があり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
+| 链接扣鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the link pin are worn or missing; unable to confirm whether the manufacturing is original | リンクバックルの鑑定ポイントに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
 | 链条&龙虾扣 | Chain & lobster clasp | チェーン＆ロブスタークラスプ | 质检项描述，需根据品类、场景等具体判断。 |
 | 链条-奢配 | Chain - luxury accessories | チェーン（ラグジュアリーアクセサリー） | 质检项描述，需根据品类、场景等具体判断。 |
 | 链条金属球 | Metal bead on the chain | 金属ボールチェーン | 质检项描述，需根据品类、场景等具体判断。 |
-| 链条鉴别点磨损缺失 | Authentication points on the chain are worn or missing | チェーン鑑定ポイント摩損・不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 链条鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the chain are worn or missing; unable to confirm whether the manufacturing is original | チェーン鑑定ポイント：摩耗・欠落によるオリジナル仕上がり確認不可 | 质检项描述，需根据品类、场景等具体判断。 |
-| 链珠鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the chain beads are worn or missing; unable to confirm whether the manufacturing is original | チェーン鑑定ポイント：摩耗・欠落によるオリジナル仕上がり確認不可 | 质检项描述，需根据品类、场景等具体判断。 |
+| 链条鉴别点磨损缺失 | Authentication points on the chain are worn or missing | チェーン鑑定ポイントに磨り減り・欠損あり | 质检项描述，需根据品类、场景等具体判断。 |
+| 链条鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the chain are worn or missing; unable to confirm whether the manufacturing is original | チェーン鑑定ポイントに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
+| 链珠鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the chain beads are worn or missing; unable to confirm whether the manufacturing is original | チェーン鑑定ポイントに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
 | 销售 | Sales | 販売 | 商品在平台成功销售至客户 |
 | 销售地区 | Sales Region | 販売エリア | 维度/类目枚举值 |
 | 销售形式 | Fulfillment Method | 販売方法 | 维度/类目枚举值 |
@@ -4045,11 +4049,11 @@ Total unique terms: 4445
 | 镜子 | Mirror | ミラー | 质检项描述，需根据品类、场景等具体判断。 |
 | 镜架 | Eyeglasses frame | メガネフレーム | 质检项描述，需根据品类、场景等具体判断。 |
 | 镜片 | Lens | レンズ | 质检项描述，需根据品类、场景等具体判断。 |
-| 镜片划痕 | Lens scratches | レンズに傷 | 质检项描述，需根据品类、场景等具体判断。 |
+| 镜片划痕 | Lens scratches | レンズの擦過痕 | 质检项描述，需根据品类、场景等具体判断。 |
 | 镭射标 | Laser mark | レーザーラベル | 鉴别拍摄点位 |
 | 镶嵌物无法确认是否原装 | Unable to confirm whether the inlays are original | 象嵌素材が純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
 | 镶嵌物污渍 | Inlays stained | 象嵌素材の汚れ | 质检项描述，需根据品类、场景等具体判断。 |
-| 镶嵌物鉴别点磨损缺失 | Inlay authentication points are worn or missing | 象嵌素材の鑑定ポイントに磨り減り・不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 镶嵌物鉴别点磨损缺失 | Inlay authentication points are worn or missing | 象嵌素材の鑑定ポイントに磨り減り・欠損あり | 质检项描述，需根据品类、场景等具体判断。 |
 | 长尾 | Long Tail | ロングテール | 指那些需求量小、销售频率低，但种类繁多的产品或服务 |
 | 长款 | Long | ロング丈 | 加长版本 |
 | 长短不一 | Inconsistent lengths | 長さが不揃い | 质检项描述，需根据品类、场景等具体判断。 |
@@ -4076,8 +4080,8 @@ Total unique terms: 4445
 | 防尘袋 | Dust bag | ダストバッグ | 商品防尘袋 |
 | 防尘袋-奢鞋 | Dust bag - luxury shoes | ダストバッグ（ラグジュアリーシューズ） | 质检项描述，需根据品类、场景等具体判断。 |
 | 防尘袋增值服务费 | Dust bag fee | ダストバッグ追加サービス料 | 应商家要求放入防尘袋等 |
-| 防尘袋开线/抽丝 | Loose stitches/snags (dust bag) | ダストバッグほつれ・ほころび | 质检项描述，需根据品类、场景等具体判断。 |
-| 防尘袋染色 | Dust bag dyes | ダストバッグ染み | 质检项描述，需根据品类、场景等具体判断。 |
+| 防尘袋开线/抽丝 | Loose stitches/snags (dust bag) | ダストバッグほつれ/糸引き | 质检项描述，需根据品类、场景等具体判断。 |
+| 防尘袋染色 | Dust bag dyes | ダストバッグ色移り | 质检项描述，需根据品类、场景等具体判断。 |
 | 防尘袋污渍 | Dust bag stains | ダストバッグ汚れ | 质检项描述，需根据品类、场景等具体判断。 |
 | 防尘袋破损 | Damaged dust bag | ダストバッグ破損 | 质检项描述，需根据品类、场景等具体判断。 |
 | 防尘袋缺失 | Missing dust bag | ダストバッグ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -4117,10 +4121,10 @@ Total unique terms: 4445
 | 雨衣 | Raincoat | レインコート | 质检项描述，需根据品类、场景等具体判断。 |
 | 雪茄 | Cigars | 葉巻・シガー | 鉴别前台类目 |
 | 雪镜 | Snow Goggle | スノーボード・スキーゴーグル | 鉴别拍摄点位 |
-| 零件/商品磨损 | Parts/Product wear and tear | 部品・商品の磨り減り | 质检项描述，需根据品类、场景等具体判断。 |
+| 零件/商品磨损 | Parts/Product wear and tear | 部品/商品の磨り減り | 质检项描述，需根据品类、场景等具体判断。 |
 | 零件松动&做工瑕疵 | Loose parts & manufacturing defects | 部品の緩み/仕上がり不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 零件松动/工艺瑕疵 | Loose parts/manufacturing defects | 部品の緩み/製造上の不良箇所 | 质检项描述，需根据品类、场景等具体判断。 |
-| 零件缺失 | Missing parts | 部品不足 | 质检项描述，需根据品类、场景等具体判断。 |
+| 零件缺失 | Missing parts | 部品欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 零件脱落 | Detached parts | 部品の欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 零售 | Retail | 小売 | 竞对参考 |
 | 零售价 | Retail price | 小売価格 | 新商品上市时的官方零售价 |
@@ -4167,7 +4171,7 @@ Total unique terms: 4445
 | 非原装子包 | Non-original pouch | 非純正サブバッグ | 质检项描述，需根据品类、场景等具体判断。 |
 | 非原装封膜 | Non-original protective film | 非純正ラップフィルム | 质检项描述，需根据品类、场景等具体判断。 |
 | 非原装工具 | Non-original toolkit | 非純正ツール | 质检项描述，需根据品类、场景等具体判断。 |
-| 非原装底壳 | Non-original case back | 非純正の底面ケース | 质检项描述，需根据品类、场景等具体判断。 |
+| 非原装底壳 | Non-original case back | 非純正の裏蓋 | 质检项描述，需根据品类、场景等具体判断。 |
 | 非原装指针 | Non-original pointer | 非純正の指針 | 质检项描述，需根据品类、场景等具体判断。 |
 | 非原装毛领 | Non-original fur collar | 非純正ファー襟 | 质检项描述，需根据品类、场景等具体判断。 |
 | 非原装特殊鞋盒 | Non-original special shoe box | 非純正専用特殊シューズボックス | 质检项描述，需根据品类、场景等具体判断。 |
@@ -4188,7 +4192,7 @@ Total unique terms: 4445
 | 非原装表梢 | Non-original watch pin | 非純正バネ棒 | 质检项描述，需根据品类、场景等具体判断。 |
 | 非原装表盒 | Non-original watch box | 非純正ウォッチボックス | 质检项描述，需根据品类、场景等具体判断。 |
 | 非原装表盘 | Non-original dial plate | 非純正の文字盤 | 质检项描述，需根据品类、场景等具体判断。 |
-| 非原装表镜 | Non-original crystal | 非純正の腕時計ガラス | 质检项描述，需根据品类、场景等具体判断。 |
+| 非原装表镜 | Non-original crystal | 非純正の風防ガラス | 质检项描述，需根据品类、场景等具体判断。 |
 | 非原装说明书 | Non-original user manual | 非純正の説明書 | 质检项描述，需根据品类、场景等具体判断。 |
 | 非原装调节扣 | Non-original adjustable buckle | 非純正のアジャスタブルバックル | 质检项描述，需根据品类、场景等具体判断。 |
 | 非原装调节环 | Non-original regulating ring | 非純正の調整リング | 质检项描述，需根据品类、场景等具体判断。 |
@@ -4240,8 +4244,8 @@ Total unique terms: 4445
 | 非常规鉴别单量 | Order Volume_Authentication Waiver (for specified brands/categories) | 特例鑑定オーダー数 | 有鉴别结果，鉴别类型属于：非常规鉴别、非常规质检鉴别、免开箱的订单数 |
 | 非常规鉴别对应的商品数量 | SPU Qty_Authentication Waiver (for specified brands/categories) | 特例鑑定対象商品数 | 有鉴别结果，鉴别类型属于：非常规鉴别、非常规质检鉴别、免开箱的spu数 |
 | 非常规鉴定占比 | Rate of Authentication Waiver (for specified brand/categories) | 特例鑑定の割合 | 非常规鉴定订单量/支付订单量 |
-| 非明显面 | Non-obvious side | 非表示面 | 质检项描述，需根据品类、场景等具体判断。 |
-| 非明显面（底/内） | Non-obvious surfaces (bottom/inside) | 非可視面（底面/内部） | 质检项描述，需根据品类、场景等具体判断。 |
+| 非明显面 | Non-obvious side | 目立たない面 | 质检项描述，需根据品类、场景等具体判断。 |
+| 非明显面（底/内） | Non-obvious surfaces (bottom/inside) | 目立たない部分（底面、裏面） | 质检项描述，需根据品类、场景等具体判断。 |
 | 非有效露出 | Visible but uncompetitive | より競争力のある価格に調整 | 出价场景快速筛选项，筛选当前出价中处于”非有效露出“的出价。国际非保税场景中，露出就是直接抢到坑位了，有效露出是比抢到坑位更低。因为国际很多卖家履约时间太长，就算坑位露出，不一定能吸引消费者下单。需要降得更低去弥补时效劣势。 |
 | 非标 | Fashion Category | 非規格品 | 维度/类目枚举值 |
 | 非标-奢品 | Fashion Category - Luxury | 非規格品－ラグジュアリー | 维度/类目枚举值 |
@@ -4269,7 +4273,7 @@ Total unique terms: 4445
 | 鞋垫与鞋不配套 | The insoles do not match the shoes | インソールとシューズが不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋垫无法拔出 | Insole cannot be removed | インソールが抜けない | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋垫瑕疵 | Insole defects | インソールの不良 | 质检项描述，需根据品类、场景等具体判断。 |
-| 鞋垫缺失 | Missing insole | インソール不備 | 质检项描述，需根据品类、场景等具体判断。 |
+| 鞋垫缺失 | Missing insole | インソール欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋头 | Toe cap | つま先部分 | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋头-奢鞋 | Toe box - luxury shoes | つま先部分（ラグジュアリーシューズ） | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋子缺失 | Missing shoe | シューズ欠落 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -4277,9 +4281,9 @@ Total unique terms: 4445
 | 鞋带 | Shoelace | 靴ひも | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋带-奢鞋 | Shoelaces - luxury shoes | 靴ひも（ラグジュアリーシューズ） | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋带头变形 | Shoelace top deformation | 靴ひもの先端変形 | 质检项描述，需根据品类、场景等具体判断。 |
-| 鞋带孔 | Eyelets | 靴ひも穴 | 质检项描述，需根据品类、场景等具体判断。 |
-| 鞋带孔-奢鞋 | Eyelets - luxury shoes | ハトメ（ラグジュアリーシューズ） | 质检项描述，需根据品类、场景等具体判断。 |
-| 鞋带孔数量不一 | Inconsistent number of eyelets | ハトメ数違い（左右不一致） | 质检项描述，需根据品类、场景等具体判断。 |
+| 鞋带孔 | Eyelets | アイレット | 质检项描述，需根据品类、场景等具体判断。 |
+| 鞋带孔-奢鞋 | Eyelets - luxury shoes | アイレット（ラグジュアリーシューズ） | 质检项描述，需根据品类、场景等具体判断。 |
+| 鞋带孔数量不一 | Inconsistent number of eyelets | アイレット数違い（左右不一致） | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋带扣 | Shoelace lock | シューレースロック | 鞋带装饰扣 |
 | 鞋底 | Outsole | アウトソール | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋底-奢鞋 | Outsole - luxury shoes | アウトソール（ラグジュアリーシューズ） | 质检项描述，需根据品类、场景等具体判断。 |
@@ -4289,27 +4293,27 @@ Total unique terms: 4445
 | 鞋标污损 | Stained shoe label | シューズラベル汚損 | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋标瑕疵 | Size label defects | シューズラベル不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋标破损 | Size label damaged | シューズラベル破損 | 质检项描述，需根据品类、场景等具体判断。 |
-| 鞋标磨损/涂改 | Worn/altered shoe label | 靴ラベルの磨耗/落書き | 质检项描述，需根据品类、场景等具体判断。 |
-| 鞋标（尺码标）-奢鞋 | Shoe label (size label) - luxury shoes | シューズのサイズタグ（ラグジュアリーシューズ） | 质检项描述，需根据品类、场景等具体判断。 |
-| 鞋楦宽度 | Shoe width | 足の横幅 | 仅限用于商品用户评论Reviews发布时会展示可供勾选的标签，按商品类目会有不同对应展示。请参考：[‌‍‍‬‌‌‍‍‍﻿⁠‬⁠﻿‍‍‍⁠‌‍‌‬⁠‍PRD-311667_Reviews发布链路优化_标签配置_翻译需求 - 飞书云文档](https://poizon.feishu.cn/wiki/KxQRw5NJQirT1BkHSXhcaqCZnWg?sheet=FGovl4) |
+| 鞋标磨损/涂改 | Worn/altered shoe label | 靴ラベルの磨り減り/落書き | 质检项描述，需根据品类、场景等具体判断。 |
+| 鞋标（尺码标）-奢鞋 | Shoe label (size label) - luxury shoes | シューズのサイズラベル（ラグジュアリーシューズ） | 质检项描述，需根据品类、场景等具体判断。 |
+| 鞋楦宽度 | Shoe width | ラスト幅 | 仅限用于商品用户评论Reviews发布时会展示可供勾选的标签，按商品类目会有不同对应展示。请参考：[‌‍‍‬‌‌‍‍‍﻿⁠‬⁠﻿‍‍‍⁠‌‍‌‬⁠‍PRD-311667_Reviews发布链路优化_标签配置_翻译需求 - 飞书云文档](https://poizon.feishu.cn/wiki/KxQRw5NJQirT1BkHSXhcaqCZnWg?sheet=FGovl4) |
 | 鞋盒 | Shoe Box | シューズボックス | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋盒-奢鞋 | Shoe box - luxury shoes | シューズボックス（ラグジュアリーシューズ） | 质检项描述，需根据品类、场景等具体判断。 |
-| 鞋盒中度划痕 | Shoe box with moderate scratches | シューズボックスに傷（中程度） | 质检项描述，需根据品类、场景等具体判断。 |
+| 鞋盒中度划痕 | Shoe box with moderate scratches | シューズボックスの擦過痕（中程度） | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋盒侧标 | Shoebox label | シューズボックスサイドラベル | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋盒侧标遮盖/涂改 | Covered/altered shoebox label | シューズボックスのサイドラベルの遮蔽/改ざん | 质检项描述，需根据品类、场景等具体判断。 |
-| 鞋盒侧标遮盖/涂改/缺失 | Shoe box side label covered/altered/missing | シューズボックスのサイドラベルの遮蔽・改ざん・欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 鞋盒侧标遮盖/涂改/缺失 | Shoe box side label covered/altered/missing | シューズボックスのサイドラベルの遮蔽/改ざん/欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋盒压痕 | Shoe box indentations | シューズボックスの圧痕 | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋盒合格证 | Shoe box conformity certificate | シューズボックス品質証明書 | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋盒套 | Shoe box sleeve | シューズボックスカバー | 鞋盒外层套盒 |
-| 鞋盒标签瑕疵 | Shoe box label defective | シューズボックスのタグに不良 | 质检项描述，需根据品类、场景等具体判断。 |
-| 鞋盒标签缺失 | Missing shoe box label | シューズボックスラベル不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 鞋盒涂鸦/污渍 | Shoebox marks/stain | シューズボックスの落書き・汚れ | 质检项描述，需根据品类、场景等具体判断。 |
+| 鞋盒标签瑕疵 | Shoe box label defective | シューズボックスのラベル不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 鞋盒标签缺失 | Missing shoe box label | シューズボックスラベル欠落 | 质检项描述，需根据品类、场景等具体判断。 |
+| 鞋盒涂鸦/污渍 | Shoebox marks/stain | シューズボックスの落書き/汚れ | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋盒破损 | Damaged shoe box | シューズボックス破損 | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋盒破洞 | Shoe box holes | シューズボックス破損 | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋盒破皮 | Shoe box torn | シューズボックス破れ | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋盒缺失 | Missing shoe box | シューズボックス欠落 | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋盒裂口 | Shoe box cracks | シューズボックスひび割れ | 质检项描述，需根据品类、场景等具体判断。 |
-| 鞋盒重度划痕 | Shoe box severe scratches | シューズボックスに傷（重度） | 质检项描述，需根据品类、场景等具体判断。 |
+| 鞋盒重度划痕 | Shoe box severe scratches | シューズボックスの擦過痕（重度） | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋舌 | Shoe tongue | シュータン | 鉴别拍摄点位 |
 | 鞋舌-奢鞋 | Tongue - luxury shoes | シュータン（ラグジュアリーシューズ） | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋跟变形 | Heel deformation | シューズのかかと部変形 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -4318,7 +4322,7 @@ Total unique terms: 4445
 | 鞋身外侧 | Lateral Quarter | シューズ外側 | 鞋身鞋帮的外侧部分，鉴别拍摄点位。上下文已有鉴别鞋，不用重复表达Shoe/Sneaker |
 | 鞋边 | Welt | シューズの縁 | 质检项描述，需根据品类、场景等具体判断。 |
 | 鞋边-奢鞋 | Shoe edge - luxury shoes | シューズの側面（ラグジュアリーシューズ） | 质检项描述，需根据品类、场景等具体判断。 |
-| 鞋面 | Upper | シューズの表面 | 质检项描述，需根据品类、场景等具体判断。 |
+| 鞋面 | Upper | アッパー | 质检项描述，需根据品类、场景等具体判断。 |
 | 韩国 | KR | 韓国 | 缩写 |
 | 韩国佳佐洞仓 | KR Warehouse (Gajwa-dong) | 韓国佳佐洞倉庫 | 韩国仓名 |
 | 韩国国税 | National Tax Service (Republic of Korea) | 韓国国税 | National Tax Service (Republic of Korea)，韩国国税。用于进出口场景。 |
@@ -4333,7 +4337,7 @@ Total unique terms: 4445
 | 韵达国际 | UDA International | UDA Logistics | 物流承运商名称，以官网名称为准 |
 | 页面价 | Buy box | ページ表示価格 | 一般指竞对平台前端显示的当前页面价格。 |
 | 顶盖凹陷 | Top cover dents | 蓋の凹み | 质检项描述，需根据品类、场景等具体判断。 |
-| 顶盖划痕 | Top cover scratches | 蓋に傷 | 质检项描述，需根据品类、场景等具体判断。 |
+| 顶盖划痕 | Top cover scratches | 蓋の擦過痕 | 质检项描述，需根据品类、场景等具体判断。 |
 | 顶盖掉漆 | Top cover paint peeling | 蓋の塗装剥がれ | 质检项描述，需根据品类、场景等具体判断。 |
 | 顶盖污渍 | Top cover stains | 蓋の汚れ | 质检项描述，需根据品类、场景等具体判断。 |
 | 顶盖瑕疵 | Top cover defects | 蓋に不良箇所あり | 质检项描述，需根据品类、场景等具体判断。 |
@@ -4364,7 +4368,7 @@ Total unique terms: 4445
 | 预计离港时间 | Estimated time of departure | 出港予定日 | 预计货物离开港口的时间 |
 | 预计起飞时间 | Estimated takeoff time | 離陸予定日 | 指航班计划从出发地机场起飞的预计时间，是物流运输中航班行程安排的重要参考信息。 |
 | 预质检 | Pre-QC | 事前品質検査 | 功能名称。质检和退货问题是法国贸易商的共性问题，欧洲大部分商家为见单采商家，整体履约率大概是40%~50%。 受贸易商与上游的退货规则影响，如产生退货，需在两周内进行退货，同时退货数量过多会影响后续拿货额度。因此，导致大量贸易商前置判断商品瑕疵问题不上架或不发货； 针对现货订单（尤其是知瑕卖瑕），有一些商品是轻微瑕疵，通过预制检的方式判断能不能通过仓库的质检，避免说到仓库之间不通过退货 |
-| 领 | Collar | 衿 | 质检项描述，需根据品类、场景等具体判断。 |
+| 领 | Collar | 襟 | 质检项描述，需根据品类、场景等具体判断。 |
 | 领取 | ‌Claim | 獲得 | XBB用户抽奖页活动UI |
 | 领口 | Collar | 襟 | 质检项描述，需根据品类、场景等具体判断。 |
 | 领子设计 | Collar style | 襟デザイン | 仅限用于商品用户评论Reviews发布时会展示可供勾选的标签，按商品类目会有不同对应展示。请参考：[‌‍‍‬‌‌‍‍‍﻿⁠‬⁠﻿‍‍‍⁠‌‍‌‬⁠‍PRD-311667_Reviews发布链路优化_标签配置_翻译需求 - 飞书云文档](https://poizon.feishu.cn/wiki/KxQRw5NJQirT1BkHSXhcaqCZnWg?sheet=FGovl4) |
@@ -4374,7 +4378,7 @@ Total unique terms: 4445
 | 颜色 | Color | カラー | 鉴别拍摄点位 |
 | 颜色不符 | Color does not match order details | 色不一致 | 质检项描述，需根据品类、场景等具体判断。 |
 | 颜色核对 | Color verification | カラー確認 | 核对颜色信息 |
-| 颜色瑕疵 | Color defects | カラーに不良 | 质检项描述，需根据品类、场景等具体判断。 |
+| 颜色瑕疵 | Color defects | カラーの不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 颜色缺失 | Missing color | 色落ち | 质检项描述，需根据品类、场景等具体判断。 |
 | 额度紧张 | Almost Gone | 残りわずか | 新人专区限时折扣抢券活动的UI界面，券剩余可领取张数很少的标签 |
 | 风嘴 | Nozzle | ノズル | 质检项描述，需根据品类、场景等具体判断。 |
@@ -4387,7 +4391,7 @@ Total unique terms: 4445
 | 餐厨线 | Kitchen & Dining | キッチン＆ダイニング | 维度/类目枚举值 |
 | 饮料 | Beverage | 飲料 | 指经过加工制造供人饮用的液体，如茶、咖啡、果汁、汽水等。 |
 | 饰物缝合不良，饰物错位 | Poor embellishment stitching or misalignment | 装飾品の縫製不良・位置ずれ | 质检项描述，需根据品类、场景等具体判断。 |
-| 饼体/膏体瑕疵 | Powder/cream defect | パウダー/クリームの不良箇所 | 质检项描述，需根据品类、场景等具体判断。 |
+| 饼体/膏体瑕疵 | Powder/cream defect | パウダー・クリームの不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 饼体瑕疵 | Powder defects | パウダーの不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 首单奖励 | First order bonus | 初回オーダー特典 | 裂变活动中的利益点，用户分享的好友首单完成后奖励 |
 | 首次出价sku数 | SKU Qty_First Listing | 初出品SKU数 | 国际首次有卖家出价的sku数 |
@@ -4411,7 +4415,7 @@ Total unique terms: 4445
 | 驳回待修改 | Revision Required | 差戻し（修正待ち） | 保税退货管理模块的出库单状态 |
 | 驳回待重建 | Re-initiate Required | 差戻し（再作成待ち） | 保税退货管理模块的出库单状态 |
 | 验证码 | Verification code | 認証コード | 用于验证用户身份或操作合法性的一串字符或数字，通常通过短信、邮件或应用内弹窗等方式发送给用户，用户需正确输入以完成验证流程。 |
-| 验酒器缺失/无法使用 | Missing/non-functional alcohol tester | タストヴァン欠落・使用不可 | 质检项描述，需根据品类、场景等具体判断。 |
+| 验酒器缺失/无法使用 | Missing/non-functional alcohol tester | タストヴァン欠落/使用不可 | 质检项描述，需根据品类、场景等具体判断。 |
 | 骑行运动 | Cycling Sports | サイクリング |  |
 | 高价 | Price Non-Competitive | 価格劣位 | 商品价格力内部表达方式，价劣SKU，表示与竞对相比，平台价格较竞对偏高的SKU |
 | 高价gmv占比 | GMV Proportion_Non-Competitive SKU | 他チャネルにも出品のある高価格SKUのGMV割合 | 共有高价sku的国际gmv/共有sku的国际gmv = 共有高价sku的国际gmv/（高/平/低价国际gmv总和） |
@@ -4423,6 +4427,7 @@ Total unique terms: 4445
 | 高利润榜 | Most Profitable | 収益性ランキング | 商机模块中的高利润商品榜单，按折扣率倒序排列并剔除近一个月订单数低于阈值的商品，用于展示平台高利润商品。 |
 | 高奢 | High-end luxury | ハイエンド品 |  |
 | 高机会商品 | High potential | よく売れている商品 | 白名单商品：SKU隶属于抢坑任务重点商品；商品列表T+1数仓回流 重点商品定义：496个品牌象限内 且 近7天销量≥20 且 未被业务逻辑剔除（如定制等） 针对白名单内的商品，统一打标出价诊断为「高机会商品」； |
+| 高热新品 | Hot New Arrivals | 人気新品 | 商家后台，大盘数据模块中的”拓供方向“枚举值，和运营任务系统中保持一致。 |
 | 高珠 | High jewelry | ハイジュエリー | 质检项描述，需根据品类、场景等具体判断。 |
 | 高端 | High-End | ハイエンド | 维度/类目枚举值 |
 | 高街 | Premium Streetwear | 高級ストリートファッション | 维度/类目枚举值 |
@@ -4430,7 +4435,7 @@ Total unique terms: 4445
 | 高调性 | High Profile | ハイエンド感 | 维度/类目枚举值 |
 | 高需求 | high demand | 売れ筋商品 | 平台当前高求购需求的商品 |
 | 魔术贴 | Velcro | マジックテープ | 质检项描述，需根据品类、场景等具体判断。 |
-| 魔术贴/logo | Velcro/logo | マジックテープ・ロゴ | 质检项描述，需根据品类、场景等具体判断。 |
+| 魔术贴/logo | Velcro/logo | マジックテープ/ロゴ | 质检项描述，需根据品类、场景等具体判断。 |
 | 魔术贴功能失效 | Velcro malfunction | マジックステッカーの不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 魔术贴瑕疵 | Velcro defects | マジックテープ不良 | 质检项描述，需根据品类、场景等具体判断。 |
 | 魔术贴错位 | Misaligned velcro | マジックテープ位置不良 | 质检项描述，需根据品类、场景等具体判断。 |
@@ -4451,5 +4456,5 @@ Total unique terms: 4445
 | 鼻托 | Nose pad | 鼻パッド | 质检项描述，需根据品类、场景等具体判断。 |
 | 龙虾扣 | Lobster clasp | ロブスタークラスプ | 金属扣件 |
 | 龙虾扣-奢配 | Lobster clasp - luxury accessories | ロブスタークラスプ（ラグジュアリーアクセサリー） | 质检项描述，需根据品类、场景等具体判断。 |
-| 龙虾扣鉴别点磨损缺失 | Authentication points on the lobster clasp are worn or missing | ロブスタークラスプの鑑定に磨り減り・不備 | 质检项描述，需根据品类、场景等具体判断。 |
-| 龙虾扣鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the lobster clasp are worn or missing; unable to confirm whether the manufacturing is original | ロブスタークラスプの鑑定ポイントに磨り減り・不備があり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
+| 龙虾扣鉴别点磨损缺失 | Authentication points on the lobster clasp are worn or missing | ロブスタークラスプの鑑定に磨り減り・欠損あり | 质检项描述，需根据品类、场景等具体判断。 |
+| 龙虾扣鉴别点磨损缺失、无法确认工艺是否为原装 | Authentication points at the lobster clasp are worn or missing; unable to confirm whether the manufacturing is original | ロブスタークラスプの鑑定ポイントに磨り減り・欠損あり純正かどうか確認不能 | 质检项描述，需根据品类、场景等具体判断。 |
